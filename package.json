@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "fetch": "tsx scripts/fetch-krx.ts"
+    "fetch": "tsx scripts/fetch-krx.ts",
+    "fetch:us": "tsx scripts/fetch-us.ts",
+    "fetch:all": "npm run fetch && npm run fetch:us"
   },
   "devDependencies": {
     "tsx": "^4.19.0",

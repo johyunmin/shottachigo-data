@@ -27,14 +27,17 @@ jobs:
           KRX_API_KEY: ${{ secrets.KRX_API_KEY }}
         run: npm run fetch
 
+      - name: Fetch US data (no auth)
+        run: npm run fetch:us
+
       - name: Commit if changed
         run: |
-          git config user.name 'krx-bot'
-          git config user.email 'krx-bot@users.noreply.github.com'
-          git add data/krx-stocks.json
+          git config user.name 'data-bot'
+          git config user.email 'data-bot@users.noreply.github.com'
+          git add data/krx-stocks.json data/us-stocks.json
           if git diff --cached --quiet; then
             echo "변경 없음 — skip"
           else
-            git commit -m "chore: refresh KRX data ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: refresh data ($(date -u +%Y-%m-%d))"
             git push
           fi
