@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-25T20:09:28.721Z",
-  "count": 12649,
+  "fetchedAt": "2026-05-26T20:29:37.317Z",
+  "count": 12643,
   "stocks": [
     {
       "ticker": "AACB",
@@ -4845,20 +4845,8 @@
       "isEtf": true
     },
     {
-      "ticker": "BTM",
-      "name": "Bitcoin Depot Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BTMD",
       "name": "Biote Corp. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BTMWW",
-      "name": "Bitcoin Depot Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -12111,24 +12099,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GIG",
-      "name": "GigCapital7 Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GIGGU",
-      "name": "GigCapital7 Corp. - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GIGGW",
-      "name": "GigCapital7 Corp. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GIGM",
       "name": "GigaMedia Limited -",
       "market": "NASDAQ",
@@ -12280,13 +12250,13 @@
     },
     {
       "ticker": "GLIBA",
-      "name": "GCI Liberty, Inc. - Series A GCI Group",
+      "name": "Liberty Capital Corporation - Series A GCI Group",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "GLIBK",
-      "name": "GCI Liberty, Inc. - Series C GCI Group",
+      "name": "Liberty Capital Corporation - Series C GCI Group",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13277,6 +13247,18 @@
     {
       "ticker": "HDL",
       "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "HDRN",
+      "name": "Hadron Energy, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "HDRNW",
+      "name": "Hadron Energy, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20429,12 +20411,6 @@
     {
       "ticker": "NRXP",
       "name": "NRX Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NRXPW",
-      "name": "NRX Pharmaceuticals, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30155,12 +30131,6 @@
     {
       "ticker": "USGO",
       "name": "U.S. GoldMining Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "USGOW",
-      "name": "U.S. GoldMining Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -46073,12 +46043,6 @@
     {
       "ticker": "FCRS.W",
       "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "FCRX",
-      "name": "Crescent Capital BDC, Inc. 5.00% Notes due 2026",
       "market": "NYSE",
       "isEtf": false
     },
