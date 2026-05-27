@@ -1,7 +1,7 @@
 {
-  "basDt": "20260522",
-  "fetchedAt": "2026-05-26T20:29:35.877Z",
-  "count": 4521,
+  "basDt": "20260526",
+  "fetchedAt": "2026-05-27T20:33:53.958Z",
+  "count": 4517,
   "stocks": [
     {
       "ticker": "900110",
@@ -24172,12 +24172,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "510016",
-      "name": "대신 천연가스 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "510027",
       "name": "대신 인버스 2X 코스닥 150 선물 ETN",
       "market": "KOSPI",
@@ -25230,24 +25224,6 @@
     {
       "ticker": "570023",
       "name": "한투 인버스2XS&P500선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580019",
-      "name": "KB 인버스 2X 항셍테크 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580020",
-      "name": "KB 천연가스 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580021",
-      "name": "KB 인버스 천연가스 선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },

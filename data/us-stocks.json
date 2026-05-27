@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-26T20:29:37.317Z",
-  "count": 12643,
+  "fetchedAt": "2026-05-27T20:33:54.789Z",
+  "count": 12655,
   "stocks": [
     {
       "ticker": "AACB",
@@ -843,12 +843,6 @@
       "isEtf": false
     },
     {
-      "ticker": "AGAE",
-      "name": "Allied Gaming & Entertainment Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "AGCC",
       "name": "Agencia Comercial Spirits Ltd -",
       "market": "NASDAQ",
@@ -1019,6 +1013,12 @@
     {
       "ticker": "AIDX",
       "name": "20/20 Biolabs, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AIFA",
+      "name": "All In FutureTech Alliance, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5399,6 +5399,24 @@
     {
       "ticker": "CCAP",
       "name": "Crescent Capital BDC, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CCAQ",
+      "name": "Collective Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CCAQU",
+      "name": "Collective Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CCAQW",
+      "name": "Collective Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15195,24 +15213,6 @@
       "isEtf": false
     },
     {
-      "ticker": "IPOD",
-      "name": "Dune Acquisition Corporation II -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPODU",
-      "name": "Dune Acquisition Corporation II - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPODW",
-      "name": "Dune Acquisition Corporation II - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "IPSC",
       "name": "Century Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -18923,6 +18923,12 @@
     {
       "ticker": "MQQQ",
       "name": "Tradr 2X Long Innovation 100 Monthly ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "MRA",
+      "name": "GraniteShares Autocallable MARA ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -23625,6 +23631,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PWRL",
+      "name": "Powerlaw Corp.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PXI",
       "name": "Invesco Dorsey Wright Energy Momentum ETF",
       "market": "NASDAQ",
@@ -25801,6 +25813,12 @@
       "name": "Starbucks Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "SCA",
+      "name": "GraniteShares Autocallable SMCI ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "SCAG",
@@ -38001,6 +38019,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BROL",
+      "name": "Baron Risk Optimized Large Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BROS",
       "name": "Dutch Bros Inc. Class A",
       "market": "NYSE",
@@ -38153,6 +38177,12 @@
     {
       "ticker": "BTCO",
       "name": "Invesco Galaxy Bitcoin ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BTCU",
+      "name": "Direxion Daily Bitcoin Bull 2X ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -42441,6 +42471,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DGAC.U",
+      "name": "Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "DGAP",
       "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - April",
       "market": "NYSE",
@@ -45483,6 +45519,12 @@
       "isEtf": true
     },
     {
+      "ticker": "EVMU",
+      "name": "Direxion Daily Ether Bull 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "EVN",
       "name": "Eaton Vance Municipal Income Trust",
       "market": "NYSE",
@@ -46205,6 +46247,18 @@
     {
       "ticker": "FDX",
       "name": "FedEx Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FDX.V",
+      "name": "FedEx Corporation Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FDXF.V",
+      "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -59386,7 +59440,7 @@
     },
     {
       "ticker": "NL",
-      "name": "NL Industries, Inc.",
+      "name": "NLI Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -60167,6 +60221,12 @@
     {
       "ticker": "NVRI",
       "name": "Enviri Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "NVRI.V",
+      "name": "Enviri Corporation Common Stock When-Issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -61015,6 +61075,12 @@
       "name": "Oshkosh Corporation (Holding Company)Common Stock",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "OSSL",
+      "name": "Defiance Daily Target 2X Long OSS ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "OSTX",
@@ -71673,6 +71739,12 @@
       "isEtf": true
     },
     {
+      "ticker": "UGLD",
+      "name": "Direxion Daily Gold Bull 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UGP",
       "name": "Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)",
       "market": "NYSE",
@@ -72179,6 +72251,12 @@
     {
       "ticker": "USLN",
       "name": "iShares Broad USD Floating Rate Loan ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "USLV",
+      "name": "Direxion Daily Silver Bull 2X ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73255,12 +73333,6 @@
       "name": "Virtus Real Asset Income ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "VRE",
-      "name": "Veris Residential, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "VRP",
