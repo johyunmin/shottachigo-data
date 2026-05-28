@@ -1,7 +1,7 @@
 {
-  "basDt": "20260526",
-  "fetchedAt": "2026-05-27T20:33:53.958Z",
-  "count": 4517,
+  "basDt": "20260527",
+  "fetchedAt": "2026-05-28T20:43:38.597Z",
+  "count": 4535,
   "stocks": [
     {
       "ticker": "900110",
@@ -18694,6 +18694,18 @@
       "kind": "etf"
     },
     {
+      "ticker": "0192L0",
+      "name": "RISE SK하이닉스단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0192M0",
+      "name": "RISE 삼성전자단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0192S0",
       "name": "SOL 코스피200채권혼합50",
       "market": "KOSPI",
@@ -18714,6 +18726,90 @@
     {
       "ticker": "0193G0",
       "name": "KoAct 코스피액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0193K0",
+      "name": "PLUS 삼성전자단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0193L0",
+      "name": "PLUS 삼성전자선물단일종목인버스2X",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0193T0",
+      "name": "KODEX SK하이닉스단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0193W0",
+      "name": "KODEX 삼성전자단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0194M0",
+      "name": "ACE 삼성전자단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0194N0",
+      "name": "KIWOOM 삼성전자선물단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0194R0",
+      "name": "KIWOOM SK하이닉스선물단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0194T0",
+      "name": "ACE SK하이닉스단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0195R0",
+      "name": "TIGER 삼성전자단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0195S0",
+      "name": "TIGER SK하이닉스단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0197W0",
+      "name": "SOL SK하이닉스단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0197X0",
+      "name": "SOL SK하이닉스선물단일종목인버스2X",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0198B0",
+      "name": "1Q 삼성전자선물단일종목레버리지",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0198D0",
+      "name": "1Q SK하이닉스선물단일종목레버리지",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -24432,6 +24528,18 @@
     {
       "ticker": "520099",
       "name": "미래에셋 인버스 2X 반도체 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520100",
+      "name": "미래에셋 레버리지 삼성전자 단일종목 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520101",
+      "name": "미래에셋 레버리지 SK하이닉스 단일종목ETN",
       "market": "KOSPI",
       "kind": "etn"
     },

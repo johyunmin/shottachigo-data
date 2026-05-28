@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-27T20:33:54.789Z",
-  "count": 12655,
+  "fetchedAt": "2026-05-28T20:43:39.824Z",
+  "count": 12668,
   "stocks": [
     {
       "ticker": "AACB",
@@ -63,8 +63,26 @@
       "isEtf": false
     },
     {
+      "ticker": "AACP",
+      "name": "Apogee Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AACPR",
+      "name": "Apogee Acquisition Corp - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AACPU",
       "name": "Apogee Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AACPW",
+      "name": "Apogee Acquisition Corp - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -339,8 +357,20 @@
       "isEtf": false
     },
     {
+      "ticker": "ACGC",
+      "name": "ACP Holdings Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ACGCU",
       "name": "ACP Holdings Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ACGCW",
+      "name": "ACP Holdings Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -2369,6 +2399,12 @@
     {
       "ticker": "ASCI",
       "name": "abrdn International Small Cap Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ASEC",
+      "name": "American Century Securitized Credit ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -11907,12 +11943,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GECCO",
-      "name": "Great Elm Capital Corp. - 5.875% Notes due 2026",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GEG",
       "name": "Great Elm Group, Inc.",
       "market": "NASDAQ",
@@ -13601,12 +13631,6 @@
     {
       "ticker": "HOPE",
       "name": "Hope Bancorp, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HOTH",
-      "name": "Hoth Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15767,6 +15791,12 @@
     {
       "ticker": "JPEF",
       "name": "JPMorgan Equity Focus ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "JPFP",
+      "name": "JPMorgan Managed Futures Plus ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -21057,8 +21087,8 @@
       "isEtf": false
     },
     {
-      "ticker": "OCTVV",
-      "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+      "ticker": "OCTV",
+      "name": "Octave Intelligence plc -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25047,6 +25077,12 @@
       "isEtf": true
     },
     {
+      "ticker": "RKTO",
+      "name": "Rocket One Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "RLAY",
       "name": "Relay Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -26547,6 +26583,18 @@
       "isEtf": false
     },
     {
+      "ticker": "SKYA",
+      "name": "SkyAI, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SKYAW",
+      "name": "SkyAI, Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SKYE",
       "name": "Skye Bioscience, Inc.",
       "market": "NASDAQ",
@@ -27731,18 +27779,6 @@
     {
       "ticker": "STRZ",
       "name": "Starz Entertainment Corp. - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "STSS",
-      "name": "Sharps Technology Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "STSSW",
-      "name": "Sharps Technology Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33261,6 +33297,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ADDS",
+      "name": "Hedgeye Index Adds ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ADFI",
       "name": "Anfield Dynamic Fixed Income ETF",
       "market": "NYSE",
@@ -33880,7 +33922,7 @@
     },
     {
       "ticker": "AIVC",
-      "name": "Amplify Bloomberg AI Value Chain ETF",
+      "name": "Amplify Bloomberg AI Equal Weight ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -38981,6 +39023,18 @@
     {
       "ticker": "CBRG",
       "name": "Leverage Shares 2X Long CBRS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CBRX",
+      "name": "Tradr 2X Long CBRS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CBRZ",
+      "name": "Tradr 2X Short CBRS Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -46733,6 +46787,12 @@
     {
       "ticker": "FITE",
       "name": "State Street SPDR S&P Kensho Future Security ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "FITZ",
+      "name": "Fitz-Gerald Must Have Portfolio ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56877,6 +56937,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MCHU",
+      "name": "Tradr 2X Long MCHP Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MCI",
       "name": "Barings Corporate Investors",
       "market": "NYSE",
@@ -60327,6 +60393,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NXPX",
+      "name": "Tradr 2X Long NXPI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NXRT",
       "name": "NexPoint Residential Trust, Inc.",
       "market": "NYSE",
@@ -60889,6 +60961,12 @@
       "name": "Onto Innovation Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ONX",
+      "name": "Tradr 2X Long ON Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "OOMA",
@@ -68848,7 +68926,7 @@
     },
     {
       "ticker": "STBQ",
-      "name": "Amplify Stablecoin Technology ETF",
+      "name": "Amplify Stablecoin Technology Leaders ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70330,7 +70408,7 @@
     },
     {
       "ticker": "TKNQ",
-      "name": "Amplify Tokenization Technology ETF",
+      "name": "Amplify Tokenization Technology Leaders ETF",
       "market": "NYSE",
       "isEtf": true
     },
