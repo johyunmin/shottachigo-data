@@ -1,6 +1,6 @@
 {
-  "basDt": "20260527",
-  "fetchedAt": "2026-05-28T20:43:38.597Z",
+  "basDt": "20260528",
+  "fetchedAt": "2026-05-29T20:42:52.862Z",
   "count": 4535,
   "stocks": [
     {
@@ -9047,7 +9047,7 @@
     },
     {
       "ticker": "094940",
-      "name": "푸른기술",
+      "name": "푸른로보틱스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -21713,7 +21713,7 @@
     },
     {
       "ticker": "421320",
-      "name": "PLUS 우주항공&UAM",
+      "name": "PLUS 우주항공",
       "market": "KOSPI",
       "kind": "etf"
     },

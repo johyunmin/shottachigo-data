@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-28T20:43:39.824Z",
-  "count": 12668,
+  "fetchedAt": "2026-05-29T20:42:55.472Z",
+  "count": 12675,
   "stocks": [
     {
       "ticker": "AACB",
@@ -1767,12 +1767,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AMWD",
-      "name": "American Woodmark Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "AMYY",
       "name": "GraniteShares YieldBOOST AMD ETF",
       "market": "NASDAQ",
@@ -2211,8 +2205,26 @@
       "isEtf": false
     },
     {
+      "ticker": "ARCL",
+      "name": "ARC Group Acquisition I Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ARCLR",
+      "name": "ARC Group Acquisition I Corp - Right",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ARCLU",
       "name": "ARC Group Acquisition I Corp - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ARCLW",
+      "name": "ARC Group Acquisition I Corp - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -3815,6 +3827,12 @@
     {
       "ticker": "BIDU",
       "name": "Baidu, Inc. - American Depositary Shares, each representing 8",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BIDWU",
+      "name": "Tribeca Strategic Acquisition Corp. - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -7577,12 +7595,6 @@
     {
       "ticker": "CVGI",
       "name": "Commercial Vehicle Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CVGW",
-      "name": "Calavo Growers, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15401,6 +15413,12 @@
     {
       "ticker": "ISTB",
       "name": "iShares Core 1-5 Year USD Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ISTM",
+      "name": "iShares Strategic Metals ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -23571,6 +23589,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PTN",
+      "name": "Palatin Technologies, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PTNM",
       "name": "Pitanium Limited -",
       "market": "NASDAQ",
@@ -23887,6 +23911,12 @@
       "name": "Horizon Nasdaq-100 Defined Risk ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "QH",
+      "name": "Quhuo Limited - American Depository Shares",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "QHDG",
@@ -28923,12 +28953,6 @@
       "isEtf": true
     },
     {
-      "ticker": "TMET",
-      "name": "iShares Transition-Enabling Metals ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "TMNL",
       "name": "T. Rowe Price Long Municipal Income ETF",
       "market": "NASDAQ",
@@ -30487,6 +30511,12 @@
       "name": "Valion Bio, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "VBNB",
+      "name": "VanEck BNB ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "VBNK",
@@ -47493,6 +47523,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FOTO",
+      "name": "Tuttle Capital Pure Play Photonics ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FOUR",
       "name": "Shift4 Payments, Inc. Class A",
       "market": "NYSE",
@@ -60357,6 +60393,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NXB",
+      "name": "NextBoat Inc. Common Stcok",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "NXDR",
       "name": "Nextdoor Holdings, Inc. Class A",
       "market": "NYSE",
@@ -61175,12 +61217,6 @@
     {
       "ticker": "OTF",
       "name": "Blue Owl Technology Finance Corp.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "OTH",
-      "name": "Off The Hook YS Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -63573,12 +63609,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PTN",
-      "name": "Palatin Technologies, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "PTNT",
       "name": "Corgi IP Licensing & Royalties ETF",
       "market": "NYSE",
@@ -65849,6 +65879,12 @@
     {
       "ticker": "RWTQ",
       "name": "Redwood Trust, Inc. 9.500% Senior Notes Due 2030",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "RWTS",
+      "name": "Redwood Trust, Inc. 9.75% Senior Notes Due 2031",
       "market": "NYSE",
       "isEtf": false
     },
@@ -69965,6 +70001,12 @@
     {
       "ticker": "TETH",
       "name": "21Shares Ethereum ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TEUP",
+      "name": "T-REX 2X Long TE Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
     },
