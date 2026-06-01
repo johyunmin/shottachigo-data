@@ -1,7 +1,7 @@
 {
-  "basDt": "20260528",
-  "fetchedAt": "2026-05-31T19:49:18.367Z",
-  "count": 4535,
+  "basDt": "20260529",
+  "fetchedAt": "2026-06-01T21:49:39.540Z",
+  "count": 4534,
   "stocks": [
     {
       "ticker": "900110",
@@ -13031,7 +13031,7 @@
     },
     {
       "ticker": "261780",
-      "name": "차백신연구소",
+      "name": "아리바이오랩",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -22362,12 +22362,6 @@
     {
       "ticker": "452360",
       "name": "SOL 미국배당다우존스(H)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "452440",
-      "name": "VITA 밸류알파액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

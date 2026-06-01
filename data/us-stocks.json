@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-31T19:49:19.090Z",
-  "count": 12675,
+  "fetchedAt": "2026-06-01T21:49:40.194Z",
+  "count": 12680,
   "stocks": [
     {
       "ticker": "AACB",
@@ -904,7 +904,7 @@
     },
     {
       "ticker": "AGIX",
-      "name": "KraneShares Artificial Intelligence & Technology ETF",
+      "name": "KraneShares Public-Private AI & Technology ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -2415,6 +2415,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ASD",
+      "name": "Defiance Autism Impact ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ASEC",
       "name": "American Century Securitized Credit ETF",
       "market": "NASDAQ",
@@ -3675,10 +3681,22 @@
       "isEtf": false
     },
     {
+      "ticker": "BGCG",
+      "name": "Baillie Gifford International Concentrated Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BGDE",
       "name": "Big Digital Energy, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "BGGG",
+      "name": "Baillie Gifford Long Term Global Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "BGIN",
@@ -9003,12 +9021,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EDAP",
-      "name": "EDAP TMS S.A. - American Depositary Shares, each representing One",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EDBL",
       "name": "Edible Garden AG Incorporated",
       "market": "NASDAQ",
@@ -11101,6 +11113,12 @@
       "name": "First Trust Mid Cap Growth AlphaDEX Fund",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "FOCL",
+      "name": "EDAP TMS S.A. - American Depositary Shares, each representing One",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "FOFO",
@@ -17091,6 +17109,24 @@
       "isEtf": false
     },
     {
+      "ticker": "LILAV",
+      "name": "Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LILKV",
+      "name": "Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LILPV",
+      "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LIMN",
       "name": "Liminatus Pharma, Inc. - Class A",
       "market": "NASDAQ",
@@ -21899,12 +21935,6 @@
     {
       "ticker": "OXLCO",
       "name": "Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "OXLCP",
-      "name": "Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -35811,6 +35841,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AZUL",
+      "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "AZZ",
       "name": "AZZ Inc.",
       "market": "NYSE",
@@ -42027,6 +42063,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DDFZ",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - June",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DDL",
       "name": "Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)",
       "market": "NYSE",
@@ -42125,6 +42167,12 @@
     {
       "ticker": "DDTY",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - May",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DDTZ",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - June",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44548,7 +44596,7 @@
     },
     {
       "ticker": "EMCS",
-      "name": "Xtrackers MSCI Emerging Markets Climate Selection ETF",
+      "name": "Xtrackers MSCI Emerging Markets Select ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44584,7 +44632,7 @@
     },
     {
       "ticker": "EMET",
-      "name": "VanEck Copper and Green Metals ETF",
+      "name": "VanEck Copper and Electrification Metals ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -46335,14 +46383,8 @@
       "isEtf": false
     },
     {
-      "ticker": "FDX.V",
-      "name": "FedEx Corporation Common Stock When-Issued",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "FDXF.V",
-      "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
+      "ticker": "FDXF",
+      "name": "FedEx Freight Holding Company, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -55264,7 +55306,7 @@
     },
     {
       "ticker": "KPHO",
-      "name": "KraneShares Dragon Capital Vietnam Growth Index ETF",
+      "name": "KraneShares Dragon Capital Growth of Vietnam Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60321,12 +60363,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NVRI",
-      "name": "Enviri Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NVRI.V",
       "name": "Enviri Corporation Common Stock When-Issued",
       "market": "NYSE",
@@ -65008,7 +65044,7 @@
     },
     {
       "ticker": "RIGS",
-      "name": "RiverFront Strategic Income Fund",
+      "name": "ALPS Strategic Income Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65554,7 +65590,7 @@
     },
     {
       "ticker": "RSHO",
-      "name": "Tema American Reshoring ETF",
+      "name": "Tema U.S. Manufacturing & Reshoring ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70259,12 +70295,6 @@
     {
       "ticker": "THQ",
       "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "THR",
-      "name": "Thermon Group Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
