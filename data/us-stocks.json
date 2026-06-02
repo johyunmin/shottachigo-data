@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-01T21:49:40.194Z",
-  "count": 12680,
+  "fetchedAt": "2026-06-02T21:33:09.943Z",
+  "count": 12695,
   "stocks": [
     {
       "ticker": "AACB",
@@ -275,18 +275,6 @@
     {
       "ticker": "ABVC",
       "name": "ABVC BioPharma, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ABVE",
-      "name": "Above Food Ingredients Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ABVEW",
-      "name": "Above Food Ingredients Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10553,12 +10541,6 @@
     {
       "ticker": "FFBC",
       "name": "First Financial Bancorp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FFIC",
-      "name": "Flushing Financial Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32895,6 +32877,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AAAD",
+      "name": "PGIM AAA CLO Aggregate Duration ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AAAU",
       "name": "Goldman Sachs Physical Gold ETF Shares",
       "market": "NYSE",
@@ -33941,6 +33929,18 @@
     {
       "ticker": "AIOO",
       "name": "AllianzIM U.S. Equity Buffer100 Protection ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AIQD",
+      "name": "MicroSectors -3? Short Artificial Intelligence (AI) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AIQU",
+      "name": "MicroSectors 3? Long Artificial Intelligence (AI) ETNs",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39921,6 +39921,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CJUN",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - June Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CKX",
       "name": "CKX Lands, Inc.",
       "market": "NYSE",
@@ -41325,6 +41331,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CTJN",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - June Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CTM",
       "name": "Castellum, Inc.",
       "market": "NYSE",
@@ -41920,7 +41932,7 @@
     },
     {
       "ticker": "DCBG",
-      "name": "Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+      "name": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",
       "market": "NYSE",
       "isEtf": false
     },
@@ -41950,13 +41962,13 @@
     },
     {
       "ticker": "DCOM",
-      "name": "Dime Community Bancshares, Inc.",
+      "name": "Dime Commercial Bancshares, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
     {
       "ticker": "DCOM$",
-      "name": "Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+      "name": "Dime Commercial Bancshares, Inc. Preferred Stock, Series A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -44663,6 +44675,12 @@
     {
       "ticker": "EMHY",
       "name": "iShares J.P. Morgan EM High Yield Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "EMJN",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50361,6 +50379,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HBMX",
+      "name": "Tuttle Capital Concentrated Memory Stack ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HBRD",
       "name": "Invesco U.S. Hybrid Bond ETF",
       "market": "NYSE",
@@ -50783,6 +50807,12 @@
     {
       "ticker": "HIYY",
       "name": "YieldMax HIMS Option Income Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HJUN",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51941,6 +51971,12 @@
     {
       "ticker": "IDHQ",
       "name": "Invesco S&P International Developed Quality ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IDJN",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54587,6 +54623,12 @@
     {
       "ticker": "JULZ",
       "name": "TrueShares Structured Outcome (July) ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JUNC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60363,8 +60405,8 @@
       "isEtf": false
     },
     {
-      "ticker": "NVRI.V",
-      "name": "Enviri Corporation Common Stock When-Issued",
+      "ticker": "NVRI",
+      "name": "Enviri Corporation",
       "market": "NYSE",
       "isEtf": false
     },
@@ -60469,6 +60511,12 @@
       "name": "Nuveen Select Tax Free Income Portfolio",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "NXPG",
+      "name": "Leverage Shares 2X Long NXPI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "NXPX",
@@ -60995,6 +61043,12 @@
     {
       "ticker": "ONEZ",
       "name": "TrueShares Seasonality Laddered Buffered ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ONG",
+      "name": "Leverage Shares 2X Long ON Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63177,6 +63231,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PRIZ",
+      "name": "Zacks Preferred Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PRK",
       "name": "Park National Corporation",
       "market": "NYSE",
@@ -64107,6 +64167,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QJN",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - June Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QJUN",
       "name": "FT Vest Nasdaq-100 Buffer ETF - June",
       "market": "NYSE",
@@ -64217,6 +64283,12 @@
     {
       "ticker": "QQH",
       "name": "HCM Defender 100 Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "QQJN",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -64483,6 +64555,12 @@
       "name": "Ferrari N.V. Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "RACK",
+      "name": "VanEck Data Center Supply Chain ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "RAFE",
@@ -66635,6 +66713,12 @@
     {
       "ticker": "SCJ",
       "name": "iShares MSCI Japan Sm Cap",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SCJN",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73503,12 +73587,6 @@
       "isEtf": false
     },
     {
-      "ticker": "VSCO",
-      "name": "Victorias Secret & Co.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "VSDB",
       "name": "Vanguard Short Duration Bond ETF",
       "market": "NYSE",
@@ -73559,6 +73637,12 @@
     {
       "ticker": "VSTS",
       "name": "Vestis Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "VSXY",
+      "name": "Victorias Secret & Co.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -75949,6 +76033,12 @@
       "name": "ZIM Integrated Shipping Services Ltd.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ZINC",
+      "name": "Zacks Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ZIP",
