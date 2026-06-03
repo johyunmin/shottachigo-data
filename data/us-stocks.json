@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-02T21:33:09.943Z",
-  "count": 12695,
+  "fetchedAt": "2026-06-03T21:37:01.719Z",
+  "count": 12744,
   "stocks": [
     {
       "ticker": "AACB",
@@ -779,6 +779,12 @@
     {
       "ticker": "AERTW",
       "name": "Aeries Technology, Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AESPU",
+      "name": "Aeon Acquisition I Corp. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -2015,6 +2021,12 @@
     {
       "ticker": "APM",
       "name": "Aptorum Group Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APMCU",
+      "name": "AmperCap Acquisition Company - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -3681,8 +3693,20 @@
       "isEtf": false
     },
     {
+      "ticker": "BGEG",
+      "name": "Baillie Gifford Emerging Markets ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BGGG",
       "name": "Baillie Gifford Long Term Global Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BGIA",
+      "name": "Baillie Gifford International Alpha ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -14103,6 +14127,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HYPG",
+      "name": "Grayscale Hyperliquid Staking ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HYPR",
       "name": "Hyperfine, Inc.  - Class A",
       "market": "NASDAQ",
@@ -16095,6 +16125,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KEYYU",
+      "name": "Keystone Acquisition Corp. - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "KFFB",
       "name": "Kentucky First Federal Bancorp",
       "market": "NASDAQ",
@@ -16144,13 +16180,13 @@
     },
     {
       "ticker": "KIDZ",
-      "name": "Classover Holdings, Inc. - Class B",
+      "name": "KIDZ AI Inc. - Class B",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "KIDZW",
-      "name": "Classover Holdings, Inc. - Warrants",
+      "name": "KIDZ AI Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20919,12 +20955,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NXPLW",
-      "name": "NextPlat Corp - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NXST",
       "name": "Nexstar Media Group, Inc.",
       "market": "NASDAQ",
@@ -22205,6 +22235,12 @@
     {
       "ticker": "PBHC",
       "name": "Pathfinder Bancorp, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PBK",
+      "name": "PowerBank Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27933,12 +27969,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SUUN",
-      "name": "PowerBank Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SVA",
       "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
       "market": "NASDAQ",
@@ -29351,6 +29381,18 @@
     {
       "ticker": "TRUH",
       "name": "VanEck Healthcare TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TRUI",
+      "name": "VanEck Industrials TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TRUO",
+      "name": "VanEck Consumer Staples TruSector ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -32889,6 +32931,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AADX",
+      "name": "Applied Aerospace & Defense, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "AAMI",
       "name": "Acadian Asset Management Inc.",
       "market": "NYSE",
@@ -33125,6 +33173,12 @@
     {
       "ticker": "ACES",
       "name": "ALPS Clean Energy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ACGO",
+      "name": "Hartford Alpha Capture Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -38175,6 +38229,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BRZX",
+      "name": "Corgi Brazil 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BSAC",
       "name": "Banco Santander - Chile ADS",
       "market": "NYSE",
@@ -39263,6 +39323,12 @@
     {
       "ticker": "CCOR",
       "name": "Core Alternative ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CCPX",
+      "name": "Corgi China 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44793,6 +44859,12 @@
       "isEtf": true
     },
     {
+      "ticker": "EMXX",
+      "name": "Corgi Emerging Markets 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ENB",
       "name": "Enbridge Inc",
       "market": "NYSE",
@@ -45569,6 +45641,12 @@
     {
       "ticker": "EUV",
       "name": "Corgi Lithography & Semiconductor Photonics ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "EUVX",
+      "name": "Corgi Lithography & Semiconductor Photonics 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52821,6 +52899,12 @@
       "isEtf": false
     },
     {
+      "ticker": "INYY",
+      "name": "YieldMax INTC Option Income Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "IOCT",
       "name": "Innovator International Developed Power Buffer ETF - October",
       "market": "NYSE",
@@ -55437,6 +55521,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KRWX",
+      "name": "Corgi South Korea 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KRYP",
       "name": "ProShares CoinDesk 20 Crypto ETF",
       "market": "NYSE",
@@ -56039,6 +56129,12 @@
     {
       "ticker": "LGL",
       "name": "LGL Group, Inc. (The)",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "LGL.V",
+      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -56991,8 +57087,8 @@
       "isEtf": false
     },
     {
-      "ticker": "MBCC",
-      "name": "Monarch Blue Chips Core Index ETF",
+      "ticker": "MBCE",
+      "name": "Monarch Blue Chips Elite Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57455,6 +57551,12 @@
     {
       "ticker": "MGK",
       "name": "Vanguard Mega Cap Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MGKX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59451,6 +59553,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NGIF",
+      "name": "Nuveen Global Infrastructure Fund: ETF Class Shares",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NGL",
       "name": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests",
       "market": "NYSE",
@@ -60161,6 +60269,12 @@
     {
       "ticker": "NUBD",
       "name": "Nuveen ESG U.S. Aggregate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "NUDG",
+      "name": "Nuveen Dividend Growth Fund: ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61401,6 +61515,12 @@
       "isEtf": false
     },
     {
+      "ticker": "OWN",
+      "name": "Inside Ownership 100 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OWNB",
       "name": "Bitwise Bitcoin Standard Corporations ETF",
       "market": "NYSE",
@@ -62273,6 +62393,12 @@
     {
       "ticker": "PFL",
       "name": "PIMCO Income Strategy Fund Shares of Beneficial Interest",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PFLA",
+      "name": "PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031",
       "market": "NYSE",
       "isEtf": false
     },
@@ -69645,6 +69771,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TAJX",
+      "name": "Corgi India 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TAK",
       "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
       "market": "NYSE",
@@ -72579,6 +72711,12 @@
       "isEtf": true
     },
     {
+      "ticker": "USX",
+      "name": "Corgi Total U.S. Market 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UTES",
       "name": "Virtus Reaves Utilities ETF",
       "market": "NYSE",
@@ -72863,6 +73001,12 @@
     {
       "ticker": "VBR",
       "name": "Vanguard Small-Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VBX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73487,6 +73631,12 @@
     {
       "ticker": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VOOX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74133,6 +74283,12 @@
       "isEtf": true
     },
     {
+      "ticker": "WEBX",
+      "name": "Corgi Chinese Internet 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WEC",
       "name": "WEC Energy Group, Inc.",
       "market": "NYSE",
@@ -74709,6 +74865,12 @@
       "isEtf": false
     },
     {
+      "ticker": "WX",
+      "name": "Corgi All World 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WXET",
       "name": "Teucrium 2x Daily Wheat ETF",
       "market": "NYSE",
@@ -74741,6 +74903,12 @@
     {
       "ticker": "XAGG",
       "name": "Eaton Vance Income Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XAGI",
+      "name": "Corgi AGIX 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74789,6 +74957,12 @@
     {
       "ticker": "XBI",
       "name": "State Street SPDR S&P Biotech ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XBIX",
+      "name": "Corgi U.S. Biotech 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74853,6 +75027,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XCOM",
+      "name": "Corgi All Commodities 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XCOR",
       "name": "FundX ETF",
       "market": "NYSE",
@@ -74909,6 +75089,12 @@
     {
       "ticker": "XES",
       "name": "State Street SPDR S&P Oil & Gas Equipment & Services ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XEUR",
+      "name": "Corgi Europe Equities 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74973,6 +75159,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XHOA",
+      "name": "Corgi U.S. Real Estate 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XHR",
       "name": "Xenia Hotels & Resorts, Inc.",
       "market": "NYSE",
@@ -75027,6 +75219,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XIWC",
+      "name": "Corgi U.S. Micro-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XJAN",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January",
       "market": "NYSE",
@@ -75057,6 +75255,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XKRE",
+      "name": "Corgi U.S. Regional Banks 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLB",
       "name": "State Street Materials Select Sector SPDR ETF",
       "market": "NYSE",
@@ -75065,6 +75269,12 @@
     {
       "ticker": "XLBI",
       "name": "State Street Materials Select Sector SPDR Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLBX",
+      "name": "Corgi U.S. Materials 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75093,6 +75303,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLEX",
+      "name": "Corgi U.S. Energy 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLF",
       "name": "State Street Financial Select Sector SPDR ETF",
       "market": "NYSE",
@@ -75101,6 +75317,12 @@
     {
       "ticker": "XLFI",
       "name": "State Street Financial Select Sector SPDR Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLFX",
+      "name": "Corgi U.S. Financials 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75123,6 +75345,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLIX",
+      "name": "Corgi U.S. Industrials 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLK",
       "name": "State Street Technology Select Sector SPDR ETF",
       "market": "NYSE",
@@ -75135,8 +75363,20 @@
       "isEtf": true
     },
     {
+      "ticker": "XLKX",
+      "name": "Corgi U.S. Technology 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLP",
       "name": "State Street Consumer Staples Select Sector SPDR ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLPX",
+      "name": "Corgi U.S. Consumer Staples 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75177,6 +75417,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLUX",
+      "name": "Corgi U.S. Utilities 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLV",
       "name": "State Street Health Care Select Sector SPDR ETF",
       "market": "NYSE",
@@ -75189,6 +75435,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLVX",
+      "name": "Corgi U.S. Healthcare 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLY",
       "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
       "market": "NYSE",
@@ -75197,6 +75449,12 @@
     {
       "ticker": "XLYI",
       "name": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLYX",
+      "name": "Corgi U.S. Consumer Discretionary 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75317,6 +75575,12 @@
     {
       "ticker": "XOVL",
       "name": "Defiance Daily Target 2X Long XOVR ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XPAV",
+      "name": "Corgi U.S. Infrastructure 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75447,6 +75711,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XSEM",
+      "name": "Corgi U.S. Semiconductors 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XSEP",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September",
       "market": "NYSE",
@@ -75497,6 +75767,12 @@
     {
       "ticker": "XSW",
       "name": "State Street SPDR S&P Software & Services ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XTAI",
+      "name": "Corgi Taiwan 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75591,8 +75867,26 @@
       "isEtf": true
     },
     {
+      "ticker": "XVO",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVUG",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XVV",
       "name": "iShares ESG Select Screened S&P 500 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XW",
+      "name": "Corgi Ex-U.S. Equities 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
