@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-03T21:37:01.719Z",
-  "count": 12744,
+  "fetchedAt": "2026-06-04T20:32:24.499Z",
+  "count": 12763,
   "stocks": [
     {
       "ticker": "AACB",
@@ -11133,12 +11133,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FONR",
-      "name": "Fonar Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FORM",
       "name": "FormFactor, Inc.",
       "market": "NASDAQ",
@@ -14151,12 +14145,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IAC",
-      "name": "IAC Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "IACO",
       "name": "Idea Acquisition Corp. -",
       "market": "NASDAQ",
@@ -14985,6 +14973,12 @@
       "isEtf": false
     },
     {
+      "ticker": "INIO",
+      "name": "INNIO N.V. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "INKT",
       "name": "MiNK Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -15287,6 +15281,12 @@
     {
       "ticker": "IPST",
       "name": "IP Strategy Holdings, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPVVU",
+      "name": "InterPrivate Investment Partners V, Inc. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16989,6 +16989,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LFTO",
+      "name": "Liftoff Mobile, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LFUS",
       "name": "Littelfuse, Inc.",
       "market": "NASDAQ",
@@ -17653,6 +17659,12 @@
       "name": "Canary Litecoin ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "LTGRU",
+      "name": "Long Table Growth Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "LTRN",
@@ -20745,18 +20757,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NVA",
-      "name": "Nova Minerals Limited - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NVAWW",
-      "name": "Nova Minerals Limited - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NVAX",
       "name": "Novavax, Inc.",
       "market": "NASDAQ",
@@ -22479,8 +22479,26 @@
       "isEtf": false
     },
     {
+      "ticker": "PECE",
+      "name": "Peace Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PECER",
+      "name": "Peace Acquisition Corp - Right",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PECEU",
       "name": "Peace Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PECEW",
+      "name": "Peace Acquisition Corp - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23219,6 +23237,12 @@
     {
       "ticker": "PPIH",
       "name": "Perma-Pipe International Holdings, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PPLI",
+      "name": "People Incorporated",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24023,6 +24047,12 @@
     {
       "ticker": "QNST",
       "name": "QuinStreet, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "QNT",
+      "name": "Quantinuum Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -38199,6 +38229,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BRSM",
+      "name": "MFS Blended Research Small-Mid Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BRSP",
       "name": "BrightSpire Capital, Inc. Class A",
       "market": "NYSE",
@@ -38333,6 +38369,12 @@
     {
       "ticker": "BTCI",
       "name": "NEOS Bitcoin High Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BTCK",
+      "name": "7RCC Spot Bitcoin and Carbon Credit Futures ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39069,6 +39111,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CBIL",
+      "name": "Corgi 3-12 Month T-Bill ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CBL",
       "name": "CBL & Associates Properties, Inc.",
       "market": "NYSE",
@@ -39675,6 +39723,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CGOV",
+      "name": "Corgi 0-3 Month T-Bill ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CGRO",
       "name": "CoreValues Alpha Greater China Growth ETF",
       "market": "NYSE",
@@ -39837,6 +39891,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CHYG",
+      "name": "Corgi 0-5 Year High Yield Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CI",
       "name": "The Cigna Group",
       "market": "NYSE",
@@ -39869,6 +39929,12 @@
     {
       "ticker": "CIEG",
       "name": "Leverage Shares 2X Long CIEN Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CIEI",
+      "name": "Corgi 3-7 Year Treasury Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39979,6 +40045,12 @@
       "name": "CitroTech Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CIVG",
+      "name": "Corgi 1-5 Year Investment Grade Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CIX",
@@ -41497,6 +41569,12 @@
       "name": "Torrid Holdings Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CUST",
+      "name": "Corgi 1-3 Year Treasury Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CUT",
@@ -45531,8 +45609,20 @@
       "isEtf": false
     },
     {
+      "ticker": "ETSS",
+      "name": "Energy Transition Special Opportunities",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "ETSS.U",
       "name": "Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "ETSS.W",
+      "name": "Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
     },
@@ -49443,12 +49533,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GMUN",
-      "name": "Goldman Sachs Access Municipal Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GNE",
       "name": "Genie Energy Ltd. Class B Common Stock Stock",
       "market": "NYSE",
@@ -49979,12 +50063,6 @@
     {
       "ticker": "GSIE",
       "name": "Goldman Sachs ActiveBeta International Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "GSIG",
-      "name": "Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57841,6 +57919,12 @@
       "name": "TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MIVL",
+      "name": "MFS Active International Value ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MIY",
@@ -69147,6 +69231,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SSMR",
+      "name": "Sunshine Silver Mining & Refining Company",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SSO",
       "name": "ProShares Ultra S&P500",
       "market": "NYSE",
@@ -73017,6 +73107,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VCHY",
+      "name": "Vanguard U.S. High-Yield Corporate Bond Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VCLN",
       "name": "Virtus Duff & Phelps Clean Energy ETF",
       "market": "NYSE",
@@ -73141,6 +73237,12 @@
       "name": "Velocity Financial, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "VELL",
+      "name": "Defiance Daily Target 2X Long VELO ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "VEM",
@@ -74883,6 +74985,12 @@
       "isEtf": false
     },
     {
+      "ticker": "WYFL",
+      "name": "Defiance Daily Target 2X Long WYFI ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WYY",
       "name": "WidePoint Corporation",
       "market": "NYSE",
@@ -75989,6 +76097,12 @@
     {
       "ticker": "YCL",
       "name": "ProShares Ultra Yen",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "YCLO",
+      "name": "Franklin BSP CLO ETF",
       "market": "NYSE",
       "isEtf": true
     },
