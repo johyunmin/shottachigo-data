@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-04T20:32:24.499Z",
-  "count": 12763,
+  "fetchedAt": "2026-06-05T20:25:49.599Z",
+  "count": 12767,
   "stocks": [
     {
       "ticker": "AACB",
@@ -21251,6 +21251,18 @@
     {
       "ticker": "OGI",
       "name": "Organigram Global Inc. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OHAC",
+      "name": "Oceanhawk Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OHACR",
+      "name": "Oceanhawk Acquisition Corp. - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -48195,6 +48207,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FTRA.U",
+      "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "FTRB",
       "name": "Federated Hermes Total Return Bond ETF",
       "market": "NYSE",
@@ -52799,6 +52817,12 @@
     {
       "ticker": "INEQ",
       "name": "Columbia International Equity Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "INFH",
+      "name": "Defiance Daily Target 2X Long INFQ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62199,6 +62223,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PCPP",
+      "name": "Porter & Company Porter Portfolio Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PCQ",
       "name": "PIMCO California Municipal Income Fund",
       "market": "NYSE",
@@ -66322,7 +66352,7 @@
     },
     {
       "ticker": "SA",
-      "name": "Seabridge Gold, Inc. Ordinary Shares (Canada)",
+      "name": "Seabridge Gold, Inc. Common Shares New",
       "market": "NYSE",
       "isEtf": false
     },
@@ -68005,12 +68035,6 @@
       "name": "SmartStop Self Storage REIT, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "SMAP",
-      "name": "Amplify Small-Mid Cap Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "SMAX",
