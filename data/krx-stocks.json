@@ -1,6 +1,6 @@
 {
-  "basDt": "20260604",
-  "fetchedAt": "2026-06-07T19:54:53.391Z",
+  "basDt": "20260605",
+  "fetchedAt": "2026-06-08T20:39:57.891Z",
   "count": 4536,
   "stocks": [
     {
@@ -3409,6 +3409,12 @@
       "ticker": "013360",
       "name": "일성건설",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0134X0",
+      "name": "대신밸런스제20호스팩",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -12408,12 +12414,6 @@
     {
       "ticker": "230360",
       "name": "에코마케팅",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "230980",
-      "name": "비유테크놀러지",
       "market": "KOSDAQ",
       "kind": "stock"
     },

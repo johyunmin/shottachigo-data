@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-07T19:54:54.550Z",
-  "count": 12767,
+  "fetchedAt": "2026-06-08T20:39:58.610Z",
+  "count": 12768,
   "stocks": [
     {
       "ticker": "AACB",
@@ -2119,6 +2119,12 @@
       "name": "AquaBounty Technologies, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AQLG",
+      "name": "HCM Large Cap Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AQMS",
@@ -4743,6 +4749,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BSIN",
+      "name": "Big Sky Industrial Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BSJQ",
       "name": "Invesco BulletShares 2026 High Yield Corporate Bond ETF",
       "market": "NASDAQ",
@@ -5987,24 +5999,6 @@
     {
       "ticker": "CGC",
       "name": "Canopy Growth Corporation - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CGCT",
-      "name": "Cartesian Growth Corporation III -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CGCTU",
-      "name": "Cartesian Growth Corporation III - unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CGCTW",
-      "name": "Cartesian Growth Corporation III - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10089,6 +10083,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FAC",
+      "name": "Factorial Energy Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FACT",
       "name": "FACT II Acquisition Corp. -",
       "market": "NASDAQ",
@@ -10103,6 +10103,12 @@
     {
       "ticker": "FACTW",
       "name": "FACT II Acquisition Corp. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FACWW",
+      "name": "Factorial Energy Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11291,6 +11297,12 @@
     {
       "ticker": "FRSX",
       "name": "Foresight Autonomous Holdings Ltd. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FRTT",
+      "name": "Fort Technology Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -12539,6 +12551,18 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GOOGM",
+      "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GOOGN",
+      "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17134,13 +17158,13 @@
     },
     {
       "ticker": "LILAV",
-      "name": "Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued",
+      "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "LILKV",
-      "name": "Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued",
+      "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20169,8 +20193,20 @@
       "isEtf": false
     },
     {
+      "ticker": "NHIV",
+      "name": "NewHold Investment Corp IV -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NHIVU",
       "name": "NewHold Investment Corp IV - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NHIVW",
+      "name": "NewHold Investment Corp IV - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26265,12 +26301,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SELX",
-      "name": "Semilux International Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SEMY",
       "name": "GraniteShares YieldBOOST Semiconductor ETF",
       "market": "NASDAQ",
@@ -30285,12 +30315,6 @@
       "isEtf": false
     },
     {
-      "ticker": "USEG",
-      "name": "U.S. Energy Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "USFI",
       "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
       "market": "NASDAQ",
@@ -33627,6 +33651,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AFGR",
+      "name": "First Trust Multi-Manager Large Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AFIF",
       "name": "Anfield Universal Fixed Income ETF",
       "market": "NYSE",
@@ -35843,12 +35873,6 @@
     {
       "ticker": "AXIA",
       "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "AXIA$",
-      "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -40443,12 +40467,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CMU",
-      "name": "MFS Municipal Income Trust",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CNA",
       "name": "CNA Financial Corporation",
       "market": "NYSE",
@@ -41807,18 +41825,6 @@
     {
       "ticker": "CX",
       "name": "Cemex, S.A.B. de C.V. Sponsored ADR",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CXE",
-      "name": "MFS High Income Municipal Trust",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CXH",
-      "name": "MFS Investment Grade Municipal Trust",
       "market": "NYSE",
       "isEtf": false
     },
@@ -47789,6 +47795,12 @@
     {
       "ticker": "FOXY",
       "name": "Simplify Currency Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "FPAA",
+      "name": "FPA Global Allocation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56235,8 +56247,8 @@
       "isEtf": false
     },
     {
-      "ticker": "LGL.V",
-      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+      "ticker": "LGL.R",
+      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -57574,7 +57586,7 @@
     },
     {
       "ticker": "MFM",
-      "name": "MFS Municipal Income Trust",
+      "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -58139,12 +58151,6 @@
     {
       "ticker": "MMKT",
       "name": "Texas Capital Government Money Market ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MMLG",
-      "name": "First Trust Multi-Manager Large Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68007,6 +68013,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SLWS",
+      "name": "Wisdom Short Duration Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SLX",
       "name": "VanEck Steel ETF",
       "market": "NYSE",
@@ -69453,12 +69465,6 @@
       "isEtf": true
     },
     {
-      "ticker": "STRV",
-      "name": "Strive 500 ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "STRW",
       "name": "Strawberry Fields REIT, Inc.",
       "market": "NYSE",
@@ -69509,6 +69515,12 @@
     {
       "ticker": "STXE",
       "name": "Strive Emerging Markets Ex-China ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "STXF",
+      "name": "Strive 500 ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74585,12 +74597,6 @@
     {
       "ticker": "WIP",
       "name": "State Street SPDR FTSE International Government Inflation-Protected Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "WISD",
-      "name": "Wisdom Short Duration Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
