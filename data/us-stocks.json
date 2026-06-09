@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-08T20:39:58.610Z",
-  "count": 12768,
+  "fetchedAt": "2026-06-09T20:27:48.549Z",
+  "count": 12773,
   "stocks": [
     {
       "ticker": "AACB",
@@ -1031,6 +1031,12 @@
     {
       "ticker": "AIAI",
       "name": "AIAI Holdings Corporation - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AIBZ",
+      "name": "Bitzero Holdings Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4983,12 +4989,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BU",
-      "name": "Defiance Daily Target 2X Long BU ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "BUFC",
       "name": "AB Conservative Buffer ETF",
       "market": "NASDAQ",
@@ -7635,12 +7635,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CVNX",
-      "name": "Defiance Daily Target 2X Long CVNA ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "CVRX",
       "name": "CVRx, Inc.",
       "market": "NASDAQ",
@@ -9275,6 +9269,12 @@
     {
       "ticker": "ELOG",
       "name": "Eastern International Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ELOX",
+      "name": "Eloxx Pharmaceuticals, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -12061,6 +12061,12 @@
       "name": "Geospace Technologies Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "GEQ",
+      "name": "Cambria Global EW 2 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "GERN",
@@ -15441,6 +15447,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ISNRU",
+      "name": "Snow Rothschild Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ISPC",
       "name": "iSpecimen Inc.",
       "market": "NASDAQ",
@@ -16385,12 +16397,6 @@
     {
       "ticker": "KPLT",
       "name": "Katapult Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KPLTW",
-      "name": "Katapult Holdings, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -46546,7 +46552,7 @@
     },
     {
       "ticker": "FDP",
-      "name": "Fresh Del Monte Produce, Inc.",
+      "name": "Del Monte Corporation",
       "market": "NYSE",
       "isEtf": false
     },
@@ -58995,6 +59001,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MUZ",
+      "name": "Defiance Daily Target 2X Short MU ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MVAL",
       "name": "VanEck Morningstar Wide Moat Value ETF",
       "market": "NYSE",
@@ -60929,6 +60941,12 @@
     {
       "ticker": "OC",
       "name": "Owens Corning Inc Common Stock New",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OCAC.U",
+      "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64643,6 +64661,12 @@
     {
       "ticker": "QTPI",
       "name": "North Square RCIM Tax-Advantaged Preferred and Income Securities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "QTUP",
+      "name": "Defiance Long Pure Quantum ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74571,6 +74595,12 @@
       "isEtf": false
     },
     {
+      "ticker": "WHK",
+      "name": "WhiteHawk Minerals Corp Class A",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "WHR",
       "name": "Whirlpool Corporation",
       "market": "NYSE",
@@ -75268,7 +75298,7 @@
     },
     {
       "ticker": "XFLT",
-      "name": "XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
+      "name": "XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },

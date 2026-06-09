@@ -1,7 +1,7 @@
 {
-  "basDt": "20260605",
-  "fetchedAt": "2026-06-08T20:39:57.891Z",
-  "count": 4536,
+  "basDt": "20260608",
+  "fetchedAt": "2026-06-09T20:27:45.765Z",
+  "count": 4537,
   "stocks": [
     {
       "ticker": "900110",
@@ -3199,6 +3199,12 @@
       "ticker": "011790",
       "name": "SKC",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0117P0",
+      "name": "피스피스스튜디오",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
