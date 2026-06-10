@@ -1,6 +1,6 @@
 {
-  "basDt": "20260608",
-  "fetchedAt": "2026-06-09T20:27:45.765Z",
+  "basDt": "20260609",
+  "fetchedAt": "2026-06-10T21:07:32.326Z",
   "count": 4537,
   "stocks": [
     {
@@ -16582,12 +16582,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "464680",
-      "name": "KB제27호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "465320",
       "name": "교보15호스팩",
       "market": "KOSDAQ",
@@ -18652,6 +18646,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0189Z0",
+      "name": "DAISHIN343 금융&지주고배당",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0190C0",
       "name": "RISE 현대차고정피지컬AI",
       "market": "KOSPI",
@@ -18844,8 +18844,20 @@
       "kind": "etf"
     },
     {
+      "ticker": "0204D0",
+      "name": "KODEX 현대차로보틱스밸류체인TOP3플러스",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0204S0",
       "name": "TIGER 코스닥액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0206G0",
+      "name": "1Q 현대차기아채권혼합50",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -23470,12 +23482,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "483240",
-      "name": "TIGER 미국나스닥100ETF선물",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "483280",
       "name": "KODEX 미국AI테크TOP10타겟커버드콜",
       "market": "KOSPI",
@@ -23940,12 +23946,6 @@
     {
       "ticker": "495550",
       "name": "SOL 코리아밸류업TR",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "495710",
-      "name": "BNK 26-06 특수채(AAA이상)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-09T20:27:48.549Z",
-  "count": 12773,
+  "fetchedAt": "2026-06-10T21:07:33.595Z",
+  "count": 12771,
   "stocks": [
     {
       "ticker": "AACB",
@@ -2079,8 +2079,14 @@
       "isEtf": false
     },
     {
-      "ticker": "APURU",
-      "name": "Aperture AC - Units",
+      "ticker": "APUR",
+      "name": "Aperture AC -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APURR",
+      "name": "Aperture AC - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4689,6 +4695,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BSCA",
+      "name": "Invesco BulletShares 2036 Corporate Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BSCQ",
       "name": "Invesco BulletShares 2026 Corporate Bond ETF",
       "market": "NASDAQ",
@@ -4755,6 +4767,18 @@
       "isEtf": false
     },
     {
+      "ticker": "BSGR",
+      "name": "Invesco BulletShares 2027 Treasury Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSGT",
+      "name": "Invesco BulletShares 2029 Treasury Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BSIN",
       "name": "Big Sky Industrial Inc.",
       "market": "NASDAQ",
@@ -4805,6 +4829,12 @@
     {
       "ticker": "BSJX",
       "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSJY",
+      "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -4871,6 +4901,24 @@
     {
       "ticker": "BSSX",
       "name": "Invesco BulletShares 2033 Municipal Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSTS",
+      "name": "Invesco BulletShares 2028 Treasury Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSTU",
+      "name": "Invesco BulletShares 2030 Treasury Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSTV",
+      "name": "Invesco BulletShares 2031 Treasury Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -9473,6 +9521,18 @@
     {
       "ticker": "ENPH",
       "name": "Enphase Energy, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ENRD",
+      "name": "Einride AB - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ENRDW",
+      "name": "Einride AB - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15641,6 +15701,12 @@
     {
       "ticker": "IZM",
       "name": "ICZOOM Group Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "JABRU",
+      "name": "JAB Acquisition Corp I - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22299,6 +22365,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PBLS",
+      "name": "Parabilis Medicines, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PBM",
       "name": "Psyence Biomedical Ltd. - Common Shares",
       "market": "NASDAQ",
@@ -26555,6 +26627,12 @@
     {
       "ticker": "SHOP",
       "name": "Shopify Inc. - Class A Subordinate Voting Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SHOTU",
+      "name": "RMG ML Sports Holdings - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -40713,12 +40791,6 @@
       "isEtf": true
     },
     {
-      "ticker": "COII",
-      "name": "REX COIN Growth & Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "COIO",
       "name": "Leverage Shares 2x Capped Accelerated COIN Monthly ETF",
       "market": "NYSE",
@@ -41795,12 +41867,6 @@
     {
       "ticker": "CWI",
       "name": "State Street SPDR MSCI ACWI ex-US ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "CWII",
-      "name": "REX CRWV Growth & Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45353,6 +45419,12 @@
     {
       "ticker": "ERO",
       "name": "Ero Copper Corp. Common Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "EROC",
+      "name": "ERock, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -49143,12 +49215,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GIF",
-      "name": "REX Growth & Income Universe ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GIGB",
       "name": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
       "market": "NYSE",
@@ -51133,12 +51199,6 @@
       "name": "Harley-Davidson, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "HOII",
-      "name": "REX HOOD Growth & Income ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "HOLA",
@@ -56097,24 +56157,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LEGT",
-      "name": "Legato Merger Corp. III",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LEGT.U",
-      "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LEGT.W",
-      "name": "Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "LEMB",
       "name": "iShares J.P. Morgan EM Local Currency Bond",
       "market": "NYSE",
@@ -56393,12 +56435,6 @@
     {
       "ticker": "LLDR",
       "name": "Global X Long-Term Treasury Ladder ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "LLII",
-      "name": "REX LLY Growth & Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58615,12 +58651,6 @@
       "name": "MSC Income Fund, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "MSII",
-      "name": "REX MSTR Growth & Income ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "MSLC",
@@ -62265,12 +62295,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PCRB",
-      "name": "Putnam ESG Core Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PCS",
       "name": "PGIM Corporate Bond 0-5 Year ETF",
       "market": "NYSE",
@@ -62583,12 +62607,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PFUT",
-      "name": "Putnam Sustainable Future ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PFXF",
       "name": "VanEck Preferred Securities ex Financials ETF",
       "market": "NYSE",
@@ -62713,12 +62731,6 @@
       "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "PHYD",
-      "name": "Putnam ESG High Yield ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "PHYL",
@@ -62937,12 +62949,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PLDR",
-      "name": "Putnam Sustainable Leaders ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PLG",
       "name": "Platinum Group Metals Ltd. Ordinary Shares (Canada)",
       "market": "NYSE",
@@ -62981,12 +62987,6 @@
     {
       "ticker": "PLTA",
       "name": "ProShares Ultra PLTR",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "PLTI",
-      "name": "REX PLTR Growth & Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63321,22 +63321,10 @@
       "isEtf": true
     },
     {
-      "ticker": "PPEM",
-      "name": "Putnam PanAgora ESG Emerging Markets Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PPG",
       "name": "PPG Industries, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "PPIE",
-      "name": "Putnam PanAgora ESG International Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "PPL",
@@ -63995,12 +63983,6 @@
     {
       "ticker": "PULS",
       "name": "PGIM Ultra Short Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "PULT",
-      "name": "Putnam ESG Ultra Short ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71419,6 +71401,12 @@
       "name": "MC Trio Equity Buffered ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "TRLV",
+      "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "TRN",
