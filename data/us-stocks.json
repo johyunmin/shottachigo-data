@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T21:07:33.595Z",
+  "fetchedAt": "2026-06-11T20:43:39.707Z",
   "count": 12771,
   "stocks": [
     {
@@ -2859,6 +2859,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AVAT",
+      "name": "Avalanche Treasury Corporation - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AVAV",
       "name": "AeroVironment, Inc.",
       "market": "NASDAQ",
@@ -4545,8 +4551,14 @@
       "isEtf": true
     },
     {
-      "ticker": "BREZU",
-      "name": "Breeze Acquisition Corp. II - Units",
+      "ticker": "BREZ",
+      "name": "Breeze Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BREZR",
+      "name": "Breeze Acquisition Corp. II - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11279,6 +11291,12 @@
     {
       "ticker": "FRBA",
       "name": "First Bank",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FRBT",
+      "name": "Forbright, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18021,12 +18039,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MASI",
-      "name": "Masimo Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MASK",
       "name": "3 E Network Technology Group Ltd -",
       "market": "NASDAQ",
@@ -18803,24 +18815,6 @@
     {
       "ticker": "MLAB",
       "name": "Mesa Laboratories, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MLAC",
-      "name": "Mountain Lake Acquisition Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MLACR",
-      "name": "Mountain Lake Acquisition Corp. - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MLACU",
-      "name": "Mountain Lake Acquisition Corp. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20531,12 +20525,6 @@
     {
       "ticker": "NOMA",
       "name": "NOMADAR Corp. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NOTV",
-      "name": "Inotiv, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24393,12 +24381,6 @@
       "isEtf": false
     },
     {
-      "ticker": "QSIAW",
-      "name": "Quantum-Si Incorporated - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "QSIX",
       "name": "Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF",
       "market": "NASDAQ",
@@ -26551,6 +26533,12 @@
       "name": "Surgery Partners, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "SGVA",
+      "name": "F/m Accumulator Ultrashort Treasury Fund",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "SHAZ",
@@ -30597,24 +30585,6 @@
       "isEtf": false
     },
     {
-      "ticker": "VACH",
-      "name": "Voyager Acquisition Corp -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VACHU",
-      "name": "Voyager Acquisition Corp - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VACHW",
-      "name": "Voyager Acquisition Corp - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "VALG",
       "name": "Leverage Shares 2X Long VALE Daily ETF",
       "market": "NASDAQ",
@@ -31265,6 +31235,18 @@
     {
       "ticker": "VRTX",
       "name": "Vertex Pharmaceuticals Incorporated",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VRXA",
+      "name": "Veraxa Biotech AG -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VRXAW",
+      "name": "Veraxa Biotech AG - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -43541,6 +43523,12 @@
     {
       "ticker": "DRLL",
       "name": "Strive U.S. Energy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DRMP",
+      "name": "Tuttle Capital Memory Stack Income Blast ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62793,6 +62781,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PINC",
+      "name": "PGIM Securitized Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PINE",
       "name": "Alpine Income Property Trust, Inc.",
       "market": "NYSE",
@@ -71317,6 +71311,12 @@
       "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "TPUT",
+      "name": "T. Rowe Price Capital Appreciation Market Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "TPVG",

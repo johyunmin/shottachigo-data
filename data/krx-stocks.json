@@ -1,7 +1,7 @@
 {
-  "basDt": "20260609",
-  "fetchedAt": "2026-06-10T21:07:32.326Z",
-  "count": 4537,
+  "basDt": "20260610",
+  "fetchedAt": "2026-06-11T20:43:38.862Z",
+  "count": 4536,
   "stocks": [
     {
       "ticker": "900110",
@@ -811,6 +811,12 @@
       "ticker": "001795",
       "name": "대한제당우",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0017J0",
+      "name": "세미티에스",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -10630,12 +10636,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "140910",
-      "name": "에이리츠",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
       "ticker": "141000",
       "name": "비아트론",
       "market": "KOSDAQ",
@@ -16230,12 +16230,6 @@
     {
       "ticker": "451250",
       "name": "삐아",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "451700",
-      "name": "엔에이치스팩29호",
       "market": "KOSDAQ",
       "kind": "stock"
     },
