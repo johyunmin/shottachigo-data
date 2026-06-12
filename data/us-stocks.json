@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T20:43:39.707Z",
+  "fetchedAt": "2026-06-12T20:34:52.964Z",
   "count": 12771,
   "stocks": [
     {
@@ -970,7 +970,7 @@
     },
     {
       "ticker": "AGNT",
-      "name": "eXp World Holdings, Inc.",
+      "name": "AGNT, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10857,36 +10857,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FITB",
-      "name": "Fifth Third Bancorp",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FITBI",
-      "name": "Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FITBM",
-      "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FITBO",
-      "name": "Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FITBP",
-      "name": "Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FIVE",
       "name": "Five Below, Inc.",
       "market": "NASDAQ",
@@ -16085,12 +16055,6 @@
     {
       "ticker": "KALU",
       "name": "Kaiser Aluminum Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KALV",
-      "name": "KalVista Pharmaceuticals, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26181,12 +26145,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SCVL",
-      "name": "Shoe Carnival, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SCWO",
       "name": "374Water Inc.",
       "market": "NASDAQ",
@@ -26603,6 +26561,12 @@
     {
       "ticker": "SHMDW",
       "name": "SCHMID Group N.V. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SHOE",
+      "name": "Shoe Station Group, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27475,6 +27439,12 @@
       "name": "Liberty One Spectrum ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies Corp. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "SPEG",
@@ -40335,12 +40305,6 @@
       "isEtf": true
     },
     {
-      "ticker": "CLSZ",
-      "name": "Tradr 2X Short CLSK Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "CLUB",
       "name": "Billionaires Club ETF",
       "market": "NYSE",
@@ -45501,12 +45465,6 @@
       "isEtf": true
     },
     {
-      "ticker": "ESK",
-      "name": "REX-Osprey ETH + Staking ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ESLG",
       "name": "Eventide Large Cap Growth ETF",
       "market": "NYSE",
@@ -47125,6 +47083,36 @@
       "name": "State Street Fixed Income Sector Rotation ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "FITB",
+      "name": "Fifth Third Bancorp",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FITB$A",
+      "name": "Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FITB$I",
+      "name": "Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FITB$K",
+      "name": "Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FITB$M",
+      "name": "Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "FITE",
@@ -51127,12 +51115,6 @@
       "name": "Helix Energy Solutions Group, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "HLXX",
-      "name": "Tradr 2X Long HL Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "HMAY",
@@ -57381,6 +57363,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MDCR",
+      "name": "Pacer Swan SOS Moderate December ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MDEV",
       "name": "First Trust Indxx Medical Devices ETF",
       "market": "NYSE",
@@ -58011,6 +57999,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MJUN",
+      "name": "Pacer Swan SOS Moderate June ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MKC",
       "name": "McCormick & Company, Incorporated",
       "market": "NYSE",
@@ -58123,6 +58117,12 @@
       "name": "Mixed Martial Arts Group Limited",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MMAR",
+      "name": "Pacer Swan SOS Moderate March ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MMAX",
@@ -58591,6 +58591,12 @@
       "name": "Morgan Stanley Direct Lending Fund",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MSEP",
+      "name": "Pacer Swan SOS Moderate September ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MSFO",
@@ -67593,6 +67599,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SHRD",
+      "name": "Arimathea Catholic Core Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SHRT",
       "name": "Gotham Short Strategies ETF",
       "market": "NYSE",
@@ -68227,12 +68239,6 @@
       "name": "Standard Motor Products, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "SMQ",
-      "name": "Tradr 1X Short Innovation 100 Monthly ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "SMR",
@@ -69179,12 +69185,6 @@
     {
       "ticker": "SROI",
       "name": "Calamos Antetokounmpo Global Sustainable Equities ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "SRPU",
-      "name": "Tradr 2X Long SRPT Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
