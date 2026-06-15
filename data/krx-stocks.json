@@ -1,7 +1,7 @@
 {
-  "basDt": "20260611",
-  "fetchedAt": "2026-06-14T20:06:06.684Z",
-  "count": 4536,
+  "basDt": "20260612",
+  "fetchedAt": "2026-06-15T21:32:07.775Z",
+  "count": 4535,
   "stocks": [
     {
       "ticker": "900110",
@@ -11659,12 +11659,6 @@
       "ticker": "204020",
       "name": "그리티",
       "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "204210",
-      "name": "JK리버스톤리츠",
-      "market": "KOSPI",
       "kind": "stock"
     },
     {

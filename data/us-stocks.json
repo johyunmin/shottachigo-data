@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-14T20:06:07.650Z",
-  "count": 12771,
+  "fetchedAt": "2026-06-15T21:32:10.890Z",
+  "count": 12786,
   "stocks": [
     {
       "ticker": "AACB",
@@ -7437,6 +7437,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CSEN",
+      "name": "Cohen & Steers Future of Energy Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CSGP",
       "name": "CoStar Group, Inc.",
       "market": "NASDAQ",
@@ -11475,12 +11481,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FTAIN",
-      "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FTC",
       "name": "First Trust Large Cap Growth AlphaDEX Fund",
       "market": "NASDAQ",
@@ -13719,6 +13719,18 @@
       "isEtf": false
     },
     {
+      "ticker": "HONAV",
+      "name": "Honeywell Aerospace Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "HONIV",
+      "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "HOOD",
       "name": "Robinhood Markets, Inc. - Class A",
       "market": "NASDAQ",
@@ -13883,24 +13895,6 @@
     {
       "ticker": "HSIC",
       "name": "Henry Schein, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HSPT",
-      "name": "Horizon Space Acquisition II Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HSPTR",
-      "name": "Horizon Space Acquisition II Corp. - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HSPTU",
-      "name": "Horizon Space Acquisition II Corp. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26829,6 +26823,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SLBT",
+      "name": "SL Science Holding Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SLDB",
       "name": "Solid Biosciences Inc.",
       "market": "NASDAQ",
@@ -28929,6 +28929,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TILC",
+      "name": "Thrivent International Large Cap ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TILE",
       "name": "Interface, Inc.",
       "market": "NASDAQ",
@@ -28939,6 +28945,12 @@
       "name": "Tiptree Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TISC",
+      "name": "Thrivent International Small Cap ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TITN",
@@ -48747,6 +48759,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GCSH",
+      "name": "Guggenheim Ultra Short Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GCTS",
       "name": "GCT Semiconductor Holding, Inc.",
       "market": "NYSE",
@@ -49225,6 +49243,12 @@
       "name": "General Mills, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GISC",
+      "name": "Guggenheim Securitized Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GJAN",
@@ -51313,6 +51337,12 @@
       "name": "Hormel Foods Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "HRSK",
+      "name": "Toews Agility Shares Hedged Risk ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "HRTG",
@@ -54099,6 +54129,12 @@
       "isEtf": false
     },
     {
+      "ticker": "JCAL",
+      "name": "JPMorgan California Tax Free Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JCE",
       "name": "Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -54459,12 +54495,6 @@
       "isEtf": true
     },
     {
-      "ticker": "JMG",
-      "name": "JM Group Limited",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "JMHI",
       "name": "JPMorgan High Yield Municipal ETF",
       "market": "NYSE",
@@ -54785,6 +54815,12 @@
     {
       "ticker": "JSTC",
       "name": "Adasina Social Justice All Cap Global ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JTNY",
+      "name": "JPMorgan New York Tax Free Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56519,6 +56555,12 @@
     {
       "ticker": "LODI",
       "name": "AAM SLC Low Duration Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LOFF",
+      "name": "Direxion Daily SpaceX Bull 2X ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66333,12 +66375,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RZB",
-      "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "RZC",
       "name": "Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",
       "market": "NYSE",
@@ -68343,6 +68379,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SNN",
       "name": "Smith & Nephew SNATS, Inc.",
       "market": "NYSE",
@@ -68571,6 +68613,18 @@
       "isEtf": true
     },
     {
+      "ticker": "SPAL",
+      "name": "GraniteShares 2x Long SpaceX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPAX",
+      "name": "T-REX 2X Long SpaceX Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SPB",
       "name": "Spectrum Brands Holdings, Inc.",
       "market": "NYSE",
@@ -68607,6 +68661,24 @@
       "isEtf": false
     },
     {
+      "ticker": "SPCF",
+      "name": "ProShares Ultra SpaceX",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPCH",
+      "name": "Leverage Shares 2X Long SPCX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SPCI",
       "name": "Tuttle Capital Space Industry Income Blast ETF",
       "market": "NYSE",
@@ -68615,6 +68687,24 @@
     {
       "ticker": "SPCL",
       "name": "Defiance Pure Space Daily 2X Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPCM",
+      "name": "Tradr 2X Long SpaceX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SpaceX ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPCU",
+      "name": "Defiance Daily Target 2X Long SpaceX ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69275,6 +69365,12 @@
     {
       "ticker": "SSO",
       "name": "ProShares Ultra S&P500",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SSPC",
+      "name": "Leverage Shares 2X Short SPCX Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70079,12 +70175,6 @@
     {
       "ticker": "TCBX",
       "name": "Third Coast Bancshares, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TCGL",
-      "name": "TechCreate Group Ltd.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -76228,7 +76318,7 @@
     },
     {
       "ticker": "YGLD",
-      "name": "Simplify Gold Strategy PLUS Income ETF",
+      "name": "Simplify Gold Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
