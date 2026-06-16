@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-15T21:32:10.890Z",
-  "count": 12786,
+  "fetchedAt": "2026-06-16T21:26:00.818Z",
+  "count": 12792,
   "stocks": [
     {
       "ticker": "AACB",
@@ -3929,6 +3929,12 @@
     {
       "ticker": "BIS",
       "name": "ProShares UltraShort Nasdaq Biotechnology",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BITA",
+      "name": "iShares Bitcoin Premium Income ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -10527,12 +10533,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FEAT",
-      "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "FEBO",
       "name": "Fenbo Holdings Limited -",
       "market": "NASDAQ",
@@ -10875,12 +10875,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FIVY",
-      "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "FIXD",
       "name": "First Trust Smith Opportunistic Fixed Income ETF",
       "market": "NASDAQ",
@@ -11015,6 +11009,12 @@
     {
       "ticker": "FLYW",
       "name": "Flywire Corporation - Voting",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FLZH",
+      "name": "Flash Sports & Media Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11533,6 +11533,12 @@
       "name": "First Trust Growth Strength ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "FTH",
+      "name": "Faeth Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "FTHAU",
@@ -12563,12 +12569,6 @@
     {
       "ticker": "GOAI",
       "name": "Eva Live Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GOCO",
-      "name": "GoHealth, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18389,12 +18389,6 @@
     {
       "ticker": "MEGL",
       "name": "Magic Empire Global Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MEHA",
-      "name": "Functional Brands, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26985,6 +26979,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SMCIP",
+      "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SMCL",
       "name": "GraniteShares 2x Long SMCI Daily ETF",
       "market": "NASDAQ",
@@ -27179,12 +27179,6 @@
     {
       "ticker": "SNPS",
       "name": "Synopsys, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SNSE",
-      "name": "Sensei Biotherapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30123,12 +30117,6 @@
       "isEtf": false
     },
     {
-      "ticker": "UGRO",
-      "name": "urban-gro, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "UITB",
       "name": "VictoryShares Core Intermediate Bond ETF",
       "market": "NASDAQ",
@@ -32499,6 +32487,12 @@
       "isEtf": false
     },
     {
+      "ticker": "XSPC",
+      "name": "VegaShares SpaceX & Beyond Earth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "XSPI",
       "name": "NEOS Boosted S&P 500 High Income ETF",
       "market": "NASDAQ",
@@ -32639,6 +32633,12 @@
     {
       "ticker": "YIBO",
       "name": "Planet Image International Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "YICCU",
+      "name": "Yorkville International Capital Corp. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33189,12 +33189,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ABNY",
-      "name": "YieldMax ABNB Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ABOT",
       "name": "Abacus FCF Innovation Leaders ETF",
       "market": "NYSE",
@@ -33521,6 +33515,12 @@
     {
       "ticker": "ADFI",
       "name": "Anfield Dynamic Fixed Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ADIU",
+      "name": "Leverage Shares 2X Long ADI Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -34827,6 +34827,12 @@
       "isEtf": false
     },
     {
+      "ticker": "APHG",
+      "name": "Leverage Shares 2X Long APH Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "APHU",
       "name": "T-REX 2X Long APH Daily Target ETF",
       "market": "NYSE",
@@ -35965,6 +35971,12 @@
       "name": "Axalta Coating Systems Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AXTL",
+      "name": "Leverage Shares 2X Long AXTI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AXTU",
@@ -37865,6 +37877,12 @@
     {
       "ticker": "BMN",
       "name": "BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "BMNP",
+      "name": "BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43005,12 +43023,6 @@
       "isEtf": false
     },
     {
-      "ticker": "DISO",
-      "name": "YieldMax DIS Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "DISV",
       "name": "Dimensional International Small Cap Value ETF",
       "market": "NYSE",
@@ -47755,6 +47767,12 @@
       "name": "Fidelity National Financial, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "FNG",
+      "name": "Leverage Shares 2X Long FN Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "FNGD",
@@ -55203,6 +55221,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KEYG",
+      "name": "Leverage Shares 2X Long KEYS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KEYS",
       "name": "Keysight Technologies Inc.",
       "market": "NYSE",
@@ -55823,12 +55847,6 @@
     {
       "ticker": "KVYO",
       "name": "Klaviyo, Inc. Series A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "KW",
-      "name": "Kennedy-Wilson Holdings Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -57317,6 +57335,12 @@
     {
       "ticker": "MCH",
       "name": "Matthews China Active ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MCHG",
+      "name": "Leverage Shares 2X Long MCHP Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70383,6 +70407,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TELG",
+      "name": "Leverage Shares 2X Long TEL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TEMD",
       "name": "Templeton Emerging Markets Debt ETF",
       "market": "NYSE",
@@ -71645,6 +71675,12 @@
     {
       "ticker": "TSEC",
       "name": "Touchstone Securitized Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TSEG",
+      "name": "Leverage Shares 2X Long TSEM Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
