@@ -1,7 +1,7 @@
 {
-  "basDt": "20260615",
-  "fetchedAt": "2026-06-16T21:26:00.106Z",
-  "count": 4535,
+  "basDt": "20260616",
+  "fetchedAt": "2026-06-17T20:34:46.431Z",
+  "count": 4538,
   "stocks": [
     {
       "ticker": "900110",
@@ -18736,6 +18736,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0193M0",
+      "name": "BNK 27-12 특수채(AAA이상)액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0193T0",
       "name": "KODEX SK하이닉스단일종목레버리지",
       "market": "KOSPI",
@@ -18846,6 +18852,18 @@
     {
       "ticker": "0206G0",
       "name": "1Q 현대차기아채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0207G0",
+      "name": "SOL 우주항공밸류체인",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0207Z0",
+      "name": "KIWOOM 미국우주데이터센터인프라",
       "market": "KOSPI",
       "kind": "etf"
     },

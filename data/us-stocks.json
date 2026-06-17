@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-16T21:26:00.818Z",
-  "count": 12792,
+  "fetchedAt": "2026-06-17T20:34:48.818Z",
+  "count": 12793,
   "stocks": [
     {
       "ticker": "AACB",
@@ -2525,12 +2525,6 @@
     {
       "ticker": "ASPSZ",
       "name": "Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ASRT",
-      "name": "Assertio Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5289,6 +5283,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CAES",
+      "name": "Cantor Equity Partners VII, Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CAFG",
       "name": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
       "market": "NASDAQ",
@@ -7767,8 +7767,20 @@
       "isEtf": false
     },
     {
+      "ticker": "CXII",
+      "name": "Churchill Capital Corp XII -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CXIIU",
       "name": "Churchill Capital Corp XII - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CXIIW",
+      "name": "Churchill Capital Corp XII - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16065,6 +16077,12 @@
       "isEtf": true
     },
     {
+      "ticker": "KAZR",
+      "name": "Skyline Builders Group Holding Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "KBAB",
       "name": "KraneShares 2x Long BABA Daily ETF",
       "market": "NASDAQ",
@@ -17205,19 +17223,7 @@
       "isEtf": false
     },
     {
-      "ticker": "LILAV",
-      "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LILKV",
-      "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LILPV",
+      "ticker": "LILAP",
       "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
       "market": "NASDAQ",
       "isEtf": false
@@ -26073,12 +26079,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SCLS",
-      "name": "Stoneport Advisors Commodity Long Short ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "SCLX",
       "name": "Scilex Holding Company",
       "market": "NASDAQ",
@@ -26719,12 +26719,6 @@
       "name": "SanJac Alpha Low Duration ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "SKBL",
-      "name": "Skyline Builders Group Holding Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "SKIN",
@@ -33361,6 +33355,12 @@
       "name": "Accenture plc Class A Ordinary Shares (Ireland)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ACOM",
+      "name": "Harbor Active Commodity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ACP",
@@ -40767,12 +40767,6 @@
       "isEtf": true
     },
     {
-      "ticker": "COIO",
-      "name": "Leverage Shares 2x Capped Accelerated COIN Monthly ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "COIW",
       "name": "Roundhill COIN WeeklyPay ETF",
       "market": "NYSE",
@@ -41541,8 +41535,20 @@
       "isEtf": true
     },
     {
+      "ticker": "CTGG",
+      "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "CTGO",
       "name": "Contango Silver & Gold Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "CTHH",
+      "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -46981,6 +46987,12 @@
       "name": "Federated Hermes, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "FHIL",
+      "name": "Federated Hermes International Leaders ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "FHLC",
@@ -58737,12 +58749,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MSOO",
-      "name": "Leverage Shares 2x Capped Accelerated MSTR Monthly ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "MSOS",
       "name": "AdvisorShares Pure US Cannabis ETF",
       "market": "NYSE",
@@ -60627,6 +60633,18 @@
       "isEtf": false
     },
     {
+      "ticker": "NVA",
+      "name": "Nova Minerals Corp",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "NVA.W",
+      "name": "Nova Minerals Corp Warrants to Purchase",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "NVBT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Nov ETF",
       "market": "NYSE",
@@ -60647,12 +60665,6 @@
     {
       "ticker": "NVDB",
       "name": "ProShares Ultra NVDA",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "NVDO",
-      "name": "Leverage Shares 2x Capped Accelerated NVDA Monthly ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63037,12 +63049,6 @@
       "name": "Planet Fitness, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "PLOO",
-      "name": "Leverage Shares 2x Capped Accelerated PLTR Monthly ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "PLOW",
@@ -65921,6 +65927,12 @@
     {
       "ticker": "RQI",
       "name": "Cohen & Steers Quality Income Realty Fund Inc Common Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "RQI.V",
+      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -71721,12 +71733,6 @@
       "isEtf": true
     },
     {
-      "ticker": "TSLO",
-      "name": "Leverage Shares 2x Capped Accelerated TSLA Monthly ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "TSLP",
       "name": "Kurv Yield Premium Strategy Tesla (TSLA) ETF",
       "market": "NYSE",
@@ -72095,12 +72101,6 @@
     {
       "ticker": "TYG",
       "name": "Tortoise Energy Infrastructure Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TYG.R",
-      "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -76007,6 +76007,12 @@
     {
       "ticker": "XSHD",
       "name": "Invesco S&P SmallCap High Dividend Low Volatility ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XSHP",
+      "name": "Kurv SpaceX Enhanced Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
