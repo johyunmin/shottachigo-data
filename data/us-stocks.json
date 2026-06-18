@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-17T20:34:48.818Z",
-  "count": 12793,
+  "fetchedAt": "2026-06-18T21:02:32.264Z",
+  "count": 12807,
   "stocks": [
     {
       "ticker": "AACB",
@@ -10839,6 +10839,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FIMU",
+      "name": "Fidelity Intermediate Municipal Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "FINW",
       "name": "FinWise Bancorp",
       "market": "NASDAQ",
@@ -10865,6 +10871,12 @@
     {
       "ticker": "FISI",
       "name": "Financial Institutions, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FISN",
+      "name": "Deep Fission, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11295,6 +11307,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FREI",
+      "name": "Fidelity Real Estate Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "FRGT",
       "name": "Freight Technologies, Inc. -",
       "market": "NASDAQ",
@@ -11443,6 +11461,12 @@
       "name": "Fastly, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "FSTB",
+      "name": "Fidelity Short-Term Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "FSTR",
@@ -14247,8 +14271,20 @@
       "isEtf": false
     },
     {
+      "ticker": "IACQ",
+      "name": "Irenic Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IACQU",
       "name": "Irenic Acquisition Corp. - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IACQW",
+      "name": "Irenic Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16061,6 +16097,12 @@
     {
       "ticker": "KALU",
       "name": "Kaiser Aluminum Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "KARD",
+      "name": "Kardigan, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -19641,12 +19683,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MYPSW",
-      "name": "PLAYSTUDIOS, Inc.  - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MYRG",
       "name": "MYR Group, Inc.",
       "market": "NASDAQ",
@@ -20781,6 +20817,12 @@
       "isEtf": true
     },
     {
+      "ticker": "NUIF",
+      "name": "Nuveen US Infrastructure ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "NUSB",
       "name": "Nuveen Ultra Short Income ETF",
       "market": "NASDAQ",
@@ -20899,6 +20941,12 @@
       "name": "enVVeno Medical Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "NVPS",
+      "name": "PurePlay Nvidia Ecosystem Picks & Shovels Index ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "NVTS",
@@ -21629,6 +21677,12 @@
     {
       "ticker": "OPENZ",
       "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OPI",
+      "name": "Office Properties Income Trust - Common shares of beneficial interest",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23134,7 +23188,7 @@
     },
     {
       "ticker": "PN",
-      "name": "Skycorp Solar Group Limited -",
+      "name": "PN Smart Energy Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29823,6 +29877,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TVIVU",
+      "name": "Texas Ventures Acquisition IV Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TVRD",
       "name": "Tvardi Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -31781,6 +31841,12 @@
     {
       "ticker": "WKSP",
       "name": "Worksport, Ltd.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "WLCOU",
+      "name": "Wilco 63 Corporation - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -46405,6 +46471,12 @@
       "name": "Frontier Asset Core Bond ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "FCBM",
+      "name": "First Carolina Financial Services, Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "FCF",
@@ -63087,6 +63159,18 @@
       "isEtf": true
     },
     {
+      "ticker": "PLUN",
+      "name": "Plutonian Acquisition Corp II",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PLUN.R",
+      "name": "Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "PLUN.U",
       "name": "Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one",
       "market": "NYSE",
@@ -63199,12 +63283,6 @@
       "name": "PGIM S&P 500 Max Buffer ETF - May",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "PMNT",
-      "name": "Perfect Moment Ltd.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "PMNV",
@@ -72475,6 +72553,12 @@
       "name": "Unusual Machines, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "UMAL",
+      "name": "Defiance Daily Target 2X Long UMAC ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "UMAR",
