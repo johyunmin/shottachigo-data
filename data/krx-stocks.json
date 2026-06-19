@@ -1,7 +1,7 @@
 {
-  "basDt": "20260617",
-  "fetchedAt": "2026-06-18T21:02:31.060Z",
-  "count": 4538,
+  "basDt": "20260618",
+  "fetchedAt": "2026-06-19T20:14:46.653Z",
+  "count": 4537,
   "stocks": [
     {
       "ticker": "900110",
@@ -16542,12 +16542,6 @@
     {
       "ticker": "464280",
       "name": "티디에스팜",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "464440",
-      "name": "한국제13호스팩",
       "market": "KOSDAQ",
       "kind": "stock"
     },
