@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-21T20:12:14.943Z",
-  "count": 12807,
+  "fetchedAt": "2026-06-22T21:20:06.289Z",
+  "count": 12815,
   "stocks": [
     {
       "ticker": "AACB",
@@ -3916,7 +3916,7 @@
     },
     {
       "ticker": "BIRD",
-      "name": "Allbirds, Inc. - Class A",
+      "name": "Smartbird, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5097,12 +5097,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BULX",
-      "name": "GraniteShares 2x Long BULL Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "BUSE",
       "name": "First Busey Corporation",
       "market": "NASDAQ",
@@ -5301,8 +5295,20 @@
       "isEtf": false
     },
     {
+      "ticker": "CAII",
+      "name": "Collective Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CAIIU",
       "name": "Collective Acquisition Corp. II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CAIIW",
+      "name": "Collective Acquisition Corp. II - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9843,12 +9849,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ETRL",
-      "name": "GraniteShares 2x Long ETOR Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "ETS",
       "name": "Elite Express Holding Inc. - Class A",
       "market": "NASDAQ",
@@ -11577,8 +11577,20 @@
       "isEtf": false
     },
     {
+      "ticker": "FTHA",
+      "name": "Forefront Tech Holdings Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FTHAU",
       "name": "Forefront Tech Holdings Acquisition Corp - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FTHAW",
+      "name": "Forefront Tech Holdings Acquisition Corp - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11967,8 +11979,20 @@
       "isEtf": false
     },
     {
+      "ticker": "GCGR",
+      "name": "General Catalyst Global Resilience Merger Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GCGRU",
       "name": "General Catalyst Global Resilience Merger Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GCGRW",
+      "name": "General Catalyst Global Resilience Merger Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13229,6 +13253,12 @@
     {
       "ticker": "HAO",
       "name": "Haoxi Health Technology Limited - Class A Ord Share",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "HAPN",
+      "name": "Happen, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16263,8 +16293,20 @@
       "isEtf": false
     },
     {
+      "ticker": "KEYY",
+      "name": "Keystone Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "KEYYU",
       "name": "Keystone Acquisition Corp. - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "KEYYW",
+      "name": "Keystone Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18237,6 +18279,18 @@
       "isEtf": false
     },
     {
+      "ticker": "MCAH",
+      "name": "Mountain Crest Acquisition 6 Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MCAHR",
+      "name": "Mountain Crest Acquisition 6 Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MCAHU",
       "name": "Mountain Crest Acquisition 6 Corp. - Units",
       "market": "NASDAQ",
@@ -19261,12 +19315,6 @@
       "name": "Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "MSDD",
-      "name": "GraniteShares 2x Short MSTR Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "MSEX",
@@ -40113,12 +40161,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CIF",
-      "name": "MFS Intermediate High Income Fund",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CIFU",
       "name": "T-REX 2X Long CIFR Daily Target ETF",
       "market": "NYSE",
@@ -43525,6 +43567,12 @@
       "name": "DAQO New Energy Corp. American Depositary Shares, each representing five",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "DQJN",
+      "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "DRAI",
@@ -47171,6 +47219,12 @@
     {
       "ticker": "FINV",
       "name": "FinVolution Group American Depositary Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FIRY",
+      "name": "Firy Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -56103,12 +56157,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LC",
-      "name": "LendingClub Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "LCAP",
       "name": "Principal Capital Appreciation Select ETF",
       "market": "NYSE",
@@ -57465,12 +57513,6 @@
       "isEtf": true
     },
     {
-      "ticker": "MCR",
-      "name": "MFS Charter Income Trust",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "MCRP",
       "name": "Micropolis AI Robotics",
       "market": "NYSE",
@@ -58366,7 +58408,7 @@
     },
     {
       "ticker": "MMT",
-      "name": "MFS Multimarket Income Trust",
+      "name": "Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -58995,8 +59037,20 @@
       "isEtf": false
     },
     {
+      "ticker": "MTNE",
+      "name": "CH4 Natural Solutions Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "MTNE.U",
       "name": "CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "MTNE.W",
+      "name": "CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66009,8 +66063,8 @@
       "isEtf": false
     },
     {
-      "ticker": "RQI.V",
-      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+      "ticker": "RQI.R",
+      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66073,12 +66127,6 @@
       "name": "Republic Services, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "RSHO",
-      "name": "Tema U.S. Manufacturing & Reshoring ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "RSI",
@@ -68015,12 +68063,6 @@
     {
       "ticker": "SKIL",
       "name": "Skillsoft Corp. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SKLZ",
-      "name": "Skillz Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -74673,6 +74715,12 @@
       "isEtf": true
     },
     {
+      "ticker": "WELD",
+      "name": "Tema U.S. Manufacturing & Reshoring ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WELL",
       "name": "Welltower Inc.",
       "market": "NYSE",
@@ -76330,7 +76378,7 @@
     },
     {
       "ticker": "YALL",
-      "name": "God Bless America ETF",
+      "name": "Truth Social God Bless America ETF",
       "market": "NYSE",
       "isEtf": true
     },

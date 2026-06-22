@@ -1,7 +1,7 @@
 {
-  "basDt": "20260618",
-  "fetchedAt": "2026-06-21T20:12:14.201Z",
-  "count": 4537,
+  "basDt": "20260619",
+  "fetchedAt": "2026-06-22T21:20:05.644Z",
+  "count": 4538,
   "stocks": [
     {
       "ticker": "900110",
@@ -2207,7 +2207,7 @@
     },
     {
       "ticker": "006490",
-      "name": "인스코비",
+      "name": "프리티",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -3733,6 +3733,12 @@
       "ticker": "016590",
       "name": "신대양제지",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0165X0",
+      "name": "메리츠제2호스팩",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
