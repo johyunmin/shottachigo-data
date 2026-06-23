@@ -1,7 +1,13 @@
 {
-  "fetchedAt": "2026-06-22T21:20:06.289Z",
-  "count": 12815,
+  "fetchedAt": "2026-06-23T20:32:48.833Z",
+  "count": 12832,
   "stocks": [
+    {
+      "ticker": "AAAP",
+      "name": "Pacer Barings CLO Market Flex ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
     {
       "ticker": "AACB",
       "name": "Artius II Acquisition Inc. -",
@@ -12285,6 +12291,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GHXIU",
+      "name": "Gores Holdings XI, Inc. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GIBO",
       "name": "GIBO Holdings Limited -",
       "market": "NASDAQ",
@@ -17571,24 +17583,6 @@
       "isEtf": true
     },
     {
-      "ticker": "LOKV",
-      "name": "Live Oak Acquisition Corp. V -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LOKVU",
-      "name": "Live Oak Acquisition Corp. V - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LOKVW",
-      "name": "Live Oak Acquisition Corp. V - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LONA",
       "name": "LeonaBio, Inc.",
       "market": "NASDAQ",
@@ -21952,13 +21946,13 @@
     },
     {
       "ticker": "OSRH",
-      "name": "OSR Holdings, Inc.",
+      "name": "OSR Health, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "OSRHW",
-      "name": "OSR Holdings, Inc. - Warrant",
+      "name": "OSR Health, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22451,6 +22445,12 @@
     {
       "ticker": "PBRG",
       "name": "Leverage Shares 2X Long PBR Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "PBSC",
+      "name": "Pacer Barings Secured Credit Flex ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -27213,12 +27213,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SNBR",
-      "name": "Sleep Number Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SND",
       "name": "Smart Sand, Inc.",
       "market": "NASDAQ",
@@ -28473,12 +28467,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TALKW",
-      "name": "Talkspace, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "TANH",
       "name": "Tantech Holdings Ltd. -",
       "market": "NASDAQ",
@@ -29223,10 +29211,22 @@
       "isEtf": true
     },
     {
+      "ticker": "TMS",
+      "name": "Teamshares Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TMSF",
       "name": "T. Rowe Price Multi-Sector Income ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "TMSWW",
+      "name": "Teamshares Inc. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "TMTS",
@@ -35505,6 +35505,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ASTG",
+      "name": "Leverage Shares 2X Long ASTS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ASTN",
       "name": "Defiance Daily Target 2X Short ASTS ETF",
       "market": "NYSE",
@@ -36855,6 +36861,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BD",
+      "name": "Russell Investments Core Plus Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BDBT",
       "name": "Bluemonte Core Bond ETF",
       "market": "NYSE",
@@ -37727,6 +37739,12 @@
     {
       "ticker": "BKLC",
       "name": "BNY Mellon US Large Cap Core Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BKLG",
+      "name": "BNY Mellon US Large Cap Equity Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39645,6 +39663,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CDNG",
+      "name": "Leverage Shares 2X Long CDNS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CDP",
       "name": "COPT Defense Properties Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -41421,6 +41445,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CRIB",
+      "name": "Russell Investments Global Real Estate ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CRK",
       "name": "Comstock Resources, Inc.",
       "market": "NYSE",
@@ -41518,7 +41548,7 @@
     },
     {
       "ticker": "CSHP",
-      "name": "iShares Enhanced Short-Term Bond Active ETF",
+      "name": "iShares Dynamic Short-Term Active ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -42701,6 +42731,12 @@
     {
       "ticker": "DFAI",
       "name": "Dimensional International Core Equity Market ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DFAL",
+      "name": "Dimensional US Large Cap Core Equity Market ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45187,6 +45223,12 @@
       "name": "EnerSys",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ENTL",
+      "name": "Leverage Shares 2X Long ENTG Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ENVA",
@@ -47973,6 +48015,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FOMG",
+      "name": "Leverage Shares 2X Long FORM Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FOPC",
       "name": "Frontier Asset Opportunistic Credit ETF",
       "market": "NYSE",
@@ -48085,6 +48133,12 @@
       "name": "Forgent Power Solutions, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "FPSX",
+      "name": "Leverage Shares 2X Long FPS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "FPWR",
@@ -49213,6 +49267,12 @@
       "name": "Greenfire Resources Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GFSG",
+      "name": "Leverage Shares 2X Long GFS Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GGB",
@@ -51421,6 +51481,12 @@
       "name": "Hewlett Packard Enterprise Company 7.625% Series C Mandatory Convertible Preferred Stock",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "HPEL",
+      "name": "Leverage Shares 2X Long HPE Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "HPF",
@@ -59073,6 +59139,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MTSG",
+      "name": "Leverage Shares 2X Long MTSI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MTUL",
       "name": "ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN",
       "market": "NYSE",
@@ -63777,6 +63849,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PRXI",
+      "name": "Praxis Impact International ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PRXV",
       "name": "Praxis Impact Large Cap Value ETF",
       "market": "NYSE",
@@ -64641,8 +64719,14 @@
       "isEtf": true
     },
     {
-      "ticker": "QLEP.U",
-      "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+      "ticker": "QLEP",
+      "name": "Quantum Leap Acquisition Corp",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "QLEP.W",
+      "name": "Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },
@@ -68451,6 +68535,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SMTG",
+      "name": "Leverage Shares 2X Long SMTC Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SMTH",
       "name": "ALPS Smith Core Plus Bond ETF",
       "market": "NYSE",
@@ -68854,13 +68944,13 @@
     },
     {
       "ticker": "SPCQ",
-      "name": "Defiance Daily Target 2X Short SpaceX ETF",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "SPCU",
-      "name": "Defiance Daily Target 2X Long SpaceX ETF",
+      "name": "Defiance Daily Target 2X Long SPCX ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70887,6 +70977,12 @@
       "isEtf": false
     },
     {
+      "ticker": "THOR",
+      "name": "Thornburg Premium Income Builder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "THQ",
       "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
       "market": "NYSE",
@@ -71561,6 +71657,12 @@
     {
       "ticker": "TPTA",
       "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TPTS",
+      "name": "Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",
       "market": "NYSE",
       "isEtf": false
     },
