@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-23T20:32:48.833Z",
-  "count": 12832,
+  "fetchedAt": "2026-06-24T20:18:07.027Z",
+  "count": 12856,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1647,10 +1647,28 @@
       "isEtf": true
     },
     {
+      "ticker": "AMEI",
+      "name": "Amana Equity Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "AMEM",
+      "name": "Amana Developing World ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "AMGN",
       "name": "Amgen Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AMGR",
+      "name": "Amana Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AMID",
@@ -8091,12 +8109,6 @@
       "isEtf": false
     },
     {
-      "ticker": "DEVS",
-      "name": "DevvStream Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "DFDV",
       "name": "DeFi Development Corp.",
       "market": "NASDAQ",
@@ -9083,6 +9095,12 @@
     {
       "ticker": "ECBK",
       "name": "ECB Bancorp, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ECHO",
+      "name": "EchoStar Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21825,12 +21843,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ORGNW",
-      "name": "Origin Materials, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ORGO",
       "name": "Organogenesis Holdings Inc.  - Class A",
       "market": "NASDAQ",
@@ -21863,12 +21875,6 @@
     {
       "ticker": "ORIQW",
       "name": "Origin Investment Corp I - Redeemable Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ORIS",
-      "name": "Oriental Rise Holdings Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24213,6 +24219,12 @@
       "isEtf": false
     },
     {
+      "ticker": "QNDX",
+      "name": "State Street SPDR Portfolio Nasdaq 100 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "QNRX",
       "name": "Quoin Pharmaceuticals, Ltd. - American Depositary Shares",
       "market": "NASDAQ",
@@ -25738,13 +25750,13 @@
     },
     {
       "ticker": "RUM",
-      "name": "Rumble Inc. - Class A",
+      "name": "RUM Group Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "RUMBW",
-      "name": "Rumble Inc. - Warrant",
+      "name": "RUM Group Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26039,12 +26051,6 @@
     {
       "ticker": "SATLW",
       "name": "Satellogic Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SATS",
-      "name": "EchoStar Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27107,6 +27113,12 @@
     {
       "ticker": "SMH",
       "name": "VanEck Semiconductor ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "SMHC",
+      "name": "VanEck China Semiconductor ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -33459,10 +33471,22 @@
       "isEtf": true
     },
     {
+      "ticker": "ACLZ",
+      "name": "Corgi ACLS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ACM",
       "name": "AECOM",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ACMM",
+      "name": "Corgi ACMR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ACN",
@@ -33581,6 +33605,12 @@
     {
       "ticker": "ACYN",
       "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ACYQ",
+      "name": "FT Vest Autocallable Barrier & High Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39213,6 +39243,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CAMC",
+      "name": "Corgi CAMT 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CAML",
       "name": "Congress Large Cap Growth ETF",
       "market": "NYSE",
@@ -39287,6 +39323,12 @@
     {
       "ticker": "CARU",
       "name": "MAX Auto Industry 3x Leveraged ETN",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CARX",
+      "name": "Corgi CART 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -41501,6 +41543,12 @@
     {
       "ticker": "CRTC",
       "name": "Xtrackers US National Critical Technologies ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CRUC",
+      "name": "Corgi CRUS 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -48573,6 +48621,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FUSD",
+      "name": "Federated Hermes Ultrashort Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FUSI",
       "name": "American Century Multisector Floating Income ETF",
       "market": "NYSE",
@@ -52869,6 +52923,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IINC",
+      "name": "Alki Consolidated Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "IIPR",
       "name": "Innovative Industrial Properties, Inc.",
       "market": "NYSE",
@@ -55437,6 +55497,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KEYX",
+      "name": "Corgi KEYS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KF",
       "name": "Korea Fund, Inc. (The) New",
       "market": "NYSE",
@@ -56179,6 +56245,12 @@
       "name": "Lithium Argentina AG Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LASC",
+      "name": "Corgi LASR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LATR",
@@ -56937,6 +57009,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LRNX",
+      "name": "Corgi LRN 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LRNZ",
       "name": "TrueShares Technology, AI & Deep Learning ETF",
       "market": "NYSE",
@@ -56951,6 +57029,12 @@
     {
       "ticker": "LSAT",
       "name": "LeaderShares AlphaFactor Tactical Focused ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LSCP",
+      "name": "Natixis Loomis Sayles Dynamic Core Plus ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56981,6 +57065,12 @@
     {
       "ticker": "LST",
       "name": "Leuthold Select Industries ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LSTB",
+      "name": "Natixis Loomis Sayles Total Return Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57317,12 +57407,6 @@
     {
       "ticker": "MAPP",
       "name": "Harbor Multi-Asset Explorer ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MARB",
-      "name": "First Trust Merger Arbitrage ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58521,6 +58605,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MNSX",
+      "name": "Corgi MNST 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MNTN",
       "name": "MNTN, Inc. Class A",
       "market": "NYSE",
@@ -58903,6 +58993,12 @@
       "name": "MSC Income Fund, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MSIX",
+      "name": "Corgi MSI 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MSLC",
@@ -60639,6 +60735,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NTRL",
+      "name": "First Trust Equity Market Neutral ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NTSD",
       "name": "WisdomTree Efficient U.S. Plus International Equity Fund",
       "market": "NYSE",
@@ -61639,6 +61741,12 @@
       "name": "Onto Innovation Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ONTX",
+      "name": "Corgi ONTO 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ONX",
@@ -65115,6 +65223,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RAM",
+      "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RAMP",
       "name": "LiveRamp Holdings, Inc.",
       "market": "NYSE",
@@ -65877,6 +65991,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RMBC",
+      "name": "Corgi RMBS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RMCA",
       "name": "Rockefeller California Municipal Bond ETF",
       "market": "NYSE",
@@ -65887,6 +66007,12 @@
       "name": "ResMed Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "RMHY",
+      "name": "Global X Adaptive Risk Managed Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "RMI",
@@ -68009,6 +68135,12 @@
     {
       "ticker": "SIMS",
       "name": "State Street SPDR S&P Kensho Intelligent Structures ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SIMX",
+      "name": "Corgi SIMO 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71631,6 +71763,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TPLX",
+      "name": "Corgi TPL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TPOR",
       "name": "Direxion Daily Transportation Bull 3X ETF",
       "market": "NYSE",
@@ -72721,6 +72859,12 @@
       "name": "United Microelectronics Corporation (NEW)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "UMCX",
+      "name": "Corgi UMC 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "UMDD",

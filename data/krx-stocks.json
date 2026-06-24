@@ -1,7 +1,7 @@
 {
-  "basDt": "20260622",
-  "fetchedAt": "2026-06-23T20:32:47.754Z",
-  "count": 4538,
+  "basDt": "20260623",
+  "fetchedAt": "2026-06-24T20:18:04.890Z",
+  "count": 4542,
   "stocks": [
     {
       "ticker": "900110",
@@ -8855,7 +8855,7 @@
     },
     {
       "ticker": "091970",
-      "name": "나노캠텍",
+      "name": "LSK아이로봇",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -18868,6 +18868,36 @@
       "kind": "etf"
     },
     {
+      "ticker": "0208N0",
+      "name": "IBK 코스피액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0209D0",
+      "name": "KODEX 전고체배터리ESS TOP2플러스",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0209Z0",
+      "name": "ACE 코리아AI전력TOP10",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0210A0",
+      "name": "ACE K반도체TOP2+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0210E0",
+      "name": "PLUS 200커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "069500",
       "name": "KODEX 200",
       "market": "KOSPI",
@@ -25026,12 +25056,6 @@
     {
       "ticker": "550041",
       "name": "N2 미국 IT TOP5 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550043",
-      "name": "N2 인버스 레버리지 WTI원유 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
