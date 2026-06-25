@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-24T20:18:07.027Z",
-  "count": 12856,
+  "fetchedAt": "2026-06-25T20:31:23.352Z",
+  "count": 12862,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -663,12 +663,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ADTX",
-      "name": "Aditxt, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ADUR",
       "name": "Aduro Clean Technologies Inc.",
       "market": "NASDAQ",
@@ -1227,6 +1221,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AIX",
+      "name": "Defiance US 100 Tech AI Moat ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "AIXC",
       "name": "AIxCrypto Holdings, Inc.",
       "market": "NASDAQ",
@@ -1511,6 +1511,12 @@
     {
       "ticker": "ALPS",
       "name": "ALPS Group Inc -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ALPXU",
+      "name": "Alpex Acquisition Corporation - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5524,7 +5530,7 @@
     },
     {
       "ticker": "CBAT",
-      "name": "CBAK Energy Technology, Inc.",
+      "name": "CBAK Energy Technology Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6095,6 +6101,12 @@
     {
       "ticker": "CGC",
       "name": "Canopy Growth Corporation - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CGCFU",
+      "name": "Cartesian Growth Corporation IV - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6767,12 +6779,6 @@
     {
       "ticker": "CNSP",
       "name": "CNS Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CNTA",
-      "name": "Centessa Pharmaceuticals plc - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8639,6 +8645,12 @@
     {
       "ticker": "DSACW",
       "name": "Daedalus Special Acquisition Corp. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "DSC",
+      "name": "DSC Holdings Ltd. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11825,6 +11837,12 @@
     {
       "ticker": "FVNNU",
       "name": "Future Vision II Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FWACU",
+      "name": "Futurewave Acquisition Corporation - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34635,6 +34653,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AMHI",
+      "name": "American Beacon Aberdeen Municipal High Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AMJB",
       "name": "Alerian MLP Index ETN",
       "market": "NYSE",
@@ -37966,7 +37990,7 @@
     },
     {
       "ticker": "BLX",
-      "name": "Banco Latinoamericano de Comercio Exterior, S.A.",
+      "name": "Bladex, Inc. Class E",
       "market": "NYSE",
       "isEtf": false
     },
@@ -42003,12 +42027,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CWAN",
-      "name": "Clearwater Analytics Holdings, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CWB",
       "name": "State Street SPDR Bloomberg Convertible Securities ETF",
       "market": "NYSE",
@@ -43629,6 +43647,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DPC",
+      "name": "DPC Holdings PLC",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "DPG",
       "name": "Duff & Phelps Utility and Infrastructure Fund Inc.",
       "market": "NYSE",
@@ -43661,6 +43685,12 @@
     {
       "ticker": "DRAI",
       "name": "Draco Evolution AI ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DRAL",
+      "name": "Defiance Daily Target 2X Long DRAM ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75853,6 +75883,12 @@
       "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "XIGV",
+      "name": "Defiance US 100 Tech Ex Software ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "XIJN",
