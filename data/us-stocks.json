@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-25T20:31:23.352Z",
-  "count": 12862,
+  "fetchedAt": "2026-06-26T20:17:26.408Z",
+  "count": 12884,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -18693,6 +18693,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MFPVV",
+      "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MFVL",
       "name": "Motley Fool Value Factor ETF",
       "market": "NASDAQ",
@@ -18773,6 +18779,12 @@
     {
       "ticker": "MIDD",
       "name": "The Middleby Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MIDDV",
+      "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26325,12 +26337,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SDM",
-      "name": "Smart Digital Group Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SDOT",
       "name": "Sadot Group Inc.",
       "market": "NASDAQ",
@@ -30477,6 +30483,18 @@
       "isEtf": true
     },
     {
+      "ticker": "USDE",
+      "name": "StablecoinX Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "USDEW",
+      "name": "StablecoinX Inc. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "USDX",
       "name": "SGI Enhanced Core ETF",
       "market": "NASDAQ",
@@ -33759,6 +33777,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AEHG",
+      "name": "Leverage Shares 2X Long AEHR Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AEM",
       "name": "Agnico Eagle Mines Limited",
       "market": "NYSE",
@@ -34180,7 +34204,7 @@
     },
     {
       "ticker": "AIB",
-      "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
+      "name": "AIB Data Centers Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -34569,6 +34593,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AMAA",
+      "name": "Corgi AMZN 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AMAU",
       "name": "Leverage Shares 2X Long AMAT Daily ETF",
       "market": "NYSE",
@@ -34609,6 +34639,12 @@
       "name": "Amcor plc",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AMDC",
+      "name": "Corgi AMD 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AMDW",
@@ -35071,6 +35107,12 @@
       "name": "Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "APPC",
+      "name": "Corgi APP 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "APRB",
@@ -35567,6 +35609,12 @@
     {
       "ticker": "ASTN",
       "name": "Defiance Daily Target 2X Short ASTS ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ASTT",
+      "name": "Corgi ASTS 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40967,6 +41015,12 @@
     {
       "ticker": "COIW",
       "name": "Roundhill COIN WeeklyPay ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "COIX",
+      "name": "Corgi COIN 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -46623,6 +46677,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FBX",
+      "name": "Corgi META 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FBY",
       "name": "YieldMax META Option Income Strategy ETF",
       "market": "NYSE",
@@ -50047,6 +50107,12 @@
       "name": "Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GOGL",
+      "name": "Corgi GOOGL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GOLD",
@@ -56241,6 +56307,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LADM",
+      "name": "Pacer Swan SOS Laddered Moderate ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LADR",
       "name": "Ladder Capital Corp Class A",
       "market": "NYSE",
@@ -56255,12 +56327,6 @@
     {
       "ticker": "LANV",
       "name": "Lanvin Group Holdings Limited",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LANV.W",
-      "name": "Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
     },
@@ -57591,6 +57657,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MBGL.V",
+      "name": "Mobility Global Inc. Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "MBI",
       "name": "MBIA Inc.",
       "market": "NYSE",
@@ -58207,6 +58279,12 @@
       "name": "Miami International Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MIC",
+      "name": "Corgi MU 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MICC",
@@ -58977,6 +59055,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MSFC",
+      "name": "Corgi MSFT 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MSFO",
       "name": "YieldMax MSFT Option Income Strategy ETF",
       "market": "NYSE",
@@ -59087,6 +59171,12 @@
     {
       "ticker": "MSTB",
       "name": "LHA Market State Tactical Beta ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MSTC",
+      "name": "Corgi MSTR 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60989,6 +61079,12 @@
     {
       "ticker": "NVBW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Nov ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "NVC",
+      "name": "Corgi NVDA 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63399,6 +63495,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PLTL",
+      "name": "Corgi PLTR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PLTM",
       "name": "GraniteShares Platinum Shares ETF",
       "market": "NYSE",
@@ -63791,12 +63893,6 @@
     {
       "ticker": "PR",
       "name": "Permian Resources Corporation Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "PRA",
-      "name": "ProAssurance Corporation",
       "market": "NYSE",
       "isEtf": false
     },
@@ -68175,6 +68271,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SIND",
+      "name": "Sinda Ltd.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SIO",
       "name": "Touchstone Strategic Income ETF",
       "market": "NYSE",
@@ -68763,6 +68865,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SNDC",
+      "name": "Corgi SNDK 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SNDG",
       "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "market": "NYSE",
@@ -69203,6 +69311,12 @@
     {
       "ticker": "SPGI",
       "name": "S&P Global Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "SPGI.V",
+      "name": "S&P Global Inc. Common Stock When-Issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -70869,6 +70983,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TESC",
+      "name": "Corgi TSLA 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TESL",
       "name": "Simplify Volt TSLA Revolution ETF",
       "market": "NYSE",
@@ -72417,6 +72537,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TWSC",
+      "name": "Corgi TSM 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TX",
       "name": "Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",
       "market": "NYSE",
@@ -72665,6 +72791,12 @@
     {
       "ticker": "UCOP",
       "name": "ProShares Ultra Copper K-1 Free ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "UCTX",
+      "name": "Corgi UCTT 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },

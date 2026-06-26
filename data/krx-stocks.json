@@ -1,7 +1,7 @@
 {
-  "basDt": "20260624",
-  "fetchedAt": "2026-06-25T20:31:22.617Z",
-  "count": 4542,
+  "basDt": "20260625",
+  "fetchedAt": "2026-06-26T20:17:25.358Z",
+  "count": 4539,
   "stocks": [
     {
       "ticker": "900110",
@@ -6815,7 +6815,7 @@
     },
     {
       "ticker": "056190",
-      "name": "에스에프에이",
+      "name": "SFA",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -12185,7 +12185,7 @@
     },
     {
       "ticker": "222080",
-      "name": "씨아이에스",
+      "name": "SFA넥셀",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -20668,12 +20668,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "301410",
-      "name": "PLUS 코스닥150선물인버스",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "302190",
       "name": "TIGER 중장기국채",
       "market": "KOSPI",
@@ -21802,12 +21796,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "422260",
-      "name": "VITA MZ소비액티브",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "422420",
       "name": "RISE 2차전지액티브",
       "market": "KOSPI",
@@ -22728,12 +22716,6 @@
     {
       "ticker": "460960",
       "name": "ACE 글로벌인컴TOP10",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "461270",
-      "name": "ACE 26-06 회사채(AA-이상)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
