@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-28T19:54:08.954Z",
-  "count": 12884,
+  "fetchedAt": "2026-06-29T20:24:35.503Z",
+  "count": 12883,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2057,6 +2057,18 @@
     {
       "ticker": "APM",
       "name": "Aptorum Group Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APMC",
+      "name": "AmperCap Acquisition Company -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APMCR",
+      "name": "AmperCap Acquisition Company - Right",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13833,14 +13845,8 @@
       "isEtf": false
     },
     {
-      "ticker": "HONAV",
+      "ticker": "HONA",
       "name": "Honeywell Aerospace Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HONIV",
-      "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20537,12 +20543,6 @@
     {
       "ticker": "NN",
       "name": "NextNav Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NNAVW",
-      "name": "NextNav Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30232,7 +30232,7 @@
     },
     {
       "ticker": "UFOX",
-      "name": "Defiance Connective Technologies ETF",
+      "name": "Defiance Space and Connective Tech ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -43569,6 +43569,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DMC",
+      "name": "Del Monte Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "DMO",
       "name": "Western Asset Mortgage Opportunity Fund Inc.",
       "market": "NYSE",
@@ -46899,12 +46905,6 @@
       "isEtf": true
     },
     {
-      "ticker": "FDP",
-      "name": "Del Monte Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "FDRR",
       "name": "Fidelity Dividend ETF for Rising Rates",
       "market": "NYSE",
@@ -48927,12 +48927,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GAID",
-      "name": "Guinness Atkinson International Dividend Builder ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GAL",
       "name": "State Street Global Allocation ETF",
       "market": "NYSE",
@@ -48997,12 +48991,6 @@
       "name": "Galiano Gold Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "GAUD",
-      "name": "Guinness Atkinson US Dividend Builder ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "GAUG",
@@ -56685,12 +56673,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LGL.R",
-      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "LGLV",
       "name": "State Street SPDR US Large Cap Low Volatility Index ETF",
       "market": "NYSE",
@@ -59577,6 +59559,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MWHS",
+      "name": "Skylar Electricity Futures ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MX",
       "name": "Magnachip Semiconductor Corporation",
       "market": "NYSE",
@@ -62075,6 +62063,18 @@
     {
       "ticker": "OSTX",
       "name": "OS Therapies Incorporated",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OTAI",
+      "name": "Starlink AI Acquisition Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OTAI.R",
+      "name": "Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one",
       "market": "NYSE",
       "isEtf": false
     },
@@ -69033,12 +69033,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SOLR",
-      "name": "Guinness Atkinson Sustainable Energy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SOLV",
       "name": "Solventum Corporation",
       "market": "NYSE",
@@ -69538,7 +69532,7 @@
     },
     {
       "ticker": "SPUC",
-      "name": "Simplify US Equity PLUS Upside Convexity ETF",
+      "name": "Simplify US Equity Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69826,7 +69820,7 @@
     },
     {
       "ticker": "SRXH",
-      "name": "SRX Health Solutions, Inc.",
+      "name": "SRX Global Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -71128,7 +71122,7 @@
     },
     {
       "ticker": "TGB",
-      "name": "Taseko Mines, Ltd.",
+      "name": "Trekor Metals Limited Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
