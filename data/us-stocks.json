@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-29T20:24:35.503Z",
-  "count": 12883,
+  "fetchedAt": "2026-06-30T20:29:40.118Z",
+  "count": 12899,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -12501,12 +12501,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GLDY",
-      "name": "Defiance Gold Enhanced Options Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "GLE",
       "name": "Global Engine Group Holding Limited -",
       "market": "NASDAQ",
@@ -12697,6 +12691,12 @@
       "name": "Gogo Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "GOLI",
+      "name": "Defiance Gold Enhanced Options Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "GOOD",
@@ -13787,12 +13787,6 @@
     {
       "ticker": "HNNA",
       "name": "Hennessy Advisors, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HNNAZ",
-      "name": "Hennessy Advisors, Inc. - 4.875% Notes due 2026",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28641,12 +28635,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TBLAW",
-      "name": "Taboola.com Ltd. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "TBLD",
       "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund",
       "market": "NASDAQ",
@@ -33201,6 +33189,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AAC.U",
+      "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "AADX",
       "name": "Applied Aerospace & Defense, Inc.",
       "market": "NYSE",
@@ -33469,6 +33463,12 @@
       "name": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ACHX",
+      "name": "Corgi ACHR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ACI",
@@ -35379,6 +35379,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ARMA",
+      "name": "Corgi ARM 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ARMH",
       "name": "Arm Holdings PLC ADRhedged",
       "market": "NYSE",
@@ -35585,6 +35591,12 @@
     {
       "ticker": "ASMH",
       "name": "ASML Holding NV ADRhedged",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ASMZ",
+      "name": "Corgi ASML 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -35923,6 +35935,12 @@
       "name": "AEVEX Corp. Class A",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AVGC",
+      "name": "Corgi AVGO 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AVGE",
@@ -37065,6 +37083,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BEC",
+      "name": "Corgi BE 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BEDZ",
       "name": "AdvisorShares Hotel ETF",
       "market": "NYSE",
@@ -37702,7 +37726,7 @@
     },
     {
       "ticker": "BITX",
-      "name": "2x Bitcoin Strategy ETF",
+      "name": "2x Bitcoin ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -38650,7 +38674,7 @@
     },
     {
       "ticker": "BSR",
-      "name": "Beacon Selective Risk ETF",
+      "name": "Beacon Unified Catalyst ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -38809,12 +38833,6 @@
       "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "BTYB",
-      "name": "VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "BTZ",
@@ -40297,6 +40315,12 @@
       "name": "Ciena Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CIFC",
+      "name": "Corgi CIFR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CIFU",
@@ -43293,6 +43317,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DISK",
+      "name": "Tema Memory ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DISV",
       "name": "Dimensional International Small Cap Value ETF",
       "market": "NYSE",
@@ -45373,6 +45403,12 @@
       "name": "Enova International, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "EO",
+      "name": "Corgi EOSE 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "EOCT",
@@ -49683,6 +49719,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GLAS",
+      "name": "Glass House Brands Inc. Subordinate Voting Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "GLBL",
       "name": "Pacer MSCI World Industry Advantage ETF",
       "market": "NYSE",
@@ -49857,6 +49899,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GLX",
+      "name": "Corgi GLXY 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GLXU",
       "name": "T-REX 2X Long GLXY Daily Target ETF",
       "market": "NYSE",
@@ -49891,6 +49939,12 @@
       "name": "GameStop Corporation Warrants to Purchase",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GMEC",
+      "name": "Corgi GME 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GMED",
@@ -53463,6 +53517,12 @@
       "isEtf": true
     },
     {
+      "ticker": "IONC",
+      "name": "Corgi IONQ 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "IONQ",
       "name": "IonQ, Inc.",
       "market": "NYSE",
@@ -53491,6 +53551,12 @@
       "name": "Income Opportunity Realty Investors, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "IOSX",
+      "name": "Corgi AAPL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "IOT",
@@ -56353,6 +56419,12 @@
       "name": "Lazard, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LAZR",
+      "name": "Tema Photonics & Optical ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LB",
@@ -61983,6 +62055,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ORAC",
+      "name": "Corgi ORCL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ORC",
       "name": "Orchid Island Capital, Inc.",
       "market": "NYSE",
@@ -65361,6 +65439,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RANK",
+      "name": "Defiance KSM TipRanks Analyst ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RAVI",
       "name": "FlexShares Ultra-Short Income Fund",
       "market": "NYSE",
@@ -66053,6 +66137,12 @@
     {
       "ticker": "RKTL",
       "name": "Defiance Daily Target 2X Long RKT ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "RKX",
+      "name": "Corgi RKLB 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68635,6 +68725,12 @@
       "name": "Summit Midstream Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "SMCC",
+      "name": "Corgi SMCI 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "SMCP",
@@ -71935,12 +72031,6 @@
       "name": "Timothy Plan US Small Cap Core ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "TPTA",
-      "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "TPTS",
@@ -76465,6 +76555,12 @@
       "name": "Expro Group Holdings N.V.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "XQTM",
+      "name": "Corgi Quantum Computing 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "XRLX",

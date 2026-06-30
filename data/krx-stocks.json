@@ -1,7 +1,7 @@
 {
-  "basDt": "20260626",
-  "fetchedAt": "2026-06-29T20:24:34.501Z",
-  "count": 4396,
+  "basDt": "20260629",
+  "fetchedAt": "2026-06-30T20:29:39.232Z",
+  "count": 4395,
   "stocks": [
     {
       "ticker": "900110",
@@ -3455,7 +3455,7 @@
     },
     {
       "ticker": "013720",
-      "name": "THE CUBE&",
+      "name": "청보",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -10842,6 +10842,12 @@
     {
       "ticker": "153710",
       "name": "옵티팜",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "153890",
+      "name": "져스텍",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -24402,18 +24408,6 @@
     {
       "ticker": "520066",
       "name": "미래에셋 KRX금현물 Auto-KO-C 2810-01 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520068",
-      "name": "미래에셋 2X 홍콩H 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520069",
-      "name": "미래에셋 -2X 홍콩H 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
