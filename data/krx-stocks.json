@@ -1,7 +1,7 @@
 {
-  "basDt": "20260629",
-  "fetchedAt": "2026-06-30T20:29:39.232Z",
-  "count": 4395,
+  "basDt": "20260630",
+  "fetchedAt": "2026-07-01T20:27:55.145Z",
+  "count": 4396,
   "stocks": [
     {
       "ticker": "900110",
@@ -2584,12 +2584,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "008500",
-      "name": "일정실업",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
       "ticker": "008600",
       "name": "윌비스",
       "market": "KOSPI",
@@ -3721,6 +3715,12 @@
       "ticker": "016450",
       "name": "한세예스24홀딩스",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0164H0",
+      "name": "한국제16호스팩",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -12424,12 +12424,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "230360",
-      "name": "에코마케팅",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "232140",
       "name": "와이씨",
       "market": "KOSDAQ",
@@ -15113,7 +15107,7 @@
     },
     {
       "ticker": "366030",
-      "name": "공구우먼",
+      "name": "나인앤컴퍼니",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16746,6 +16740,12 @@
     {
       "ticker": "474930",
       "name": "신한제13호스팩",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "475040",
+      "name": "스트라드비젼",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -18808,6 +18808,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0198A0",
+      "name": "KIWOOM 코스닥150커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0198B0",
       "name": "1Q 삼성전자선물단일종목레버리지",
       "market": "KOSPI",
@@ -20471,7 +20477,7 @@
     },
     {
       "ticker": "284430",
-      "name": "KODEX 200미국채혼합",
+      "name": "KODEX 200미국채혼합50",
       "market": "KOSPI",
       "kind": "etf"
     },

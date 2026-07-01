@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-30T20:29:40.118Z",
-  "count": 12899,
+  "fetchedAt": "2026-07-01T20:27:55.755Z",
+  "count": 12913,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -783,8 +783,26 @@
       "isEtf": false
     },
     {
+      "ticker": "AESP",
+      "name": "Aeon Acquisition I Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AESPR",
+      "name": "Aeon Acquisition I Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AESPU",
       "name": "Aeon Acquisition I Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AESPW",
+      "name": "Aeon Acquisition I Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4945,6 +4963,12 @@
       "name": "Invesco BulletShares 2035 Municipal Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "BSP",
+      "name": "Bending Spoons S.p.A. -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "BSRR",
@@ -9127,6 +9151,12 @@
       "name": "EchoStar Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ECHX",
+      "name": "Leverage Shares 2X Long ECHO Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ECOR",
@@ -13809,6 +13839,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HODO",
+      "name": "House of Doge Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "HODU",
       "name": "Direxion Daily HOOD Bull 2X ETF",
       "market": "NASDAQ",
@@ -15669,6 +15705,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ITG",
+      "name": "ITG, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ITHA",
       "name": "ITHAX Acquisition Corp III -",
       "market": "NASDAQ",
@@ -17357,6 +17399,12 @@
     {
       "ticker": "LILAP",
       "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LIME",
+      "name": "Neutron Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20721,6 +20769,18 @@
       "isEtf": false
     },
     {
+      "ticker": "NSLR",
+      "name": "Neostellar Capital Corp. - Closed End Fund",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NSLRL",
+      "name": "Neostellar Capital Corp. - 6.00% Notes due 2026",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NSPR",
       "name": "InspireMD Inc.",
       "market": "NASDAQ",
@@ -21971,6 +22031,12 @@
     {
       "ticker": "OSPN",
       "name": "OneSpan Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OSPRU",
+      "name": "Osprey Acquisition Corp. III - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26061,12 +26127,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SATG",
-      "name": "Leverage Shares 2X Long SATS Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "SATL",
       "name": "Satellogic Inc. - Class A",
       "market": "NASDAQ",
@@ -27891,18 +27951,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SSSS",
-      "name": "SuRo Capital Corp. - Closed End Fund",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SSSSL",
-      "name": "SuRo Capital Corp. - 6.00% Notes due 2026",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SSTI",
       "name": "SoundThinking, Inc.",
       "market": "NASDAQ",
@@ -28613,12 +28661,6 @@
     {
       "ticker": "TBCH",
       "name": "Turtle Beach Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TBH",
-      "name": "Brag House Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31019,12 +31061,6 @@
     {
       "ticker": "VHUB",
       "name": "VenHub Global, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VIASP",
-      "name": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -35307,6 +35343,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ARKE",
+      "name": "ARK DIET Q3 Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ARKF",
       "name": "ARK Blockchain & Fintech Innovation ETF",
       "market": "NYSE",
@@ -37953,12 +37995,6 @@
       "isEtf": true
     },
     {
-      "ticker": "BLD",
-      "name": "TopBuild Corp.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BLDG",
       "name": "Cambria Global Real Estate ETF",
       "market": "NYSE",
@@ -40315,6 +40351,12 @@
       "name": "Ciena Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CIEX",
+      "name": "Tradr 2X Long CIEN Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CIFC",
@@ -47031,6 +47073,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FECM",
+      "name": "First Eagle Core Municipal ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FEDM",
       "name": "FlexShares ESG & Climate Developed Markets ex-US Core Index Fund",
       "market": "NYSE",
@@ -47125,6 +47173,12 @@
       "name": "Ferguson Enterprises Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "FESC",
+      "name": "First Eagle Small Cap Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "FESM",
@@ -54777,12 +54831,6 @@
       "isEtf": true
     },
     {
-      "ticker": "JHG",
-      "name": "Janus Henderson Group plc",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "JHHY",
       "name": "John Hancock High Yield ETF",
       "market": "NYSE",
@@ -55283,6 +55331,12 @@
     {
       "ticker": "JULH",
       "name": "Innovator Premium Income 20 Barrier ETF - July",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JULI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Jul ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55835,6 +55889,12 @@
     {
       "ticker": "KMCA",
       "name": "PLUS Korea Manufacturing Core Alliance Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "KMEM",
+      "name": "Kurv Memory Select ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57711,8 +57771,8 @@
       "isEtf": true
     },
     {
-      "ticker": "MBGL.V",
-      "name": "Mobility Global Inc. Common Stock When-Issued",
+      "ticker": "MBGL",
+      "name": "Mobility Global Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -63969,6 +64029,30 @@
       "isEtf": true
     },
     {
+      "ticker": "PQV",
+      "name": "PGIM S&P 500 Quarterly Buffer 5 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "PQX",
+      "name": "PGIM S&P 500 Quarterly Buffer 10 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "PQXV",
+      "name": "PGIM S&P 500 Quarterly Buffer 15 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "PQXX",
+      "name": "PGIM S&P 500 Quarterly Buffer 20 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PR",
       "name": "Permian Resources Corporation Class A",
       "market": "NYSE",
@@ -65121,6 +65205,12 @@
       "isEtf": false
     },
     {
+      "ticker": "QNTU",
+      "name": "Tradr 2X Long QNT Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QPX",
       "name": "AdvisorShares Q Dynamic Growth ETF",
       "market": "NYSE",
@@ -66209,6 +66299,12 @@
     {
       "ticker": "RMBC",
       "name": "Corgi RMBS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "RMBX",
+      "name": "Tradr 2X Long RMBS Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67887,12 +67983,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SEM",
-      "name": "Select Medical Holdings Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "SEMG",
       "name": "Suncoast Select Growth ETF",
       "market": "NYSE",
@@ -68329,12 +68419,6 @@
       "name": "Global X Silver Miners ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "SILA",
-      "name": "Sila Realty Trust, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "SILJ",
@@ -69405,12 +69489,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SPGI.V",
-      "name": "S&P Global Inc. Common Stock When-Issued",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "SPGM",
       "name": "State Street SPDR Portfolio MSCI Global Stock Market ETF",
       "market": "NYSE",
@@ -70061,12 +70139,6 @@
     {
       "ticker": "STE",
       "name": "STERIS plc (Ireland)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "STEL",
-      "name": "Stellar Bancorp, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -72303,6 +72375,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TSEU",
+      "name": "Tradr 2X Long TSEM Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TSI",
       "name": "TCW Strategic Income Fund, Inc.",
       "market": "NYSE",
@@ -72481,6 +72559,12 @@
       "name": "Tetra Technologies, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "TTMX",
+      "name": "Tradr 2X Long TTMI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "TTOP",
