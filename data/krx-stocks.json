@@ -1,7 +1,7 @@
 {
-  "basDt": "20260630",
-  "fetchedAt": "2026-07-01T20:27:55.145Z",
-  "count": 4396,
+  "basDt": "20260701",
+  "fetchedAt": "2026-07-02T20:02:19.721Z",
+  "count": 4393,
   "stocks": [
     {
       "ticker": "900110",
@@ -1471,6 +1471,12 @@
       "ticker": "003960",
       "name": "사조대림",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0039P0",
+      "name": "매드업",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -4896,12 +4902,6 @@
     {
       "ticker": "032960",
       "name": "동일기연",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "032980",
-      "name": "바이온",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -9436,12 +9436,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "101390",
-      "name": "아이엠",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "101400",
       "name": "엔시트론",
       "market": "KOSDAQ",
@@ -9666,12 +9660,6 @@
     {
       "ticker": "106240",
       "name": "파인테크닉스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "106520",
-      "name": "노블엠앤비",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -12342,12 +12330,6 @@
     {
       "ticker": "226950",
       "name": "올릭스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "227100",
-      "name": "프로브잇",
       "market": "KOSDAQ",
       "kind": "stock"
     },

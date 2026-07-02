@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-01T20:27:55.755Z",
-  "count": 12913,
+  "fetchedAt": "2026-07-02T20:02:21.421Z",
+  "count": 12924,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2753,12 +2753,6 @@
     {
       "ticker": "ATLCZ",
       "name": "Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ATLN",
-      "name": "Atlantic International Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6045,12 +6039,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CEPT",
-      "name": "Cantor Equity Partners II, Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CEPV",
       "name": "Cantor Equity Partners V, Inc. -",
       "market": "NASDAQ",
@@ -6346,7 +6334,7 @@
     },
     {
       "ticker": "CHRN",
-      "name": "ChronoScale Corporation",
+      "name": "ChronoScale Holdings Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6467,6 +6455,12 @@
     {
       "ticker": "CINGW",
       "name": "Cingulate Inc. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CIRC",
+      "name": "Circle8 Group, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10005,12 +9999,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EVGOW",
-      "name": "EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EVLV",
       "name": "Evolv Technologies Holdings, Inc. - Class A",
       "market": "NASDAQ",
@@ -11925,6 +11913,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FXHO",
+      "name": "UTime Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FXNC",
       "name": "First National Corporation",
       "market": "NASDAQ",
@@ -13103,6 +13097,18 @@
     {
       "ticker": "GSRFU",
       "name": "GSR IV Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GSRV",
+      "name": "GSR V Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GSRVR",
+      "name": "GSR V Acquisition Corp. - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15545,6 +15551,18 @@
     {
       "ticker": "IQ",
       "name": "iQIYI, Inc. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IQMX",
+      "name": "IQM Quantum Computers Oyj - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IQMXW",
+      "name": "IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18825,6 +18843,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MIACU",
+      "name": "Meridian3 Industrials Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MIDD",
       "name": "The Middleby Corporation",
       "market": "NASDAQ",
@@ -20499,12 +20523,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NIXXW",
-      "name": "Nixxy, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NKLR",
       "name": "Terra Innovatum Global N.V. -",
       "market": "NASDAQ",
@@ -21919,12 +21937,6 @@
       "name": "Defiance Daily Target 2X Long ORCL ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ORGN",
-      "name": "Origin Materials, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "ORGO",
@@ -24691,24 +24703,6 @@
       "name": "SMI 3Fourteen REAL Asset Allocation ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "RAAQ",
-      "name": "Real Asset Acquisition Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "RAAQU",
-      "name": "Real Asset Acquisition Corp. - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "RAAQW",
-      "name": "Real Asset Acquisition Corp. - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "RACC",
@@ -30885,6 +30879,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VCRE",
+      "name": "Vicore Pharma Holding AB - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "VCSH",
       "name": "Vanguard Short-Term Corporate Bond ETF",
       "market": "NASDAQ",
@@ -32239,12 +32239,6 @@
       "name": "WisdomTree High Income Laddered Municipal Fund",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "WTO",
-      "name": "UTime Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "WTW",
@@ -40473,6 +40467,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CJUL",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - July Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CJUN",
       "name": "Corgi U.S. Equities 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
@@ -41171,6 +41171,18 @@
     {
       "ticker": "COPL.W",
       "name": "Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "COPR",
+      "name": "Idaho Copper Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "COPR.W",
+      "name": "Idaho Copper Corporation Common Stock Purchase Warrant",
       "market": "NYSE",
       "isEtf": false
     },
@@ -41885,6 +41897,12 @@
     {
       "ticker": "CTIF",
       "name": "Castellan Targeted Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CTJL",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45251,6 +45269,12 @@
     {
       "ticker": "EMHY",
       "name": "iShares J.P. Morgan EM High Yield Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "EMJL",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50883,12 +50907,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GWH.W",
-      "name": "ESS Tech, Inc. Warrant",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GWRE",
       "name": "Guidewire Software, Inc.",
       "market": "NYSE",
@@ -51527,6 +51545,12 @@
     {
       "ticker": "HIYY",
       "name": "YieldMax HIMS Option Income Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HJLY",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52691,6 +52715,12 @@
     {
       "ticker": "IDHQ",
       "name": "Invesco S&P International Developed Quality ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IDJL",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55325,6 +55355,12 @@
     {
       "ticker": "JULB",
       "name": "Aptus July Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JULC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65091,6 +65127,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QJL",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - July Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QJN",
       "name": "Corgi Growth & Technology 10% Structured Buffer ETF - June Series",
       "market": "NYSE",
@@ -65219,6 +65261,12 @@
     {
       "ticker": "QQH",
       "name": "HCM Defender 100 Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "QQJL",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67689,6 +67737,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SCJL",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - July Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SCJN",
       "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series",
       "market": "NYSE",
@@ -67933,6 +67987,12 @@
       "name": "iShares Securitized Income Active ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "SECZ",
+      "name": "Securitize Corp.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "SEF",
@@ -69310,7 +69370,7 @@
     },
     {
       "ticker": "SPAX",
-      "name": "T-REX 2X Long SpaceX Daily Target ETF",
+      "name": "T-REX 2X Long SPCX Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74331,6 +74391,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VII.U",
+      "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "VIK",
       "name": "Viking Holdings Ltd",
       "market": "NYSE",
@@ -76546,7 +76612,7 @@
     },
     {
       "ticker": "XOM",
-      "name": "Exxon Mobil Corporation",
+      "name": "ExxonMobil Holdings Corporation",
       "market": "NYSE",
       "isEtf": false
     },
