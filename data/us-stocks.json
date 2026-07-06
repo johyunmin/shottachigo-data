@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-05T19:50:27.642Z",
-  "count": 12924,
+  "fetchedAt": "2026-07-06T20:24:03.346Z",
+  "count": 12931,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -9711,6 +9711,12 @@
       "isEtf": false
     },
     {
+      "ticker": "EOSER",
+      "name": "Eos Energy Enterprises, Inc. - Right",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "EPOW",
       "name": "E-Power Inc. -",
       "market": "NASDAQ",
@@ -13233,8 +13239,20 @@
       "isEtf": false
     },
     {
+      "ticker": "GUAC",
+      "name": "Berto Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GUACU",
       "name": "Berto Acquisition Corp. II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GUACW",
+      "name": "Berto Acquisition Corp. II - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14685,8 +14703,20 @@
       "isEtf": false
     },
     {
+      "ticker": "IDAC",
+      "name": "Iron Dome Acquisition I Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IDACU",
       "name": "Iron Dome Acquisition I Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IDACW",
+      "name": "Iron Dome Acquisition I Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17511,12 +17541,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LIXT",
-      "name": "Lixte Biotechnology Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LKFN",
       "name": "Lakeland Financial Corporation",
       "market": "NASDAQ",
@@ -18856,7 +18880,7 @@
     },
     {
       "ticker": "MIDDV",
-      "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
+      "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20543,6 +20567,12 @@
     {
       "ticker": "NKTX",
       "name": "Nkarta, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NMAD",
+      "name": "Nomad Power Solutions, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23883,8 +23913,20 @@
       "isEtf": true
     },
     {
+      "ticker": "PTAC",
+      "name": "Patriot Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PTACU",
       "name": "Patriot Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PTACW",
+      "name": "Patriot Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28282,7 +28324,7 @@
     },
     {
       "ticker": "SVC",
-      "name": "Service Properties Trust - Shares of Beneficial Interest",
+      "name": "Service Properties Trust - Common Shares of Beneficial Interest",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33295,12 +33337,6 @@
       "name": "Allied Gold Corporation Common Shares",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "AAUM",
-      "name": "Tema Alternative Asset Managers ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "AB",
@@ -58270,7 +58306,7 @@
     },
     {
       "ticker": "MGF",
-      "name": "MFS Government Markets Income Trust",
+      "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -58480,7 +58516,7 @@
     },
     {
       "ticker": "MIN",
-      "name": "MFS Intermediate Income Trust",
+      "name": "Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64275,6 +64311,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PRVT",
+      "name": "Tema Alternative Asset Managers ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PRXG",
       "name": "Praxis Impact Large Cap Growth ETF",
       "market": "NYSE",
@@ -68680,7 +68722,7 @@
     },
     {
       "ticker": "SLAI",
-      "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+      "name": "SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)",
       "market": "NYSE",
       "isEtf": false
     },
