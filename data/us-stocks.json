@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-06T20:24:03.346Z",
-  "count": 12931,
+  "fetchedAt": "2026-07-07T20:25:14.519Z",
+  "count": 12957,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1533,8 +1533,26 @@
       "isEtf": false
     },
     {
+      "ticker": "ALPX",
+      "name": "Alpex Acquisition Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ALPXR",
+      "name": "Alpex Acquisition Corporation - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ALPXU",
       "name": "Alpex Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ALPXW",
+      "name": "Alpex Acquisition Corporation - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -3291,24 +3309,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BAYA",
-      "name": "Bayview Acquisition Corp -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BAYAR",
-      "name": "Bayview Acquisition Corp - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BAYAU",
-      "name": "Bayview Acquisition Corp - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BBB",
       "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF",
       "market": "NASDAQ",
@@ -3387,6 +3387,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BBUL",
+      "name": "GraniteShares 2x Long BB Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BBYY",
       "name": "GraniteShares YieldBOOST BABA ETF",
       "market": "NASDAQ",
@@ -3431,6 +3437,12 @@
     {
       "ticker": "BCBP",
       "name": "BCB Bancorp, Inc. (NJ)",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BCCQU",
+      "name": "Bleichroeder Acquisition Corp. III - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11913,8 +11925,20 @@
       "isEtf": false
     },
     {
+      "ticker": "FXAC",
+      "name": "FortuneX Acquisition Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FXACU",
       "name": "FortuneX Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FXACW",
+      "name": "FortuneX Acquisition Corporation - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18783,8 +18807,8 @@
       "isEtf": true
     },
     {
-      "ticker": "MFPVV",
-      "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+      "ticker": "MFP",
+      "name": "Midera Food Processing, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18875,12 +18899,6 @@
     {
       "ticker": "MIDD",
       "name": "The Middleby Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MIDDV",
-      "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24045,6 +24063,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PUL",
+      "name": "GraniteShares 2x Long P Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "PULM",
       "name": "Pulmatrix, Inc.",
       "market": "NASDAQ",
@@ -25085,12 +25109,6 @@
     {
       "ticker": "RECT",
       "name": "Rectitude Holdings Ltd -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "REE",
-      "name": "REE Automotive Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33297,6 +33315,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AAPE",
+      "name": "Leverage Shares 2X Long AAPL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AAPR",
       "name": "Innovator Equity Defined Protection ETF - 2 Yr to April 2028",
       "market": "NYSE",
@@ -34773,6 +34797,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AMKX",
+      "name": "Corgi AMKR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AMLP",
       "name": "Alerian MLP ETF",
       "market": "NYSE",
@@ -34897,6 +34927,12 @@
       "name": "Amaze Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AMZG",
+      "name": "Leverage Shares 2X Long AMZN Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AMZO",
@@ -35141,6 +35177,12 @@
     {
       "ticker": "APLZ",
       "name": "Tradr 2X Short APLD Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "APMI",
+      "name": "Corgi AMAT 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -36283,6 +36325,12 @@
       "name": "Axalta Coating Systems Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AXTC",
+      "name": "Corgi AXTI 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AXTL",
@@ -38613,6 +38661,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BRKL",
+      "name": "Corgi BRKB 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BRKW",
       "name": "Roundhill BRKB WeeklyPay ETF",
       "market": "NYSE",
@@ -40485,6 +40539,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CIR",
+      "name": "Corgi CRCL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CITR",
       "name": "CitroTech Inc.",
       "market": "NYSE",
@@ -41083,6 +41143,12 @@
       "name": "Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "COHC",
+      "name": "Corgi COHR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "COHH",
@@ -41753,6 +41819,12 @@
     {
       "ticker": "CRWU",
       "name": "T-REX 2X Long CRWV Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CRWX",
+      "name": "Corgi CRWV 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50295,6 +50367,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GOOL",
+      "name": "Leverage Shares 2X Long GOOGL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GOOP",
       "name": "Kurv Yield Premium Strategy Google (GOOGL) ETF",
       "market": "NYSE",
@@ -54663,6 +54741,12 @@
       "isEtf": false
     },
     {
+      "ticker": "JBLG",
+      "name": "Leverage Shares 2X Long JBL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JBND",
       "name": "JPMorgan Active Bond ETF",
       "market": "NYSE",
@@ -56637,6 +56721,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LCTO",
+      "name": "Kurv U.S. Large Cap TaxOptimized ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LCTU",
       "name": "iShares U.S. Carbon Transition Readiness Aware Active ETF",
       "market": "NYSE",
@@ -57257,6 +57347,12 @@
     {
       "ticker": "LQTI",
       "name": "FT Vest Investment Grade & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LRCC",
+      "name": "Corgi LRCX 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58153,6 +58249,12 @@
       "name": "MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumulative Preferred Stock, Series F",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "METG",
+      "name": "Leverage Shares 2X Long META Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "METV",
@@ -59065,6 +59167,12 @@
       "name": "Barings Participation Investors",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MPWC",
+      "name": "Corgi MPWR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MPWX",
@@ -60369,6 +60477,12 @@
       "isEtf": true
     },
     {
+      "ticker": "NFX",
+      "name": "Corgi NFLX 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NG",
       "name": "Novagold Resources Inc.",
       "market": "NYSE",
@@ -61389,6 +61503,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NVTC",
+      "name": "Corgi NVTS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NVTX",
       "name": "Tradr 2X Long NVTS Daily ETF",
       "market": "NYSE",
@@ -61911,6 +62031,12 @@
       "isEtf": false
     },
     {
+      "ticker": "OKLC",
+      "name": "Corgi OKLO 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OKLO",
       "name": "Oklo Inc. Class A",
       "market": "NYSE",
@@ -61967,6 +62093,12 @@
     {
       "ticker": "OND",
       "name": "ProShares On-Demand ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ONDC",
+      "name": "Corgi ONDS 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68247,6 +68379,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SFYI",
+      "name": "SoFi Social 50 Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SG",
       "name": "Sweetgreen, Inc. Class A",
       "market": "NYSE",
@@ -71247,6 +71385,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TERC",
+      "name": "Corgi TER 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TESC",
       "name": "Corgi TSLA 2x Daily ETF",
       "market": "NYSE",
@@ -73323,6 +73467,12 @@
       "isEtf": true
     },
     {
+      "ticker": "UN",
+      "name": "Corgi UNH 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UNF",
       "name": "Unifirst Corporation",
       "market": "NYSE",
@@ -74401,6 +74551,12 @@
       "name": "Via Transportation, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "VIAG",
+      "name": "Leverage Shares 2X Long VIAV Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "VICE",

@@ -1,7 +1,7 @@
 {
-  "basDt": "20260703",
-  "fetchedAt": "2026-07-06T20:24:02.547Z",
-  "count": 4541,
+  "basDt": "20260706",
+  "fetchedAt": "2026-07-07T20:25:13.810Z",
+  "count": 4542,
   "stocks": [
     {
       "ticker": "900110",
@@ -15078,6 +15078,12 @@
     {
       "ticker": "365590",
       "name": "하이딥",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "365660",
+      "name": "레몬헬스케어",
       "market": "KOSDAQ",
       "kind": "stock"
     },
