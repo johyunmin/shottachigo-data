@@ -1,7 +1,7 @@
 {
-  "basDt": "20260706",
-  "fetchedAt": "2026-07-07T20:25:13.810Z",
-  "count": 4542,
+  "basDt": "20260707",
+  "fetchedAt": "2026-07-08T20:03:20.875Z",
+  "count": 4549,
   "stocks": [
     {
       "ticker": "900110",
@@ -12190,12 +12190,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "222160",
-      "name": "NPX",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "222420",
       "name": "쎄노텍",
       "market": "KOSDAQ",
@@ -17434,12 +17428,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "0021D0",
-      "name": "ACE TDF2030액티브 적격",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "0021E0",
       "name": "ACE TDF2050액티브 적격",
       "market": "KOSPI",
@@ -18894,6 +18882,18 @@
     {
       "ticker": "0210E0",
       "name": "PLUS 200커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0216K0",
+      "name": "KIWOOM 미국우주테크TOP2채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0216Z0",
+      "name": "ACE K방산TOP5+",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -24862,12 +24862,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "530036",
-      "name": "삼성 인버스 2X WTI원유 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "530055",
       "name": "삼성 레버리지 금 선물 ETN(H)",
       "market": "KOSPI",
@@ -25336,6 +25330,24 @@
       "kind": "etn"
     },
     {
+      "ticker": "570125",
+      "name": "한투 솔랙티브레버리지금선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "570126",
+      "name": "한투 솔랙티브인버스2X금선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "570127",
+      "name": "한투 인버스2X코스피200선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "570019",
       "name": "한투 코스피양매도5%OTM ETN",
       "market": "KOSPI",
@@ -25662,6 +25674,18 @@
     {
       "ticker": "580088",
       "name": "KB 인버스 2X KOSPI 200 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "580089",
+      "name": "KB 솔랙티브 레버리지 금 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "580090",
+      "name": "KB 솔랙티브 인버스 2X 금 선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -26100,6 +26124,24 @@
     {
       "ticker": "610101",
       "name": "메리츠 인버스 2X 은 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610102",
+      "name": "메리츠 솔랙티브 금 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610103",
+      "name": "메리츠 솔랙티브 레버리지 금 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610104",
+      "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

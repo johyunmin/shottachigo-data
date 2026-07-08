@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-07T20:25:14.519Z",
-  "count": 12957,
+  "fetchedAt": "2026-07-08T20:03:21.732Z",
+  "count": 12965,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -904,7 +904,7 @@
     },
     {
       "ticker": "AGGA",
-      "name": "EA Astoria Dynamic Core US Fixed Income ETF",
+      "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -4101,6 +4101,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BKYI",
+      "name": "BIO-key International, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BL",
       "name": "BlackLine, Inc.",
       "market": "NASDAQ",
@@ -6037,6 +6043,12 @@
       "name": "REX Crypto Equity Premium Income ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "CEPL",
+      "name": "Capstone Energy Plus, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "CEPO",
@@ -10567,6 +10579,12 @@
       "name": "MarketDesk Focused U.S. Dividend ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "FDMMU",
+      "name": "Freedom Metals Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "FDMT",
@@ -21675,12 +21693,6 @@
       "isEtf": false
     },
     {
-      "ticker": "OLPX",
-      "name": "Olaplex Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "OM",
       "name": "Outset Medical, Inc.",
       "market": "NASDAQ",
@@ -24073,6 +24085,12 @@
       "name": "Pulmatrix, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "PUR",
+      "name": "Defiance Daily Target 2X Long PURR ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "PURR",
@@ -29727,6 +29745,18 @@
       "isEtf": true
     },
     {
+      "ticker": "TRUM",
+      "name": "VanEck Materials TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TRUN",
+      "name": "VanEck Energy TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TRUO",
       "name": "VanEck Consumer Staples TruSector ETF",
       "market": "NASDAQ",
@@ -29739,8 +29769,20 @@
       "isEtf": false
     },
     {
+      "ticker": "TRUR",
+      "name": "VanEck Real Estate TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TRUT",
       "name": "VanEck Technology TruSector ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TRUU",
+      "name": "VanEck Utilities TruSector ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -69371,6 +69413,12 @@
     {
       "ticker": "SNTH",
       "name": "MRP SynthEquity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SNTQ",
+      "name": "MRP SynthEquity Nasdaq 100 ETF",
       "market": "NYSE",
       "isEtf": true
     },
