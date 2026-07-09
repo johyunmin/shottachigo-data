@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-08T20:03:21.732Z",
-  "count": 12965,
+  "fetchedAt": "2026-07-09T20:18:54.349Z",
+  "count": 12975,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -5687,6 +5687,12 @@
     {
       "ticker": "CCCC",
       "name": "C4 Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CCCTU",
+      "name": "Columbus Circle Capital Corp III - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15639,6 +15645,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IQQ",
+      "name": "iShares Nasdaq 100 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "IQQQ",
       "name": "ProShares Nasdaq-100 High Income ETF",
       "market": "NASDAQ",
@@ -19383,6 +19395,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MRCOU",
+      "name": "Mercator Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MRCY",
       "name": "Mercury Systems Inc",
       "market": "NASDAQ",
@@ -19573,12 +19591,6 @@
       "name": "Defiance Daily Target 2x Long MSTR ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "MSW",
-      "name": "Ming Shing Group Holdings Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "MTC",
@@ -23341,6 +23353,12 @@
       "name": "GraniteShares YieldBOOST PLTR ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "PMA",
+      "name": "Ming Shing Group Holdings Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "PMAX",
@@ -32259,6 +32277,12 @@
       "isEtf": true
     },
     {
+      "ticker": "WSPC",
+      "name": "WisdomTree Space Economy Fund",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "WSTN",
       "name": "Westin Acquisition Corp -",
       "market": "NASDAQ",
@@ -39273,6 +39297,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BWQG",
+      "name": "BWM Quality Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BWTG",
       "name": "Brendan Wood TopGun Index ETF",
       "market": "NYSE",
@@ -44085,6 +44115,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DRVR",
+      "name": "Amplify S&P 500 Dividend Drivers ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DSCO",
       "name": "DoubleLine Securitized Credit ETF",
       "market": "NYSE",
@@ -47649,6 +47685,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FINA",
+      "name": "Fidelity MSCI North American Subset Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FINS",
       "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -47884,7 +47926,7 @@
     },
     {
       "ticker": "FLDZ",
-      "name": "RiverNorth Patriot ETF",
+      "name": "TrueShares Patriot Defense ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -48721,6 +48763,12 @@
       "name": "Franklin Street Properties Corp.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "FSPC",
+      "name": "First Trust Bloomberg Space Economy ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "FSS",
@@ -61173,6 +61221,18 @@
       "isEtf": true
     },
     {
+      "ticker": "NSIG",
+      "name": "North Square Growth Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "NSIV",
+      "name": "North Square Disciplined Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NSP",
       "name": "Insperity, Inc.",
       "market": "NYSE",
@@ -64989,6 +65049,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PWRZ",
+      "name": "TrueShares Eagle Global Renewable Energy Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PWS",
       "name": "Pacer WealthShield ETF",
       "market": "NYSE",
@@ -66663,6 +66729,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RNMN",
+      "name": "RiverNorth Market Neutral ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RNP",
       "name": "Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",
       "market": "NYSE",
@@ -66695,12 +66767,6 @@
     {
       "ticker": "RNTY",
       "name": "YieldMax Target 12 Real Estate Option Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "RNWZ",
-      "name": "TrueShares Eagle Global Renewable Energy Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69021,6 +69087,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SLVY",
+      "name": "FT Vest Silver Strategy & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SLWS",
       "name": "Wisdom Short Duration Income ETF",
       "market": "NYSE",
@@ -69683,12 +69755,6 @@
     {
       "ticker": "SPCU",
       "name": "Defiance Daily Target 2X Long SPCX ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "SPCZ",
-      "name": "RiverNorth Enhanced Pre-Merger SPAC ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71297,12 +71363,6 @@
     {
       "ticker": "TE",
       "name": "T1 Energy Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TE.W",
-      "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },

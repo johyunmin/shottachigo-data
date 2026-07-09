@@ -1,7 +1,7 @@
 {
-  "basDt": "20260707",
-  "fetchedAt": "2026-07-08T20:03:20.875Z",
-  "count": 4549,
+  "basDt": "20260708",
+  "fetchedAt": "2026-07-09T20:18:53.456Z",
+  "count": 4548,
   "stocks": [
     {
       "ticker": "900110",
@@ -11646,12 +11646,6 @@
     {
       "ticker": "203650",
       "name": "드림시큐리티",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "203690",
-      "name": "아크솔루션스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
