@@ -1,7 +1,7 @@
 {
-  "basDt": "20260708",
-  "fetchedAt": "2026-07-09T20:18:53.456Z",
-  "count": 4548,
+  "basDt": "20260709",
+  "fetchedAt": "2026-07-10T19:58:30.035Z",
+  "count": 4545,
   "stocks": [
     {
       "ticker": "900110",
@@ -17416,18 +17416,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "0021C0",
-      "name": "ACE TDF장기자산배분액티브",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "0021E0",
-      "name": "ACE TDF2050액티브 적격",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "0022T0",
       "name": "SOL 국제금커버드콜액티브",
       "market": "KOSPI",
@@ -23520,12 +23508,6 @@
     {
       "ticker": "483340",
       "name": "ACE 구글밸류체인액티브",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "483420",
-      "name": "ACE 애플밸류체인액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

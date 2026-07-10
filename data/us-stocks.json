@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-09T20:18:54.349Z",
-  "count": 12975,
+  "fetchedAt": "2026-07-10T19:58:30.927Z",
+  "count": 12991,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -10096,7 +10096,7 @@
     },
     {
       "ticker": "EVTV",
-      "name": "Envirotech Vehicles, Inc.",
+      "name": "Azio AI Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14092,7 +14092,7 @@
     },
     {
       "ticker": "HSAI",
-      "name": "Hesai Group - American Depositary Share, each ADS represents one",
+      "name": "Hesai Group - American Depositary Share",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26997,6 +26997,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SKHYV",
+      "name": "SK hynix Inc. - American Depository Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SKIN",
       "name": "SkinHealth Systems Inc. - Class A",
       "market": "NASDAQ",
@@ -28775,12 +28781,6 @@
     {
       "ticker": "TBPH",
       "name": "Theravance Biopharma, Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TBRG",
-      "name": "TruBridge, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34587,6 +34587,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ALA",
+      "name": "Corgi ALAB 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ALAI",
       "name": "Alger AI Enablers & Adopters ETF",
       "market": "NYSE",
@@ -36487,6 +36493,12 @@
       "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BABC",
+      "name": "Corgi BABA 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BABO",
@@ -38437,6 +38449,12 @@
       "name": "Broadstone Net Lease, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BNMC",
+      "name": "Corgi BMNR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BNO",
@@ -49671,6 +49689,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GEVC",
+      "name": "Corgi GEV 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GEVX",
       "name": "Tradr 2X Long GEV Daily ETF",
       "market": "NYSE",
@@ -51915,6 +51939,12 @@
       "isEtf": true
     },
     {
+      "ticker": "HOOC",
+      "name": "Corgi HOOD 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HOOW",
       "name": "Roundhill HOOD WeeklyPay ETF",
       "market": "NYSE",
@@ -53733,6 +53763,12 @@
       "isEtf": false
     },
     {
+      "ticker": "INT",
+      "name": "Corgi INTC 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "INTF",
       "name": "iShares International Equity Factor ETF",
       "market": "NYSE",
@@ -55297,6 +55333,12 @@
       "name": "GEE Group Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "JOBC",
+      "name": "Corgi JOBY 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "JOBX",
@@ -57145,6 +57187,12 @@
       "name": "LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LITC",
+      "name": "Corgi LITE 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LITL",
@@ -65679,6 +65727,12 @@
       "isEtf": false
     },
     {
+      "ticker": "QUA",
+      "name": "Corgi QBTS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QUAD",
       "name": "Quad Graphics, Inc Class A",
       "market": "NYSE",
@@ -67527,6 +67581,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SAMO.U",
+      "name": "Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SAMT",
       "name": "Strategas Macro Thematic Opportunities ETF",
       "market": "NYSE",
@@ -69333,6 +69393,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SMRX",
+      "name": "Corgi SMR 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SMTG",
       "name": "Leverage Shares 2X Long SMTC Daily ETF",
       "market": "NYSE",
@@ -69533,6 +69599,12 @@
     {
       "ticker": "SOEZ",
       "name": "Franklin Solana ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SOFC",
+      "name": "Corgi SOFI 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71417,6 +71489,12 @@
     {
       "ticker": "TELG",
       "name": "Leverage Shares 2X Long TEL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TEMC",
+      "name": "Corgi TEM 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73701,6 +73779,12 @@
       "isEtf": false
     },
     {
+      "ticker": "UPSC",
+      "name": "Corgi UPST 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UPSD",
       "name": "Aptus Large Cap Upside ETF",
       "market": "NYSE",
@@ -74101,6 +74185,12 @@
       "name": "Universal Safety Products, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "UUUC",
+      "name": "Corgi UUUU 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "UUUU",
@@ -75533,6 +75623,12 @@
     {
       "ticker": "WDAI",
       "name": "Pacer S&P World 3AI Top 300 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "WDCC",
+      "name": "Corgi WDC 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
