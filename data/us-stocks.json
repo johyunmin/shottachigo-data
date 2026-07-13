@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-12T19:38:03.273Z",
-  "count": 12991,
+  "fetchedAt": "2026-07-13T19:58:08.127Z",
+  "count": 12990,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3155,6 +3155,12 @@
     {
       "ticker": "AZI",
       "name": "Autozi Internet Technology (Global) Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AZIO",
+      "name": "Azio AI Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10095,12 +10101,6 @@
       "isEtf": true
     },
     {
-      "ticker": "EVTV",
-      "name": "Azio AI Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EVYM",
       "name": "Eaton Vance High Income Municipal ETF",
       "market": "NASDAQ",
@@ -12365,6 +12365,18 @@
     {
       "ticker": "GFS",
       "name": "GlobalFoundries Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GFUZ",
+      "name": "General Fusion Group Ltd. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GFUZW",
+      "name": "General Fusion Group Ltd. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17389,6 +17401,12 @@
       "name": "Lucas GC Limited -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "LGDS",
+      "name": "JPMorgan Fundamental Data Science Large Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "LGHL",
@@ -24375,12 +24393,6 @@
       "isEtf": false
     },
     {
-      "ticker": "QHDG",
-      "name": "Innovator Hedged Nasdaq-100 ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "QLDY",
       "name": "Defiance Nasdaq 100 LightningSpread Income ETF",
       "market": "NASDAQ",
@@ -24809,6 +24821,12 @@
     {
       "ticker": "RACC",
       "name": "Research Alliance Corporation III -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "RACD",
+      "name": "Research Alliance Corporation IV -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26997,8 +27015,8 @@
       "isEtf": true
     },
     {
-      "ticker": "SKHYV",
-      "name": "SK hynix Inc. - American Depository Shares",
+      "ticker": "SKHY",
+      "name": "SK hynix Inc. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28343,24 +28361,6 @@
     {
       "ticker": "SVA",
       "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SVAC",
-      "name": "Spring Valley Acquisition Corp. III -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SVACU",
-      "name": "Spring Valley Acquisition Corp. III - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SVACW",
-      "name": "Spring Valley Acquisition Corp. III - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30105,8 +30105,20 @@
       "isEtf": false
     },
     {
+      "ticker": "TVIV",
+      "name": "Texas Ventures Acquisition IV Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TVIVU",
       "name": "Texas Ventures Acquisition IV Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "TVIVW",
+      "name": "Texas Ventures Acquisition IV Corp - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32937,8 +32949,20 @@
       "isEtf": false
     },
     {
+      "ticker": "YICC",
+      "name": "Yorkville International Capital Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "YICCU",
       "name": "Yorkville International Capital Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "YICCW",
+      "name": "Yorkville International Capital Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33943,12 +33967,6 @@
       "name": "Agnico Eagle Mines Limited",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "AEMS",
-      "name": "Anfield Enhanced Market ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "AEO",
@@ -37889,12 +37907,6 @@
     {
       "ticker": "BITI",
       "name": "ProShares Short Bitcoin ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "BITK",
-      "name": "Tuttle Capital IBIT 0DTE Covered Call ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -53277,12 +53289,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IGTR",
-      "name": "Innovator Gradient Tactical Rotation Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "IGV",
       "name": "iShares Expanded Tech-Software Sector ETF",
       "market": "NYSE",
@@ -55499,6 +55505,12 @@
     {
       "ticker": "JPRE",
       "name": "JPMorgan Realty Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JPRF",
+      "name": "JPMorgan Preferred and Income Securities ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57841,12 +57853,6 @@
       "name": "Magnera Corporation",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "MAGO",
-      "name": "Tuttle Capital Magnificent 7 Income Blast ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "MAGS",
@@ -61149,6 +61155,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NQLT",
+      "name": "Neuberger Quality Select ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NRDY",
       "name": "Nerdy Inc. Class A",
       "market": "NYSE",
@@ -62731,12 +62743,6 @@
       "name": "Pan American Silver Corp.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "PAAU",
-      "name": "T-REX 2X Long PAAS Daily Target ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "PAB",
@@ -66929,12 +66935,6 @@
     {
       "ticker": "RPG",
       "name": "Invesco S&P 500 Pure Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "RPHS",
-      "name": "Regents Park Hedged Market Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74629,12 +74629,6 @@
       "name": "Vanguard Financials ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "VFL",
-      "name": "abrdn National Municipal Income Fund",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "VFMF",
