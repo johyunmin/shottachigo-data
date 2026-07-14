@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-13T19:58:08.127Z",
-  "count": 12990,
+  "fetchedAt": "2026-07-14T19:51:19.093Z",
+  "count": 13015,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -4347,12 +4347,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BNBX",
-      "name": "BNB Plus Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BNC",
       "name": "CEA Industries Inc.",
       "market": "NASDAQ",
@@ -4659,8 +4653,20 @@
       "isEtf": false
     },
     {
+      "ticker": "BRKH",
+      "name": "Burtech Acquisition Corp II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BRKHU",
       "name": "Burtech Acquisition Corp II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BRKHW",
+      "name": "Burtech Acquisition Corp II - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5071,6 +5077,12 @@
       "name": "BTC Digital Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "BTDL",
+      "name": "GraniteShares 2x Long BTDR Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "BTDR",
@@ -7767,12 +7779,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CUSD",
-      "name": "CrossingBridge Ultra-Short Duration ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "CV",
       "name": "CapsoVision, Inc.",
       "market": "NASDAQ",
@@ -9913,12 +9919,6 @@
       "name": "VanEck Video Gaming and eSports ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ESPR",
-      "name": "Esperion Therapeutics, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "ESQ",
@@ -16185,6 +16185,12 @@
       "isEtf": false
     },
     {
+      "ticker": "JONEU",
+      "name": "Jones Ventures INTL Acquisition1 Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "JOUT",
       "name": "Johnson Outdoors Inc. - Class A",
       "market": "NASDAQ",
@@ -19498,7 +19504,7 @@
     },
     {
       "ticker": "MRX",
-      "name": "Marex Group plc -",
+      "name": "Marex Group Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20917,6 +20923,12 @@
       "name": "Nortech Systems Incorporated",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "NTAL",
+      "name": "GraniteShares 2x Long NTAP Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "NTAP",
@@ -24375,6 +24387,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QFF",
+      "name": "Qualivian Focus Fund ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "QFIN",
       "name": "Qfin Holdings, Inc.  - American Depositary Shares",
       "market": "NASDAQ",
@@ -26649,6 +26667,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SEUS",
+      "name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "SEV",
       "name": "Aptera Motors Corp. - Class B",
       "market": "NASDAQ",
@@ -27015,6 +27039,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SKDD",
+      "name": "GraniteShares 2x Short SK Hynix Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "SKHY",
       "name": "SK hynix Inc. - American Depositary Shares",
       "market": "NASDAQ",
@@ -27041,6 +27071,12 @@
     {
       "ticker": "SKRE",
       "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKUU",
+      "name": "GraniteShares 2x Long SK Hynix Daily ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -28879,6 +28915,12 @@
       "name": "Translational Development Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TDCL",
+      "name": "GraniteShares 2x Long TDC Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TDI",
@@ -40029,6 +40071,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CDPI",
+      "name": "Columbia High Dividend Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CDR$B",
       "name": "Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
@@ -41781,6 +41829,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CRD",
+      "name": "Corgi CRDO 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CRD.A",
       "name": "Crawford & Company",
       "market": "NYSE",
@@ -41915,6 +41969,12 @@
     {
       "ticker": "CRUX",
       "name": "Columbia Core Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CRWC",
+      "name": "Corgi CRWD 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44983,12 +45043,6 @@
       "name": "ProShares UltraShort MSCI Emerging Markets",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "EEX",
-      "name": "Emerald Holding, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "EFA",
@@ -51741,6 +51795,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HIMC",
+      "name": "Corgi HIMS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HIMS",
       "name": "Hims & Hers Health, Inc. Class A",
       "market": "NYSE",
@@ -52391,6 +52451,12 @@
     {
       "ticker": "HYMB",
       "name": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HYNX",
+      "name": "T-REX 2X Long SKHY Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54053,6 +54119,12 @@
     {
       "ticker": "IRE",
       "name": "Defiance Daily Target 2X Long IREN ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IREC",
+      "name": "Corgi IREN 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58695,6 +58767,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MHX",
+      "name": "Corgi MARA 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MHY",
       "name": "Man Active High Yield ETF",
       "market": "NYSE",
@@ -59383,6 +59461,12 @@
       "name": "Marti Technologies, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MRVX",
+      "name": "Corgi MRVL 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MS",
@@ -60273,6 +60357,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NBIC",
+      "name": "Corgi NBIS 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NBIE",
       "name": "Neuberger International Core Equity ETF",
       "market": "NYSE",
@@ -61089,6 +61179,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NOWX",
+      "name": "Corgi NOW 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NP",
       "name": "Neptune Insurance Holdings Inc. Class A",
       "market": "NYSE",
@@ -61621,6 +61717,12 @@
       "name": "Novo Nordisk A/S",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "NVOC",
+      "name": "Corgi NVO 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "NVOH",
@@ -62609,6 +62711,12 @@
     {
       "ticker": "OUSA",
       "name": "ALPS O'Shares U.S. Quality Dividend ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OUSL",
+      "name": "Defiance Daily Target 2X Long OUST ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63845,12 +63953,6 @@
     {
       "ticker": "PJAN",
       "name": "Innovator U.S. Equity Power Buffer ETF - January",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "PJBF",
-      "name": "PGIM Jennison Better Future ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66069,6 +66171,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RDDC",
+      "name": "Corgi RDDT 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RDDT",
       "name": "Reddit, Inc. Class A",
       "market": "NYSE",
@@ -66139,6 +66247,12 @@
       "name": "Rare Earths Americas, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "RECI",
+      "name": "Columbia Research Enhanced Core Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "RECS",
@@ -66411,6 +66525,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RGTC",
+      "name": "Corgi RGTI 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RGTU",
       "name": "Tradr 2X Long RGTI Daily ETF",
       "market": "NYSE",
@@ -66571,6 +66691,12 @@
       "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "RIVC",
+      "name": "Corgi RIVN 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "RIZE",
@@ -68979,6 +69105,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SK",
+      "name": "Corgi SK hynix 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SKE",
       "name": "Skeena Resources Limited Common Shares",
       "market": "NYSE",
@@ -68987,6 +69119,24 @@
     {
       "ticker": "SKF",
       "name": "ProShares UltraShort Financials",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKHU",
+      "name": "ProShares Ultra SK hynix",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKHZ",
+      "name": "Leverage Shares 1X Short SK Hynix Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75153,6 +75303,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VRC",
+      "name": "Corgi VRT 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VRP",
       "name": "Invesco Variable Rate Preferred ETF",
       "market": "NYSE",
@@ -76173,12 +76329,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WSR",
-      "name": "Whitestone REIT Common Shares",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "WST",
       "name": "West Pharmaceutical Services, Inc.",
       "market": "NYSE",
@@ -77098,7 +77248,7 @@
     },
     {
       "ticker": "XPRO",
-      "name": "Expro Group Holdings N.V.",
+      "name": "Expro Ltd",
       "market": "NYSE",
       "isEtf": false
     },
