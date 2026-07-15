@@ -1,7 +1,7 @@
 {
-  "basDt": "20260713",
-  "fetchedAt": "2026-07-14T19:51:18.349Z",
-  "count": 4546,
+  "basDt": "20260714",
+  "fetchedAt": "2026-07-15T19:45:21.623Z",
+  "count": 4552,
   "stocks": [
     {
       "ticker": "900110",
@@ -18874,6 +18874,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0215T0",
+      "name": "HANARO 미국AI광통신TOP10",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0216K0",
       "name": "KIWOOM 미국우주테크TOP2채권혼합50",
       "market": "KOSPI",
@@ -18882,6 +18888,36 @@
     {
       "ticker": "0216Z0",
       "name": "ACE K방산TOP5+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0218J0",
+      "name": "RISE 미국우주&로봇TOP2미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0219B0",
+      "name": "KoAct 광통신&위성네트워크액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0219E0",
+      "name": "KODEX 200커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0220A0",
+      "name": "KIWOOM 현대차그룹TOP3채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0220B0",
+      "name": "DS 코스닥액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

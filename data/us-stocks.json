@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-14T19:51:19.093Z",
-  "count": 13015,
+  "fetchedAt": "2026-07-15T19:45:23.133Z",
+  "count": 13019,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -4123,12 +4123,6 @@
       "name": "Blue Bird Corporation",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "BLCN",
-      "name": "Siren NexGen Economy ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "BLCR",
@@ -18322,7 +18316,7 @@
     },
     {
       "ticker": "MAXI",
-      "name": "Simplify Bitcoin Strategy PLUS Income ETF",
+      "name": "Simplify Bitcoin Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -28966,7 +28960,7 @@
     },
     {
       "ticker": "TDTH",
-      "name": "Trident Digital Tech Holdings Ltd - American Depository Shares",
+      "name": "Trident Digital Tech Holdings Ltd -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32691,24 +32685,6 @@
       "isEtf": false
     },
     {
-      "ticker": "XOMA",
-      "name": "XOMA Royalty Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "XOMAO",
-      "name": "XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "XOMAP",
-      "name": "XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "XOMX",
       "name": "Direxion Daily XOM Bull 2X ETF",
       "market": "NASDAQ",
@@ -33075,6 +33051,18 @@
       "isEtf": true
     },
     {
+      "ticker": "YSAG",
+      "name": "Y'all Street Physical Silver ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "YSAU",
+      "name": "Y'all Street Physical Gold ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "YSPY",
       "name": "GraniteShares YieldBOOST SPY ETF",
       "market": "NASDAQ",
@@ -33437,6 +33425,12 @@
     {
       "ticker": "AAOX",
       "name": "Tradr 2X Long AAOI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51903,12 +51897,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HLLY.W",
-      "name": "Holley Inc. Warrants",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "HLN",
       "name": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)",
       "market": "NYSE",
@@ -55299,6 +55287,12 @@
       "isEtf": false
     },
     {
+      "ticker": "JLCO",
+      "name": "John Hancock Large Cap Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JLL",
       "name": "Jones Lang LaSalle Incorporated",
       "market": "NYSE",
@@ -56709,6 +56703,12 @@
       "isEtf": true
     },
     {
+      "ticker": "KWH",
+      "name": "GMO Power Infrastructure ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KWIN",
       "name": "KraneShares Wahed Alternative Income Index ETF",
       "market": "NYSE",
@@ -57013,12 +57013,6 @@
       "name": "Lear Corporation",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "LEAD",
-      "name": "Siren DIVCON Leaders Dividend ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "LEG",
@@ -57739,6 +57733,12 @@
       "name": "Luda Technology Group Limited",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LUMA",
+      "name": "KraneShares Photonic and Optical ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LUMN",
@@ -62607,6 +62607,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ORCZ",
+      "name": "Tradr 2X Short ORCL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ORI",
       "name": "Old Republic International Corporation",
       "market": "NYSE",
@@ -63898,7 +63904,7 @@
     },
     {
       "ticker": "PIM",
-      "name": "Putnam Master Intermediate Income Trust",
+      "name": "Franklin Master Intermediate Income Trust Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64228,7 +64234,7 @@
     },
     {
       "ticker": "PMM",
-      "name": "Putnam Managed Municipal Income Trust",
+      "name": "Franklin Managed Municipal Income Trust Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64258,7 +64264,7 @@
     },
     {
       "ticker": "PMO",
-      "name": "Putnam Municipal Opportunities Trust",
+      "name": "Franklin Municipal Opportunities Trust Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64462,7 +64468,7 @@
     },
     {
       "ticker": "PPT",
-      "name": "Putnam Premier Income Trust",
+      "name": "Franklin Premier Income Trust Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -67095,12 +67101,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RQI.R",
-      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "RRC",
       "name": "Range Resources Corporation",
       "market": "NYSE",
@@ -69119,6 +69119,12 @@
     {
       "ticker": "SKF",
       "name": "ProShares UltraShort Financials",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKHL",
+      "name": "Direxion Daily SK Hynix Bull 2X ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72357,6 +72363,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TMGN",
+      "name": "TappAlpha Cboe Magnificent 10 Growth & Daily Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TMH",
       "name": "Toyota Motor Corporation ADRhedged",
       "market": "NYSE",
@@ -75267,6 +75279,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VPFF",
+      "name": "Virtus InfraCap Preferred and Income Securities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VPG",
       "name": "Vishay Precision Group, Inc.",
       "market": "NYSE",
@@ -77779,6 +77797,12 @@
       "name": "Yatsen Holding Limited American Depositary Shares, each representing twenty (20)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "YSPC",
+      "name": "YieldMax SPCX Option Income Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "YSS",
