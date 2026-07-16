@@ -1,7 +1,7 @@
 {
-  "basDt": "20260714",
-  "fetchedAt": "2026-07-15T19:45:21.623Z",
-  "count": 4552,
+  "basDt": "20260715",
+  "fetchedAt": "2026-07-16T19:41:03.704Z",
+  "count": 4553,
   "stocks": [
     {
       "ticker": "900110",
@@ -3294,12 +3294,6 @@
     {
       "ticker": "012450",
       "name": "한화에어로스페이스",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "012510",
-      "name": "더존비즈온",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -26160,6 +26154,18 @@
     {
       "ticker": "610104",
       "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610105",
+      "name": "메리츠 레버리지 국채30년 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610106",
+      "name": "메리츠 인버스 국채30년 ETN B",
       "market": "KOSPI",
       "kind": "etn"
     },

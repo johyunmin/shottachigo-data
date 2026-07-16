@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-15T19:45:23.133Z",
-  "count": 13019,
+  "fetchedAt": "2026-07-16T19:41:04.329Z",
+  "count": 13021,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7197,12 +7197,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CPRX",
-      "name": "Catalyst Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CPSH",
       "name": "CPS Technologies Corp.",
       "market": "NASDAQ",
@@ -8597,6 +8591,12 @@
     {
       "ticker": "DPRO",
       "name": "Draganfly Inc. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "DPU",
+      "name": "Top KingWin Ltd -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17181,12 +17181,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LCDL",
-      "name": "GraniteShares 2x Long LCID Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "LCDS",
       "name": "JPMorgan Fundamental Data Science Large Core ETF",
       "market": "NASDAQ",
@@ -21105,12 +21099,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NUVL",
-      "name": "Nuvalent, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NUWE",
       "name": "Nuwellis, Inc.",
       "market": "NASDAQ",
@@ -24063,12 +24051,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PTNM",
-      "name": "Pitanium Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PTNQ",
       "name": "Pacer Trendpilot 100 ETF",
       "market": "NASDAQ",
@@ -24429,6 +24411,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QMLS",
+      "name": "QumulusAI, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "QMMM",
       "name": "QMMM Holdings Limited -",
       "market": "NASDAQ",
@@ -24701,12 +24689,6 @@
     {
       "ticker": "QTEX",
       "name": "QTREX Quantum Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "QTEXW",
-      "name": "QTREX Quantum Ltd. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31803,12 +31785,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WAI",
-      "name": "Top KingWin Ltd -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WALD",
       "name": "Waldencast plc -",
       "market": "NASDAQ",
@@ -34931,6 +34907,12 @@
     {
       "ticker": "AMLP",
       "name": "Alerian MLP ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AMMO",
+      "name": "VistaShares Defense Supercycle ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -42057,6 +42039,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CSQR",
+      "name": "Csquare, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "CSR",
       "name": "D/B/A Centerspace",
       "market": "NYSE",
@@ -44165,6 +44153,12 @@
     {
       "ticker": "DRMP",
       "name": "Tuttle Capital Memory Stack Income Blast ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DRMY",
+      "name": "XFUNDS Memory Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49323,6 +49317,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GALX",
+      "name": "VistaShares Space Supercycle ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GAM",
       "name": "General American Investors, Inc.",
       "market": "NYSE",
@@ -51049,12 +51049,6 @@
       "name": "Goldman Sachs Access Inflation Protected USD Bond ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "GTLS",
-      "name": "Chart Industries, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "GTN",
@@ -67335,6 +67329,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RTOO",
+      "name": "VistaShares Robotics Supercycle ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RTRE",
       "name": "Rareview Total Return Bond ETF",
       "market": "NYSE",
@@ -70719,6 +70719,12 @@
       "isEtf": true
     },
     {
+      "ticker": "STDN",
+      "name": "Standard Nuclear, Inc. Class A",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "STE",
       "name": "STERIS plc (Ireland)",
       "market": "NYSE",
@@ -72203,6 +72209,12 @@
     {
       "ticker": "TKNQ",
       "name": "Amplify Tokenization Technology Leaders ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TKNZ",
+      "name": "T. Rowe Price Active Crypto ETF",
       "market": "NYSE",
       "isEtf": true
     },
