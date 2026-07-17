@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-16T19:41:04.329Z",
-  "count": 13021,
+  "fetchedAt": "2026-07-17T19:39:21.592Z",
+  "count": 13024,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1623,6 +1623,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AMACU",
+      "name": "AMR Resources Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AMAL",
       "name": "Amalgamated Financial Corp.",
       "market": "NASDAQ",
@@ -2092,7 +2098,7 @@
     },
     {
       "ticker": "APM",
-      "name": "Aptorum Group Limited -",
+      "name": "Aptorum Group Limited",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10037,12 +10043,6 @@
     {
       "ticker": "EVLV",
       "name": "Evolv Technologies Holdings, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "EVLVW",
-      "name": "Evolv Technologies Holdings, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24382,7 +24382,7 @@
     },
     {
       "ticker": "QH",
-      "name": "Quhuo Limited - American Depository Shares",
+      "name": "Quhuo Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26861,6 +26861,18 @@
     {
       "ticker": "SHOP",
       "name": "Shopify Inc. - Class A Subordinate Voting Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SHOT",
+      "name": "RMG ML Sports Holdings -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SHOTR",
+      "name": "RMG ML Sports Holdings - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -43427,6 +43439,18 @@
     {
       "ticker": "DG",
       "name": "Dollar General Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "DGAC",
+      "name": "Disciplined Growth Acquisition Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "DGAC.R",
+      "name": "Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one",
       "market": "NYSE",
       "isEtf": false
     },
@@ -69179,12 +69203,6 @@
     {
       "ticker": "SKYH.W",
       "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SLAI",
-      "name": "SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)",
       "market": "NYSE",
       "isEtf": false
     },
