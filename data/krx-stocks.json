@@ -1,7 +1,7 @@
 {
-  "basDt": "20260715",
-  "fetchedAt": "2026-07-19T19:40:26.512Z",
-  "count": 4553,
+  "basDt": "20260716",
+  "fetchedAt": "2026-07-20T20:06:25.199Z",
+  "count": 4552,
   "stocks": [
     {
       "ticker": "900110",
@@ -21834,12 +21834,6 @@
     {
       "ticker": "423920",
       "name": "TIGER 미국필라델피아반도체레버리지(합성)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "424460",
-      "name": "HANARO 글로벌워터MSCI(합성)",
       "market": "KOSPI",
       "kind": "etf"
     },

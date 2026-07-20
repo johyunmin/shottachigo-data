@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-19T19:40:27.591Z",
-  "count": 13024,
+  "fetchedAt": "2026-07-20T20:06:26.136Z",
+  "count": 13026,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2097,12 +2097,6 @@
       "isEtf": false
     },
     {
-      "ticker": "APM",
-      "name": "Aptorum Group Limited",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "APMC",
       "name": "AmperCap Acquisition Company -",
       "market": "NASDAQ",
@@ -3945,6 +3939,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BID",
+      "name": "Tribeca Strategic Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BIDG",
       "name": "Leverage Shares 2X Long BIDU Daily ETF",
       "market": "NASDAQ",
@@ -3953,6 +3953,12 @@
     {
       "ticker": "BIDU",
       "name": "Baidu, Inc. - American Depositary Shares, each representing 8",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BIDWR",
+      "name": "Tribeca Strategic Acquisition Corp. - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5267,6 +5273,12 @@
     {
       "ticker": "BWMN",
       "name": "Bowman Consulting Group Ltd.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BXBL",
+      "name": "BOXABL, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -7773,6 +7785,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CUVL",
+      "name": "Clinuvel Pharmaceuticals Limited - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CV",
       "name": "CapsoVision, Inc.",
       "market": "NASDAQ",
@@ -8488,7 +8506,7 @@
     },
     {
       "ticker": "DMRA",
-      "name": "Damora Therapeutics, Inc.",
+      "name": "Damora Therapeutics, Inc. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10837,24 +10855,6 @@
       "name": "First Trust Germany AlphaDEX Fund",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "FGMC",
-      "name": "FG Merger II Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FGMCR",
-      "name": "FG Merger II Corp. - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FGMCU",
-      "name": "FG Merger II Corp. - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "FGNX",
@@ -18807,6 +18807,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MF",
+      "name": "MindForge Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MFI",
       "name": "mF International Limited -",
       "market": "NASDAQ",
@@ -20553,6 +20559,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NIKI",
+      "name": "Niki BioSolutions, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NIKL",
       "name": "Sprott Nickel Miners ETF",
       "market": "NASDAQ",
@@ -21549,12 +21561,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ODVWZ",
-      "name": "Osisko Development Corp. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ODYS",
       "name": "Odysight.ai Inc.",
       "market": "NASDAQ",
@@ -21599,6 +21605,12 @@
     {
       "ticker": "OFSSO",
       "name": "OFS Capital Corporation - 7.50% Notes due 2028",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OGGWZ",
+      "name": "Osisko Gold Group Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30323,12 +30335,6 @@
     {
       "ticker": "UBSI",
       "name": "United Bankshares, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "UBXG",
-      "name": "U-BX Technology Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -39219,12 +39225,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BURU",
-      "name": "Nuburu, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BUSA",
       "name": "Brandes U.S. Value ETF",
       "market": "NYSE",
@@ -43475,6 +43475,12 @@
     {
       "ticker": "DGJA",
       "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - January",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DGJL",
+      "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - July",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50608,7 +50614,7 @@
     },
     {
       "ticker": "GORO",
-      "name": "Gold Resource Corporation",
+      "name": "Goldgroup Mining Inc. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -51064,7 +51070,7 @@
     },
     {
       "ticker": "GTES",
-      "name": "Gates Industrial Corporation plc",
+      "name": "Gates Industrial Corporation Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -56638,7 +56644,7 @@
     },
     {
       "ticker": "KSTR",
-      "name": "KraneShares SSE STAR Market 50 Index ETF",
+      "name": "KraneShares China Technology & Semiconductor STAR 50 Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57449,6 +57455,12 @@
     {
       "ticker": "LODI",
       "name": "AAM SLC Low Duration Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LOEV",
+      "name": "Harding Loevner International Developed Markets Select Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62157,12 +62169,6 @@
       "isEtf": true
     },
     {
-      "ticker": "ODV",
-      "name": "Osisko Development Corp. Common Shares",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "OEC",
       "name": "Orion S.A. Common Shares",
       "market": "NYSE",
@@ -62219,6 +62225,12 @@
     {
       "ticker": "OGEN",
       "name": "Oragenics Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OGG",
+      "name": "Osisko Gold Group Inc. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -62519,12 +62531,6 @@
     {
       "ticker": "OPFI",
       "name": "OppFi Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "OPFI.W",
-      "name": "OppFi Inc. Warrants",
       "market": "NYSE",
       "isEtf": false
     },
@@ -67663,12 +67669,6 @@
       "name": "Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "SAEF",
-      "name": "Schwab Ariel Opportunities ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "SAFE",
@@ -74973,8 +74973,20 @@
       "isEtf": true
     },
     {
+      "ticker": "VII",
+      "name": "Viking Acquisition Corp. II",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "VII.U",
       "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "VII.W",
+      "name": "Viking Acquisition Corp. II Warrants to purchase one",
       "market": "NYSE",
       "isEtf": false
     },
