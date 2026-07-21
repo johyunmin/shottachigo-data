@@ -1,7 +1,7 @@
 {
-  "basDt": "20260716",
-  "fetchedAt": "2026-07-20T20:06:25.199Z",
-  "count": 4552,
+  "basDt": "20260720",
+  "fetchedAt": "2026-07-21T20:00:38.431Z",
+  "count": 4551,
   "stocks": [
     {
       "ticker": "900110",
@@ -6838,12 +6838,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "057050",
-      "name": "현대홈쇼핑",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
       "ticker": "057540",
       "name": "옴니시스템",
       "market": "KOSDAQ",
@@ -11063,7 +11057,7 @@
     },
     {
       "ticker": "175140",
-      "name": "휴먼테크놀로지",
+      "name": "아고스",
       "market": "KOSDAQ",
       "kind": "stock"
     },

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-20T20:06:26.136Z",
-  "count": 13026,
+  "fetchedAt": "2026-07-21T20:00:39.143Z",
+  "count": 13024,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1757,12 +1757,6 @@
     {
       "ticker": "AMPG",
       "name": "Amplitech Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AMPGR",
-      "name": "Amplitech Group, Inc. - Series A Right",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4743,6 +4737,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BRTMU",
+      "name": "B&R Technology Merger Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BRTR",
       "name": "iShares Total Return Active ETF",
       "market": "NASDAQ",
@@ -6495,6 +6495,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CIGL",
+      "name": "Concorde International Group Ltd -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CIIT",
       "name": "Tianci International, Inc.",
       "market": "NASDAQ",
@@ -7343,12 +7349,6 @@
     {
       "ticker": "CRE",
       "name": "Cre8 Enterprise Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CREG",
-      "name": "Smart Powerr Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9771,12 +9771,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EOSER",
-      "name": "Eos Energy Enterprises, Inc. - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EPOW",
       "name": "E-Power Inc. -",
       "market": "NASDAQ",
@@ -10773,12 +10767,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FFAIW",
-      "name": "Faraday Future Intelligent Electric Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FFBC",
       "name": "First Financial Bancorp.",
       "market": "NASDAQ",
@@ -11447,6 +11435,12 @@
     {
       "ticker": "FRMM",
       "name": "Forum Markets, Incorporated",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FRNM",
+      "name": "Freenome, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13861,6 +13855,12 @@
       "name": "Hongli Group Inc. -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "HLTH",
+      "name": "Tema Healthcare AI ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "HLXC",
@@ -20205,6 +20205,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NCOOU",
+      "name": "Southern Cross Acquisition I Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NCPB",
       "name": "Nuveen Core Plus Bond ETF",
       "market": "NASDAQ",
@@ -20423,12 +20429,6 @@
     {
       "ticker": "NEXT",
       "name": "NextDecade Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NFBK",
-      "name": "Northfield Bancorp, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22727,12 +22727,6 @@
     {
       "ticker": "PCSA",
       "name": "Processa Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "PCSC",
-      "name": "Perceptive Capital Solutions Corp -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33015,12 +33009,6 @@
       "isEtf": true
     },
     {
-      "ticker": "YOOV",
-      "name": "Concorde International Group Ltd -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "YORW",
       "name": "The York Water Company",
       "market": "NASDAQ",
@@ -34435,6 +34423,12 @@
       "name": "American International Group, Inc. New",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AIHY",
+      "name": "Defiance AI Hyperscale Leaders ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AII",
@@ -56465,12 +56459,6 @@
     {
       "ticker": "KOP",
       "name": "Koppers Holdings Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "KORE",
-      "name": "KORE Group Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
