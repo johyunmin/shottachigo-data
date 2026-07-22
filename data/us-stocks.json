@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-21T20:00:39.143Z",
-  "count": 13024,
+  "fetchedAt": "2026-07-22T19:52:23.905Z",
+  "count": 13021,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1303,12 +1303,6 @@
       "name": "Leverage Shares 2X Long ALB Daily ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ALBT",
-      "name": "Avalon GloboCare Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "ALCO",
@@ -5835,12 +5829,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CCRN",
-      "name": "Cross Country Healthcare, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CCSB",
       "name": "Carbon Collective Short Duration Green Bond ETF",
       "market": "NASDAQ",
@@ -6311,6 +6299,12 @@
     {
       "ticker": "CHEF",
       "name": "The Chefs' Warehouse, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CHGA",
+      "name": "Change Agents Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -7231,6 +7225,12 @@
       "name": "Consumer Portfolio Services, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "CPTL",
+      "name": "Global X Morningstar Capital Allocation Leaders ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "CPZ",
@@ -12976,13 +12976,13 @@
     },
     {
       "ticker": "GREE",
-      "name": "Greenidge Generation Holdings Inc. - Class A",
+      "name": "Vulcan Infrastructure and Power Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "GREEL",
-      "name": "Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026",
+      "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14349,10 +14349,22 @@
       "isEtf": false
     },
     {
+      "ticker": "HWIV",
+      "name": "Hotchkis & Wiley International Value Fund",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HWKN",
       "name": "Hawkins, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "HWO",
+      "name": "Hotchkis & Wiley Opportunities Fund",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "HWSM",
@@ -16791,12 +16803,6 @@
       "isEtf": false
     },
     {
-      "ticker": "KRMA",
-      "name": "Global X Conscious Companies ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "KRMD",
       "name": "KORU Medical Systems, Inc.",
       "market": "NASDAQ",
@@ -17671,12 +17677,6 @@
       "name": "First Trust Low Duration Opportunities ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "LMFA",
-      "name": "LM Funding America, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "LMNR",
@@ -18665,6 +18665,12 @@
     {
       "ticker": "MEDP",
       "name": "Medpace Holdings, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MEDS",
+      "name": "DataMeds AI, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24137,6 +24143,12 @@
     {
       "ticker": "PVLA",
       "name": "Palvella Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PWCM",
+      "name": "PowerCompute, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32001,20 +32013,8 @@
       "isEtf": true
     },
     {
-      "ticker": "WGRX",
-      "name": "Wellgistics Health, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WGS",
       "name": "GeneDx Holdings Corp. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "WGSWW",
-      "name": "GeneDx Holdings Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -45659,12 +45659,6 @@
     {
       "ticker": "EMSF",
       "name": "Matthews Emerging Markets Sustainable Future Active ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "EMTL",
-      "name": "State Street DoubleLine Emerging Markets Fixed Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61359,24 +61353,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NSA",
-      "name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "NSA$A",
-      "name": "National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "NSA$B",
-      "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NSC",
       "name": "Norfolk Southern Corporation",
       "market": "NYSE",
@@ -64839,6 +64815,18 @@
       "isEtf": false
     },
     {
+      "ticker": "PSA$T",
+      "name": "Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PSA$U",
+      "name": "Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "PSAI",
       "name": "Pacer S&P 500 3AI Top 100 ETF",
       "market": "NYSE",
@@ -65767,12 +65755,6 @@
       "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "QRFT",
-      "name": "QRAFT AI-Enhanced U.S. Large Cap ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "QSIG",

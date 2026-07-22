@@ -1,7 +1,7 @@
 {
-  "basDt": "20260720",
-  "fetchedAt": "2026-07-21T20:00:38.431Z",
-  "count": 4551,
+  "basDt": "20260721",
+  "fetchedAt": "2026-07-22T19:52:23.082Z",
+  "count": 4556,
   "stocks": [
     {
       "ticker": "900110",
@@ -4087,6 +4087,12 @@
       "ticker": "020180",
       "name": "대신정보통신",
       "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0203K0",
+      "name": "송우인포텍",
+      "market": "KONEX",
       "kind": "stock"
     },
     {
@@ -18886,6 +18892,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0218K0",
+      "name": "BNK 스마트카",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0219B0",
       "name": "KoAct 광통신&위성네트워크액티브",
       "market": "KOSPI",
@@ -18906,6 +18918,24 @@
     {
       "ticker": "0220B0",
       "name": "DS 코스닥액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0221V0",
+      "name": "IBK 초단기채권액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0221Z0",
+      "name": "ACE K바이오코스닥액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0223R0",
+      "name": "TIGER 미국테크NYSE100액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
