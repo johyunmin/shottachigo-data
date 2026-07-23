@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-22T19:52:23.905Z",
-  "count": 13021,
+  "fetchedAt": "2026-07-23T19:55:17.958Z",
+  "count": 13022,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -169,6 +169,12 @@
       "name": "Aardvark Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AAUB",
+      "name": "Alpha Architect US Equity 4 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AAUS",
@@ -5379,6 +5385,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CAE",
+      "name": "CAE Inc - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CAES",
       "name": "Cantor Equity Partners VII, Inc. -",
       "market": "NASDAQ",
@@ -6017,12 +6029,6 @@
     {
       "ticker": "CELU",
       "name": "Celularity Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CELUW",
-      "name": "Celularity Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9813,6 +9819,12 @@
       "isEtf": false
     },
     {
+      "ticker": "EQQQ",
+      "name": "ProShares Ultra QQQ Equal Weight",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "EQRR",
       "name": "ProShares Equities for Rising Rates ETF",
       "market": "NASDAQ",
@@ -12027,12 +12039,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GAMB",
-      "name": "Gambling.com Group Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GAME",
       "name": "GameSquare Holdings, Inc.",
       "market": "NASDAQ",
@@ -13049,6 +13055,12 @@
     {
       "ticker": "GRRRW",
       "name": "Gorilla Technology Group Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GRSD",
+      "name": "Grandstand Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18339,24 +18351,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MBAV",
-      "name": "M3-Brigade Acquisition V Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MBAVU",
-      "name": "M3-Brigade Acquisition V Corp. - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MBAVW",
-      "name": "M3-Brigade Acquisition V Corp. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MBB",
       "name": "iShares MBS ETF",
       "market": "NASDAQ",
@@ -19757,12 +19751,6 @@
     {
       "ticker": "MVST",
       "name": "Microvast Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MVSTW",
-      "name": "Microvast Holdings, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26781,12 +26769,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SGRP",
-      "name": "SPAR Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SGRY",
       "name": "Surgery Partners, Inc.",
       "market": "NASDAQ",
@@ -31319,6 +31301,24 @@
     {
       "ticker": "VLGEA",
       "name": "Village Super Market, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VLOS",
+      "name": "Velos Acquisition I Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VLOSU",
+      "name": "Velos Acquisition I Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VLOSW",
+      "name": "Velos Acquisition I Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -39503,12 +39503,6 @@
     {
       "ticker": "CACI",
       "name": "CACI International, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CAE",
-      "name": "CAE Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -64293,6 +64287,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PMTL",
+      "name": "First Trust Indxx Quality Precious Metals Miners ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PMTU",
       "name": "PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028",
       "market": "NYSE",
@@ -66011,6 +66011,12 @@
     {
       "ticker": "RAM",
       "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "RAML",
+      "name": "Leverage Shares 2X Long Memory Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
