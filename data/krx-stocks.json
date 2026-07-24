@@ -1,7 +1,7 @@
 {
-  "basDt": "20260722",
-  "fetchedAt": "2026-07-23T19:55:16.259Z",
-  "count": 4556,
+  "basDt": "20260723",
+  "fetchedAt": "2026-07-24T19:54:56.119Z",
+  "count": 4546,
   "stocks": [
     {
       "ticker": "900110",
@@ -24610,18 +24610,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "530083",
-      "name": "삼성 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "530084",
-      "name": "삼성 인버스 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "530089",
       "name": "삼성 은 선물 ETN(H)",
       "market": "KOSPI",
@@ -24928,18 +24916,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "550062",
-      "name": "N2 레버리지 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550063",
-      "name": "N2 인버스 레버리지 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "550064",
       "name": "N2 레버리지 은 선물 ETN(H)",
       "market": "KOSPI",
@@ -25068,18 +25044,6 @@
     {
       "ticker": "570051",
       "name": "한투 나스닥100 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570059",
-      "name": "한투 레버리지금선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570060",
-      "name": "한투 인버스2X금선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -25398,18 +25362,6 @@
     {
       "ticker": "570023",
       "name": "한투 인버스2XS&P500선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580022",
-      "name": "KB 레버리지 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580023",
-      "name": "KB 인버스 2X 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -25752,18 +25704,6 @@
     {
       "ticker": "610009",
       "name": "메리츠 인버스 국채30년 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610012",
-      "name": "메리츠 레버리지 금 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610013",
-      "name": "메리츠 인버스 2X 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

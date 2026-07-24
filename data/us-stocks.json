@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-23T19:55:17.958Z",
-  "count": 13022,
+  "fetchedAt": "2026-07-24T19:54:57.328Z",
+  "count": 13024,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3977,6 +3977,18 @@
     {
       "ticker": "BIOA",
       "name": "BioAge Labs, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BIOT",
+      "name": "Instinct Bio Technical Company Holdings Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BIOTW",
+      "name": "Instinct Bio Technical Company Holdings Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -12981,12 +12993,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GREE",
-      "name": "Vulcan Infrastructure and Power Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GREEL",
       "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
       "market": "NASDAQ",
@@ -19611,6 +19617,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MTAKU",
+      "name": "Market Technology Acquisition Corp - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MTC",
       "name": "MMTec, Inc. - Common Shares",
       "market": "NASDAQ",
@@ -21209,12 +21221,6 @@
     {
       "ticker": "NVTS",
       "name": "Navitas Semiconductor Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NVVE",
-      "name": "Nuvve Holding Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23219,6 +23225,12 @@
     {
       "ticker": "PLCE",
       "name": "Children's Place, Inc. (The)",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PLCIU",
+      "name": "Pelican Acquisition II Corporation - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26429,6 +26441,12 @@
     {
       "ticker": "SCSC",
       "name": "ScanSource, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCTX",
+      "name": "Scribe Therapeutics Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31251,6 +31269,12 @@
       "isEtf": false
     },
     {
+      "ticker": "VIP",
+      "name": "Vulcan Infrastructure and Power Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "VIR",
       "name": "Vir Biotechnology, Inc.",
       "market": "NASDAQ",
@@ -33887,12 +33911,6 @@
     {
       "ticker": "ADDS",
       "name": "Hedgeye Index Adds ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ADFI",
-      "name": "Anfield Dynamic Fixed Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72379,12 +72397,6 @@
       "name": "Toyota Motor Corporation ADRhedged",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "TMHC",
-      "name": "Taylor Morrison Home Corporation",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "TMLP",
