@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-26T19:43:36.909Z",
-  "count": 13024,
+  "fetchedAt": "2026-07-27T20:04:17.100Z",
+  "count": 13029,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -9639,12 +9639,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EMPG",
-      "name": "Empro Group Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EMSC",
       "name": "Sophus Capital Emerging Market Small Cap ETF",
       "market": "NASDAQ",
@@ -15639,8 +15633,20 @@
       "isEtf": false
     },
     {
+      "ticker": "IPVV",
+      "name": "InterPrivate Investment Partners V, Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IPVVU",
       "name": "InterPrivate Investment Partners V, Inc. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPVVW",
+      "name": "InterPrivate Investment Partners V, Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18029,6 +18035,12 @@
     {
       "ticker": "LTGRU",
       "name": "Long Table Growth Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LTGRW",
+      "name": "Long Table Growth Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24279,6 +24291,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QBTS",
+      "name": "D-Wave Quantum Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "QBTZ",
       "name": "Defiance Daily Target 2x Short QBTS ETF",
       "market": "NASDAQ",
@@ -29685,24 +29703,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TRIN",
-      "name": "Trinity Capital Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TRINI",
-      "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TRINZ",
-      "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "TRIP",
       "name": "TripAdvisor, Inc.",
       "market": "NASDAQ",
@@ -31663,12 +31663,6 @@
       "name": "VanEck Solana ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "VSTD",
-      "name": "Vestand Inc.  - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "VSTL",
@@ -36279,12 +36273,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AVNS",
-      "name": "Avanos Medical, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "AVNT",
       "name": "Avient Corporation",
       "market": "NYSE",
@@ -36643,6 +36631,12 @@
       "name": "Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BAGX",
+      "name": "EA Bridgeway Aggressive Investors ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BAGY",
@@ -37629,6 +37623,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BGFI",
+      "name": "BNY Mellon Global Fixed Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BGH",
       "name": "Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests",
       "market": "NYSE",
@@ -38421,6 +38421,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BMSI",
+      "name": "BNY Mellon Muti-Sector Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BMVP",
       "name": "Invesco Bloomberg MVP Multi-factor ETF",
       "market": "NYSE",
@@ -38865,6 +38871,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BRSV",
+      "name": "EA Bridgeway Select Small-Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BRT",
       "name": "BRT Apartments Corp. (MD)",
       "market": "NYSE",
@@ -39239,6 +39251,12 @@
     {
       "ticker": "BUSA",
       "name": "Brandes U.S. Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BUSM",
+      "name": "EA Bridgeway Ultra-Small Company Market ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -41861,12 +41879,6 @@
     {
       "ticker": "CRDX",
       "name": "2x Cardano ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "CRED",
-      "name": "Columbia Research Enhanced Real Estate ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49047,8 +49059,20 @@
       "isEtf": true
     },
     {
+      "ticker": "FTRA",
+      "name": "FutureCorp Space Acquisition 1",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "FTRA.U",
       "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "FTRA.W",
+      "name": "FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
     },
@@ -50743,24 +50767,6 @@
       "name": "FlexShares Global Quality Real Estate Index Fund",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "GRAF",
-      "name": "Graf Global Corp.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "GRAF.U",
-      "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "GRAF.W",
-      "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "GRBK",
@@ -57928,7 +57934,7 @@
     },
     {
       "ticker": "MAGA",
-      "name": "Point Bridge America First ETF",
+      "name": "Truth Social America First ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59949,6 +59955,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MUA.V",
+      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "MUB",
       "name": "iShares National Muni Bond ETF",
       "market": "NYSE",
@@ -60079,12 +60091,6 @@
       "name": "Monarch Volume Factor Global Unconstrained Index ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "MVO",
-      "name": "MV Oil Trust Units of Beneficial Interests",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "MVPA",
@@ -65413,12 +65419,6 @@
       "name": "AllianzIM U.S Equity Buffer5 ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "QBTS",
-      "name": "D-Wave Quantum Inc. Common Shares",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "QBTX",
@@ -72531,6 +72531,24 @@
       "isEtf": true
     },
     {
+      "ticker": "TONT",
+      "name": "Graf Global Corp.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TONT.U",
+      "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TONT.W",
+      "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "TOON",
       "name": "Kartoon Studios, Inc.",
       "market": "NYSE",
@@ -72807,6 +72825,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TRIN",
+      "name": "Trinity Capital Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "TRIO",
       "name": "MC Trio Equity Buffered ETF",
       "market": "NYSE",
@@ -72831,8 +72855,20 @@
       "isEtf": true
     },
     {
+      "ticker": "TRNI",
+      "name": "Trinity Capital Inc. 7.875% Notes Due 2029",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "TRNO",
       "name": "Terreno Realty Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TRNZ",
+      "name": "Trinity Capital Inc. 7.875% Notes due 2029",
       "market": "NYSE",
       "isEtf": false
     },
@@ -75065,12 +75101,6 @@
     {
       "ticker": "VLN",
       "name": "Valens Semiconductor Ltd.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "VLN.W",
-      "name": "Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one",
       "market": "NYSE",
       "isEtf": false
     },

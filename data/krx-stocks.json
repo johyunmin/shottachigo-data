@@ -1,6 +1,6 @@
 {
-  "basDt": "20260723",
-  "fetchedAt": "2026-07-26T19:43:35.641Z",
+  "basDt": "20260724",
+  "fetchedAt": "2026-07-27T20:04:16.538Z",
   "count": 4546,
   "stocks": [
     {
@@ -3652,6 +3652,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "0156T0",
+      "name": "에이치엘지노믹스",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "015710",
       "name": "코콤",
       "market": "KOSDAQ",
@@ -4691,7 +4697,7 @@
     },
     {
       "ticker": "030520",
-      "name": "한글과컴퓨터",
+      "name": "한컴",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -6978,12 +6984,6 @@
     {
       "ticker": "060230",
       "name": "제이케이시냅스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "060240",
-      "name": "스타코링크",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -11969,7 +11969,7 @@
     },
     {
       "ticker": "215380",
-      "name": "우정바이오",
+      "name": "콜마바이오텍",
       "market": "KOSDAQ",
       "kind": "stock"
     },
