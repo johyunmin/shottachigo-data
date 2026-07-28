@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-27T20:04:17.100Z",
-  "count": 13029,
+  "fetchedAt": "2026-07-28T20:00:44.733Z",
+  "count": 13034,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3843,6 +3843,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BGUS",
+      "name": "Baillie Gifford U.S. Equity Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "BHAV",
       "name": "BHAV Acquisition Corp -",
       "market": "NASDAQ",
@@ -5619,6 +5625,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CATLU",
+      "name": "Catalyst Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CATY",
       "name": "Cathay General Bancorp",
       "market": "NASDAQ",
@@ -5801,24 +5813,6 @@
     {
       "ticker": "CCIIW",
       "name": "Cohen Circle Acquisition Corp. II - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCIX",
-      "name": "Churchill Capital Corp IX -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCIXU",
-      "name": "Churchill Capital Corp IX - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCIXW",
-      "name": "Churchill Capital Corp IX - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15477,6 +15471,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IOND",
+      "name": "Ionic Digital Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IONL",
       "name": "GraniteShares 2x Long IONQ Daily ETF",
       "market": "NASDAQ",
@@ -18031,6 +18031,12 @@
       "name": "Canary Litecoin ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "LTGR",
+      "name": "Long Table Growth Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "LTGRU",
@@ -25923,12 +25929,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RSVRW",
-      "name": "Reservoir Media, Inc.. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "RTAC",
       "name": "Renatus Tactical Acquisition Corp I -",
       "market": "NASDAQ",
@@ -31791,12 +31791,6 @@
       "isEtf": true
     },
     {
-      "ticker": "VYNE",
-      "name": "VYNE Therapeutics Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WABC",
       "name": "Westamerica Bancorporation",
       "market": "NASDAQ",
@@ -32879,6 +32873,12 @@
     {
       "ticker": "YAAS",
       "name": "Youxin Technology Ltd -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "YARW",
+      "name": "Yarrow Bioscience, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -59691,6 +59691,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MSOL",
+      "name": "Morgan Stanley Solana Trust",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MSOS",
       "name": "AdvisorShares Pure US Cannabis ETF",
       "market": "NYSE",
@@ -59699,6 +59705,12 @@
     {
       "ticker": "MSOX",
       "name": "AdvisorShares MSOS Daily Leveraged ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MSSE",
+      "name": "Morgan Stanley Ethereum Trust",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59819,6 +59831,12 @@
     {
       "ticker": "MTB$K",
       "name": "M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "MTB$L",
+      "name": "M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66045,6 +66063,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RANK",
       "name": "Defiance KSM TipRanks Analyst ETF",
       "market": "NYSE",
@@ -66871,12 +66895,6 @@
       "name": "RiverNorth Opportunistic Municipal Income Fund, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "RMIF",
-      "name": "LHA Risk-Managed Income ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "RMM",
@@ -69141,8 +69159,20 @@
       "isEtf": true
     },
     {
+      "ticker": "SKHA",
+      "name": "Tradr 2X Long SK hynix Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SKHL",
       "name": "Direxion Daily SK Hynix Bull 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SKHN",
+      "name": "Tradr 2X Short SK hynix Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70726,7 +70756,7 @@
     },
     {
       "ticker": "STCE",
-      "name": "Schwab Crypto Thematic ETF",
+      "name": "Schwab Crypto Thematic Natural Language Processing ETF",
       "market": "NYSE",
       "isEtf": true
     },
