@@ -1,7 +1,7 @@
 {
-  "basDt": "20260727",
-  "fetchedAt": "2026-07-28T20:00:43.791Z",
-  "count": 4547,
+  "basDt": "20260728",
+  "fetchedAt": "2026-07-29T19:52:22.394Z",
+  "count": 4552,
   "stocks": [
     {
       "ticker": "900110",
@@ -12562,6 +12562,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "238540",
+      "name": "나노솔루션",
+      "market": "KONEX",
+      "kind": "stock"
+    },
+    {
       "ticker": "239340",
       "name": "이스트에이드",
       "market": "KOSDAQ",
@@ -13613,7 +13619,7 @@
     },
     {
       "ticker": "290690",
-      "name": "소룩스",
+      "name": "아리바이오홀딩스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16588,12 +16594,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "467930",
-      "name": "IBKS제23호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "468530",
       "name": "프로티나",
       "market": "KOSDAQ",
@@ -18874,6 +18874,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0214M0",
+      "name": "MIDAS 바이오헬스케어액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0215T0",
       "name": "HANARO 미국AI광통신TOP10",
       "market": "KOSPI",
@@ -18940,8 +18946,32 @@
       "kind": "etf"
     },
     {
+      "ticker": "0222D0",
+      "name": "KoAct 고배당액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0223A0",
+      "name": "RISE 코스닥커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0223R0",
       "name": "TIGER 미국테크NYSE100액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0224D0",
+      "name": "KIWOOM 미국CPU반도체TOP4+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0224X0",
+      "name": "1Q 엔비디아알파벳미국채혼합50",
       "market": "KOSPI",
       "kind": "etf"
     },

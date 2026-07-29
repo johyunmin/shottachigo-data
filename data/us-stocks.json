@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T20:00:44.733Z",
-  "count": 13034,
+  "fetchedAt": "2026-07-29T19:52:23.586Z",
+  "count": 13032,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -247,12 +247,6 @@
       "name": "Airbnb, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "ABNG",
-      "name": "Leverage Shares 2x Long ABNB Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "ABOS",
@@ -3109,12 +3103,6 @@
       "name": "Axon Enterprise, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "AXPG",
-      "name": "Leverage Shares 2x Long AXP Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "AXSM",
@@ -6753,12 +6741,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CMGG",
-      "name": "Leverage Shares 2X Long CMG Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "CMII",
       "name": "Columbus Circle Capital Corp II -",
       "market": "NASDAQ",
@@ -6823,12 +6805,6 @@
       "name": "Community Bancorp.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "CNCG",
-      "name": "Leverage Shares 2X Long CNC Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "CNCK",
@@ -7474,7 +7450,7 @@
     },
     {
       "ticker": "CRTO",
-      "name": "Criteo S.A. - American Depositary Shares",
+      "name": "Criteo S.A. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -7969,12 +7945,6 @@
       "name": "Cytokinetics, Incorporated",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "CZAR",
-      "name": "Themes Natural Monopoly ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "CZFS",
@@ -8557,12 +8527,6 @@
       "name": "Dynamix Corporation III - Warrants",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "DNNG",
-      "name": "Leverage Shares 2x Long DNN Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "DNTH",
@@ -14325,12 +14289,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HWAY",
-      "name": "Themes US Infrastructure ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "HWBK",
       "name": "Hawthorn Bancshares, Inc.",
       "market": "NASDAQ",
@@ -17035,12 +16993,6 @@
       "name": "Lakewood-Amedex Biotherapeutics Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "LACG",
-      "name": "Leverage Shares 2X Long LAC Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "LAES",
@@ -22101,12 +22053,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ORLG",
-      "name": "Leverage Shares 2X Long ORLY Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "ORLY",
       "name": "O'Reilly Automotive, Inc.",
       "market": "NASDAQ",
@@ -22135,12 +22081,6 @@
       "name": "Old Second Bancorp, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "OSCG",
-      "name": "Leverage Shares 2X Long OSCR Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "OSCX",
@@ -26341,12 +26281,6 @@
       "name": "Sabra Health Care REIT, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "SBU",
-      "name": "Leverage Shares 2X Long SBUX Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "SBUX",
@@ -30603,12 +30537,6 @@
       "isEtf": false
     },
     {
-      "ticker": "UPSG",
-      "name": "Leverage Shares 2X Long UPS Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "UPST",
       "name": "Upstart Holdings, Inc.",
       "market": "NASDAQ",
@@ -30761,12 +30689,6 @@
     {
       "ticker": "USOY",
       "name": "Defiance Oil Enhanced Options Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "USRD",
-      "name": "Themes US R&D Champions ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -33907,6 +33829,12 @@
       "name": "Hedgeye Index Adds ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "ADIG.V",
+      "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "ADIU",
@@ -38443,6 +38371,12 @@
       "name": "Brookfield Corporation Class A Limited Voting Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BNAV",
+      "name": "Amplify Fairlead Tactical Bitcoin ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BNDC",
@@ -50571,6 +50505,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GOIB",
+      "name": "Direxion GOOGL Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GOLD",
       "name": "Gold.com, Inc.",
       "market": "NYSE",
@@ -53599,6 +53539,12 @@
       "name": "Innovator International Developed Power Buffer ETF - May",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "IMC",
+      "name": "IMC Rare Earths Ltd",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "IMCB",
@@ -58443,6 +58389,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MEIB",
+      "name": "Direxion META Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MEM",
       "name": "Matthews Emerging Markets Equity Active ETF",
       "market": "NYSE",
@@ -58648,7 +58600,7 @@
     },
     {
       "ticker": "MGC",
-      "name": "Vanguard Mega Cap ETF",
+      "name": "Vanguard Morningstar Mega Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58660,7 +58612,7 @@
     },
     {
       "ticker": "MGK",
-      "name": "Vanguard Mega Cap Growth ETF",
+      "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58726,7 +58678,7 @@
     },
     {
       "ticker": "MGV",
-      "name": "Vanguard Mega Cap Value ETF",
+      "name": "Vanguard Morningstar Mega Cap Value ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59995,6 +59947,12 @@
       "name": "Mitsubishi UFJ Financial Group, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MUIB",
+      "name": "Direxion MU Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MUJ",
@@ -61723,6 +61681,12 @@
       "name": "Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "NVIB",
+      "name": "Direxion NVDA Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "NVII",
@@ -64107,6 +64071,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PLIB",
+      "name": "Direxion PLTR Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PLNT",
       "name": "Planet Fitness, Inc.",
       "market": "NYSE",
@@ -66449,6 +66419,12 @@
     {
       "ticker": "REZI",
       "name": "Resideo Technologies, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "REZI.V",
+      "name": "Resideo Technologies, Inc. Common Stock When-Issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -73065,6 +73041,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TSIB",
+      "name": "Direxion TSLA Defined Income Boost ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TSIC",
       "name": "Truth Social American Icons ETF",
       "market": "NYSE",
@@ -74638,7 +74620,7 @@
     },
     {
       "ticker": "VB",
-      "name": "Vanguard Small-Cap ETF",
+      "name": "Vanguard Morningstar Small-Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74650,7 +74632,7 @@
     },
     {
       "ticker": "VBK",
-      "name": "Vanguard Small-Cap Growth ETF",
+      "name": "Vanguard Morningstar Small-Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74662,7 +74644,7 @@
     },
     {
       "ticker": "VBR",
-      "name": "Vanguard Small-Cap Value ETF",
+      "name": "Vanguard Morningstar Small-Cap Value ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75286,7 +75268,7 @@
     },
     {
       "ticker": "VO",
-      "name": "Vanguard Mid-Cap ETF",
+      "name": "Vanguard Morningstar Mid-Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75298,7 +75280,7 @@
     },
     {
       "ticker": "VOE",
-      "name": "Vanguard Mid-Cap Value ETF",
+      "name": "Vanguard Morningstar Mid-Cap Value ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75328,7 +75310,7 @@
     },
     {
       "ticker": "VOT",
-      "name": "Vanguard Mid-Cap Growth ETF",
+      "name": "Vanguard Morningstar Mid-Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75550,7 +75532,7 @@
     },
     {
       "ticker": "VTI",
-      "name": "Vanguard Total Stock Market ETF",
+      "name": "Vanguard Morningstar Total Stock Market ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75592,13 +75574,13 @@
     },
     {
       "ticker": "VTV",
-      "name": "Vanguard Value ETF",
+      "name": "Vanguard Morningstar Value ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "VUG",
-      "name": "Vanguard Growth ETF",
+      "name": "Vanguard Morningstar Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75640,7 +75622,7 @@
     },
     {
       "ticker": "VV",
-      "name": "Vanguard Large-Cap ETF",
+      "name": "Vanguard Morningstar Large-Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -76423,6 +76405,12 @@
       "name": "Williams-Sonoma, Inc. Common Stock (DE)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "WSMD",
+      "name": "Wasatch Small/Mid Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "WSO",
