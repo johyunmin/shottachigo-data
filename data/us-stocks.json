@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T19:52:23.586Z",
-  "count": 13032,
+  "fetchedAt": "2026-07-30T20:02:04.133Z",
+  "count": 13041,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -9471,6 +9471,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ELOL",
+      "name": "Leverage Shares 100% TSLA AND 100% SPCX Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ELOX",
       "name": "Eloxx Pharmaceuticals, Inc.",
       "market": "NASDAQ",
@@ -13335,6 +13341,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GYGY",
+      "name": "Game Your Game, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GYRE",
       "name": "Gyre Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -15753,8 +15765,20 @@
       "isEtf": true
     },
     {
+      "ticker": "ISNR",
+      "name": "Snow Rothschild Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ISNRU",
       "name": "Snow Rothschild Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ISNRW",
+      "name": "Snow Rothschild Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22541,6 +22565,12 @@
     {
       "ticker": "PAYX",
       "name": "Paychex, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PBAM",
+      "name": "Private Bancorp of America, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30076,13 +30106,13 @@
     },
     {
       "ticker": "TVGN",
-      "name": "Tevogen Bio Holdings Inc.",
+      "name": "Tevogen Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "TVGNW",
-      "name": "Tevogen Bio Holdings Inc. - Warrant",
+      "name": "Tevogen Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -35403,6 +35433,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ARCP",
+      "name": "Aristotle Core Plus Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ARCX",
       "name": "Tradr 2X Long ACHR Daily ETF",
       "market": "NYSE",
@@ -35575,6 +35611,12 @@
       "name": "Armata Pharmaceuticals, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ARMS",
+      "name": "Aristotle Multi-Sector Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ARMW",
@@ -50193,12 +50235,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GLP$B",
-      "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GLQ",
       "name": "Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -55307,6 +55343,12 @@
     {
       "ticker": "JMIA",
       "name": "Jumia Technologies AG American Depositary Shares, each representing two",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "JMKE",
+      "name": "Jersey Mike's Subs Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66291,6 +66333,12 @@
       "isEtf": true
     },
     {
+      "ticker": "REF",
+      "name": "Reformation Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "REFA",
       "name": "Columbia Research Enhanced International Equity ETF",
       "market": "NYSE",
@@ -68405,6 +68453,12 @@
     {
       "ticker": "SDS",
       "name": "ProShares UltraShort S&P500",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SDUR",
+      "name": "Aristotle Short Term Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
