@@ -1,7 +1,7 @@
 {
-  "basDt": "20260729",
-  "fetchedAt": "2026-07-30T20:02:03.497Z",
-  "count": 4552,
+  "basDt": "20260730",
+  "fetchedAt": "2026-07-31T20:02:03.713Z",
+  "count": 4548,
   "stocks": [
     {
       "ticker": "900110",
@@ -24304,18 +24304,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "500020",
-      "name": "신한 레버리지 다우존스지수 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "500028",
-      "name": "신한 인버스 2X 다우존스지수 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "500050",
       "name": "신한 레버리지 S&P500 선물 ETN",
       "market": "KOSPI",
@@ -25728,18 +25716,6 @@
     {
       "ticker": "610007",
       "name": "메리츠 국채30년 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610008",
-      "name": "메리츠 레버리지 국채30년 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610009",
-      "name": "메리츠 인버스 국채30년 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },

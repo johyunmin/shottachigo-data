@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T20:02:04.133Z",
-  "count": 13041,
+  "fetchedAt": "2026-07-31T20:02:04.689Z",
+  "count": 13048,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2099,6 +2099,12 @@
     {
       "ticker": "APMCU",
       "name": "AmperCap Acquisition Company - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APMD",
+      "name": "Apnimed, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5739,8 +5745,20 @@
       "isEtf": false
     },
     {
+      "ticker": "CCCT",
+      "name": "Columbus Circle Capital Corp III -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CCCTU",
       "name": "Columbus Circle Capital Corp III - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CCCTW",
+      "name": "Columbus Circle Capital Corp III - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10095,6 +10113,12 @@
       "isEtf": true
     },
     {
+      "ticker": "EWAVU",
+      "name": "East West Ave Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "EWBC",
       "name": "East West Bancorp, Inc.",
       "market": "NASDAQ",
@@ -11883,8 +11907,26 @@
       "isEtf": false
     },
     {
+      "ticker": "FWAC",
+      "name": "Futurewave Acquisition Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FWACR",
+      "name": "Futurewave Acquisition Corporation - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FWACU",
       "name": "Futurewave Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FWACW",
+      "name": "Futurewave Acquisition Corporation - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13295,12 +13337,6 @@
     {
       "ticker": "GUTS",
       "name": "Fractyl Health, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GV",
-      "name": "Visionary Holdings Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16185,6 +16221,12 @@
       "isEtf": false
     },
     {
+      "ticker": "JLVP",
+      "name": "JPMorgan U.S. Large Cap Value Plus ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "JMID",
       "name": "Janus Henderson Mid Cap Growth Alpha ETF",
       "market": "NASDAQ",
@@ -17879,12 +17921,6 @@
     {
       "ticker": "LPLA",
       "name": "LPL Financial Holdings Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LPRO",
-      "name": "Open Lending Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20205,8 +20241,26 @@
       "isEtf": false
     },
     {
+      "ticker": "NCO",
+      "name": "Southern Cross Acquisition I Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NCOOR",
+      "name": "Southern Cross Acquisition I Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NCOOU",
       "name": "Southern Cross Acquisition I Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NCOOW",
+      "name": "Southern Cross Acquisition I Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32595,6 +32649,12 @@
       "isEtf": false
     },
     {
+      "ticker": "XIIIU",
+      "name": "Churchill Capital Corp XIII - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "XLO",
       "name": "Xilio Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -35285,12 +35345,6 @@
     {
       "ticker": "APO",
       "name": "Apollo Global Management, Inc. (New)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "APO$A",
-      "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
@@ -50608,7 +50662,7 @@
     },
     {
       "ticker": "GOP",
-      "name": "Unusual Whales Subversive Republican Trading ETF",
+      "name": "Subversive Congressional Republicans Trading ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60292,7 +60346,7 @@
     },
     {
       "ticker": "NANC",
-      "name": "Unusual Whales Subversive Democratic Trading ETF",
+      "name": "Subversive Congressional Democrats Trading ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62645,12 +62699,6 @@
     {
       "ticker": "ORI",
       "name": "Old Republic International Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "ORLA",
-      "name": "Orla Mining Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66089,12 +66137,6 @@
     {
       "ticker": "RAVI",
       "name": "FlexShares Ultra-Short Income Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "RAYJ",
-      "name": "Rayliant SMDAM Japan Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71992,7 +72034,7 @@
     },
     {
       "ticker": "TGLS",
-      "name": "Tecnoglass Inc.",
+      "name": "Tecnoglass Holdings Inc.",
       "market": "NYSE",
       "isEtf": false
     },
