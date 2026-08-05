@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T19:43:09.435Z",
-  "count": 13048,
+  "fetchedAt": "2026-08-05T20:08:05.483Z",
+  "count": 13068,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -815,12 +815,6 @@
     {
       "ticker": "AEYE",
       "name": "AudioEye, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AFBI",
-      "name": "Affinity Bancshares, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -2823,6 +2817,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ATTO",
+      "name": "Attovia Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ATXG",
       "name": "Addentax Group Corp.",
       "market": "NASDAQ",
@@ -3435,8 +3435,20 @@
       "isEtf": false
     },
     {
+      "ticker": "BCCQ",
+      "name": "Bleichroeder Acquisition Corp. III -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BCCQU",
       "name": "Bleichroeder Acquisition Corp. III - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BCCQW",
+      "name": "Bleichroeder Acquisition Corp. III - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6879,6 +6891,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CNSY",
+      "name": "Cerenome, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CNTB",
       "name": "Connect Biopharma Holdings Limited -",
       "market": "NASDAQ",
@@ -8415,6 +8433,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DLCU",
+      "name": "U.S. Large Company Portfolio: ETF Class Shares",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "DLHC",
       "name": "DLH Holdings Corp.",
       "market": "NASDAQ",
@@ -9135,12 +9159,6 @@
       "isEtf": true
     },
     {
-      "ticker": "EA",
-      "name": "Electronic Arts Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EART",
       "name": "Global X Rare Earth & Critical Materials ETF",
       "market": "NASDAQ",
@@ -9507,12 +9525,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ELSE",
-      "name": "Electro-Sensors, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ELTK",
       "name": "Eltek Ltd. -",
       "market": "NASDAQ",
@@ -9761,6 +9773,12 @@
     {
       "ticker": "EOSE",
       "name": "Eos Energy Enterprises, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "EOSEW",
+      "name": "Eos Energy Enterprises, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10599,8 +10617,20 @@
       "isEtf": true
     },
     {
+      "ticker": "FDMM",
+      "name": "Freedom Metals Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FDMMU",
       "name": "Freedom Metals Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FDMMW",
+      "name": "Freedom Metals Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11009,6 +11039,12 @@
     {
       "ticker": "FIZZ",
       "name": "National Beverage Corp.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FJDIU",
+      "name": "ARC Group Securities Acquisition I - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16017,8 +16053,26 @@
       "isEtf": false
     },
     {
+      "ticker": "JAB",
+      "name": "JAB Acquisition Corp I -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "JABRR",
+      "name": "JAB Acquisition Corp I - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "JABRU",
       "name": "JAB Acquisition Corp I - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "JABRW",
+      "name": "JAB Acquisition Corp I - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16967,24 +17021,6 @@
     {
       "ticker": "KUST",
       "name": "Kustom Entertainment, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KVAC",
-      "name": "Keen Vision Acquisition Corporation -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KVACU",
-      "name": "Keen Vision Acquisition Corporation - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KVACW",
-      "name": "Keen Vision Acquisition Corporation - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18011,12 +18047,6 @@
     {
       "ticker": "LSE",
       "name": "Leishen Energy Holding Co., Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LSH",
-      "name": "Lakeside Holding Limited",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21507,6 +21537,12 @@
       "isEtf": true
     },
     {
+      "ticker": "OBX",
+      "name": "Obsidian Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "OCC",
       "name": "Optical Cable Corporation",
       "market": "NASDAQ",
@@ -24015,12 +24051,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PSTV",
-      "name": "PLUS THERAPEUTICS, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PSWD",
       "name": "Xtrackers Cybersecurity Select Equity ETF",
       "market": "NASDAQ",
@@ -24505,6 +24535,12 @@
       "name": "State Street SPDR Portfolio Nasdaq 100 ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "QNME",
+      "name": "Quanome Technologies, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "QNRX",
@@ -27153,12 +27189,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SKYT",
-      "name": "SkyWater Technology, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SKYU",
       "name": "ProShares Ultra Cloud Computing",
       "market": "NASDAQ",
@@ -28239,6 +28269,18 @@
       "isEtf": false
     },
     {
+      "ticker": "STLN",
+      "name": "Starling Oncology, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "STLNW",
+      "name": "Starling Oncology, Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "STNC",
       "name": "Hennessy Sustainable ETF",
       "market": "NASDAQ",
@@ -28899,6 +28941,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TCGX",
+      "name": "TCGX Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TCHI",
       "name": "iShares MSCI China Multisector Tech ETF",
       "market": "NASDAQ",
@@ -29177,6 +29225,12 @@
     {
       "ticker": "THCH",
       "name": "TH International Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "THEOU",
+      "name": "BOA Acquisition Corp. II - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29561,18 +29615,6 @@
     {
       "ticker": "TNYA",
       "name": "Tenaya Therapeutics, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TOI",
-      "name": "The Oncology Institute, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TOIIW",
-      "name": "The Oncology Institute, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33921,8 +33963,8 @@
       "isEtf": true
     },
     {
-      "ticker": "ADIG.V",
-      "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+      "ticker": "ADIG",
+      "name": "ADI Global Distribution Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -36061,6 +36103,12 @@
       "name": "Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AUGC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AUGM",
@@ -39765,6 +39813,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CAUG",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CAVA",
       "name": "CAVA Group, Inc.",
       "market": "NYSE",
@@ -40489,6 +40543,12 @@
       "name": "Church & Dwight Company, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CHDG",
+      "name": "Calamos Active Hedged Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CHE",
@@ -42171,6 +42231,12 @@
       "isEtf": true
     },
     {
+      "ticker": "CTAU",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CTEF",
       "name": "Castellan Targeted Equity ETF",
       "market": "NYSE",
@@ -42903,6 +42969,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DDFG",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - August",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DDFJ",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - January",
       "market": "NYSE",
@@ -43007,6 +43079,12 @@
     {
       "ticker": "DDTF",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - February",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DDTG",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - August",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45507,6 +45585,12 @@
       "isEtf": false
     },
     {
+      "ticker": "EMAU",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "EMBD",
       "name": "Global X Emerging Markets Bond ETF",
       "market": "NYSE",
@@ -47949,6 +48033,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FIZY",
+      "name": "Fitz-Gerald Must Have Portfolio and Options Overlay ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FJAN",
       "name": "FT Vest U.S. Equity Buffer ETF - January",
       "market": "NYSE",
@@ -49815,12 +49905,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GEOA",
-      "name": "WisdomTree GeoAlpha Opportunities Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GETY",
       "name": "Getty Images Holdings, Inc. Class A",
       "market": "NYSE",
@@ -51423,6 +51507,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HAUG",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HAUS",
       "name": "Residential REIT ETF",
       "market": "NYSE",
@@ -52989,12 +53079,6 @@
       "isEtf": true
     },
     {
-      "ticker": "ICOI",
-      "name": "Bitwise COIN Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ICOW",
       "name": "Pacer Developed Markets International Cash Cows 100 ETF",
       "market": "NYSE",
@@ -53019,12 +53103,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ICRC",
-      "name": "Bitwise CRCL Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ICSH",
       "name": "iShares Ultra Short Duration Bond Active ETF",
       "market": "NYSE",
@@ -53041,6 +53119,12 @@
       "name": "IDACORP, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "IDAU",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "IDE",
@@ -53217,12 +53301,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IETH",
-      "name": "Bitwise Ethereum Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "IEUR",
       "name": "iShares Core MSCI Europe ETF",
       "market": "NYSE",
@@ -53375,12 +53453,6 @@
     {
       "ticker": "IGM",
       "name": "iShares Expanded Tech Sector ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "IGME",
-      "name": "Bitwise GME Option Income Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -53665,18 +53737,6 @@
       "name": "Imperial Oil Limited",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "IMRA",
-      "name": "Bitwise MARA Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "IMST",
-      "name": "Bitwise MSTR Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "IMTB",
@@ -56068,7 +56128,7 @@
     },
     {
       "ticker": "KEMQ",
-      "name": "KraneShares Emerging Markets Consumer Technology Index ETF",
+      "name": "KraneShares Public-Private Emerging Markets Internet and Technology ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56083,6 +56143,12 @@
       "name": "Kenon Holdings Ltd.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "KEO",
+      "name": "Kurv Equity Option Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "KEP",
@@ -60021,8 +60087,8 @@
       "isEtf": false
     },
     {
-      "ticker": "MUA.V",
-      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+      "ticker": "MUA.R",
+      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -62139,8 +62205,26 @@
       "isEtf": false
     },
     {
+      "ticker": "OCAC",
+      "name": "Ocean Capital Acquisition Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OCAC.R",
+      "name": "Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "OCAC.U",
       "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "OCAC.W",
+      "name": "Ocean Capital Acquisition Corporation Warrants, each exercisable for one",
       "market": "NYSE",
       "isEtf": false
     },
@@ -62633,6 +62717,12 @@
     {
       "ticker": "OPPE",
       "name": "WisdomTree European Opportunities Fund",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OPPG",
+      "name": "WisdomTree GeoAlpha Opportunities Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -64060,7 +64150,7 @@
     },
     {
       "ticker": "PJIO",
-      "name": "PGIM Jennison International Opportunities ETF",
+      "name": "PGIM Jennison Focused International Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65439,6 +65529,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QAU",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - August Series",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QBER",
       "name": "TrueShares Quarterly Bear Hedge ETF",
       "market": "NYSE",
@@ -65795,6 +65891,12 @@
     {
       "ticker": "QPX",
       "name": "AdvisorShares Q Dynamic Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "QQAU",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66513,12 +66615,6 @@
       "isEtf": false
     },
     {
-      "ticker": "REZI.V",
-      "name": "Resideo Technologies, Inc. Common Stock When-Issued",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "RF",
       "name": "Regions Financial Corporation",
       "market": "NYSE",
@@ -66815,6 +66911,12 @@
     {
       "ticker": "RIZE",
       "name": "Principal Inflation Protection ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "RJCA",
+      "name": "RJ ClariVest Capital Appreciation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67480,7 +67582,7 @@
     },
     {
       "ticker": "RVNU",
-      "name": "Xtrackers Municipal Infrastructure Revenue Bond ETF",
+      "name": "Xtrackers Municipal Infrastructure Revenue Bond Active ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68051,6 +68153,12 @@
     {
       "ticker": "SCAP",
       "name": "Infrastructure Capital Small Cap Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SCAU",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69549,10 +69657,22 @@
       "isEtf": false
     },
     {
+      "ticker": "SMHD",
+      "name": "MicroSectors -3x Short Semiconductor ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SMHI",
       "name": "SEACOR Marine Holdings Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "SMHU",
+      "name": "MicroSectors 3x Long Semiconductor ETNs",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "SMIG",
@@ -77950,7 +78070,7 @@
     },
     {
       "ticker": "YPF",
-      "name": "YPF Sociedad Anonima",
+      "name": "YPF Sociedad Anonima American Depositary Shares",
       "market": "NYSE",
       "isEtf": false
     },

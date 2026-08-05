@@ -1,7 +1,7 @@
 {
-  "basDt": "20260730",
-  "fetchedAt": "2026-08-01T19:43:08.406Z",
-  "count": 4548,
+  "basDt": "20260804",
+  "fetchedAt": "2026-08-05T20:08:04.546Z",
+  "count": 4550,
   "stocks": [
     {
       "ticker": "900110",
@@ -4037,7 +4037,7 @@
     },
     {
       "ticker": "019570",
-      "name": "플루토스",
+      "name": "GMI벤처",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -12137,7 +12137,7 @@
     },
     {
       "ticker": "220180",
-      "name": "핸디소프트",
+      "name": "폴라리스AI핸디",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16624,12 +16624,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "469880",
-      "name": "하나30호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "469900",
       "name": "하나31호스팩",
       "market": "KOSDAQ",
@@ -18922,6 +18916,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0219Z0",
+      "name": "HANARO 미국S&P500액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0220A0",
       "name": "KIWOOM 현대차그룹TOP3채권혼합50",
       "market": "KOSPI",
@@ -18952,6 +18952,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0222F0",
+      "name": "마이티 AI데이터센터밸류체인",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0223A0",
       "name": "RISE 코스닥커버드콜액티브",
       "market": "KOSPI",
@@ -18972,6 +18978,24 @@
     {
       "ticker": "0224X0",
       "name": "1Q 엔비디아알파벳미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0225V0",
+      "name": "KODEX 미국CPU반도체TOP10",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0226A0",
+      "name": "PLUS SK하이닉스샌디스크채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0226G0",
+      "name": "WON 피지컬AI TOP2플러스액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -26340,18 +26364,6 @@
     {
       "ticker": "760018",
       "name": "키움 미국달러선물 ETN B",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "760019",
-      "name": "키움 리츠부동산인프라 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "760020",
-      "name": "키움 레버리지 리츠부동산인프라 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
