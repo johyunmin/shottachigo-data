@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T20:08:05.483Z",
-  "count": 13068,
+  "fetchedAt": "2026-08-07T19:29:08.418Z",
+  "count": 13080,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1897,6 +1897,12 @@
       "name": "AngioDynamics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ANGU",
+      "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ANIK",
@@ -4245,6 +4251,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BLSM",
+      "name": "BlossomHill Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BLTE",
       "name": "Belite Bio, Inc - American Depositary Shares",
       "market": "NASDAQ",
@@ -4445,18 +4457,6 @@
     {
       "ticker": "BNTX",
       "name": "BioNTech SE - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BNZI",
-      "name": "Banzai International, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BNZIW",
-      "name": "Banzai International, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4791,6 +4791,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BRVE",
+      "name": "Braveheart Bio, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BRZE",
       "name": "Braze, Inc. - Class A",
       "market": "NASDAQ",
@@ -4885,6 +4891,12 @@
       "name": "Invesco BulletShares 2035 Corporate Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "BSEM",
+      "name": "BioStem Technologies, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "BSET",
@@ -18075,6 +18087,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LTGO",
+      "name": "Latigo Biotherapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LTGR",
       "name": "Long Table Growth Corp. -",
       "market": "NASDAQ",
@@ -20253,6 +20271,12 @@
       "isEtf": true
     },
     {
+      "ticker": "NCLD",
+      "name": "Roundhill Neocloud ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "NCMI",
       "name": "National CineMedia, Inc.",
       "market": "NASDAQ",
@@ -21585,6 +21609,12 @@
       "isEtf": false
     },
     {
+      "ticker": "OCLTU",
+      "name": "OceanLight Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "OCS",
       "name": "Oculis Holding AG -",
       "market": "NASDAQ",
@@ -22583,6 +22613,18 @@
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PARA",
+      "name": "Banzai International, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PARAW",
+      "name": "Banzai International, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24879,6 +24921,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QVC",
+      "name": "QVC Group, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "QVOL",
       "name": "Infrastructure Capital Nasdaq Option Income ETF",
       "market": "NASDAQ",
@@ -25063,6 +25111,12 @@
       "name": "Defiance Daily Target 2x Long RCAT ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "RCBC",
+      "name": "River City Bank",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "RCEL",
@@ -29295,6 +29349,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TIH",
+      "name": "The Investment House ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TIL",
       "name": "Instil Bio, Inc.",
       "market": "NASDAQ",
@@ -31673,18 +31733,6 @@
     {
       "ticker": "VSECU",
       "name": "VSE Corporation - Tangible Equity Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VSEE",
-      "name": "VSee Health, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VSEEW",
-      "name": "VSee Health, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34677,6 +34725,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AKAL",
+      "name": "T-REX 2X Long AKAM Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AKO.A",
       "name": "Embotelladora Andina S.A.",
       "market": "NYSE",
@@ -36473,18 +36527,6 @@
     {
       "ticker": "AX",
       "name": "Axos Financial, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "AXIA",
-      "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "AXIA$C",
-      "name": "AXIA Energia American Depositary Shares, each representing one Preferred",
       "market": "NYSE",
       "isEtf": false
     },
@@ -55755,12 +55797,6 @@
       "isEtf": true
     },
     {
-      "ticker": "JRE",
-      "name": "Janus Henderson U.S. Real Estate ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "JRI",
       "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -57573,6 +57609,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LOFD",
+      "name": "Direxion Daily SpaceX Bear 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LOFF",
       "name": "Direxion Daily SpaceX Bull 2X ETF",
       "market": "NYSE",
@@ -57977,6 +58019,12 @@
     {
       "ticker": "LYLD",
       "name": "Cambria Large Cap Shareholder Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LYTE",
+      "name": "Roundhill Photonics & Optics ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62241,6 +62289,12 @@
       "isEtf": true
     },
     {
+      "ticker": "OCNL",
+      "name": "T-REX 2X Long DOCN Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OCTB",
       "name": "Aptus October Buffer ETF",
       "market": "NYSE",
@@ -63723,6 +63777,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PENU",
+      "name": "T-REX 2X Long PENG Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PEO",
       "name": "Adams Natural Resources Fund, Inc.",
       "market": "NYSE",
@@ -64499,6 +64559,12 @@
     {
       "ticker": "PMTW",
       "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PNAQ.U",
+      "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
       "market": "NYSE",
       "isEtf": false
     },
@@ -72859,6 +72925,12 @@
       "name": "21Shares XRP ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "TP",
+      "name": "Ticketplus Ltd.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "TPAY",
