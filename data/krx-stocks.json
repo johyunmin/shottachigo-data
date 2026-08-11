@@ -1,7 +1,7 @@
 {
-  "basDt": "20260806",
-  "fetchedAt": "2026-08-08T19:08:08.059Z",
-  "count": 4550,
+  "basDt": "20260810",
+  "fetchedAt": "2026-08-11T19:34:45.477Z",
+  "count": 4549,
   "stocks": [
     {
       "ticker": "900110",
@@ -5884,12 +5884,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "043090",
-      "name": "더테크놀로지",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "043100",
       "name": "알파AI",
       "market": "KOSDAQ",
@@ -7709,7 +7703,7 @@
     },
     {
       "ticker": "070300",
-      "name": "엑스큐어",
+      "name": "퀀텀레일",
       "market": "KOSDAQ",
       "kind": "stock"
     },

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-08T19:08:09.037Z",
-  "count": 13080,
+  "fetchedAt": "2026-08-11T19:34:46.264Z",
+  "count": 13093,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -6875,6 +6875,12 @@
     {
       "ticker": "CNEY",
       "name": "CN Energy Group Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CNL",
+      "name": "Collective Mining Ltd.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23229,6 +23235,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PHOS",
+      "name": "First Phosphate Corp. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PHUN",
       "name": "Phunware, Inc.",
       "market": "NASDAQ",
@@ -24921,7 +24933,7 @@
       "isEtf": true
     },
     {
-      "ticker": "QVC",
+      "ticker": "QVCG",
       "name": "QVC Group, Inc.",
       "market": "NASDAQ",
       "isEtf": false
@@ -28137,12 +28149,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SRZNW",
-      "name": "Surrozen, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SSAC",
       "name": "SPACSphere Acquisition Corp. -",
       "market": "NASDAQ",
@@ -28403,12 +28409,6 @@
     {
       "ticker": "STRRP",
       "name": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "STRS",
-      "name": "Stratus Properties Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32229,8 +32229,20 @@
       "isEtf": false
     },
     {
+      "ticker": "WLCO",
+      "name": "Wilco 63 Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "WLCOU",
       "name": "Wilco 63 Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "WLCOW",
+      "name": "Wilco 63 Corporation - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32524,7 +32536,7 @@
     },
     {
       "ticker": "WVE",
-      "name": "Wave Life Sciences Ltd. -",
+      "name": "Wave Life Sciences, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -35643,6 +35655,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ARIA",
+      "name": "ARIA Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ARIS",
       "name": "Aris Mining Corporation Common Shares",
       "market": "NYSE",
@@ -38267,12 +38285,6 @@
     {
       "ticker": "BKSY",
       "name": "BlackSky Technology Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "BKSY.W",
-      "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -41279,12 +41291,6 @@
     {
       "ticker": "CNK",
       "name": "Cinemark Holdings Inc Cinemark Holdings, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CNL",
-      "name": "Collective Mining Ltd. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -47349,12 +47355,6 @@
       "isEtf": true
     },
     {
-      "ticker": "FCT",
-      "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "FCTR",
       "name": "First Trust Lunt U.S. Factor Rotation ETF",
       "market": "NYSE",
@@ -47765,6 +47765,12 @@
     {
       "ticker": "FFLV",
       "name": "Fidelity Fundamental Large Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "FFLX",
+      "name": "First Trust Flexible Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49707,6 +49713,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GCPB",
+      "name": "Goldman Sachs Core Plus Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GCSH",
       "name": "Guggenheim Ultra Short Income ETF",
       "market": "NYSE",
@@ -50185,6 +50197,12 @@
       "name": "Gildan Activewear, Inc. Class A Sub. Vot.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GINC",
+      "name": "Goldman Sachs Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GINN",
@@ -52575,6 +52593,12 @@
       "isEtf": true
     },
     {
+      "ticker": "HYGD",
+      "name": "MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HYGH",
       "name": "iShares Interest Rate Hedged High Yield Bond ETF",
       "market": "NYSE",
@@ -52583,6 +52607,12 @@
     {
       "ticker": "HYGM",
       "name": "Amplify HYG High Yield 10% Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HYGU",
+      "name": "MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55599,12 +55629,6 @@
       "isEtf": false
     },
     {
-      "ticker": "JOBY.W",
-      "name": "Joby Aviation, Inc. Warrants",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "JOE",
       "name": "St. Joe Company (The)",
       "market": "NYSE",
@@ -57441,6 +57465,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LITG",
+      "name": "Leverage Shares 2X Long LITE Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LITL",
       "name": "Simplify Piper Sandler US Small-Cap PLUS Income ETF",
       "market": "NYSE",
@@ -57711,6 +57741,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LQDD",
+      "name": "MicroSectors -3x Short Investment Grade Corporate Bond (LQD) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LQDH",
       "name": "iShares Interest Rate Hedged Corporate Bond ETF",
       "market": "NYSE",
@@ -57725,6 +57761,12 @@
     {
       "ticker": "LQDM",
       "name": "Amplify LQD Investment Grade 12% Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LQDU",
+      "name": "MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59601,6 +59643,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MRAX",
+      "name": "Tradr 2X Long MRAM Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MRCP",
       "name": "PGIM S&P 500 Buffer 12 ETF - March",
       "market": "NYSE",
@@ -60347,6 +60395,12 @@
     {
       "ticker": "MXI",
       "name": "iShares Global Materials ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MXLL",
+      "name": "Leverage Shares 2X Long MXL Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -64063,6 +64117,12 @@
       "name": "PulteGroup, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "PHOX",
+      "name": "Aura AI Photonics ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "PHR",
@@ -69291,6 +69351,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SITX",
+      "name": "Tradr 2X Long SITM Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SIVR",
       "name": "abrdn Physical Silver Shares ETF",
       "market": "NYSE",
@@ -71077,6 +71143,12 @@
       "name": "Stellantis N.V. Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "STLL",
+      "name": "Leverage Shares 2X Long STRL Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "STLR",
@@ -74137,6 +74209,12 @@
       "name": "United Microelectronics Corporation (NEW)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "UMCU",
+      "name": "Tradr 2X Long UMC Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "UMCX",
