@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T19:34:46.264Z",
-  "count": 13093,
+  "fetchedAt": "2026-08-12T19:36:50.276Z",
+  "count": 13102,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -19335,12 +19335,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MNTSW",
-      "name": "Momentus Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MNVT",
       "name": "Moonvest ETF",
       "market": "NASDAQ",
@@ -19451,6 +19445,12 @@
     {
       "ticker": "MPG",
       "name": "Leverage Shares 2X Long MP Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "MPIA",
+      "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -21211,12 +21211,6 @@
       "name": "Nuveen Ultra Short Income ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "NUTR",
-      "name": "Nusatrip Incorporated",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "NUTX",
@@ -23357,6 +23351,18 @@
     {
       "ticker": "PLCE",
       "name": "Children's Place, Inc. (The)",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PLCI",
+      "name": "Pelican Acquisition II Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PLCIR",
+      "name": "Pelican Acquisition II Corporation - Right",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31553,6 +31559,12 @@
     {
       "ticker": "VOD",
       "name": "Vodafone Group Plc - American Depositary Shares each representing ten",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VOGX",
+      "name": "Vogenx Inc",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -42219,6 +42231,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CSRA",
+      "name": "Cohen & Steers Real Assets Active ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CSRE",
       "name": "Cohen & Steers Real Estate Active ETF",
       "market": "NYSE",
@@ -47031,6 +47049,12 @@
       "isEtf": false
     },
     {
+      "ticker": "EXPN",
+      "name": "Horizon Expansion Leaders ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "EXR",
       "name": "Extra Space Storage Inc",
       "market": "NYSE",
@@ -48741,6 +48765,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FOIL",
+      "name": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "FOMG",
       "name": "Leverage Shares 2X Long FORM Daily ETF",
       "market": "NYSE",
@@ -49529,6 +49559,12 @@
     {
       "ticker": "GAEM",
       "name": "Simplify Gamma Emerging Market Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "GAIQ",
+      "name": "Guinness Atkinson Global Innovators Fund: ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58575,18 +58611,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MDV",
-      "name": "Modiv Industrial, Inc. Class C",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "MDV$A",
-      "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "MDY",
       "name": "State Street SPDR S&P MIDCAP 400 ETF",
       "market": "NYSE",
@@ -59575,6 +59599,24 @@
       "name": "Marathon Petroleum Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MPDB",
+      "name": "m+ DynaBuffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MPDY",
+      "name": "m+ DualYield Autocall ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MPIM",
+      "name": "m+ Income Momentum Autocall ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MPL",
@@ -70071,6 +70113,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SNSC",
+      "name": "SunScout Holding Limited",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SNTH",
       "name": "MRP SynthEquity ETF",
       "market": "NYSE",
@@ -78179,6 +78227,12 @@
     {
       "ticker": "YLDW",
       "name": "Westwood Enhanced Income Opportunity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "YLDY",
+      "name": "Horizon High Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
