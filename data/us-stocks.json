@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-12T19:36:50.276Z",
-  "count": 13102,
+  "fetchedAt": "2026-08-13T19:34:23.787Z",
+  "count": 13104,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1953,24 +1953,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ANSC",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ANSCU",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ANSCW",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ANTA",
       "name": "Antalpha Platform Holding Company -",
       "market": "NASDAQ",
@@ -3691,12 +3673,6 @@
       "name": "Bel Fuse Inc. - Class B",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "BELT",
-      "name": "iShares U.S. Select Equity Active ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "BENF",
@@ -6261,6 +6237,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CGPT",
+      "name": "VegaShares AI Inference ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CGTL",
       "name": "Creative Global Technology Holdings Limited -",
       "market": "NASDAQ",
@@ -7105,6 +7087,12 @@
       "name": "The Cooper Companies, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "COOL",
+      "name": "VegaShares AI Thermal, Cooling & Power Management ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "COOT",
@@ -12489,8 +12477,20 @@
       "isEtf": false
     },
     {
+      "ticker": "GHXI",
+      "name": "Gores Holdings XI, Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GHXIU",
       "name": "Gores Holdings XI, Inc. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GHXIW",
+      "name": "Gores Holdings XI, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28941,6 +28941,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TBCVU",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TBIL",
       "name": "F/m US Treasury 3 Month Bill Fund",
       "market": "NASDAQ",
@@ -34419,12 +34425,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AGRH",
-      "name": "iShares Interest Rate Hedged U.S. Aggregate Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "AGRO",
       "name": "Adecoagro S.A. Common Shares",
       "market": "NYSE",
@@ -35275,6 +35275,12 @@
       "name": "Alto Neuroscience, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ANTW",
+      "name": "Anthropic AI Lab Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ANVS",
@@ -39519,12 +39525,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BWNB",
-      "name": "Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BWOW",
       "name": "Bitwise Dogecoin ETF",
       "market": "NYSE",
@@ -42729,6 +42729,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DACL",
+      "name": "REX Defensive Autocallable Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DAL",
       "name": "Delta Air Lines, Inc.",
       "market": "NYSE",
@@ -43345,6 +43351,12 @@
       "name": "Diageo plc",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "DEPW",
+      "name": "Google DeepMind AI Lab Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "DES",
@@ -44885,30 +44897,6 @@
     {
       "ticker": "EALT",
       "name": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "EAOA",
-      "name": "iShares ESG Aware 80/20 Aggressive Allocation ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "EAOK",
-      "name": "iShares ESG Aware 30/70 Conservative Allocation ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "EAOM",
-      "name": "iShares ESG Aware 40/60 Moderate Allocation ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "EAOR",
-      "name": "iShares ESG Aware 60/40 Balanced Allocation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51645,6 +51633,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HBIL",
+      "name": "Harbor Short Term Treasury ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HBM",
       "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)",
       "market": "NYSE",
@@ -54685,12 +54679,6 @@
       "name": "INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "IVRS",
-      "name": "iShares Future Metaverse Tech and Communications ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "IVT",
@@ -60063,6 +60051,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MTAW",
+      "name": "Meta AI Lab Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MTB",
       "name": "M&T Bank Corporation",
       "market": "NYSE",
@@ -62261,6 +62255,12 @@
     {
       "ticker": "OAIM",
       "name": "OneAscent International Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OAIW",
+      "name": "OpenAI Lab Ecosystem ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67739,6 +67739,12 @@
     {
       "ticker": "RVI",
       "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "RVII",
+      "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -77021,6 +77027,12 @@
     {
       "ticker": "XAGI",
       "name": "Corgi AGIX 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XAIW",
+      "name": "SpaceXAI Lab Ecosystem ETF",
       "market": "NYSE",
       "isEtf": true
     },

@@ -1,7 +1,7 @@
 {
-  "basDt": "20260811",
-  "fetchedAt": "2026-08-12T19:36:49.438Z",
-  "count": 4551,
+  "basDt": "20260812",
+  "fetchedAt": "2026-08-13T19:34:23.108Z",
+  "count": 4552,
   "stocks": [
     {
       "ticker": "900110",
@@ -13631,7 +13631,7 @@
     },
     {
       "ticker": "291650",
-      "name": "압타머사이언스",
+      "name": "츌립앤사이언스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16932,6 +16932,12 @@
     {
       "ticker": "482690",
       "name": "대신밸런스제19호스팩",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "483350",
+      "name": "딜리셔스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
