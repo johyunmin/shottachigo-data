@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-13T19:34:23.787Z",
-  "count": 13104,
+  "fetchedAt": "2026-08-14T19:28:50.058Z",
+  "count": 13111,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -459,16 +459,34 @@
       "isEtf": false
     },
     {
+      "ticker": "ACQQ",
+      "name": "ProShares Nasdaq-100 Autocallable Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ACRS",
       "name": "Aclaris Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
+      "ticker": "ACRT",
+      "name": "ProShares Russell 2000 Autocallable Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ACRV",
       "name": "Acrivon Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ACSP",
+      "name": "ProShares S&P 500 Autocallable Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ACT",
@@ -4419,12 +4437,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BNRG",
-      "name": "Brenmiller Energy Ltd -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BNTC",
       "name": "Benitec Biopharma Inc.",
       "market": "NASDAQ",
@@ -4709,6 +4721,12 @@
     {
       "ticker": "BRNS",
       "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BRNX",
+      "name": "BrenX Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10135,6 +10153,18 @@
       "name": "Eaton Vance High Income Municipal ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "EWAV",
+      "name": "East West Ave Acquisition Corp.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "EWAVR",
+      "name": "East West Ave Acquisition Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "EWAVU",
@@ -17577,12 +17607,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LIDRW",
-      "name": "AEye, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LIEN",
       "name": "Chicago Atlantic BDC, Inc.",
       "market": "NASDAQ",
@@ -24573,12 +24597,6 @@
       "isEtf": false
     },
     {
-      "ticker": "QMMM",
-      "name": "QMMM Holdings Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "QMOM",
       "name": "Alpha Architect U.S. Quantitative Momentum ETF",
       "market": "NASDAQ",
@@ -29291,6 +29309,18 @@
     {
       "ticker": "THCH",
       "name": "TH International Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "THEO",
+      "name": "BOA Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "THEOR",
+      "name": "BOA Acquisition Corp. II - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37517,6 +37547,12 @@
     {
       "ticker": "BEMB",
       "name": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BEMD",
+      "name": "BNY Mellon Emerging Markets Debt ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50043,6 +50079,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GFR.V",
+      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "GFSG",
       "name": "Leverage Shares 2X Long GFS Daily ETF",
       "market": "NYSE",
@@ -51605,6 +51647,12 @@
     {
       "ticker": "HAUZ",
       "name": "Xtrackers International Real Estate ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HAWG",
+      "name": "HCM Hedged Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68963,12 +69011,6 @@
     {
       "ticker": "SES",
       "name": "SES AI Corporation Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SES.W",
-      "name": "SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },

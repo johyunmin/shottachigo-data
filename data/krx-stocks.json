@@ -1,7 +1,7 @@
 {
-  "basDt": "20260812",
-  "fetchedAt": "2026-08-13T19:34:23.108Z",
-  "count": 4552,
+  "basDt": "20260813",
+  "fetchedAt": "2026-08-14T19:28:48.808Z",
+  "count": 4553,
   "stocks": [
     {
       "ticker": "900110",
@@ -16992,6 +16992,12 @@
     {
       "ticker": "487360",
       "name": "신한제14호스팩",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "487400",
+      "name": "케이앤에스아이앤씨",
       "market": "KOSDAQ",
       "kind": "stock"
     },
