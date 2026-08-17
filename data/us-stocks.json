@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T18:55:50.780Z",
-  "count": 13111,
+  "fetchedAt": "2026-08-17T19:07:24.923Z",
+  "count": 13112,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -569,6 +569,12 @@
     {
       "ticker": "ADAMI",
       "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2029",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ADAMK",
+      "name": "Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6213,8 +6219,20 @@
       "isEtf": false
     },
     {
+      "ticker": "CGCF",
+      "name": "Cartesian Growth Corporation IV -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CGCFU",
       "name": "Cartesian Growth Corporation IV - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CGCFW",
+      "name": "Cartesian Growth Corporation IV - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15627,24 +15645,6 @@
       "isEtf": false
     },
     {
-      "ticker": "IPCX",
-      "name": "Inflection Point Acquisition Corp. III -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPCXR",
-      "name": "Inflection Point Acquisition Corp. III - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPCXU",
-      "name": "Inflection Point Acquisition Corp. III - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "IPDN",
       "name": "Professional Diversity Network, Inc.",
       "market": "NASDAQ",
@@ -19527,8 +19527,20 @@
       "isEtf": false
     },
     {
+      "ticker": "MRCO",
+      "name": "Mercator Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MRCOU",
       "name": "Mercator Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MRCOW",
+      "name": "Mercator Acquisition Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20057,12 +20069,6 @@
     {
       "ticker": "MYSE",
       "name": "Myseum.AI, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MYSEW",
-      "name": "Myseum.AI, Inc. - Series A Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21231,6 +21237,12 @@
       "isEtf": true
     },
     {
+      "ticker": "NUR",
+      "name": "Nuran Wireless Inc. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NUSB",
       "name": "Nuveen Ultra Short Income ETF",
       "market": "NASDAQ",
@@ -21425,6 +21437,12 @@
     {
       "ticker": "NXGLW",
       "name": "NexGel, Inc - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NXH",
+      "name": "Bed Bath",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27232,7 +27250,7 @@
     },
     {
       "ticker": "SKOR",
-      "name": "FlexShares Credit-Scored US Corporate Bond Index Fund",
+      "name": "Northern Trust Credit-Scored US Corporate Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -31995,6 +32013,12 @@
       "isEtf": false
     },
     {
+      "ticker": "WATR",
+      "name": "Air Water Ventures Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "WATT",
       "name": "Energous Corporation",
       "market": "NASDAQ",
@@ -36315,12 +36339,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AVB",
-      "name": "AvalonBay Communities, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "AVBC",
       "name": "Avidia Bancorp, Inc.",
       "market": "NYSE",
@@ -37047,18 +37065,6 @@
       "isEtf": true
     },
     {
-      "ticker": "BBBY",
-      "name": "Bed Bath & Beyond, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "BBBY.W",
-      "name": "Bed Bath & Beyond, Inc. Warrants to Purchase",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BBC",
       "name": "Virtus Biotech Clinical Trials ETF",
       "market": "NYSE",
@@ -37303,12 +37309,6 @@
       "name": "Banco De Chile ADS",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "BCHI",
-      "name": "GMO Beyond China ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "BCHP",
@@ -37558,7 +37558,7 @@
     },
     {
       "ticker": "BEN",
-      "name": "Franklin Resources, Inc.",
+      "name": "Franklin Templeton, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -38632,7 +38632,7 @@
     },
     {
       "ticker": "BNDC",
-      "name": "FlexShares Core Select Bond Fund",
+      "name": "Northern Trust Core Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40324,7 +40324,7 @@
     },
     {
       "ticker": "CEFS",
-      "name": "Saba Closed-End Funds ETF",
+      "name": "Saba Opportunistic Hedged Closed-End Funds ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44673,6 +44673,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DUKU",
+      "name": "Duke Energy Corporation Corporate Units",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "DUKZ",
       "name": "Ocean Park Diversified Income ETF",
       "market": "NYSE",
@@ -46366,13 +46372,13 @@
     },
     {
       "ticker": "ESG",
-      "name": "FlexShares STOXX US ESG Select Index Fund",
+      "name": "Northern Trust STOXX US ESG Select ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "ESGG",
-      "name": "FlexShares STOXX Global ESG Select Index Fund",
+      "name": "Northern Trust STOXX Global ESG Select ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -47608,7 +47614,7 @@
     },
     {
       "ticker": "FEDM",
-      "name": "FlexShares ESG & Climate Developed Markets ex-US Core Index Fund",
+      "name": "Northern Trust ESG & Climate Developed Markets ex-US Core ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -47626,7 +47632,7 @@
     },
     {
       "ticker": "FEIG",
-      "name": "FlexShares ESG & Climate Investment Grade Corporate Core Index Fund",
+      "name": "Northern Trust ESG & Climate Investment Grade Corporate Core ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -47728,7 +47734,7 @@
     },
     {
       "ticker": "FEUS",
-      "name": "FlexShares ESG & Climate US Large Cap Core Index Fund",
+      "name": "Northern Trust ESG & Climate US Large Cap Core ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51004,7 +51010,7 @@
     },
     {
       "ticker": "GQRE",
-      "name": "FlexShares Global Quality Real Estate Index Fund",
+      "name": "Northern Trust Global Quality Real Estate ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51388,7 +51394,7 @@
     },
     {
       "ticker": "GUNR",
-      "name": "FlexShares Global Upstream Natural Resources Index Fund ETF",
+      "name": "Northern Trust Morningstar Global Upstream Natural Resources ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52696,7 +52702,7 @@
     },
     {
       "ticker": "HYGV",
-      "name": "FlexShares High Yield Value-Scored Bond Index Fund",
+      "name": "Northern Trust High Yield Value-Scored Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54274,7 +54280,7 @@
     },
     {
       "ticker": "IQDF",
-      "name": "FlexShares International Quality Dividend Index Fund",
+      "name": "Northern Trust International Quality Dividend ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54286,7 +54292,7 @@
     },
     {
       "ticker": "IQDY",
-      "name": "FlexShares International Quality Dividend Dynamic Index Fund",
+      "name": "Northern Trust International Quality Dividend Dynamic ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57580,7 +57586,7 @@
     },
     {
       "ticker": "LKOR",
-      "name": "FlexShares Credit-Scored US Long Corporate Bond Index Fund",
+      "name": "Northern Trust Credit-Scored US Long Corporate Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58480,7 +58486,7 @@
     },
     {
       "ticker": "MBSD",
-      "name": "FlexShares Disciplined Duration MBS Index Fund",
+      "name": "Northern Trust Disciplined Duration MBS ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61060,7 +61066,7 @@
     },
     {
       "ticker": "NFRA",
-      "name": "FlexShares STOXX Global Broad Infrastructure Index Fund",
+      "name": "Northern Trust STOXX Global Broad Infrastructure ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63597,12 +63603,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PCCE",
-      "name": "Polen Capital China Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PCEB",
       "name": "Polen Euro High Yield Bond ETF",
       "market": "NYSE",
@@ -63687,12 +63687,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PCGG",
-      "name": "Polen Capital Global Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "PCHI",
       "name": "Polen High Income ETF",
       "market": "NYSE",
@@ -63701,12 +63695,6 @@
     {
       "ticker": "PCI",
       "name": "PGIM Corporate Bond 5-10 Year ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "PCIG",
-      "name": "Polen Capital International Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65854,13 +65842,13 @@
     },
     {
       "ticker": "QDEF",
-      "name": "FlexShares Quality Dividend Defensive Index Fund",
+      "name": "Northern Trust Quality Dividend Defensive ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "QDF",
-      "name": "FlexShares Quality Dividend Index Fund",
+      "name": "Northern Trust Quality Dividend ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65998,7 +65986,7 @@
     },
     {
       "ticker": "QLC",
-      "name": "FlexShares US Quality Large Cap Index Fund",
+      "name": "Northern Trust US Quality Large Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66040,19 +66028,19 @@
     },
     {
       "ticker": "QLV",
-      "name": "FlexShares US Quality Low Volatility Index Fund",
+      "name": "Northern Trust US Quality Low Volatility ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "QLVD",
-      "name": "FlexShares Developed Markets ex-US Quality Low Volatility Index Fund",
+      "name": "Northern Trust Developed Markets ex-US Quality Low Volatility ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "QLVE",
-      "name": "FlexShares Emerging Markets  Quality Low Volatility Index Fund",
+      "name": "Northern Trust Emerging Markets Quality Low Volatility ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66454,7 +66442,7 @@
     },
     {
       "ticker": "RAVI",
-      "name": "FlexShares Ultra-Short Income Fund",
+      "name": "Northern Trust Ultra-Short Fixed Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69339,6 +69327,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SIC",
+      "name": "Tema Power Semiconductor ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SID",
       "name": "Companhia Siderurgica Nacional S.A.",
       "market": "NYSE",
@@ -72022,13 +72016,13 @@
     },
     {
       "ticker": "TDTF",
-      "name": "FlexShares iBoxx 5 Year Target Duration TIPS Index Fund",
+      "name": "Northern Trust iBoxx 5-Year Target Duration TIPS ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "TDTT",
-      "name": "FlexShares iBoxx 3 Year Target Duration TIPS Index Fund",
+      "name": "Northern Trust iBoxx 3-Year Target Duration TIPS ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72556,7 +72550,7 @@
     },
     {
       "ticker": "TILT",
-      "name": "FlexShares Mornigstar US Market Factors Tilt Index Fund ETF",
+      "name": "Northern Trust Morningstar US Market Factor Tilt ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72724,13 +72718,13 @@
     },
     {
       "ticker": "TLTD",
-      "name": "FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund",
+      "name": "Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "TLTE",
-      "name": "FlexShares Morningstar Emerging Markets Factor Tilt Index Fund",
+      "name": "Northern Trust Morningstar Emerging Markets Factor Tilt ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78471,6 +78465,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ZDIS",
+      "name": "Virtus Zevenbergen Discovery Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ZECP",
       "name": "Zacks Earnings Consistent Portfolio ETF",
       "market": "NYSE",
@@ -78533,6 +78533,12 @@
     {
       "ticker": "ZINC",
       "name": "Zacks Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ZINN",
+      "name": "Virtus Zevenbergen Innovative Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
