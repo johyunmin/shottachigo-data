@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T19:07:24.923Z",
-  "count": 13112,
+  "fetchedAt": "2026-08-18T19:06:49.033Z",
+  "count": 13120,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1151,6 +1151,12 @@
     {
       "ticker": "AIMS",
       "name": "Acuitas Small Cap Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "AINF",
+      "name": "Defiance Inference AI Chip ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -3319,6 +3325,12 @@
       "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "BBBYW",
+      "name": "Neighborhood Intelligence, Inc.  - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "BBCP",
@@ -7503,6 +7515,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CROB",
+      "name": "Defiance China Robotics ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CRON",
       "name": "Cronos Group Inc. - Common Share",
       "market": "NASDAQ",
@@ -8735,12 +8753,6 @@
     {
       "ticker": "DRMA",
       "name": "Dermata Therapeutics, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "DRMAW",
-      "name": "Dermata Therapeutics, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11751,6 +11763,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FTG",
+      "name": "FullerThaler Behavioral Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "FTGC",
       "name": "First Trust Global Tactical Commodity Strategy Fund",
       "market": "NASDAQ",
@@ -11827,12 +11845,6 @@
       "name": "First Trust Indxx Global Natural Resources Income ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "FTRK",
-      "name": "FAST TRACK GROUP -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "FTSL",
@@ -14571,6 +14583,12 @@
       "isEtf": true
     },
     {
+      "ticker": "IA",
+      "name": "Innovative Solutions and Support, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IACO",
       "name": "Idea Acquisition Corp. -",
       "market": "NASDAQ",
@@ -15917,12 +15935,6 @@
     {
       "ticker": "ISRG",
       "name": "Intuitive Surgical, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ISSC",
-      "name": "Innovative Solutions and Support, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21021,6 +21033,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NSAIU",
+      "name": "NorthStrive Acquisition Corp I. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NSI",
       "name": "National Security Emerging Markets Index ETF",
       "market": "NASDAQ",
@@ -21442,7 +21460,7 @@
     },
     {
       "ticker": "NXH",
-      "name": "Bed Bath",
+      "name": "Neighborhood Intelligence, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28851,12 +28869,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TALK",
-      "name": "Talkspace, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "TANH",
       "name": "Tantech Holdings Ltd. -",
       "market": "NASDAQ",
@@ -32745,6 +32757,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XCSH",
+      "name": "XFUNDS 1-3 Month BOX ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "XCUR",
       "name": "Exicure, Inc.",
       "market": "NASDAQ",
@@ -33019,6 +33037,12 @@
       "name": "iShares Future Exponential Technologies ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "XTERU",
+      "name": "Karman Line Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "XTIA",
@@ -36659,6 +36683,12 @@
     {
       "ticker": "AXTL",
       "name": "Leverage Shares 2X Long AXTI Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AXTQ",
+      "name": "Tradr 2X Short AXTI Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -41511,6 +41541,12 @@
       "isEtf": false
     },
     {
+      "ticker": "COHQ",
+      "name": "Tradr 2X Short COHR Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "COHR",
       "name": "Coherent Corp.",
       "market": "NYSE",
@@ -43343,12 +43379,6 @@
     {
       "ticker": "DEEP",
       "name": "Acquirers Small and Micro Deep Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "DEFI",
-      "name": "Hashdex Bitcoin ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -46253,12 +46283,6 @@
     {
       "ticker": "EQNR",
       "name": "Equinor ASA",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "EQR",
-      "name": "Equity Residential Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
@@ -52803,6 +52827,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IACL",
+      "name": "GraniteShares US 100 Autocallable Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "IAE",
       "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
@@ -58101,6 +58131,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LWLX",
+      "name": "Tradr 2X Long LWLG Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LXFR",
       "name": "Luxfer Holdings PLC",
       "market": "NYSE",
@@ -58769,6 +58805,12 @@
     {
       "ticker": "METG",
       "name": "Leverage Shares 2X Long META Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "METQ",
+      "name": "Tradr 2X Short META Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75629,6 +75671,12 @@
     {
       "ticker": "VMO",
       "name": "Invesco Municipal Opportunity Trust",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "VMRK",
+      "name": "Vivmark Residential Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
