@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T19:06:49.033Z",
-  "count": 13120,
+  "fetchedAt": "2026-08-19T19:02:38.952Z",
+  "count": 13128,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -17025,6 +17025,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KSMH",
+      "name": "xETFs Korea AI Semiconductor",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "KSPI",
       "name": "Joint Stock Company Kaspi.kz - American Depository Shares",
       "market": "NASDAQ",
@@ -32200,7 +32206,7 @@
     },
     {
       "ticker": "WGMI",
-      "name": "CoinShares Bitcoin Mining ETF",
+      "name": "CoinShares Bitcoin Mining and Digital Power ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -34527,6 +34533,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AHBM",
+      "name": "Amplify Top 10 Asia Memory ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AHL$D",
       "name": "Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares",
       "market": "NYSE",
@@ -35439,12 +35451,6 @@
       "isEtf": false
     },
     {
-      "ticker": "AOTS",
-      "name": "AOT Software Platform ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "AP",
       "name": "Ampco-Pittsburgh Corporation",
       "market": "NYSE",
@@ -35825,6 +35831,12 @@
     {
       "ticker": "ARKX",
       "name": "ARK Space & Defense Innovation ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ARKY",
+      "name": "ARK Active Autocallable Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40354,7 +40366,7 @@
     },
     {
       "ticker": "CEFS",
-      "name": "Saba Opportunistic Hedged Closed-End Funds ETF",
+      "name": "Saba Closed-End Funds ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -48159,6 +48171,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FIXX",
+      "name": "Leverage Shares 2X Long FIX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FIZY",
       "name": "Fitz-Gerald Must Have Portfolio and Options Overlay ETF",
       "market": "NYSE",
@@ -48293,6 +48311,12 @@
     {
       "ticker": "FLEE",
       "name": "Franklin FTSE Europe ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "FLEL",
+      "name": "Leverage Shares 2X Long FLEX Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54825,12 +54849,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IWDL",
-      "name": "ETRACS 2x Leveraged US Value Factor TR ETN",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "IWF",
       "name": "iShares Russell 1000 Growth Fund",
       "market": "NYSE",
@@ -54839,12 +54857,6 @@
     {
       "ticker": "IWFG",
       "name": "NYLI Winslow Focused Large Cap Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "IWFL",
-      "name": "ETRACS 2x Leveraged US Growth Factor TR ETN",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54869,12 +54881,6 @@
     {
       "ticker": "IWMI",
       "name": "NEOS Russell 2000 High Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "IWML",
-      "name": "ETRACS 2x Leveraged US Size Factor TR ETN",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56131,6 +56137,12 @@
       "name": "Kadant Inc",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "KAIT",
+      "name": "KraneShares Asia AI Technology ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "KAMO",
@@ -58179,6 +58191,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LYNX",
+      "name": "Lyntris Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "LYTE",
       "name": "Roundhill Photonics & Optics ETF",
       "market": "NYSE",
@@ -58737,6 +58755,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MEGX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MEI",
       "name": "Methode Electronics, Inc.",
       "market": "NYSE",
@@ -58973,12 +58997,6 @@
     {
       "ticker": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MGKX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60273,12 +60291,6 @@
       "isEtf": true
     },
     {
-      "ticker": "MTUL",
-      "name": "ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "MTUM",
       "name": "iShares MSCI USA Momentum Factor ETF",
       "market": "NYSE",
@@ -60337,6 +60349,12 @@
       "name": "Mitsubishi UFJ Financial Group, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MUG",
+      "name": "Leverage Shares 2X Long MU Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MUIB",
@@ -63789,6 +63807,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PCOV",
+      "name": "Principal Equity Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PCPP",
       "name": "Porter & Company Porter Portfolio Index ETF",
       "market": "NYSE",
@@ -66309,12 +66333,6 @@
       "isEtf": true
     },
     {
-      "ticker": "QULL",
-      "name": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "QUS",
       "name": "State Street SPDR MSCI USA StrategicFactors ETF",
       "market": "NYSE",
@@ -67431,6 +67449,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ROBX",
+      "name": "Amplify Top 10 Robotics ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RODM",
       "name": "Hartford Multifactor Developed Markets (ex-US) ETF",
       "market": "NYSE",
@@ -68461,12 +68485,6 @@
       "name": "LMP Capital and Income Fund Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "SCDL",
-      "name": "ETRACS 2x Leveraged US Dividend Factor TR ETN",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "SCDV",
@@ -71299,6 +71317,12 @@
       "name": "STMicroelectronics N.V.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "STMX",
+      "name": "Leverage Shares 2X Long STM Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "STN",
@@ -74739,6 +74763,12 @@
       "isEtf": true
     },
     {
+      "ticker": "USGX",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "market": "NYSE",
@@ -74763,6 +74793,12 @@
       "isEtf": true
     },
     {
+      "ticker": "USLX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "USMD",
       "name": "CoreValues America First Technology ETF",
       "market": "NYSE",
@@ -74775,14 +74811,14 @@
       "isEtf": true
     },
     {
-      "ticker": "USML",
-      "name": "ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN",
+      "ticker": "USMV",
+      "name": "iShares MSCI USA Min Vol Factor ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
-      "ticker": "USMV",
-      "name": "iShares MSCI USA Min Vol Factor ETF",
+      "ticker": "USMX",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74837,6 +74873,12 @@
     {
       "ticker": "USSG",
       "name": "Xtrackers MSCI USA Selection Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "USSX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75143,12 +75185,6 @@
     {
       "ticker": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "VBX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75803,12 +75839,6 @@
     {
       "ticker": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "VOOX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -77859,6 +77889,12 @@
       "isEtf": false
     },
     {
+      "ticker": "XQBT",
+      "name": "Amplify Top 10 Quantum ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XQTM",
       "name": "Corgi Quantum Computing 2x Daily ETF",
       "market": "NYSE",
@@ -78093,14 +78129,20 @@
       "isEtf": true
     },
     {
-      "ticker": "XVO",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "ticker": "XVAP",
+      "name": "FT Vest AAPL & Target Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
-      "ticker": "XVUG",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "ticker": "XVNV",
+      "name": "FT Vest NVDA & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVTS",
+      "name": "FT Vest TSLA & Target Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78113,6 +78155,12 @@
     {
       "ticker": "XW",
       "name": "Corgi Ex-U.S. Equities 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XWNG",
+      "name": "Amplify Top 10 Space ETF",
       "market": "NYSE",
       "isEtf": true
     },

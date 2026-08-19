@@ -1,6 +1,6 @@
 {
-  "basDt": "20260814",
-  "fetchedAt": "2026-08-18T19:06:48.137Z",
+  "basDt": "20260818",
+  "fetchedAt": "2026-08-19T19:02:37.964Z",
   "count": 4553,
   "stocks": [
     {
@@ -13822,12 +13822,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "299900",
-      "name": "위지윅스튜디오",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "300080",
       "name": "플리토",
       "market": "KOSDAQ",
@@ -17202,6 +17196,12 @@
     {
       "ticker": "950200",
       "name": "소마젠",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "950260",
+      "name": "인제니아테라퓨틱스(Reg.S)",
       "market": "KOSDAQ",
       "kind": "stock"
     },
