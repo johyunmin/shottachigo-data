@@ -1,30 +1,12 @@
 {
-  "fetchedAt": "2026-08-19T19:02:38.952Z",
-  "count": 13128,
+  "fetchedAt": "2026-08-20T19:10:02.584Z",
+  "count": 13135,
   "stocks": [
     {
       "ticker": "AAAP",
       "name": "Pacer Barings CLO Market Flex ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "AACB",
-      "name": "Artius II Acquisition Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AACBR",
-      "name": "Artius II Acquisition Inc. - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AACBU",
-      "name": "Artius II Acquisition Inc. - Units",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "AACG",
@@ -5157,6 +5139,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BTLN",
+      "name": "Brightline Interactive, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BTMD",
       "name": "Biote Corp. - Class A",
       "market": "NASDAQ",
@@ -6515,6 +6503,12 @@
     {
       "ticker": "CHTR",
       "name": "Charter Communications, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CHTRP",
+      "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10449,6 +10443,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FBDT",
+      "name": "First Breach Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FBGL",
       "name": "FBS Global Limited -",
       "market": "NASDAQ",
@@ -12515,12 +12515,6 @@
     {
       "ticker": "GGROW",
       "name": "Gogoro Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GGRP",
-      "name": "The Glimpse Group, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24645,6 +24639,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QNBC",
+      "name": "QNB Corp.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "QNCX",
       "name": "Quince Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -29871,6 +29871,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TREO",
+      "name": "Tactical Resources Corp. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TRGS",
       "name": "TRG Latin America Acquisitions Corp. -",
       "market": "NASDAQ",
@@ -32903,12 +32909,6 @@
     {
       "ticker": "XOS",
       "name": "Xos, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "XOSWW",
-      "name": "Xos, Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37197,6 +37197,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BBLS",
+      "name": "Munificent Seven ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BBLU",
       "name": "EA Bridgeway Blue Chip ETF",
       "market": "NYSE",
@@ -39123,6 +39129,18 @@
       "isEtf": false
     },
     {
+      "ticker": "BRZD",
+      "name": "MicroSectors -3x Short Brazil ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BRZL",
+      "name": "MicroSectors 3x Long Brazil ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BRZU",
       "name": "Direxion Daily Brazil Bull 2X ETF",
       "market": "NYSE",
@@ -40366,7 +40384,7 @@
     },
     {
       "ticker": "CEFS",
-      "name": "Saba Closed-End Funds ETF",
+      "name": "Saba Opportunistically Hedged Closed-End Funds ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49809,6 +49827,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GCLO",
+      "name": "Guggenheim Investment Grade CLO ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GCO",
       "name": "Genesco Inc.",
       "market": "NYSE",
@@ -49999,6 +50023,12 @@
       "name": "GE Aerospace",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "GEEQ",
+      "name": "Guggenheim Enhanced Equity Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "GEF",
@@ -55875,6 +55905,18 @@
       "isEtf": true
     },
     {
+      "ticker": "JPND",
+      "name": "MicroSectors -3x Short Japan ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "JPNU",
+      "name": "MicroSectors 3x Long Japan ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JPO",
       "name": "YieldMax JP Option Income Strategy ETF",
       "market": "NYSE",
@@ -58755,12 +58797,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MEGX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "MEI",
       "name": "Methode Electronics, Inc.",
       "market": "NYSE",
@@ -58997,6 +59033,12 @@
     {
       "ticker": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MGKX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60323,12 +60365,6 @@
     {
       "ticker": "MUA",
       "name": "Blackrock MuniAssets Fund, Inc",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "MUA.R",
-      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -70233,6 +70269,18 @@
       "isEtf": true
     },
     {
+      "ticker": "SNUS$H",
+      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "SNUS$I",
+      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SNX",
       "name": "TD SYNNEX Corporation",
       "market": "NYSE",
@@ -71847,6 +71895,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TAWN",
+      "name": "MicroSectors 3x Long Taiwan ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TAXF",
       "name": "American Century Diversified Municipal Bond ETF",
       "market": "NYSE",
@@ -73177,6 +73231,12 @@
       "name": "Tutor Perini Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "TPEI",
+      "name": "MicroSectors -3x Short Taiwan ETNs",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "TPET",
@@ -74763,12 +74823,6 @@
       "isEtf": true
     },
     {
-      "ticker": "USGX",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "market": "NYSE",
@@ -74793,12 +74847,6 @@
       "isEtf": true
     },
     {
-      "ticker": "USLX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "USMD",
       "name": "CoreValues America First Technology ETF",
       "market": "NYSE",
@@ -74813,12 +74861,6 @@
     {
       "ticker": "USMV",
       "name": "iShares MSCI USA Min Vol Factor ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "USMX",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74873,12 +74915,6 @@
     {
       "ticker": "USSG",
       "name": "Xtrackers MSCI USA Selection Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "USSX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75185,6 +75221,12 @@
     {
       "ticker": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VBX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75843,6 +75885,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VOOX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VOT",
       "name": "Vanguard Morningstar Mid-Cap Growth ETF",
       "market": "NYSE",
@@ -76315,24 +76363,6 @@
       "name": "WBI Power Factor High Dividend ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "WBS",
-      "name": "Webster Financial Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "WBS$F",
-      "name": "Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "WBS$G",
-      "name": "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "WBX",
@@ -78141,8 +78171,20 @@
       "isEtf": true
     },
     {
+      "ticker": "XVO",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XVTS",
       "name": "FT Vest TSLA & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVUG",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
