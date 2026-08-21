@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T19:10:02.584Z",
-  "count": 13135,
+  "fetchedAt": "2026-08-21T19:06:27.541Z",
+  "count": 13136,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1936,7 +1936,7 @@
     },
     {
       "ticker": "ANL",
-      "name": "Adlai Nortye Ltd. - American Depositary Shares",
+      "name": "Adlai Nortye Group Ltd. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17265,24 +17265,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LBRDA",
-      "name": "Liberty Broadband Corporation - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LBRDK",
-      "name": "Liberty Broadband Corporation - Class C",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LBRDP",
-      "name": "Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LBRX",
       "name": "LB Pharmaceuticals Inc",
       "market": "NASDAQ",
@@ -22305,8 +22287,20 @@
       "isEtf": false
     },
     {
+      "ticker": "OSPR",
+      "name": "Osprey Acquisition Corp. III -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "OSPRU",
       "name": "Osprey Acquisition Corp. III - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OSPRW",
+      "name": "Osprey Acquisition Corp. III - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26853,6 +26847,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SEPQ",
+      "name": "STF Tactical Growth & Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "SERA",
       "name": "Sera Prognostics, Inc. - Class A",
       "market": "NASDAQ",
@@ -30273,12 +30273,6 @@
       "isEtf": true
     },
     {
-      "ticker": "TUGN",
-      "name": "STF Tactical Growth & Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "TULP",
       "name": "Bloomia Holdings, Inc.",
       "market": "NASDAQ",
@@ -33103,12 +33097,6 @@
       "name": "Yuanbao Inc. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "YBMN",
-      "name": "Defiance BMNR Option Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "YBST",
@@ -52119,6 +52107,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HIAI",
+      "name": "Ai Funds High Conviction US Equity AI-Managed ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HIBL",
       "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF",
       "market": "NYSE",
@@ -52687,6 +52681,24 @@
       "name": "Howmet Aerospace Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "HXA",
+      "name": "Mast HedgeIndex Corporate Arbitrage ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HXC",
+      "name": "Mast HedgeIndex Strategic Commodities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HXE",
+      "name": "Mast HedgeIndex Adaptive Equities ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "HXL",
@@ -53509,12 +53521,6 @@
       "name": "Ivanhoe Electric Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "IEDI",
-      "name": "iShares U.S. Consumer Focused ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "IEFA",
@@ -58797,6 +58803,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MEGX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MEI",
       "name": "Methode Electronics, Inc.",
       "market": "NYSE",
@@ -59033,12 +59045,6 @@
     {
       "ticker": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MGKX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74823,6 +74829,12 @@
       "isEtf": true
     },
     {
+      "ticker": "USGX",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "market": "NYSE",
@@ -74847,6 +74859,12 @@
       "isEtf": true
     },
     {
+      "ticker": "USLX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "USMD",
       "name": "CoreValues America First Technology ETF",
       "market": "NYSE",
@@ -74861,6 +74879,12 @@
     {
       "ticker": "USMV",
       "name": "iShares MSCI USA Min Vol Factor ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "USMX",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74915,6 +74939,12 @@
     {
       "ticker": "USSG",
       "name": "Xtrackers MSCI USA Selection Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "USSX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75221,12 +75251,6 @@
     {
       "ticker": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "VBX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75881,12 +75905,6 @@
     {
       "ticker": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "VOOX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78171,20 +78189,8 @@
       "isEtf": true
     },
     {
-      "ticker": "XVO",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "XVTS",
       "name": "FT Vest TSLA & Target Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "XVUG",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },

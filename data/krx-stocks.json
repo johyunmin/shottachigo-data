@@ -1,6 +1,6 @@
 {
-  "basDt": "20260819",
-  "fetchedAt": "2026-08-20T19:10:01.694Z",
+  "basDt": "20260820",
+  "fetchedAt": "2026-08-21T19:06:26.745Z",
   "count": 4554,
   "stocks": [
     {
@@ -21622,12 +21622,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "397420",
-      "name": "RISE 국채선물5년추종",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "399110",
       "name": "SOL 미국S&P500ESG",
       "market": "KOSPI",
@@ -26436,6 +26430,12 @@
     {
       "ticker": "760028",
       "name": "키움 인버스 2X 반도체TOP10 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "760032",
+      "name": "키움 모험자본창업투자 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
