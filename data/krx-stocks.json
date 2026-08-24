@@ -1,7 +1,7 @@
 {
-  "basDt": "20260820",
-  "fetchedAt": "2026-08-22T18:58:01.163Z",
-  "count": 4554,
+  "basDt": "20260821",
+  "fetchedAt": "2026-08-24T19:09:45.106Z",
+  "count": 4555,
   "stocks": [
     {
       "ticker": "900110",
@@ -13429,6 +13429,12 @@
       "ticker": "282330",
       "name": "BGF리테일",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "282620",
+      "name": "기도산업",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {

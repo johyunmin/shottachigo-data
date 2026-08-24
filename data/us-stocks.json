@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T18:58:02.258Z",
+  "fetchedAt": "2026-08-24T19:09:45.899Z",
   "count": 13136,
   "stocks": [
     {
@@ -16815,6 +16815,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KLXER",
+      "name": "KLX Energy Services Holdings, Inc.  - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "KMB",
       "name": "Kimberly-Clark Corporation",
       "market": "NASDAQ",
@@ -19047,8 +19053,20 @@
       "isEtf": false
     },
     {
+      "ticker": "MIAC",
+      "name": "Meridian3 Industrials Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MIACU",
       "name": "Meridian3 Industrials Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MIACW",
+      "name": "Meridian3 Industrials Acquisition Corp - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25372,7 +25390,7 @@
     },
     {
       "ticker": "REAX",
-      "name": "The Real Brokerage, Inc. - Common Shares",
+      "name": "The Real Brokerage, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25937,12 +25955,6 @@
     {
       "ticker": "RNW",
       "name": "ReNew Energy Global plc -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "RNWWW",
-      "name": "ReNew Energy Global plc - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37563,12 +37575,6 @@
       "isEtf": true
     },
     {
-      "ticker": "BEDZ",
-      "name": "AdvisorShares Hotel ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "BEGS",
       "name": "Rareview 2x Bull Cryptocurrency & Precious Metals ETF",
       "market": "NYSE",
@@ -45255,6 +45261,12 @@
       "isEtf": true
     },
     {
+      "ticker": "EDVA",
+      "name": "Endovia Health Sciences, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "EDZ",
       "name": "Direxion Emerging Markets Bear 3X ETF",
       "market": "NYSE",
@@ -45550,13 +45562,13 @@
     },
     {
       "ticker": "EIC",
-      "name": "Eagle Point Income Company Inc.",
+      "name": "Eagle Point Income Company Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
     },
     {
       "ticker": "EICA",
-      "name": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026",
+      "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
       "market": "NYSE",
       "isEtf": false
     },
@@ -60897,12 +60909,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NCL",
-      "name": "Northann Corp.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NCLH",
       "name": "Norwegian Cruise Line Holdings Ltd.",
       "market": "NYSE",
@@ -68355,12 +68361,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SBEV",
-      "name": "Splash Beverage Group, Inc. (NV)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "SBH",
       "name": "Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.)",
       "market": "NYSE",
@@ -71015,6 +71015,12 @@
     {
       "ticker": "SPYX",
       "name": "State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SQBA",
+      "name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75575,12 +75581,6 @@
     {
       "ticker": "VIAG",
       "name": "Leverage Shares 2X Long VIAV Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "VICE",
-      "name": "AdvisorShares Vice ETF",
       "market": "NYSE",
       "isEtf": true
     },
