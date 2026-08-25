@@ -1,7 +1,7 @@
 {
-  "basDt": "20260821",
-  "fetchedAt": "2026-08-24T19:09:45.106Z",
-  "count": 4555,
+  "basDt": "20260824",
+  "fetchedAt": "2026-08-25T19:08:13.173Z",
+  "count": 4556,
   "stocks": [
     {
       "ticker": "900110",
@@ -10115,7 +10115,7 @@
     },
     {
       "ticker": "123010",
-      "name": "알엔티엑스",
+      "name": "MSDI",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -15786,6 +15786,12 @@
     {
       "ticker": "417010",
       "name": "나노팀",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "417030",
+      "name": "니어스랩",
       "market": "KOSDAQ",
       "kind": "stock"
     },

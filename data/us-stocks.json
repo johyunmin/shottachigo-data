@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T19:09:45.899Z",
-  "count": 13136,
+  "fetchedAt": "2026-08-25T19:08:13.784Z",
+  "count": 13140,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -601,6 +601,12 @@
       "name": "Leverage Shares 2X Long ADBE Daily ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "ADBT",
+      "name": "Advasa Holdings, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "ADEA",
@@ -21490,7 +21496,7 @@
     },
     {
       "ticker": "NXT",
-      "name": "Nextpower Inc. - Class A",
+      "name": "Nextpower Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25390,7 +25396,7 @@
     },
     {
       "ticker": "REAX",
-      "name": "The Real Brokerage, Inc.",
+      "name": "Real REMAX Group Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33267,6 +33273,12 @@
       "isEtf": true
     },
     {
+      "ticker": "YRAM",
+      "name": "YieldMax Memory and Storage Portfolio Option Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "YSAG",
       "name": "Y'all Street Physical Silver ETF",
       "market": "NASDAQ",
@@ -39223,6 +39235,12 @@
       "name": "Boston Scientific Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BTA",
+      "name": "Beacon Tactical Alternatives Risk ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BTAL",
@@ -50163,8 +50181,8 @@
       "isEtf": false
     },
     {
-      "ticker": "GFR.V",
-      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+      "ticker": "GFR.R",
+      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -56103,6 +56121,12 @@
       "isEtf": true
     },
     {
+      "ticker": "JULV",
+      "name": "VanEck U.S. Equity Buffer ETF - July",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JULW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Jul ETF",
       "market": "NYSE",
@@ -57245,6 +57269,12 @@
     {
       "ticker": "LBO",
       "name": "WHITEWOLF Publicly Listed Private Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LBOX",
+      "name": "GraniteShares Short Term Box ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67335,12 +67365,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RMAX",
-      "name": "RE/MAX Holdings, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "RMBC",
       "name": "Corgi RMBS 2x Daily ETF",
       "market": "NYSE",
@@ -73917,12 +73941,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TWO",
-      "name": "Two Harbors Investment Corp",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "TWO$A",
       "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
       "market": "NYSE",
@@ -78593,6 +78611,12 @@
     {
       "ticker": "ZCBG",
       "name": "Global X Zero Coupon Bond 2035 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ZCSH",
+      "name": "The Zcash ETF Shares",
       "market": "NYSE",
       "isEtf": true
     },
