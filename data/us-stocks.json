@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T19:08:13.784Z",
-  "count": 13140,
+  "fetchedAt": "2026-08-26T20:34:19.807Z",
+  "count": 13148,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -4781,12 +4781,6 @@
     {
       "ticker": "BRUN",
       "name": "Boost Run Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BRUNW",
-      "name": "Boost Run Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -11241,12 +11235,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FLZH",
-      "name": "Flash Sports & Media Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FMAC",
       "name": "Future Money Acquisition Corporation -",
       "market": "NASDAQ",
@@ -12281,12 +12269,6 @@
     {
       "ticker": "GDEV",
       "name": "GDEV Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GDEVW",
-      "name": "GDEV Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14379,12 +14361,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HUMAW",
-      "name": "Humacyte, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HURA",
       "name": "TuHURA Biosciences, Inc.",
       "market": "NASDAQ",
@@ -16447,6 +16423,12 @@
       "name": "JPMorgan U.S. Tech Leaders ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "JTTT",
+      "name": "JATT III Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "JUNS",
@@ -22329,18 +22311,6 @@
       "isEtf": false
     },
     {
-      "ticker": "OSRH",
-      "name": "OSR Health, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "OSRHW",
-      "name": "OSR Health, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "OSS",
       "name": "One Stop Systems, Inc.",
       "market": "NASDAQ",
@@ -26571,6 +26541,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SCATU",
+      "name": "Southern Cross Acquisition II Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SCDS",
       "name": "JPMorgan Fundamental Data Science Small Core ETF",
       "market": "NASDAQ",
@@ -29347,6 +29323,12 @@
       "name": "Treasure Global Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TGRZ",
+      "name": "China AI Tigers LLM ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TGTX",
@@ -39899,6 +39881,12 @@
     {
       "ticker": "CAOS",
       "name": "Alpha Architect Tail Risk ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CAPA",
+      "name": "Defiance AI Capacitors Leaders ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60477,8 +60465,32 @@
       "isEtf": true
     },
     {
+      "ticker": "MUNF",
+      "name": "Northern Trust 2036 Tax-Exempt Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MUNG",
+      "name": "Northern Trust 2046 Tax-Exempt Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MUNH",
+      "name": "Northern Trust 2056 Tax-Exempt Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MUNI",
       "name": "PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MUNJ",
+      "name": "Northern Trust 2031 Tax-Exempt Distributing Ladder ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63207,6 +63219,12 @@
       "isEtf": false
     },
     {
+      "ticker": "OTAX",
+      "name": "Optimal Tax Managed Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OTF",
       "name": "Blue Owl Technology Finance Corp.",
       "market": "NYSE",
@@ -65527,6 +65545,12 @@
       "name": "Pearson, Plc",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "PSOX",
+      "name": "Tema MLCC & PowerSemi ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "PSP",
@@ -69453,12 +69477,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SIC",
-      "name": "Tema Power Semiconductor ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SID",
       "name": "Companhia Siderurgica Nacional S.A.",
       "market": "NYSE",
@@ -72767,6 +72785,30 @@
     {
       "ticker": "TIPD",
       "name": "Northern Trust 2055 Inflation-Linked Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TIPE",
+      "name": "Northern Trust 2031 Inflation-Linked Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TIPF",
+      "name": "Northern Trust 2036 Inflation-Linked Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TIPG",
+      "name": "Northern Trust 2046 Inflation-Linked Distributing Ladder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TIPH",
+      "name": "Northern Trust 2056 Inflation-Linked Distributing Ladder ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78203,6 +78245,12 @@
     {
       "ticker": "XVNV",
       "name": "FT Vest NVDA & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVSP",
+      "name": "FT Vest SPCX & Target Income ETF",
       "market": "NYSE",
       "isEtf": true
     },

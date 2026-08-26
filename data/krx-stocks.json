@@ -1,7 +1,7 @@
 {
-  "basDt": "20260824",
-  "fetchedAt": "2026-08-25T19:08:13.173Z",
-  "count": 4556,
+  "basDt": "20260825",
+  "fetchedAt": "2026-08-26T20:34:19.061Z",
+  "count": 4560,
   "stocks": [
     {
       "ticker": "900110",
@@ -3652,6 +3652,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "0155E0",
+      "name": "해치텍",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "0156T0",
       "name": "에이치엘지노믹스",
       "market": "KOSDAQ",
@@ -4183,6 +4189,18 @@
       "ticker": "0218L0",
       "name": "네오뷰",
       "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0220W0",
+      "name": "한화머시너리앤서비스홀딩스",
+      "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0220WL",
+      "name": "한화머시너리앤서비스홀딩스3우B",
+      "market": "KOSPI",
       "kind": "stock"
     },
     {
@@ -13210,12 +13228,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "269620",
-      "name": "시스웍",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "270210",
       "name": "에스알바이오텍",
       "market": "KONEX",
@@ -14335,12 +14347,6 @@
       "ticker": "327260",
       "name": "RF머트리얼즈",
       "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "327610",
-      "name": "펨토바이오메드",
-      "market": "KONEX",
       "kind": "stock"
     },
     {
@@ -19020,6 +19026,24 @@
     {
       "ticker": "0228G0",
       "name": "ACE 반도체Plus전략산업",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0231Z0",
+      "name": "KODEX 코리아TDF2065액티브 적격",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0233A0",
+      "name": "ACE 삼성전자SK하이닉스플러스채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0233J0",
+      "name": "TIGER 삼성전자SK하이닉스미국채혼합50",
       "market": "KOSPI",
       "kind": "etf"
     },
