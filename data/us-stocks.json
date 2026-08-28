@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T20:34:19.807Z",
-  "count": 13148,
+  "fetchedAt": "2026-08-28T02:16:18.071Z",
+  "count": 13151,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1097,12 +1097,6 @@
     {
       "ticker": "AIFU",
       "name": "AIFU Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AIHS",
-      "name": "Senmiao Technology Limited",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -6807,24 +6801,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CMII",
-      "name": "Columbus Circle Capital Corp II -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CMIIU",
-      "name": "Columbus Circle Capital Corp II - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CMIIW",
-      "name": "Columbus Circle Capital Corp II - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CMMB",
       "name": "Chemomab Therapeutics Ltd.  - American Depositary Shares",
       "market": "NASDAQ",
@@ -8973,12 +8949,6 @@
       "isEtf": true
     },
     {
-      "ticker": "DVIN",
-      "name": "WEBs Industrials XLI Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "DVLT",
       "name": "Datavault AI Inc.",
       "market": "NASDAQ",
@@ -9003,68 +8973,8 @@
       "isEtf": true
     },
     {
-      "ticker": "DVRE",
-      "name": "WEBs Real Estate XLRE Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "DVSP",
       "name": "WEBs SPY Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVUT",
-      "name": "WEBs Utilities XLU Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXB",
-      "name": "WEBs Materials XLB Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXC",
-      "name": "WEBs Communication Services XLC Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXE",
-      "name": "WEBs Energy XLE Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXF",
-      "name": "WEBs Financial XLF Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXK",
-      "name": "WEBs Technology XLK Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXP",
-      "name": "WEBs Consumer Staples XLP Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXV",
-      "name": "WEBs Health Care XLV Defined Volatility ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "DVXY",
-      "name": "WEBs Consumer Discretionary XLY Defined Volatility ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -14445,6 +14355,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HWGV",
+      "name": "Hotchkis & Wiley Global Value Fund",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HWH",
       "name": "HWH International Inc.",
       "market": "NASDAQ",
@@ -15749,6 +15665,24 @@
     {
       "ticker": "IPX",
       "name": "IperionX Limited - American Depositary Share",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPXG",
+      "name": "Inection Point Acquisition Corp. VII  -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPXGU",
+      "name": "Inection Point Acquisition Corp. VII  - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPXGW",
+      "name": "Inection Point Acquisition Corp. VII  - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25881,6 +25815,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RNAQU",
+      "name": "Rainier Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "RNAZ",
       "name": "TransCode Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -29152,7 +29092,7 @@
     },
     {
       "ticker": "TDOT",
-      "name": "21shares Polkadot ETF",
+      "name": "21shares Polkadot Staking ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -29410,7 +29350,7 @@
     },
     {
       "ticker": "THYP",
-      "name": "21shares Hyperliquid ETF",
+      "name": "21shares Hyperliquid Staking ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -30196,7 +30136,7 @@
     },
     {
       "ticker": "TSUI",
-      "name": "21Shares Sui ETF",
+      "name": "21Shares Sui Staking ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -31085,6 +31025,12 @@
     {
       "ticker": "VABK",
       "name": "Virginia National Bankshares Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VAI",
+      "name": "Valor Energy Incorporated",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32259,12 +32205,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WILC",
-      "name": "G. Willi-Food International,  Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WIMA",
       "name": "WisdomTree International Adaptive Moving Average Fund",
       "market": "NASDAQ",
@@ -33039,8 +32979,20 @@
       "isEtf": true
     },
     {
+      "ticker": "XTER",
+      "name": "Karman Line Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "XTERU",
       "name": "Karman Line Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "XTERW",
+      "name": "Karman Line Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33609,8 +33561,20 @@
       "isEtf": true
     },
     {
+      "ticker": "AAC",
+      "name": "Ares Acquisition Corporation III",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "AAC.U",
       "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "AAC.W",
+      "name": "Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
     },
@@ -34215,6 +34179,24 @@
       "isEtf": false
     },
     {
+      "ticker": "AEMC",
+      "name": "Harbor AlphaEdge Mid Cap Core ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AEMG",
+      "name": "Harbor AlphaEdge Mid Cap Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AEMV",
+      "name": "Harbor AlphaEdge Mid Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AEO",
       "name": "American Eagle Outfitters, Inc.",
       "market": "NYSE",
@@ -34245,10 +34227,28 @@
       "isEtf": false
     },
     {
+      "ticker": "AESB",
+      "name": "Harbor AlphaEdge Small Cap Core ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AESG",
+      "name": "Harbor AlphaEdge Small Cap Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AESI",
       "name": "Atlas Energy Solutions Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AESL",
+      "name": "Harbor AlphaEdge Small Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AESR",
@@ -44565,6 +44565,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DSPC",
+      "name": "Leverage Shares 1X Short SPCX Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DSPY",
       "name": "Tema S&P 500 Historical Weight ETF Strategy",
       "market": "NYSE",
@@ -51777,6 +51783,12 @@
       "isEtf": true
     },
     {
+      "ticker": "HBIT",
+      "name": "Hedgeye Hedged Bitcoin ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HBM",
       "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)",
       "market": "NYSE",
@@ -57405,12 +57417,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LEG",
-      "name": "Leggett & Platt, Incorporated",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "LEGO",
       "name": "Legato Merger Corp. IV",
       "market": "NYSE",
@@ -59639,6 +59645,12 @@
     {
       "ticker": "MNBD",
       "name": "ALPS BBH Intermediate Municipal Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MNGU",
+      "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61945,12 +61957,6 @@
       "name": "WisdomTree U.S. Efficient Core Fund",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "NTZ",
-      "name": "Natuzzi, S.p.A.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "NU",
@@ -65081,6 +65087,12 @@
     {
       "ticker": "PRAE",
       "name": "PlanRock Alternative Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "PRAM",
+      "name": "Defiance Memory & Photonics ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68365,6 +68377,12 @@
       "name": "AAM Sawgrass US Small Cap Quality Growth ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "SAX",
+      "name": "Saratoga Investment Corp 8.00% Notes due 2031",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "SAY",

@@ -1,7 +1,7 @@
 {
-  "basDt": "20260825",
-  "fetchedAt": "2026-08-26T20:34:19.061Z",
-  "count": 4560,
+  "basDt": "20260827",
+  "fetchedAt": "2026-08-28T02:16:17.093Z",
+  "count": 4559,
   "stocks": [
     {
       "ticker": "900110",
@@ -2861,7 +2861,7 @@
     },
     {
       "ticker": "009810",
-      "name": "플레이그램",
+      "name": "MDS스피어",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -23838,12 +23838,6 @@
     {
       "ticker": "489000",
       "name": "PLUS 일본엔화초단기국채(합성)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "489010",
-      "name": "PLUS 글로벌AI인프라",
       "market": "KOSPI",
       "kind": "etf"
     },
