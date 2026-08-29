@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-28T02:16:18.071Z",
-  "count": 13151,
+  "fetchedAt": "2026-08-29T01:49:54.533Z",
+  "count": 13141,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1487,12 +1487,6 @@
     {
       "ticker": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ALOT",
-      "name": "AstroNova, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -3321,24 +3315,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BBCQ",
-      "name": "Bleichroeder Acquisition Corp. II -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BBCQU",
-      "name": "Bleichroeder Acquisition Corp. II - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BBCQW",
-      "name": "Bleichroeder Acquisition Corp. II - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BBGI",
       "name": "Beasley Broadcast Group, Inc. - Class A",
       "market": "NASDAQ",
@@ -3407,24 +3383,6 @@
     {
       "ticker": "BCAL",
       "name": "California BanCorp",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BCAR",
-      "name": "D. Boral ARC Acquisition I Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BCARU",
-      "name": "D. Boral ARC Acquisition I Corp. - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BCARW",
-      "name": "D. Boral ARC Acquisition I Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8457,12 +8415,6 @@
       "isEtf": false
     },
     {
-      "ticker": "DKNX",
-      "name": "Defiance Daily Target 2X Long DKNG ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "DLCU",
       "name": "U.S. Large Company Portfolio: ETF Class Shares",
       "market": "NASDAQ",
@@ -10411,12 +10363,6 @@
       "name": "Fidelity Disruptive Automation ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "FBRX",
-      "name": "Forte Biosciences, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "FBYD",
@@ -14824,7 +14770,7 @@
     },
     {
       "ticker": "IDEF",
-      "name": "iShares Defense Industrials Active ETF",
+      "name": "iShares Defense Industrials and Tech Active ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -15605,6 +15551,12 @@
     {
       "ticker": "IPHA",
       "name": "Innate Pharma S.A. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPHXU",
+      "name": "Inflection Point Acquisition Corp. VIII - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17727,12 +17679,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LMNX",
-      "name": "Defiance Daily Target 2x Long LMND ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "LMRI",
       "name": "Lumexa Imaging Holdings, Inc.",
       "market": "NASDAQ",
@@ -17986,7 +17932,7 @@
     },
     {
       "ticker": "LRND",
-      "name": "NYLI U.S. Large Cap R&D Leaders ETF",
+      "name": "NYLIM U.S. Large Cap R&D Leaders ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -24083,6 +24029,18 @@
     {
       "ticker": "PSNYW",
       "name": "Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW)",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PSQL",
+      "name": "Pasqal Holding SA -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PSQLW",
+      "name": "Pasqal Holding SA - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32392,7 +32350,7 @@
     },
     {
       "ticker": "WRND",
-      "name": "NYLI Global Equity R&D Leaders ETF",
+      "name": "NYLIM Global Equity R&D Leaders ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -32793,6 +32751,18 @@
       "isEtf": false
     },
     {
+      "ticker": "XLAB",
+      "name": "Exascale Labs Holdings Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "XLABW",
+      "name": "Exascale Labs Holdings Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "XLO",
       "name": "Xilio Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -32872,7 +32842,7 @@
     },
     {
       "ticker": "XPON",
-      "name": "Expion360 Inc.",
+      "name": "Expion Energy, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37857,12 +37827,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BGI",
-      "name": "Birks Group Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BGIG",
       "name": "Bahl & Gaynor Income Growth ETF",
       "market": "NYSE",
@@ -41116,7 +41080,7 @@
     },
     {
       "ticker": "CLOO",
-      "name": "NYLI Investment Grade CLO ETF",
+      "name": "NYLIM Investment Grade CLO ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -41848,7 +41812,7 @@
     },
     {
       "ticker": "CPLB",
-      "name": "NYLI MacKay Core Plus Bond ETF",
+      "name": "NYLIM MacKay Core Plus Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44495,12 +44459,6 @@
     {
       "ticker": "DRN",
       "name": "Direxion Daily Real Estate Bull 3X ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "DRNL",
-      "name": "Defiance 2X Daily Long Pure Drone and Aerial Automation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52090,7 +52048,7 @@
     },
     {
       "ticker": "HFXI",
-      "name": "NYLI FTSE International Equity Currency Neutral ETF",
+      "name": "NYLIM FTSE International Equity Currency Neutral ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52409,12 +52367,6 @@
     {
       "ticker": "HOOY",
       "name": "YieldMax HOOD Option Income Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "HOOZ",
-      "name": "Defiance Daily Target 2X Short HOOD ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54418,7 +54370,7 @@
     },
     {
       "ticker": "IQHI",
-      "name": "NYLI MacKay High Income ETF",
+      "name": "NYLIM MacKay High Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54447,26 +54399,20 @@
       "isEtf": true
     },
     {
-      "ticker": "IQRA",
-      "name": "NYLI CBRE Real Assets ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "IQSI",
-      "name": "NYLI Candriam International Equity ETF",
+      "name": "NYLIM Candriam International Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "IQSM",
-      "name": "NYLI Candriam U.S. Mid Cap Equity ETF",
+      "name": "NYLIM Candriam U.S. Mid Cap Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "IQSU",
-      "name": "NYLI Candriam U.S. Large Cap Equity ETF",
+      "name": "NYLIM Candriam U.S. Large Cap Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54922,7 +54868,7 @@
     },
     {
       "ticker": "IWFG",
-      "name": "NYLI Winslow Focused Large Cap Growth ETF",
+      "name": "NYLIM Winslow Focused Large Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54934,7 +54880,7 @@
     },
     {
       "ticker": "IWLG",
-      "name": "NYLI Winslow Large Cap Growth ETF",
+      "name": "NYLIM Winslow Large Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -56889,6 +56835,12 @@
       "isEtf": true
     },
     {
+      "ticker": "KPO",
+      "name": "Kensington Premium Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KPRO",
       "name": "KraneShares 100% KWEB Defined Outcome January 2027 ETF",
       "market": "NYSE",
@@ -57304,7 +57256,7 @@
     },
     {
       "ticker": "LCLG",
-      "name": "Logan Capital Broad Innovative Growth ETF",
+      "name": "Logan Capital Large Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58834,7 +58786,7 @@
     },
     {
       "ticker": "MEGI",
-      "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares",
+      "name": "NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -59542,13 +59494,13 @@
     },
     {
       "ticker": "MMCA",
-      "name": "NYLI MacKay California Muni Intermediate ETF",
+      "name": "NYLIM MacKay California Muni Intermediate ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "MMD",
-      "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares",
+      "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -59566,13 +59518,13 @@
     },
     {
       "ticker": "MMIN",
-      "name": "NYLI MacKay Muni Insured ETF",
+      "name": "NYLIM MacKay Muni Insured ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "MMIT",
-      "name": "NYLI MacKay Muni Intermediate ETF",
+      "name": "NYLIM MacKay Muni Intermediate ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59596,7 +59548,7 @@
     },
     {
       "ticker": "MMMA",
-      "name": "NYLI MacKay Muni Allocation ETF",
+      "name": "NYLIM MacKay Muni Allocation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59614,7 +59566,7 @@
     },
     {
       "ticker": "MMSD",
-      "name": "NYLI MacKay Muni Short Duration ETF",
+      "name": "NYLIM MacKay Muni Short Duration ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59638,7 +59590,7 @@
     },
     {
       "ticker": "MNA",
-      "name": "NYLI Merger Arbitrage ETF",
+      "name": "NYLIM Merger Arbitrage ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59807,12 +59759,6 @@
     {
       "ticker": "MPIM",
       "name": "m+ Income Momentum Autocall ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MPL",
-      "name": "Defiance Daily Target 2X Long MP ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61378,7 +61324,7 @@
     },
     {
       "ticker": "NISM",
-      "name": "NYLI International Small-Mid Cap Equity ETF",
+      "name": "NYLIM International Small-Mid Cap Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62839,12 +62785,6 @@
       "name": "Oklo Inc. Class A",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "OKLS",
-      "name": "Defiance Daily Target 2X Short OKLO ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "OLN",
@@ -65902,7 +65842,7 @@
     },
     {
       "ticker": "QAI",
-      "name": "NYLI Hedge Multi-Strategy Tracker ETF",
+      "name": "NYLIM Hedge Multi-Strategy Tracker ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66885,6 +66825,12 @@
       "isEtf": false
     },
     {
+      "ticker": "REIX",
+      "name": "NYLIM CBRE Real Estate & Infrastructure ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "REK",
       "name": "ProShares Short Real Estate",
       "market": "NYSE",
@@ -67281,6 +67227,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RIV.V",
+      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "RIVC",
       "name": "Corgi RIVN 2x Daily ETF",
       "market": "NYSE",
@@ -67333,12 +67285,6 @@
       "name": "Rocket Companies, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "RKTL",
-      "name": "Defiance Daily Target 2X Long RKT ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "RKX",
@@ -69034,7 +68980,7 @@
     },
     {
       "ticker": "SECR",
-      "name": "NYLI MacKay Securitized Income ETF",
+      "name": "NYLIM MacKay Securitized Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78721,12 +78667,6 @@
       "name": "Zeta Global Holdings Corp. Class A",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "ZETX",
-      "name": "Defiance Daily Target 2x Long ZETA ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "ZFEB",
