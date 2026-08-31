@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T21:04:02.754Z",
-  "count": 13141,
+  "fetchedAt": "2026-08-31T22:57:59.778Z",
+  "count": 13144,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2763,6 +2763,30 @@
       "isEtf": false
     },
     {
+      "ticker": "ATLQ",
+      "name": "JAB Acquisition Corp I -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ATLQR",
+      "name": "JAB Acquisition Corp I - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ATLQU",
+      "name": "JAB Acquisition Corp I - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ATLQW",
+      "name": "JAB Acquisition Corp I - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ATLX",
       "name": "Atlas Lithium Corporation",
       "market": "NASDAQ",
@@ -3373,12 +3397,6 @@
       "name": "GraniteShares YieldBOOST BABA ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "BCAB",
-      "name": "BioAtla, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "BCAL",
@@ -15975,30 +15993,6 @@
       "isEtf": false
     },
     {
-      "ticker": "JAB",
-      "name": "JAB Acquisition Corp I -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "JABRR",
-      "name": "JAB Acquisition Corp I - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "JABRU",
-      "name": "JAB Acquisition Corp I - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "JABRW",
-      "name": "JAB Acquisition Corp I - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "JACK",
       "name": "Jack In The Box Inc.",
       "market": "NASDAQ",
@@ -18328,7 +18322,7 @@
     },
     {
       "ticker": "MBAI",
-      "name": "Check-Cap Ltd. -",
+      "name": "MBody AI Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21929,6 +21923,12 @@
     {
       "ticker": "ONMDW",
       "name": "OneMedNet Corp - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OPAD",
+      "name": "Offerpad Solutions Inc.  - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28582,7 +28582,7 @@
     },
     {
       "ticker": "SVRN",
-      "name": "OceanPal Inc.",
+      "name": "SVRN, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29755,6 +29755,12 @@
       "name": "Angel Oak Total Return ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "TRBG",
+      "name": "TurboGen Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "TRDA",
@@ -34143,6 +34149,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AELV",
+      "name": "Harbor AlphaEdge Large Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AEM",
       "name": "Agnico Eagle Mines Limited",
       "market": "NYSE",
@@ -35687,12 +35699,6 @@
     {
       "ticker": "ARE",
       "name": "Alexandria Real Estate Equities, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "AREN",
-      "name": "The Arena Group Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -49053,6 +49059,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FRUT",
+      "name": "Yorkville America MANGOS Plus Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FSCC",
       "name": "Federated Hermes MDT Small Cap Core ETF",
       "market": "NYSE",
@@ -58395,12 +58407,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MAPP",
-      "name": "Harbor Multi-Asset Explorer ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "MARM",
       "name": "FT Vest U.S. Equity Max Buffer ETF - March",
       "market": "NYSE",
@@ -58447,6 +58453,12 @@
       "name": "Masco Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MATR",
+      "name": "Harbor Multi-Asset Explorer ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MATV",
@@ -62955,12 +62967,6 @@
       "isEtf": true
     },
     {
-      "ticker": "OPAD",
-      "name": "Offerpad Solutions Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "OPER",
       "name": "ETF ClearShares Ultra-Short Maturity ETF",
       "market": "NYSE",
@@ -63325,6 +63331,12 @@
       "name": "PGIM AAA CLO ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "PAAI",
+      "name": "Paradium.AI, Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "PAAS",
@@ -65986,7 +65998,7 @@
     },
     {
       "ticker": "QDTE",
-      "name": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF",
+      "name": "Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68241,8 +68253,20 @@
       "isEtf": true
     },
     {
+      "ticker": "SAMO",
+      "name": "Samos Energy Acquisition Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SAMO.U",
       "name": "Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "SAMO.W",
+      "name": "Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },
@@ -75727,12 +75751,6 @@
       "name": "Invesco Municipal Trust",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "VLLU",
-      "name": "Harbor AlphaEdge Large Cap Value ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "VLN",
