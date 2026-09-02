@@ -1,7 +1,7 @@
 {
-  "basDt": "20260828",
-  "fetchedAt": "2026-08-31T22:57:59.023Z",
-  "count": 4559,
+  "basDt": "20260901",
+  "fetchedAt": "2026-09-02T21:11:40.436Z",
+  "count": 4561,
   "stocks": [
     {
       "ticker": "900110",
@@ -983,7 +983,7 @@
     },
     {
       "ticker": "002420",
-      "name": "세기상사",
+      "name": "우양피앤엘",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -8257,12 +8257,6 @@
       "ticker": "082270",
       "name": "젬백스",
       "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "082640",
-      "name": "동양생명",
-      "market": "KOSPI",
       "kind": "stock"
     },
     {
@@ -16630,12 +16624,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "471050",
-      "name": "대신밸런스제17호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "471820",
       "name": "셀로맥스사이언스",
       "market": "KOSDAQ",
@@ -19030,8 +19018,20 @@
       "kind": "etf"
     },
     {
+      "ticker": "0229F0",
+      "name": "마이티 신약포커스바이오액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0231Z0",
       "name": "KODEX 코리아TDF2065액티브 적격",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0232A0",
+      "name": "MIDAS 머니마켓액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -19044,6 +19044,18 @@
     {
       "ticker": "0233J0",
       "name": "TIGER 삼성전자SK하이닉스미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0233N0",
+      "name": "RISE 글로벌AI낸드메모리반도체",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0234N0",
+      "name": "KIWOOM 삼성SK그룹TOP4+",
       "market": "KOSPI",
       "kind": "etf"
     },

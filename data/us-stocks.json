@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T22:57:59.778Z",
-  "count": 13144,
+  "fetchedAt": "2026-09-02T21:11:41.298Z",
+  "count": 13153,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7455,12 +7455,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CRNX",
-      "name": "Crinetics Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CROB",
       "name": "Defiance China Robotics ETF",
       "market": "NASDAQ",
@@ -12513,6 +12507,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GIXI",
+      "name": "Gix Internet Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GIXXR",
       "name": "GigCapital9 Corp. - Rights",
       "market": "NASDAQ",
@@ -15817,6 +15817,12 @@
       "name": "Intuitive Surgical, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ISRL",
+      "name": "Defiance KSM Israel 120 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ISTB",
@@ -20253,12 +20259,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NCSM",
-      "name": "NCS Multistage Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NCT",
       "name": "Intercont (Cayman) Limited -",
       "market": "NASDAQ",
@@ -20895,8 +20895,26 @@
       "isEtf": false
     },
     {
+      "ticker": "NSAI",
+      "name": "NorthStrive Acquisition Corp I. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NSAIR",
+      "name": "NorthStrive Acquisition Corp I. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NSAIU",
       "name": "NorthStrive Acquisition Corp I. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NSAIW",
+      "name": "NorthStrive Acquisition Corp I. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26859,6 +26877,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SGLD",
+      "name": "Scorpio Gold Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SGLY",
       "name": "Singularity Future Technology Ltd.",
       "market": "NASDAQ",
@@ -29395,6 +29419,12 @@
       "name": "GraniteShares Autocallable TSLA ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "TLACU",
+      "name": "Three Lions Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "TLF",
@@ -33063,6 +33093,12 @@
       "isEtf": false
     },
     {
+      "ticker": "YFOR",
+      "name": "YYForce Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "YHC",
       "name": "LQR House Inc.",
       "market": "NASDAQ",
@@ -33233,12 +33269,6 @@
     {
       "ticker": "YYAI",
       "name": "AiRWA Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "YYGH",
-      "name": "YY Group Holding Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33425,12 +33455,6 @@
     {
       "ticker": "ZSTK",
       "name": "ZeroStack Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ZTEK",
-      "name": "Zentek Ltd.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34373,6 +34397,12 @@
     {
       "ticker": "AGGH",
       "name": "Simplify Aggregate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AGGM",
+      "name": "iShares 1-10 Year U.S. Aggregate Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -43971,6 +44001,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DIVH",
+      "name": "Integrity Dividend Harvest ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DIVI",
       "name": "Franklin International Core Dividend Tilt Index ETF",
       "market": "NYSE",
@@ -49737,12 +49773,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GBF",
-      "name": "iShares Government/Credit Bond ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GBHI",
       "name": "Gabelli High Income ETF",
       "market": "NYSE",
@@ -52275,12 +52305,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HLX",
-      "name": "Helix Energy Solutions Group, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "HMAY",
       "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series",
       "market": "NYSE",
@@ -52381,6 +52405,12 @@
       "name": "YieldMax HOOD Option Income Strategy ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "HOS",
+      "name": "Hornbeck Offshore Services, Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "HOV",
@@ -52691,6 +52721,12 @@
     {
       "ticker": "HXE",
       "name": "Mast HedgeIndex Adaptive Equities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HXF",
+      "name": "Mast HedgeIndex Managed Futures Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69705,6 +69741,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SKHQ",
+      "name": "Leverage Shares 2X Short Sk Hynix Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SKHU",
       "name": "ProShares Ultra SK hynix",
       "market": "NYSE",
@@ -74229,6 +74271,12 @@
       "isEtf": false
     },
     {
+      "ticker": "UCBG",
+      "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UCC",
       "name": "ProShares Ultra Consumer Discretionary",
       "market": "NYSE",
@@ -75947,6 +75995,12 @@
     {
       "ticker": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VOOY",
+      "name": "XFUNDS Large Cap Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78790,7 +78844,7 @@
     },
     {
       "ticker": "ZONE",
-      "name": "CleanCore Solutions Inc. Class B",
+      "name": "Zone Frontier Inc. Class B",
       "market": "NYSE",
       "isEtf": false
     },
