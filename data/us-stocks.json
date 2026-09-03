@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-02T21:11:41.298Z",
-  "count": 13153,
+  "fetchedAt": "2026-09-03T21:13:00.050Z",
+  "count": 13154,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2387,12 +2387,6 @@
     {
       "ticker": "ARQQ",
       "name": "Arqit Quantum Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ARQQW",
-      "name": "Arqit Quantum Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16215,6 +16209,18 @@
       "isEtf": false
     },
     {
+      "ticker": "JONE",
+      "name": "Jones Ventures INTL Acquisition1 Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "JONER",
+      "name": "Jones Ventures INTL Acquisition1 Corp - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "JONEU",
       "name": "Jones Ventures INTL Acquisition1 Corp - Units",
       "market": "NASDAQ",
@@ -25109,12 +25115,6 @@
     {
       "ticker": "RCKT",
       "name": "Rocket Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "RCKTW",
-      "name": "Rocket Pharmaceuticals, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -64515,6 +64515,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PJSM",
+      "name": "PGIM Jennison Small-Mid Cap Core Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PJT",
       "name": "PJT Partners Inc. Class A",
       "market": "NYSE",
@@ -65249,12 +65255,6 @@
     {
       "ticker": "PRVS",
       "name": "Parnassus Value Select ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "PRVT",
-      "name": "Tema Alternative Asset Managers ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73685,6 +73685,12 @@
     {
       "ticker": "TSCV",
       "name": "Thrivent Small Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "TSCZ",
+      "name": "T. Rowe Price Securitized Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
