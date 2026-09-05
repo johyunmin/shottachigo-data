@@ -1,7 +1,7 @@
 {
-  "basDt": "20260902",
-  "fetchedAt": "2026-09-03T21:12:58.791Z",
-  "count": 4561,
+  "basDt": "20260903",
+  "fetchedAt": "2026-09-05T20:35:01.806Z",
+  "count": 4560,
   "stocks": [
     {
       "ticker": "900110",
@@ -9162,12 +9162,6 @@
     {
       "ticker": "096530",
       "name": "씨젠",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "096610",
-      "name": "알에프세미",
       "market": "KOSDAQ",
       "kind": "stock"
     },

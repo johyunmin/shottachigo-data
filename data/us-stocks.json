@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-03T21:13:00.050Z",
-  "count": 13154,
+  "fetchedAt": "2026-09-05T20:35:02.564Z",
+  "count": 13155,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2039,12 +2039,6 @@
     {
       "ticker": "APEI",
       "name": "American Public Education, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "APGE",
-      "name": "Apogee Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5117,12 +5111,6 @@
     {
       "ticker": "BTOC",
       "name": "Armlogi Holding Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BTOG",
-      "name": "Bit Origin Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14025,6 +14013,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HQDG",
+      "name": "Raub Brock Dividend Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HQGO",
       "name": "Hartford US Quality Growth ETF",
       "market": "NASDAQ",
@@ -16121,12 +16115,6 @@
     {
       "ticker": "JF",
       "name": "J and Friends Holdings Limited - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "JFB",
-      "name": "JFB Construction Holdings - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20549,12 +20537,6 @@
     {
       "ticker": "NHP",
       "name": "National Healthcare Properties, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NHPAP",
-      "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26903,6 +26885,12 @@
     {
       "ticker": "SGP",
       "name": "SpyGlass Pharma, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SGRX",
+      "name": "SANGRIX INC. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -40888,7 +40876,7 @@
     },
     {
       "ticker": "CIK",
-      "name": "Credit Suisse Asset Management Income Fund, Inc.",
+      "name": "UBS Asset Management Income Fund, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43882,7 +43870,7 @@
     },
     {
       "ticker": "DHY",
-      "name": "Credit Suisse High Yield Credit Fund",
+      "name": "UBS Asset Management High Yield Credit Fund",
       "market": "NYSE",
       "isEtf": false
     },
@@ -61521,6 +61509,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NMCO.V",
+      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "NMG",
       "name": "Nouveau Monde Graphite Inc. Common Shares",
       "market": "NYSE",
@@ -64503,6 +64497,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PJIN",
+      "name": "PGIM Jennison International Core Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PJIO",
       "name": "PGIM Jennison Focused International Equity ETF",
       "market": "NYSE",
@@ -67275,8 +67275,8 @@
       "isEtf": false
     },
     {
-      "ticker": "RIV.V",
-      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+      "ticker": "RIV.R",
+      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -78223,6 +78223,12 @@
       "name": "State Street SPDR S&P Transportation ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "XTND",
+      "name": "Xtend AI Robotics, Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "XTNT",
