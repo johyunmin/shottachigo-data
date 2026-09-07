@@ -1,7 +1,7 @@
 {
-  "basDt": "20260903",
-  "fetchedAt": "2026-09-06T20:39:22.537Z",
-  "count": 4560,
+  "basDt": "20260904",
+  "fetchedAt": "2026-09-07T21:42:19.814Z",
+  "count": 4563,
   "stocks": [
     {
       "ticker": "900110",
@@ -15400,6 +15400,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "386380",
+      "name": "스카이랩스",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "387570",
       "name": "파인메딕스",
       "market": "KOSDAQ",
@@ -15557,7 +15563,7 @@
     },
     {
       "ticker": "396300",
-      "name": "세아메카닉스",
+      "name": "HT로보틱스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -26214,6 +26220,18 @@
     {
       "ticker": "610106",
       "name": "메리츠 인버스 국채30년 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610111",
+      "name": "메리츠 일본 국채 30년 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610112",
+      "name": "메리츠 3X 레버리지 일본 국채 30년 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
