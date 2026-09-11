@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-07T21:42:20.730Z",
-  "count": 13155,
+  "fetchedAt": "2026-09-11T21:08:45.843Z",
+  "count": 13181,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -301,6 +301,18 @@
       "name": "Aurora Cannabis Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ACBE",
+      "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ACBH",
+      "name": "Pacer Metaurus High Income Autocallable ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ACCL",
@@ -1095,6 +1107,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AIFR",
+      "name": "Defiance Global Foundries ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "AIFU",
       "name": "AIFU Inc. -",
       "market": "NASDAQ",
@@ -1129,6 +1147,12 @@
       "name": "Ainos, Inc. - warrants",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AIMG",
+      "name": "Defiance AI Magnificent 10 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AIMS",
@@ -1516,7 +1540,7 @@
     },
     {
       "ticker": "ALP",
-      "name": "Alpha Compute Corp",
+      "name": "Alpha Compute Corp  -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -1617,8 +1641,20 @@
       "isEtf": true
     },
     {
+      "ticker": "AMAC",
+      "name": "AMR Resources Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AMACU",
       "name": "AMR Resources Acquisition Corp - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AMACW",
+      "name": "AMR Resources Acquisition Corp - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -2464,13 +2500,13 @@
     },
     {
       "ticker": "ASBP",
-      "name": "Aspire Biopharma Holdings, Inc.",
+      "name": "Aspire-Lakewood Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "ASBPW",
-      "name": "Aspire Biopharma Holdings, Inc.  - Warrant",
+      "name": "Aspire-Lakewood Holdings, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -2825,6 +2861,12 @@
     {
       "ticker": "ATTO",
       "name": "Attovia Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ATTT",
+      "name": "Atlas Trinity Tech Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4683,12 +4725,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BRNS",
-      "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BRNX",
       "name": "BrenX Ltd. -",
       "market": "NASDAQ",
@@ -4719,8 +4755,20 @@
       "isEtf": false
     },
     {
+      "ticker": "BRTM",
+      "name": "B&R Technology Merger Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BRTMU",
       "name": "B&R Technology Merger Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BRTMW",
+      "name": "B&R Technology Merger Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5033,12 +5081,6 @@
     {
       "ticker": "BSY",
       "name": "Bentley Systems, Incorporated - Class B",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BTAI",
-      "name": "BioXcel Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5805,6 +5847,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CCML",
+      "name": "Roundhill MLCC & Electronic Components ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CCNE",
       "name": "CNB Financial Corporation",
       "market": "NASDAQ",
@@ -6245,6 +6293,12 @@
     {
       "ticker": "CHA",
       "name": "Chagee Holdings Limited - American Depositary Shares, each representing 1",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CHAD",
+      "name": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -7275,6 +7329,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CRAM",
+      "name": "Defiance China Memory ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CRAN",
       "name": "Crane Harbor Acquisition Corp. II -",
       "market": "NASDAQ",
@@ -7919,12 +7979,6 @@
     {
       "ticker": "CYAB",
       "name": "Cyabra, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CYCN",
-      "name": "Cyclerion Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9667,6 +9721,12 @@
       "name": "iShares MSCI New Zealand ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "EOCN",
+      "name": "Eocene Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "EOLS",
@@ -12219,6 +12279,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GEMQ",
+      "name": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "GEN",
       "name": "Gen Digital Inc.",
       "market": "NASDAQ",
@@ -12453,12 +12519,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GIPRW",
-      "name": "Generation Income Properties Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GITS",
       "name": "Global Interactive Technologies, Inc.",
       "market": "NASDAQ",
@@ -12569,12 +12629,6 @@
     {
       "ticker": "GLIBK",
       "name": "Liberty Capital Corporation - Series C GCI Group",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GLMD",
-      "name": "Galmed Pharmaceuticals Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16869,6 +16923,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KRSA",
+      "name": "Korsana Biosciences, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "KRT",
       "name": "Karat Packaging Inc.",
       "market": "NASDAQ",
@@ -16961,18 +17021,6 @@
     {
       "ticker": "KVHI",
       "name": "KVH Industries, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KWM",
-      "name": "K Wave Media, Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KWMWW",
-      "name": "K Wave Media, Ltd. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17861,12 +17909,6 @@
     {
       "ticker": "LPLA",
       "name": "LPL Financial Holdings Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LPSN",
-      "name": "LivePerson, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21315,6 +21357,18 @@
       "isEtf": false
     },
     {
+      "ticker": "NXAT",
+      "name": "Nexus Advanced Technologies Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NXATW",
+      "name": "Nexus Advanced Technologies Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NXGL",
       "name": "NexGel, Inc",
       "market": "NASDAQ",
@@ -21537,8 +21591,26 @@
       "isEtf": false
     },
     {
+      "ticker": "OCLT",
+      "name": "OceanLight Acquisition Corporation -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OCLTR",
+      "name": "OceanLight Acquisition Corporation - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "OCLTU",
       "name": "OceanLight Acquisition Corporation - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OCLTW",
+      "name": "OceanLight Acquisition Corporation - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23452,7 +23524,7 @@
     },
     {
       "ticker": "PMA",
-      "name": "Ming Shing Group Holdings Limited -",
+      "name": "PMA Graphene Technology Group Inc. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25017,12 +25089,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RAY",
-      "name": "Raytech Holding Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "RAYA",
       "name": "Erayak Power Solution Group Inc. -",
       "market": "NASDAQ",
@@ -25727,6 +25793,12 @@
     {
       "ticker": "RMIX",
       "name": "Suncrete, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "RML",
+      "name": "Resolution Minerals Ltd - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28647,6 +28719,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SWRD",
+      "name": "Stewards Inc",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SWVL",
       "name": "Swvl Holdings Corp -",
       "market": "NASDAQ",
@@ -29525,12 +29603,6 @@
     {
       "ticker": "TMCR",
       "name": "The Metals Royalty Company Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TMCWW",
-      "name": "TMC the metals company Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31213,6 +31285,12 @@
       "name": "Twin Vee PowerCats Co.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "VEEM",
+      "name": "VanEck MSCI EM Analyst Sentiment ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "VEFA",
@@ -36335,6 +36413,12 @@
     {
       "ticker": "AUST",
       "name": "Austin Gold Corp. Common Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "AUXX",
+      "name": "Gold X2 Mining Inc. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43883,6 +43967,12 @@
     {
       "ticker": "DIAL",
       "name": "Columbia Diversified Fixed Income Allocation ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DICE",
+      "name": "Tema Trading & Prediction Markets ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52287,6 +52377,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HLSQ",
+      "name": "Tessera Defense and Homeland Security Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "HLT",
       "name": "Hilton Worldwide Holdings Inc.",
       "market": "NYSE",
@@ -56235,6 +56331,12 @@
       "isEtf": true
     },
     {
+      "ticker": "KATT",
+      "name": "T-REX 2X Long PURR Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KAUG",
       "name": "Innovator US Small Cap Power Buffer ETF - August",
       "market": "NYSE",
@@ -59001,6 +59103,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MFSD",
+      "name": "MFS Active Short Duration Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MFSG",
       "name": "MFS Active Growth ETF",
       "market": "NYSE",
@@ -59021,6 +59129,12 @@
     {
       "ticker": "MFSV",
       "name": "MFS Active Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MFSX",
+      "name": "MFS Active Short Muni Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59423,6 +59537,12 @@
     {
       "ticker": "MKTN",
       "name": "Federated Hermes MDT Market Neutral ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "MLCC",
+      "name": "Global X MLCC & Electronic Components ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61509,8 +61629,8 @@
       "isEtf": false
     },
     {
-      "ticker": "NMCO.V",
-      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",
+      "ticker": "NMCO.R",
+      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -61763,6 +61883,12 @@
     {
       "ticker": "NQLT",
       "name": "Neuberger Quality Select ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "NRAM",
+      "name": "Yorkville America Next Generation Memory Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -64313,12 +64439,6 @@
     {
       "ticker": "PHG",
       "name": "Koninklijke Philips N.V. NY Registry Shares",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "PHGE",
-      "name": "BiomX Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -73677,6 +73797,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TRXS",
+      "name": "Canary Staked TRX ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TS",
       "name": "Tenaris S.A. American Depositary Shares",
       "market": "NYSE",
@@ -75491,6 +75617,12 @@
     {
       "ticker": "VEGN",
       "name": "US Vegan Climate ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VEGX",
+      "name": "International Vegan Climate ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -77679,8 +77811,20 @@
       "isEtf": true
     },
     {
+      "ticker": "XLCD",
+      "name": "MicroSectors -3x Short Communication Services (XLC) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLCI",
       "name": "State Street Communication Services Select Sector SPDR Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLCU",
+      "name": "MicroSectors 3x Long Communication Services (XLC) ETNs",
       "market": "NYSE",
       "isEtf": true
     },
@@ -77765,6 +77909,18 @@
     {
       "ticker": "XLP",
       "name": "State Street Consumer Staples Select Sector SPDR ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLPD",
+      "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLPU",
+      "name": "MicroSectors 3x Long Consumer Staples (XLP) ETNs",
       "market": "NYSE",
       "isEtf": true
     },

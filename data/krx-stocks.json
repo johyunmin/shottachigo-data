@@ -1,7 +1,7 @@
 {
-  "basDt": "20260904",
-  "fetchedAt": "2026-09-07T21:42:19.814Z",
-  "count": 4563,
+  "basDt": "20260910",
+  "fetchedAt": "2026-09-11T21:08:45.091Z",
+  "count": 4560,
   "stocks": [
     {
       "ticker": "900110",
@@ -4068,6 +4068,12 @@
     {
       "ticker": "019770",
       "name": "서연탑메탈",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0197V0",
+      "name": "엔에이치스팩34호",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -12653,7 +12659,7 @@
     },
     {
       "ticker": "242040",
-      "name": "나무에이엑스",
+      "name": "나무AX",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -19060,6 +19066,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0238P0",
+      "name": "TIGER 미국S&P500미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "069500",
       "name": "KODEX 200",
       "market": "KOSPI",
@@ -24718,18 +24730,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "530089",
-      "name": "삼성 은 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "530090",
-      "name": "삼성 인버스 은 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "530092",
       "name": "삼성 인버스 코스피 200 선물 ETN",
       "market": "KOSPI",
@@ -25024,12 +25024,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "550064",
-      "name": "N2 레버리지 은 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "550069",
       "name": "N2 레버리지 구리 선물 ETN(H)",
       "market": "KOSPI",
@@ -25152,12 +25146,6 @@
     {
       "ticker": "570051",
       "name": "한투 나스닥100 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570061",
-      "name": "한투 레버리지은선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -25470,12 +25458,6 @@
     {
       "ticker": "570023",
       "name": "한투 인버스2XS&P500선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "580026",
-      "name": "KB S&P 레버리지 은 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
