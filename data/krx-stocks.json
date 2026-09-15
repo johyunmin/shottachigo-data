@@ -1,7 +1,7 @@
 {
-  "basDt": "20260910",
-  "fetchedAt": "2026-09-13T21:01:46.664Z",
-  "count": 4560,
+  "basDt": "20260914",
+  "fetchedAt": "2026-09-15T21:37:55.564Z",
+  "count": 4555,
   "stocks": [
     {
       "ticker": "900110",
@@ -5513,7 +5513,7 @@
     },
     {
       "ticker": "038060",
-      "name": "루멘스",
+      "name": "루멘스바이오스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -10056,12 +10056,6 @@
     {
       "ticker": "121800",
       "name": "비덴트",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "121850",
-      "name": "코이즈",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16632,12 +16626,6 @@
     {
       "ticker": "471820",
       "name": "셀로맥스사이언스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "472220",
-      "name": "신영스팩10호",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -24256,18 +24244,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "500061",
-      "name": "신한 인버스 코스피 200 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "500063",
-      "name": "신한 인버스 코스닥 150 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "500067",
       "name": "신한 레버리지 10년 국채선물 ETN",
       "market": "KOSPI",
@@ -24468,30 +24444,6 @@
     {
       "ticker": "510045",
       "name": "대신 인버스 2X 미국달러 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520037",
-      "name": "미래에셋 코스피200 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520038",
-      "name": "미래에셋 인버스 코스피200 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520039",
-      "name": "미래에셋 코스닥150 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520040",
-      "name": "미래에셋 인버스 코스닥150 선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -27174,6 +27126,24 @@
     {
       "ticker": "IDX:코스피 200",
       "name": "코스피 200",
+      "market": "INDEX",
+      "kind": "index"
+    },
+    {
+      "ticker": "IDX:코스피 200 25/50 NTR USD 지수",
+      "name": "코스피 200 25/50 NTR USD 지수",
+      "market": "INDEX",
+      "kind": "index"
+    },
+    {
+      "ticker": "IDX:코스피 200 25/50 NTR 지수",
+      "name": "코스피 200 25/50 NTR 지수",
+      "market": "INDEX",
+      "kind": "index"
+    },
+    {
+      "ticker": "IDX:코스피 200 25/50지수",
+      "name": "코스피 200 25/50지수",
       "market": "INDEX",
       "kind": "index"
     },
