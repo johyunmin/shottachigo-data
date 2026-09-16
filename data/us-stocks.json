@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T21:37:56.310Z",
-  "count": 13199,
+  "fetchedAt": "2026-09-16T21:32:45.681Z",
+  "count": 13204,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1087,6 +1087,12 @@
       "name": "Bitzero Holdings Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AICH",
+      "name": "China AI ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AIDX",
@@ -4979,6 +4985,12 @@
     {
       "ticker": "BSJY",
       "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "BSMA",
+      "name": "Invesco BulletShares 2036 Municipal Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -10683,12 +10695,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FEED",
-      "name": "ENvue Medical, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FEIM",
       "name": "Frequency Electronics, Inc.",
       "market": "NASDAQ",
@@ -15711,6 +15717,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IQGR",
+      "name": "Astoria International Quality Growth Kings ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "IQMX",
       "name": "IQM Quantum Computers Oyj - American Depositary Shares",
       "market": "NASDAQ",
@@ -16209,6 +16221,12 @@
       "isEtf": true
     },
     {
+      "ticker": "JINT",
+      "name": "Janus Henderson International Core Alpha ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "JIVE",
       "name": "JPMorgan International Value ETF",
       "market": "NASDAQ",
@@ -16618,19 +16636,19 @@
     },
     {
       "ticker": "KFII",
-      "name": "K&F Growth Acquisition Corp. II -",
+      "name": "K -",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "KFIIR",
-      "name": "K&F Growth Acquisition Corp. II - Rights",
+      "name": "K - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "KFIIU",
-      "name": "K&F Growth Acquisition Corp. II - Unit",
+      "name": "K - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27747,12 +27765,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SOBR",
-      "name": "SOBR Safe, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SOCA",
       "name": "Solarius Capital Acquisition Corp. -",
       "market": "NASDAQ",
@@ -29985,6 +29997,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TRT",
+      "name": "Trio-Tech International",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TRUC",
       "name": "VanEck Communication Services TruSector ETF",
       "market": "NASDAQ",
@@ -32101,6 +32119,12 @@
       "name": "WisdomTree Cybersecurity Fund",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "WCCB",
+      "name": "West Coast Community Bancorp",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "WCLD",
@@ -36075,6 +36099,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ASBH",
+      "name": "American Savings Bank, N.A.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "ASC",
       "name": "Ardmore Shipping Corporation",
       "market": "NYSE",
@@ -39559,6 +39589,12 @@
       "name": "BlackRock Utility, Infrastructure & Power Opportunities Trust",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BUIL",
+      "name": "Rebuild America ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BUL",
@@ -73819,12 +73855,6 @@
       "name": "Xtrackers US 0-1 Year Treasury ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "TRT",
-      "name": "Trio-Tech International",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "TRTN$A",

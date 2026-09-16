@@ -1,7 +1,7 @@
 {
-  "basDt": "20260914",
-  "fetchedAt": "2026-09-15T21:37:55.564Z",
-  "count": 4555,
+  "basDt": "20260915",
+  "fetchedAt": "2026-09-16T21:32:44.981Z",
+  "count": 4557,
   "stocks": [
     {
       "ticker": "900110",
@@ -13445,7 +13445,7 @@
     },
     {
       "ticker": "282880",
-      "name": "코윈테크",
+      "name": "코윈로보틱스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16552,12 +16552,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "465320",
-      "name": "교보15호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "465480",
       "name": "인스피언",
       "market": "KOSDAQ",
@@ -19006,6 +19000,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0227L0",
+      "name": "HANARO 미국에이전틱AI TOP2+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0228G0",
       "name": "ACE 반도체Plus전략산업",
       "market": "KOSPI",
@@ -19054,8 +19054,26 @@
       "kind": "etf"
     },
     {
+      "ticker": "0238F0",
+      "name": "KODEX 미국AI메모리TOP2플러스",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0238P0",
       "name": "TIGER 미국S&P500미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0239Y0",
+      "name": "PLUS 코리아HBM반도체",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0239Z0",
+      "name": "PLUS AI반도체소부장액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -23076,12 +23094,6 @@
     {
       "ticker": "465670",
       "name": "TIGER 미국캐시카우100",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "465780",
-      "name": "마이티 26-09 특수채(AAA)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
