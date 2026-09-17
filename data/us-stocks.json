@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T21:32:45.681Z",
-  "count": 13204,
+  "fetchedAt": "2026-09-17T21:36:19.946Z",
+  "count": 13216,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2029,12 +2029,6 @@
       "name": "GraniteShares Autocallable NVDA ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ANY",
-      "name": "Sphere 3D Corp. - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "AOHY",
@@ -5655,6 +5649,18 @@
       "isEtf": true
     },
     {
+      "ticker": "CATL",
+      "name": "Catalyst Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CATLR",
+      "name": "Catalyst Acquisition Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "CATLU",
       "name": "Catalyst Acquisition Corp. - Units",
       "market": "NASDAQ",
@@ -8737,6 +8743,12 @@
       "name": "Global X Autonomous & Electric Vehicles ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "DRK",
+      "name": "DarkHorse Technologies Inc. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "DRMA",
@@ -16636,19 +16648,19 @@
     },
     {
       "ticker": "KFII",
-      "name": "K -",
+      "name": "K&F Growth Acquisition Corp. II -",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "KFIIR",
-      "name": "K - Rights",
+      "name": "K&F Growth Acquisition Corp. II - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "KFIIU",
-      "name": "K - Unit",
+      "name": "K&F Growth Acquisition Corp. II - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16997,12 +17009,6 @@
     {
       "ticker": "KTTA",
       "name": "Pasithea Therapeutics Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KTTAW",
-      "name": "Pasithea Therapeutics Corp. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -19671,8 +19677,20 @@
       "isEtf": true
     },
     {
+      "ticker": "MTAK",
+      "name": "Market Technology Acquisition Corp -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MTAKU",
       "name": "Market Technology Acquisition Corp - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MTAKW",
+      "name": "Market Technology Acquisition Corp - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25707,12 +25725,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RITR",
-      "name": "Reitar Logtech Holdings Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "RIVN",
       "name": "Rivian Automotive, Inc. - Class A",
       "market": "NASDAQ",
@@ -29157,6 +29169,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TDNA",
+      "name": "T. Rowe Price Biotech ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TDOG",
       "name": "21shares Dogecoin ETF",
       "market": "NASDAQ",
@@ -29511,8 +29529,20 @@
       "isEtf": true
     },
     {
+      "ticker": "TLAC",
+      "name": "Three Lions Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TLACU",
       "name": "Three Lions Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "TLACW",
+      "name": "Three Lions Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29639,6 +29669,12 @@
     {
       "ticker": "TMED",
       "name": "T. Rowe Price Health Care ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TMID",
+      "name": "T. Rowe Price Mid Cap Equity Research ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -30119,6 +30155,12 @@
     {
       "ticker": "TSDD",
       "name": "GraniteShares 2x Short TSLA Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "TSEE",
+      "name": "T. Rowe Price Small Cap ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -39364,7 +39406,7 @@
     },
     {
       "ticker": "BTCC",
-      "name": "Grayscale Bitcoin Covered Call ETF",
+      "name": "Grayscale Bitcoin High Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40679,6 +40721,12 @@
     {
       "ticker": "CGDV",
       "name": "Capital Group Dividend Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CGFS",
+      "name": "CG Flagship Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -46708,7 +46756,7 @@
     },
     {
       "ticker": "ETCO",
-      "name": "Grayscale Ethereum Covered Call ETF",
+      "name": "Grayscale Ethereum High Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52827,6 +52875,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HUMM",
+      "name": "800VDC AI Datacenter Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HUMN",
       "name": "Roundhill Humanoid Robotics ETF",
       "market": "NYSE",
@@ -52907,6 +52961,12 @@
     {
       "ticker": "HY",
       "name": "Hyster-Yale, Inc. Class A",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "HYAC.U",
+      "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
       "market": "NYSE",
       "isEtf": false
     },
@@ -59871,6 +59931,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MNGZ",
+      "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MNR",
       "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests",
       "market": "NYSE",
@@ -66001,6 +66067,12 @@
       "name": "Quanta Services, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "PWRX",
+      "name": "Westwood Salient Enhanced Power & Infrastructure ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "PWRZ",
