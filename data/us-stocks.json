@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T21:36:19.946Z",
-  "count": 13216,
+  "fetchedAt": "2026-09-18T21:06:52.717Z",
+  "count": 13221,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -9987,6 +9987,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ETRA",
+      "name": "Electra Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ETS",
       "name": "Elite Express Holding Inc. - Class A",
       "market": "NASDAQ",
@@ -11968,13 +11974,13 @@
     },
     {
       "ticker": "FWONA",
-      "name": "Liberty Media Corporation - Series A Liberty Formula One",
+      "name": "Liberty Media Corporation - Series A",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "FWONK",
-      "name": "Liberty Media Corporation - Series C Liberty Formula One",
+      "name": "Liberty Media Corporation - Series C",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17319,6 +17325,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LEDRU",
+      "name": "Leader's Advantage Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LEDS",
       "name": "SemiLEDS Corporation",
       "market": "NASDAQ",
@@ -21797,6 +21809,12 @@
     {
       "ticker": "OHACU",
       "name": "Oceanhawk Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OIG",
+      "name": "Orion180 Insurance Group Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27771,12 +27789,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SNYR",
-      "name": "Synergy CHC Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SOCA",
       "name": "Solarius Capital Acquisition Corp. -",
       "market": "NASDAQ",
@@ -32925,8 +32937,20 @@
       "isEtf": false
     },
     {
+      "ticker": "XIII",
+      "name": "Churchill Capital Corp XIII -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "XIIIU",
       "name": "Churchill Capital Corp XIII - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "XIIIW",
+      "name": "Churchill Capital Corp XIII - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -36177,6 +36201,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ASGI.V",
+      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "ASGM",
       "name": "Virtus AlphaSimplex Global Macro ETF",
       "market": "NYSE",
@@ -36259,6 +36289,12 @@
       "name": "Grupo Aeroportuario del Sureste, S.A. de C.V.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ASSX",
+      "name": "T-REX 2X Long ASST Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ASTG",
@@ -52053,12 +52089,6 @@
       "isEtf": true
     },
     {
-      "ticker": "HCWC",
-      "name": "Healthy Choice Wellness Corp. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "HCXY",
       "name": "Hercules Capital, Inc. 6.25% Notes due 2033",
       "market": "NYSE",
@@ -52619,6 +52649,12 @@
     {
       "ticker": "HOS",
       "name": "Hornbeck Offshore Services, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "HOST",
+      "name": "Host Digital Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -68665,12 +68701,6 @@
       "name": "M.D. Sass Concentrated Value ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "SAT",
-      "name": "Saratoga Investment Corp 6.00% Notes due 2027",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "SATO",

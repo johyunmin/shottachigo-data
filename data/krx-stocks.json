@@ -1,7 +1,7 @@
 {
-  "basDt": "20260916",
-  "fetchedAt": "2026-09-17T21:36:18.167Z",
-  "count": 4557,
+  "basDt": "20260917",
+  "fetchedAt": "2026-09-18T21:06:52.046Z",
+  "count": 4561,
   "stocks": [
     {
       "ticker": "900110",
@@ -2190,12 +2190,6 @@
     {
       "ticker": "006370",
       "name": "대구백화점",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "006380",
-      "name": "카프로",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -24694,6 +24688,30 @@
       "kind": "etn"
     },
     {
+      "ticker": "520103",
+      "name": "미래에셋 코스피200 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520104",
+      "name": "미래에셋 인버스 코스피200 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520105",
+      "name": "미래에셋 코스닥150 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520106",
+      "name": "미래에셋 인버스 코스닥150 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "530092",
       "name": "삼성 인버스 코스피 200 선물 ETN",
       "market": "KOSPI",
@@ -24930,6 +24948,12 @@
     {
       "ticker": "530145",
       "name": "삼성 레버리지 천연가스 선물 ETN D",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530148",
+      "name": "삼성 인버스 2X 코스피200 선물 ETN B",
       "market": "KOSPI",
       "kind": "etn"
     },
