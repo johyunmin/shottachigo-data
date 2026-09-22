@@ -1,7 +1,7 @@
 {
-  "basDt": "20260917",
-  "fetchedAt": "2026-09-20T20:59:11.912Z",
-  "count": 4561,
+  "basDt": "20260921",
+  "fetchedAt": "2026-09-22T21:33:37.167Z",
+  "count": 4554,
   "stocks": [
     {
       "ticker": "900110",
@@ -2536,12 +2536,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "008290",
-      "name": "원풍물산",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "0082N0",
       "name": "카나프테라퓨틱스",
       "market": "KOSDAQ",
@@ -2657,7 +2651,7 @@
     },
     {
       "ticker": "009140",
-      "name": "경인전자",
+      "name": "케이아이이",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -3696,6 +3690,12 @@
     {
       "ticker": "016100",
       "name": "리더스코스메틱",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0161M0",
+      "name": "네오사피엔스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -6088,12 +6088,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "046070",
-      "name": "코다코",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "046120",
       "name": "오르비텍",
       "market": "KOSDAQ",
@@ -8256,12 +8250,6 @@
     {
       "ticker": "082270",
       "name": "젬백스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "082660",
-      "name": "코스나인",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -13380,12 +13368,6 @@
     {
       "ticker": "278990",
       "name": "EMB",
-      "market": "KONEX",
-      "kind": "stock"
-    },
-    {
-      "ticker": "279060",
-      "name": "이노벡스",
       "market": "KONEX",
       "kind": "stock"
     },
@@ -25134,30 +25116,6 @@
     {
       "ticker": "570051",
       "name": "한투 나스닥100 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570063",
-      "name": "한투 베트남VN30선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570064",
-      "name": "한투 인버스베트남VN30선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570065",
-      "name": "한투 레버리지베트남VN30선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "570066",
-      "name": "한투 인버스2X베트남VN30 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

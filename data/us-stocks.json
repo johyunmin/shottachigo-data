@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-20T20:59:12.715Z",
-  "count": 13221,
+  "fetchedAt": "2026-09-22T21:33:38.468Z",
+  "count": 13224,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -4743,22 +4743,10 @@
       "isEtf": true
     },
     {
-      "ticker": "BRR",
-      "name": "ProCap Financial, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BRRR",
       "name": "Coinshares Bitcoin ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "BRRWW",
-      "name": "ProCap Financial, Inc. - Warrant.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "BRTM",
@@ -9957,6 +9945,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ESYN",
+      "name": "EnerSyn Global Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ETEC",
       "name": "iShares Breakthrough Environmental Solutions ETF",
       "market": "NASDAQ",
@@ -14397,12 +14391,6 @@
       "isEtf": true
     },
     {
-      "ticker": "HWH",
-      "name": "HWH International Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HWIV",
       "name": "Hotchkis & Wiley International Value Fund",
       "market": "NASDAQ",
@@ -17467,12 +17455,6 @@
       "name": "Lifeward Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "LGCF",
-      "name": "Themes US Cash Flow Champions ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "LGCL",
@@ -20595,24 +20577,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NHIC",
-      "name": "NewHold Investment Corp III -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NHICU",
-      "name": "NewHold Investment Corp III - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NHICW",
-      "name": "NewHold Investment Corp III - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NHIV",
       "name": "NewHold Investment Corp IV -",
       "market": "NASDAQ",
@@ -21365,6 +21329,18 @@
     {
       "ticker": "NWBI",
       "name": "Northwest Bancshares, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NWCL",
+      "name": "newcleo plc -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NWCLW",
+      "name": "newcleo plc - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24777,6 +24753,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QQQB",
+      "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "QQQE",
       "name": "Direxion NASDAQ-100 Equal Weighted Index ETF",
       "market": "NASDAQ",
@@ -27537,12 +27519,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SMCF",
-      "name": "Themes US Small Cap Cash Flow Champions ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "SMCI",
       "name": "Super Micro Computer, Inc.",
       "market": "NASDAQ",
@@ -28673,6 +28649,18 @@
     {
       "ticker": "SVCO",
       "name": "Silvaco Group, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SVIA",
+      "name": "Silvia, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SVIAW",
+      "name": "Silvia, Inc. - Warrant.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31751,6 +31739,12 @@
     {
       "ticker": "VONV",
       "name": "Vanguard Russell 1000 Value ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "VOOB",
+      "name": "VistaShares Shield S&P 500 Enhanced Protection ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -42477,12 +42471,6 @@
       "isEtf": true
     },
     {
-      "ticker": "CSAN",
-      "name": "Cosan S.A. ADS",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CSD",
       "name": "Invesco S&P Spin-Off ETF",
       "market": "NYSE",
@@ -42619,6 +42607,12 @@
       "name": "EIDP, Inc. Preferred Stock $4.50 Series",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CTAG",
+      "name": "Calamos Timpani Active SMID Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CTAP",
@@ -44667,6 +44661,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DQSE",
+      "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DRAI",
       "name": "Draco Evolution AI ETF",
       "market": "NYSE",
@@ -46279,6 +46279,12 @@
       "name": "Energizer Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ENRG",
+      "name": "Ninepoint North American Energy Independence ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ENS",
@@ -50111,6 +50117,12 @@
     {
       "ticker": "GCPB",
       "name": "Goldman Sachs Core Plus Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "GCPU",
+      "name": "Grayscale AI Compute ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57927,12 +57939,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LIMI",
-      "name": "Themes Lithium & Battery Metal Miners ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "LION",
       "name": "Lionsgate Studios Corp Common Shares",
       "market": "NYSE",
@@ -59961,6 +59967,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MNGB",
+      "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MNGU",
       "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
       "market": "NYSE",
@@ -59977,12 +59989,6 @@
       "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "MNRS",
-      "name": "Grayscale Bitcoin Miners ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "MNSO",
@@ -66609,6 +66615,12 @@
       "isEtf": true
     },
     {
+      "ticker": "QQBF",
+      "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "QQH",
       "name": "HCM Defender 100 Index ETF",
       "market": "NYSE",
@@ -69391,6 +69403,12 @@
       "name": "Seaboard Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "SECA",
+      "name": "Main Active Rotation ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "SECR",
