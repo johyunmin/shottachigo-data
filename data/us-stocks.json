@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T21:33:38.468Z",
-  "count": 13224,
+  "fetchedAt": "2026-09-23T21:39:42.476Z",
+  "count": 13240,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -6397,6 +6397,12 @@
       "name": "Calamos Convertible Opportunities and Income Fund - Closed End Fund",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "CHIP",
+      "name": "REX AI Chipmaking ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "CHKP",
@@ -15502,7 +15508,7 @@
     },
     {
       "ticker": "INVE",
-      "name": "Identiv, Inc.",
+      "name": "INVE Technologies, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17865,6 +17871,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LOVIU",
+      "name": "Live Oak Acquisition Corp. VI - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LPAA",
       "name": "Launch One Acquisition Corp. -",
       "market": "NASDAQ",
@@ -19923,6 +19935,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MYCP",
+      "name": "State Street My2036 Corporate Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "MYFW",
       "name": "First Western Financial, Inc.",
       "market": "NASDAQ",
@@ -19965,6 +19983,12 @@
       "isEtf": true
     },
     {
+      "ticker": "MYHF",
+      "name": "State Street My2032 High Yield Corporate Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "MYMF",
       "name": "State Street My2026 Municipal Bond ETF",
       "market": "NASDAQ",
@@ -19997,6 +20021,12 @@
     {
       "ticker": "MYMK",
       "name": "State Street My2031 Municipal Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "MYML",
+      "name": "State Street My2032 Municipal Bond ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -23499,12 +23529,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PLTS",
-      "name": "Platinum Analytics Cayman Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PLTU",
       "name": "Direxion Daily PLTR Bull 2X ETF",
       "market": "NASDAQ",
@@ -24725,6 +24749,12 @@
     {
       "ticker": "QQHG",
       "name": "Invesco QQQ Hedged Advantage ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "QQI",
+      "name": "Invesco Nasdaq International Innovators 100 ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -30501,6 +30531,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TXCA",
+      "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TXG",
       "name": "10x Genomics, Inc.",
       "market": "NASDAQ",
@@ -30517,6 +30553,12 @@
       "name": "Texas Instruments Incorporated",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TXNY",
+      "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TXRH",
@@ -31657,6 +31699,18 @@
       "name": "Versamet Royalties Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "VMHY",
+      "name": "VictoryShares Municipal High Yield ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "VMSD",
+      "name": "VictoryShares Short-Duration Municipal ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "VNCE",
@@ -34811,6 +34865,12 @@
     {
       "ticker": "AIBD",
       "name": "Direxion Daily AI and Big Data Bear 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AIBF",
+      "name": "iShares Future AI Beneficiaries ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -61377,6 +61437,12 @@
       "isEtf": true
     },
     {
+      "ticker": "NECK",
+      "name": "xETFs AI Bottlenecks ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "NEE",
       "name": "NextEra Energy, Inc.",
       "market": "NYSE",
@@ -67631,12 +67697,6 @@
     {
       "ticker": "RIV$A",
       "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "RIV.R",
-      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -78699,14 +78759,50 @@
       "isEtf": true
     },
     {
+      "ticker": "XVAD",
+      "name": "FT Vest AMD & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XVAP",
       "name": "FT Vest AAPL & Target Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
+      "ticker": "XVAZ",
+      "name": "FT Vest AMZN & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVGL",
+      "name": "FT Vest GOOG & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVMS",
+      "name": "FT Vest MSFT & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVMT",
+      "name": "FT Vest META & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XVNV",
       "name": "FT Vest NVDA & Target Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XVPT",
+      "name": "FT Vest PLTR & Target Income ETF",
       "market": "NYSE",
       "isEtf": true
     },

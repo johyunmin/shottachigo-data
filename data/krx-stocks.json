@@ -1,7 +1,7 @@
 {
-  "basDt": "20260921",
-  "fetchedAt": "2026-09-22T21:33:37.167Z",
-  "count": 4554,
+  "basDt": "20260922",
+  "fetchedAt": "2026-09-23T21:39:41.780Z",
+  "count": 4560,
   "stocks": [
     {
       "ticker": "900110",
@@ -4084,6 +4084,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "0200G0",
+      "name": "한국제17호스팩",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "020120",
       "name": "키다리스튜디오",
       "market": "KOSPI",
@@ -4129,6 +4135,12 @@
       "ticker": "020760",
       "name": "일진디스플",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0209J0",
+      "name": "KB제34호스팩",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -19030,6 +19042,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0238C0",
+      "name": "IBK 한미대표기업TOP2+채권혼합50액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0238F0",
       "name": "KODEX 미국AI메모리TOP2플러스",
       "market": "KOSPI",
@@ -19050,6 +19068,24 @@
     {
       "ticker": "0239Z0",
       "name": "PLUS AI반도체소부장액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0240J0",
+      "name": "RISE 삼성SK그룹",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0241R0",
+      "name": "TIGER 현대차LG전자고정피지컬AI밸류체인",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0242S0",
+      "name": "파워 SK그룹",
       "market": "KOSPI",
       "kind": "etf"
     },
