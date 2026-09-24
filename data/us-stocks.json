@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-23T21:39:42.476Z",
-  "count": 13240,
+  "fetchedAt": "2026-09-24T21:41:35.145Z",
+  "count": 13246,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -8649,12 +8649,6 @@
       "isEtf": false
     },
     {
-      "ticker": "DOMO",
-      "name": "Domo, Inc. - Class B",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "DOO",
       "name": "BRP Inc. - Common Subordinate Voting Shares",
       "market": "NASDAQ",
@@ -11049,8 +11043,26 @@
       "isEtf": false
     },
     {
+      "ticker": "FJDI",
+      "name": "ARC Group Securities Acquisition I -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FJDIR",
+      "name": "ARC Group Securities Acquisition I - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FJDIU",
       "name": "ARC Group Securities Acquisition I - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FJDIW",
+      "name": "ARC Group Securities Acquisition I - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14283,6 +14295,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HUCK",
+      "name": "Huckleberry.ai, Inc. - Class B",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "HUDI",
       "name": "Huadi International Group Co., Ltd. -",
       "market": "NASDAQ",
@@ -14337,24 +14355,6 @@
       "isEtf": true
     },
     {
-      "ticker": "HVII",
-      "name": "Hennessy Capital Investment Corp. VII -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HVIIR",
-      "name": "Hennessy Capital Investment Corp. VII - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "HVIIU",
-      "name": "Hennessy Capital Investment Corp. VII - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HVMC",
       "name": "Highview Merger Corp. -",
       "market": "NASDAQ",
@@ -14407,6 +14407,12 @@
       "name": "Hawkins, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "HWMV",
+      "name": "Hotchkis & Wiley Mid-Cap Value Fund",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "HWO",
@@ -22041,6 +22047,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ONEN",
+      "name": "ONE Nuclear Energy Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ONEQ",
       "name": "Fidelity Nasdaq Composite Index ETF",
       "market": "NASDAQ",
@@ -29067,12 +29079,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TBPH",
-      "name": "Theravance Biopharma, Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "TC",
       "name": "Token Cat Limited - American Depositary Shares",
       "market": "NASDAQ",
@@ -29851,6 +29857,12 @@
       "name": "TOP Financial Group Limited -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TORK",
+      "name": "KraneShares Actuator ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TORO",
@@ -36255,8 +36267,8 @@
       "isEtf": false
     },
     {
-      "ticker": "ASGI.V",
-      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+      "ticker": "ASGI.R",
+      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -37559,6 +37571,12 @@
     {
       "ticker": "BCAT",
       "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "BCAT.V",
+      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
       "market": "NYSE",
       "isEtf": false
     },
@@ -39575,12 +39593,6 @@
     {
       "ticker": "BTOT",
       "name": "iShares Total USD Fixed Income Market ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "BTR",
-      "name": "Beacon Tactical Risk ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -43327,6 +43339,12 @@
       "name": "Dakota Gold Corp.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "DCAP",
+      "name": "T-Strive Digital Credit Preferred Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "DCBG",
@@ -59451,6 +59469,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MGIN",
+      "name": "Man Active Global Infrastructure ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "market": "NYSE",
@@ -73383,6 +73407,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TLIE",
+      "name": "American Beacon The London Company Income Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TLK",
       "name": "PT Telekomunikasi Indonesia, Tbk",
       "market": "NYSE",
@@ -75727,6 +75757,12 @@
       "name": "Viking Acquisition Corp. I Warrants to purchase one",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "VAIC",
+      "name": "VegaShares US Equity Autocallable Conservative Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "VAIE",
