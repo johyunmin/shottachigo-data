@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-24T21:41:35.145Z",
-  "count": 13246,
+  "fetchedAt": "2026-09-25T21:44:59.011Z",
+  "count": 13251,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -659,6 +659,12 @@
     {
       "ticker": "ADPT",
       "name": "Adaptive Biotechnologies Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ADRX",
+      "name": "ADARx Pharmaceuticals, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4741,6 +4747,12 @@
       "name": "Burney U.S. Factor Rotation ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "BRRKU",
+      "name": "Bluerock Acquisition Corp. II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "BRRR",
@@ -16383,12 +16395,6 @@
       "isEtf": false
     },
     {
-      "ticker": "JSPRW",
-      "name": "Jasper Therapeutics, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "JTAI",
       "name": "Jet.AI Inc.",
       "market": "NASDAQ",
@@ -16769,12 +16775,6 @@
     {
       "ticker": "KLXE",
       "name": "KLX Energy Services Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KLXER",
-      "name": "KLX Energy Services Holdings, Inc.  - Rights",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22797,6 +22797,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PBCS",
+      "name": "Portfolio Building Block World Consumer Staples ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "PBEU",
       "name": "Portfolio Building Block European Banks Index ETF",
       "market": "NASDAQ",
@@ -22865,6 +22871,18 @@
     {
       "ticker": "PBSC",
       "name": "Pacer Barings Secured Credit Flex ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "PBUB",
+      "name": "Portfolio Building Block US Banks ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "PBWN",
+      "name": "Portfolio Building Block World Ex US Industrials ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -65285,6 +65303,18 @@
     {
       "ticker": "PMTW",
       "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PNAQ",
+      "name": "Pinnacle Acquisition Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PNAQ.R",
+      "name": "Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one",
       "market": "NYSE",
       "isEtf": false
     },
