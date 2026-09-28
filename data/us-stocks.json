@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-27T21:30:54.826Z",
-  "count": 13251,
+  "fetchedAt": "2026-09-28T23:26:18.403Z",
+  "count": 13245,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -10851,6 +10851,18 @@
       "isEtf": false
     },
     {
+      "ticker": "FGC",
+      "name": "FG Communities Holdings Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FGCPP",
+      "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FGI",
       "name": "FGI Industries Ltd. -",
       "market": "NASDAQ",
@@ -10891,18 +10903,6 @@
       "name": "First Trust Germany AlphaDEX Fund",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "FGNX",
-      "name": "FG Nexus Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "FGNXP",
-      "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "FGSI",
@@ -12917,6 +12917,12 @@
     {
       "ticker": "GOVX",
       "name": "GeoVax Labs, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GOW",
+      "name": "GOWell Energy Technology -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15605,24 +15611,6 @@
     {
       "ticker": "IPDN",
       "name": "Professional Diversity Network, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPEX",
-      "name": "Inflection Point Acquisition Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPEXR",
-      "name": "Inflection Point Acquisition Corp. - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPEXU",
-      "name": "Inflection Point Acquisition Corp. - Unit",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -23061,12 +23049,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PDYNW",
-      "name": "Palladyne AI Corp. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PEBK",
       "name": "Peoples Bancorp of North Carolina, Inc.",
       "market": "NASDAQ",
@@ -29471,6 +29453,12 @@
     {
       "ticker": "THRM",
       "name": "Gentherm Inc",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "THRMV",
+      "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -43408,7 +43396,7 @@
     },
     {
       "ticker": "DCOR",
-      "name": "Dimensional US Core Equity 1 ETF",
+      "name": "US Core Equity 1 Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -43834,7 +43822,7 @@
     },
     {
       "ticker": "DFAR",
-      "name": "Dimensional US Real Estate ETF",
+      "name": "DFA Real Estate Securities Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -44026,7 +44014,7 @@
     },
     {
       "ticker": "DFSV",
-      "name": "Dimensional US Small Cap Value ETF",
+      "name": "US Small Cap Value Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45052,7 +45040,7 @@
     },
     {
       "ticker": "DUHP",
-      "name": "Dimensional US High Profitability ETF",
+      "name": "US High Relative Profitability Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45262,7 +45250,7 @@
     },
     {
       "ticker": "DXUV",
-      "name": "Dimensional US Vector Equity ETF",
+      "name": "US Vector Equity Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57699,6 +57687,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LCIV",
+      "name": "Logan Capital International ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LCLG",
       "name": "Logan Capital Large Cap Growth ETF",
       "market": "NYSE",
@@ -64671,6 +64665,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PFRX",
+      "name": "Putnam Focused U.S. Research ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PFS",
       "name": "Provident Financial Services, Inc",
       "market": "NYSE",
@@ -68977,24 +68977,6 @@
       "name": "T-REX 2X Long SBET Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "SBXD",
-      "name": "SilverBox Corp IV",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SBXD.U",
-      "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SBXD.W",
-      "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "SBXE",
@@ -74519,24 +74501,6 @@
     {
       "ticker": "TWN",
       "name": "Taiwan Fund, Inc. (The)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TWO$A",
-      "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TWO$B",
-      "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TWO$C",
-      "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
