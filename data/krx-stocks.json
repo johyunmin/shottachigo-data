@@ -1,7 +1,7 @@
 {
-  "basDt": "20260923",
-  "fetchedAt": "2026-09-28T23:26:17.728Z",
-  "count": 4561,
+  "basDt": "20260928",
+  "fetchedAt": "2026-09-29T22:30:32.202Z",
+  "count": 4557,
   "stocks": [
     {
       "ticker": "900110",
@@ -22702,12 +22702,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "454180",
-      "name": "KIWOOM 차이나내수소비TOP CSI",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "454320",
       "name": "HANARO CAPEX설비투자iSelect",
       "market": "KOSPI",
@@ -23028,12 +23022,6 @@
     {
       "ticker": "463690",
       "name": "KODEX 미국S&P500커뮤니케이션",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "464240",
-      "name": "KIWOOM 26-09회사채(AA-이상)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -23826,18 +23814,6 @@
     {
       "ticker": "488080",
       "name": "TIGER 반도체TOP10레버리지",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "488200",
-      "name": "KIWOOM K-2차전지북미공급망",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "488210",
-      "name": "KIWOOM K-반도체북미공급망",
       "market": "KOSPI",
       "kind": "etf"
     },

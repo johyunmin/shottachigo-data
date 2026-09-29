@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-28T23:26:18.403Z",
-  "count": 13245,
+  "fetchedAt": "2026-09-29T22:30:32.965Z",
+  "count": 13246,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -14817,6 +14817,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ICMO",
+      "name": "Symmetry Panoramic International Country Momentum ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ICON",
       "name": "Icon Energy Corp.",
       "market": "NASDAQ",
@@ -19787,6 +19793,12 @@
     {
       "ticker": "MUU",
       "name": "Direxion Daily MU Bull 2X ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "MUY",
+      "name": "YieldMax MU Option Income Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -25719,12 +25731,6 @@
       "isEtf": false
     },
     {
-      "ticker": "RILYN",
-      "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "RILYP",
       "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",
       "market": "NASDAQ",
@@ -26351,6 +26357,12 @@
     {
       "ticker": "RYTM",
       "name": "Rhythm Pharmaceuticals, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "RZAI",
+      "name": "Roze AI Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29872,7 +29884,7 @@
     },
     {
       "ticker": "TORO",
-      "name": "Toro Corp.",
+      "name": "Toro Corp. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -50139,12 +50151,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GBTG",
-      "name": "Global Business Travel Group, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GBX",
       "name": "Greenbrier Companies, Inc. (The)",
       "market": "NYSE",
@@ -54681,12 +54687,6 @@
       "isEtf": false
     },
     {
-      "ticker": "IONQ.W",
-      "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "IOO",
       "name": "iShares Global 100 ETF",
       "market": "NYSE",
@@ -57687,12 +57687,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LCIV",
-      "name": "Logan Capital International ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "LCLG",
       "name": "Logan Capital Large Cap Growth ETF",
       "market": "NYSE",
@@ -58561,6 +58555,12 @@
       "name": "Lumen Technologies, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LUNC",
+      "name": "Longnook Uncommon Compounders ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LUNL",
@@ -62263,6 +62263,12 @@
       "name": "Natural Resource Partners LP Limited Partnership",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "NRR",
+      "name": "Common Shares of Beneficial Interest of Bitwise NEAR ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "NRSH",
