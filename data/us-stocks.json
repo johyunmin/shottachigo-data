@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-29T22:30:32.965Z",
-  "count": 13246,
+  "fetchedAt": "2026-09-30T22:28:33.964Z",
+  "count": 13252,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -317,6 +317,12 @@
     {
       "ticker": "ACCL",
       "name": "Acco Group Holdings Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ACCV",
+      "name": "Accelevation Holdings Corp. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -1297,12 +1303,6 @@
       "name": "Defiance US 100 Tech AI Moat ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "AIXC",
-      "name": "AIxCrypto Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "AIXI",
@@ -4396,19 +4396,19 @@
     },
     {
       "ticker": "BNC",
-      "name": "CEA Industries Inc.",
+      "name": "BNB Standard Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "BNCWW",
-      "name": "CEA Industries Inc. - Warrant",
+      "name": "BNB Standard Corporation - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "BNCWZ",
-      "name": "CEA Industries Inc. - Warrants",
+      "name": "BNB Standard Corporation - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9663,6 +9663,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ENHE",
+      "name": "iShares Enhanced Emerging Markets Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ENHI",
       "name": "iShares Enhanced International Active ETF",
       "market": "NASDAQ",
@@ -10829,6 +10835,12 @@
     {
       "ticker": "FFIV",
       "name": "F5, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FFR",
+      "name": "FF EAI Robotics Ecosystem Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34119,6 +34131,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ACIG",
+      "name": "Hartford Alpha Capture International Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ACII",
       "name": "Innovator Index Autocallable Income Strategy ETF",
       "market": "NYSE",
@@ -34223,6 +34241,12 @@
     {
       "ticker": "ACSI",
       "name": "American Customer Satisfaction ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ACSM",
+      "name": "Hartford Alpha Capture SMID Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -35547,12 +35571,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AMZE",
-      "name": "Amaze Holdings, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "AMZG",
       "name": "Leverage Shares 2X Long AMZN Daily ETF",
       "market": "NYSE",
@@ -36797,6 +36815,12 @@
     {
       "ticker": "AVMV",
       "name": "Avantis U.S. Mid Cap Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AVNC",
+      "name": "Avantis All International Core Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -43233,6 +43257,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DBAR",
+      "name": "IMGP DBI Absolute Return ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DBAW",
       "name": "Xtrackers MSCI All World ex US Hedged Equity ETF",
       "market": "NYSE",
@@ -43327,12 +43357,6 @@
       "name": "Invesco DB Precious Metals Fund",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "DBRG",
-      "name": "DigitalBridge Group, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "DBRG$H",
@@ -50463,12 +50487,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GETY",
-      "name": "Getty Images Holdings, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GEV",
       "name": "GE Vernova Inc.",
       "market": "NYSE",
@@ -55155,6 +55173,12 @@
       "isEtf": true
     },
     {
+      "ticker": "IVAI",
+      "name": "Ives Ultra AI Opportunities Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "IVE",
       "name": "iShares S&P 500 Value ETF",
       "market": "NYSE",
@@ -56365,6 +56389,12 @@
       "name": "Nuveen Credit Strategies Income Fund Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "JQTY",
+      "name": "Jensen U.S. Quality Index ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "JQUA",
@@ -57685,6 +57715,12 @@
       "name": "LCI Industries",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "LCIV",
+      "name": "Logan Capital International ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "LCLG",
@@ -72622,7 +72658,7 @@
     },
     {
       "ticker": "TCV",
-      "name": "Towle Value ETF",
+      "name": "Towle Small-Cap Value ETF",
       "market": "NYSE",
       "isEtf": true
     },

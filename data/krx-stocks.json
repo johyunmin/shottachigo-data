@@ -1,7 +1,7 @@
 {
-  "basDt": "20260928",
-  "fetchedAt": "2026-09-29T22:30:32.202Z",
-  "count": 4557,
+  "basDt": "20260929",
+  "fetchedAt": "2026-09-30T22:28:33.167Z",
+  "count": 4558,
   "stocks": [
     {
       "ticker": "900110",
@@ -1387,6 +1387,12 @@
       "ticker": "003580",
       "name": "HLB글로벌",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0035S0",
+      "name": "빅웨이브로보틱스",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -16960,6 +16966,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "486510",
+      "name": "글로벌테크놀로지",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "486630",
       "name": "KB제30호스팩",
       "market": "KOSDAQ",
@@ -24432,12 +24444,6 @@
     {
       "ticker": "510027",
       "name": "대신 인버스 2X 코스닥 150 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "510043",
-      "name": "대신 인버스 천연가스 선물 ETN(H) B",
       "market": "KOSPI",
       "kind": "etn"
     },
