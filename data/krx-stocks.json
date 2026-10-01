@@ -1,7 +1,7 @@
 {
-  "basDt": "20260929",
-  "fetchedAt": "2026-09-30T22:28:33.167Z",
-  "count": 4558,
+  "basDt": "20260930",
+  "fetchedAt": "2026-10-01T22:49:48.273Z",
+  "count": 4562,
   "stocks": [
     {
       "ticker": "900110",
@@ -13162,6 +13162,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "266690",
+      "name": "덕산넵코어스",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "267080",
       "name": "세븐브로이맥주",
       "market": "KONEX",
@@ -25404,6 +25410,24 @@
     {
       "ticker": "570127",
       "name": "한투 인버스2X코스피200선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "570128",
+      "name": "한투 베트남VN30선물 ETN(H) B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "570129",
+      "name": "한투 레버리지베트남VN30선물 ETN(H) B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "570130",
+      "name": "한투 인버스2X베트남VN30선물 ETN(H) B",
       "market": "KOSPI",
       "kind": "etn"
     },

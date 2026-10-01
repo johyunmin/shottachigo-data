@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-30T22:28:33.964Z",
-  "count": 13252,
+  "fetchedAt": "2026-10-01T22:49:49.187Z",
+  "count": 13262,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -6551,6 +6551,12 @@
     {
       "ticker": "CHW",
       "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CHWM",
+      "name": "Chilwa Minerals Limited - American Depository Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13768,7 +13774,7 @@
     },
     {
       "ticker": "HELP",
-      "name": "Cybin Inc.",
+      "name": "Helus Pharma Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -19209,6 +19215,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MMEDV",
+      "name": "MiniMed Group, Inc. - Common Stock When Issued",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "MMLP",
       "name": "Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests",
       "market": "NASDAQ",
@@ -21135,12 +21147,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NTRBW",
-      "name": "Nutriband Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NTRP",
       "name": "NextTrip, Inc.",
       "market": "NASDAQ",
@@ -22163,6 +22169,12 @@
     {
       "ticker": "OPK",
       "name": "Opko Health, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OPNW",
+      "name": "OpenWorld, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29211,6 +29223,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TDEM",
+      "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TDI",
       "name": "Touchstone Dynamic International ETF",
       "market": "NASDAQ",
@@ -31911,12 +31929,6 @@
       "isEtf": false
     },
     {
-      "ticker": "VRME",
-      "name": "VerifyMe, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "VRNS",
       "name": "Varonis Systems, Inc.",
       "market": "NASDAQ",
@@ -33226,7 +33238,7 @@
     },
     {
       "ticker": "XSPC",
-      "name": "VegaShares SpaceX & Beyond Earth ETF",
+      "name": "VegaShares Space & AI ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -45347,6 +45359,12 @@
     {
       "ticker": "EAFG",
       "name": "Pacer Developed Markets Cash Cows Growth Leaders ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "EAFH",
+      "name": "Xtrackers MSCI EAFE 50% Hedged Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58137,6 +58155,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LLMA",
+      "name": "Global X LLM ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LLY",
       "name": "Eli Lilly and Company",
       "market": "NYSE",
@@ -58755,12 +58779,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MAA$I",
-      "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "MAC",
       "name": "Macerich Company (The)",
       "market": "NYSE",
@@ -59350,7 +59368,7 @@
     },
     {
       "ticker": "METV",
-      "name": "Roundhill Ball Metaverse ETF",
+      "name": "Roundhill Metaverse ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60001,6 +60019,12 @@
       "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MMHI",
+      "name": "NYLIM MacKay Muni High Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MMI",
@@ -61923,12 +61947,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NLY$I",
-      "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NLY$J",
       "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
@@ -63069,6 +63087,12 @@
       "isEtf": true
     },
     {
+      "ticker": "OCT",
+      "name": "VanEck U.S. Equity Buffer ETF - October",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OCTB",
       "name": "Aptus October Buffer ETF",
       "market": "NYSE",
@@ -63077,6 +63101,12 @@
     {
       "ticker": "OCTH",
       "name": "Innovator Premium Income 20 Barrier ETF - October",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OCTI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Oct ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65457,6 +65487,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PORT.U",
+      "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "POST",
       "name": "Post Holdings, Inc.",
       "market": "NYSE",
@@ -67666,7 +67702,7 @@
     },
     {
       "ticker": "RHRX",
-      "name": "RH Tactical Rotation ETF",
+      "name": "Adaptive Tactical Rotation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74043,6 +74079,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TRIL",
+      "name": "VegaShares Trillions ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TRIN",
       "name": "Trinity Capital Inc.",
       "market": "NYSE",
@@ -75687,6 +75729,12 @@
       "isEtf": false
     },
     {
+      "ticker": "UWMC.V",
+      "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "UX",
       "name": "Roundhill Uranium ETF",
       "market": "NYSE",
@@ -76897,6 +76945,12 @@
       "name": "Inverse VIX Short-Term Futures ETNs due March 22, 2045",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "VYLR",
+      "name": "Vylor Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "VYM",
@@ -78905,6 +78959,12 @@
     {
       "ticker": "XWNG",
       "name": "Amplify Top 10 Space ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XX",
+      "name": "Roundhill S&P 500 Target 10,000 2030 ETF",
       "market": "NYSE",
       "isEtf": true
     },
