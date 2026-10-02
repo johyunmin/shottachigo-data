@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-01T22:49:49.187Z",
-  "count": 13262,
+  "fetchedAt": "2026-10-02T22:26:45.233Z",
+  "count": 13258,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7089,24 +7089,6 @@
       "isEtf": false
     },
     {
-      "ticker": "COLA",
-      "name": "Columbus Acquisition Corp -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "COLAR",
-      "name": "Columbus Acquisition Corp - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "COLAU",
-      "name": "Columbus Acquisition Corp - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "COLB",
       "name": "Columbia Banking System, Inc.",
       "market": "NASDAQ",
@@ -11601,12 +11583,6 @@
       "isEtf": true
     },
     {
-      "ticker": "FSEA",
-      "name": "First Seacoast Bancorp, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "FSGS",
       "name": "First Trust SMID Growth Strength ETF",
       "market": "NASDAQ",
@@ -12425,12 +12401,6 @@
     {
       "ticker": "GFAI",
       "name": "Guardforce AI Co., Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GFAIW",
-      "name": "Guardforce AI Co., Limited - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21063,12 +21033,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NSTS",
-      "name": "NSTS Bancorp, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NSYS",
       "name": "Nortech Systems Incorporated",
       "market": "NASDAQ",
@@ -24400,7 +24364,7 @@
     },
     {
       "ticker": "PUSA",
-      "name": "Aureus Greenway Holdings Inc.",
+      "name": "Powerus Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26489,6 +26453,12 @@
     {
       "ticker": "SAIL",
       "name": "SailPoint, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SAIQ",
+      "name": "WISeSat.Space Holdings Corp. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29495,12 +29465,6 @@
     {
       "ticker": "THRM",
       "name": "Gentherm Inc",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "THRMV",
-      "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37725,6 +37689,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BCOM",
+      "name": "Rareview Bloomberg Commodity Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BCOR",
       "name": "Grayscale Bitcoin Adopters ETF",
       "market": "NYSE",
@@ -45263,6 +45233,12 @@
     {
       "ticker": "DX$C",
       "name": "Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "DX$D",
+      "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
@@ -60111,6 +60087,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MN",
+      "name": "Corgi MANGOS ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MNA",
       "name": "NYLIM Merger Arbitrage ETF",
       "market": "NYSE",
@@ -62387,6 +62369,18 @@
     {
       "ticker": "NSRX",
       "name": "Nasus Pharma Ltd.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "NSTR",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Common Shares",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "NSTR.W",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Warrants",
       "market": "NYSE",
       "isEtf": false
     },
@@ -75821,24 +75815,6 @@
     {
       "ticker": "VAC",
       "name": "Marriott Vacations Worldwide Corporation",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "VACI",
-      "name": "Viking Acquisition Corp. I",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "VACI.U",
-      "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "VACI.W",
-      "name": "Viking Acquisition Corp. I Warrants to purchase one",
       "market": "NYSE",
       "isEtf": false
     },

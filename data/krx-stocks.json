@@ -1,6 +1,6 @@
 {
-  "basDt": "20260930",
-  "fetchedAt": "2026-10-01T22:49:48.273Z",
+  "basDt": "20261001",
+  "fetchedAt": "2026-10-02T22:26:44.593Z",
   "count": 4562,
   "stocks": [
     {
@@ -8380,12 +8380,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "084180",
-      "name": "수성웹툰",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "084370",
       "name": "유진테크",
       "market": "KOSDAQ",
@@ -16590,6 +16584,12 @@
     {
       "ticker": "468530",
       "name": "프로티나",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "468670",
+      "name": "브릴스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
