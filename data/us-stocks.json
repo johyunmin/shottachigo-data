@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T00:14:16.114Z",
+  "fetchedAt": "2026-10-06T22:44:05.056Z",
   "count": 13252,
   "stocks": [
     {
@@ -7747,6 +7747,18 @@
       "name": "Global X ClimateTech ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "CTGG",
+      "name": "Qwest Corporation - 6.500% Notes due 2051",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CTHH",
+      "name": "Qwest Corporation - 6.750% Notes due 2052",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "CTKB",
@@ -17361,12 +17373,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LESL",
-      "name": "Leslie's, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LEXI",
       "name": "Alexis Practical Tactical ETF",
       "market": "NASDAQ",
@@ -18113,6 +18119,12 @@
     {
       "ticker": "LULU",
       "name": "lululemon athletica inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LUMN",
+      "name": "Lumen Technologies, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20637,12 +20649,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NHPBP",
-      "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NHTC",
       "name": "Natural Health Trends Corp.",
       "market": "NASDAQ",
@@ -22761,6 +22767,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PAXGU",
+      "name": "Pine Tree Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PAYO",
       "name": "Payoneer Global Inc.",
       "market": "NASDAQ",
@@ -24159,12 +24171,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PSKY",
-      "name": "Paramount Skydance Corporation - Class B",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PSL",
       "name": "Invesco Dorsey Wright Consumer Staples Momentum ETF",
       "market": "NASDAQ",
@@ -24907,12 +24913,6 @@
       "name": "Global X NASDAQ 100 Risk Managed Income ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "QRVO",
-      "name": "Qorvo, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "QS",
@@ -42747,20 +42747,8 @@
       "isEtf": true
     },
     {
-      "ticker": "CTGG",
-      "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CTGO",
       "name": "Contango Silver & Gold Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CTHH",
-      "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -51003,6 +50991,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GMAC",
+      "name": "Simplify Brookwood Global Macro ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GMAR",
       "name": "FT Vest U.S. Equity Moderate Buffer ETF - March",
       "market": "NYSE",
@@ -52379,6 +52373,12 @@
     {
       "ticker": "HFGO",
       "name": "Hartford Large Cap Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HFIX",
+      "name": "Nomura High Yield Total Return ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58555,12 +58555,6 @@
       "name": "KraneShares Photonic and Optical ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "LUMN",
-      "name": "Lumen Technologies, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "LUNC",
@@ -70317,6 +70311,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SKYD",
+      "name": "Skydance Corporation Class B",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SKYH",
       "name": "Sky Harbour Group Corporation Class A",
       "market": "NYSE",
@@ -74769,6 +74769,12 @@
       "isEtf": true
     },
     {
+      "ticker": "UBIQ",
+      "name": "AAM Ubiquitous ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "UBOT",
       "name": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF",
       "market": "NYSE",
@@ -75695,12 +75701,6 @@
     {
       "ticker": "UWMC",
       "name": "UWM Holdings Corporation Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "UWMC.V",
-      "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
       "market": "NYSE",
       "isEtf": false
     },
