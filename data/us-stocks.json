@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-04T21:46:09.408Z",
-  "count": 13258,
+  "fetchedAt": "2026-10-06T00:14:16.114Z",
+  "count": 13252,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -8691,12 +8691,6 @@
       "isEtf": false
     },
     {
-      "ticker": "DRCT",
-      "name": "Direct Digital Holdings, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "DRDB",
       "name": "Roman DBDR Acquisition Corp. II -",
       "market": "NASDAQ",
@@ -15639,8 +15633,20 @@
       "isEtf": false
     },
     {
+      "ticker": "IPHX",
+      "name": "Inflection Point Acquisition Corp. VIII -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "IPHXU",
       "name": "Inflection Point Acquisition Corp. VIII - Unit",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IPHXW",
+      "name": "Inflection Point Acquisition Corp. VIII - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26295,6 +26301,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RWAYM",
+      "name": "Runway Growth Finance Corp. - 7.75% Notes Due 2031",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "RWIN",
       "name": "Rayliant NxtGen Multifactor International Equity ETF",
       "market": "NASDAQ",
@@ -29061,8 +29073,20 @@
       "isEtf": false
     },
     {
+      "ticker": "TBCV",
+      "name": "Thunder Bridge Capital Partners V, Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TBCVU",
       "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "TBCVW",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32157,18 +32181,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WALD",
-      "name": "Waldencast plc -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "WALDW",
-      "name": "Waldencast plc - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WAMA",
       "name": "WisdomTree US Adaptive Moving Average Fund",
       "market": "NASDAQ",
@@ -32457,12 +32469,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WKEY",
-      "name": "WISeKey International Holding Ltd - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WKHS",
       "name": "Workhorse Group, Inc.",
       "market": "NASDAQ",
@@ -32585,6 +32591,12 @@
     {
       "ticker": "WPRT",
       "name": "Westport Fuel Systems Inc - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "WQEY",
+      "name": "WISeQey Corp -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34511,12 +34523,6 @@
     {
       "ticker": "AESR",
       "name": "Anfield U.S. Equity Sector Rotation ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "AETH",
-      "name": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -37593,8 +37599,8 @@
       "isEtf": false
     },
     {
-      "ticker": "BCAT.V",
-      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+      "ticker": "BCAT.R",
+      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43341,24 +43347,6 @@
       "isEtf": true
     },
     {
-      "ticker": "DBRG$H",
-      "name": "DigitalBridge Group, Inc. 7.125% Series H",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "DBRG$I",
-      "name": "DigitalBridge Group, Inc. 7.15% Series I",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "DBRG$J",
-      "name": "DigitalBridge Group, Inc. 7.125% Series J",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "DC",
       "name": "Dakota Gold Corp.",
       "market": "NYSE",
@@ -43816,7 +43804,7 @@
     },
     {
       "ticker": "DFAC",
-      "name": "Dimensional U.S. Core Equity 2 ETF",
+      "name": "U.S. Core Equity 2 Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -43846,13 +43834,13 @@
     },
     {
       "ticker": "DFAS",
-      "name": "Dimensional U.S. Small Cap ETF",
+      "name": "U.S. Small Cap Portfolio: ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "DFAT",
-      "name": "Dimensional U.S. Targeted Value ETF",
+      "name": "U.S. Targeted Value Portfolio ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -51909,12 +51897,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GWH",
-      "name": "ESS Tech, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GWRE",
       "name": "Guidewire Software, Inc.",
       "market": "NYSE",
@@ -54297,12 +54279,6 @@
       "isEtf": true
     },
     {
-      "ticker": "ILCB",
-      "name": "iShares Morningstar Large-Cap ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ILCG",
       "name": "iShares Morningstar Large-Cap Growth ETF",
       "market": "NYSE",
@@ -54941,12 +54917,6 @@
     {
       "ticker": "ISBG",
       "name": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ISCB",
-      "name": "iShares Morningstar Small-Cap ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59955,6 +59925,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MLRG",
+      "name": "iShares MSCI USA ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "MLSS",
       "name": "Milestone Scientific, Inc.",
       "market": "NYSE",
@@ -60577,6 +60553,12 @@
       "name": "MSC Industrial Direct Company, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MSML",
+      "name": "iShares MSCI USA Small-Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MSMR",
@@ -74583,12 +74565,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TWOD",
-      "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "TWOX",
       "name": "iShares Large Cap Accelerated Outcome ETF",
       "market": "NYSE",
@@ -76341,6 +76317,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VJET",
+      "name": "Flyte Aviation, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "VKI",
       "name": "Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)",
       "market": "NYSE",
@@ -76729,12 +76711,6 @@
       "name": "Vanguard Total World Stock Index ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "VTAK",
-      "name": "Catheter Precision, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "VTEB",
@@ -77915,12 +77891,6 @@
     {
       "ticker": "XBJL",
       "name": "Innovator U.S. Equity Accelerated 9 Buffer ETF - July",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "XBNB",
-      "name": "Teucrium xETFs 2x Long Daily BNB ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -79487,12 +79457,6 @@
     {
       "ticker": "ZSB",
       "name": "USCF Sustainable Battery Metals Strategy Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ZSC",
-      "name": "USCF Sustainable Commodity Strategy Fund",
       "market": "NYSE",
       "isEtf": true
     },
