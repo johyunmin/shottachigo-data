@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-06T22:44:05.056Z",
-  "count": 13252,
+  "fetchedAt": "2026-10-07T23:14:42.297Z",
+  "count": 13251,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2289,12 +2289,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ARBEW",
-      "name": "Arbe Robotics Ltd. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ARBK",
       "name": "Argo Blockchain plc - American Depositary Shares",
       "market": "NASDAQ",
@@ -3369,8 +3363,14 @@
       "isEtf": true
     },
     {
-      "ticker": "BBBYW",
-      "name": "Neighborhood Intelligence, Inc.  - Warrant",
+      "ticker": "BBCI",
+      "name": "Bradbury Capital Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BBCIW",
+      "name": "Bradbury Capital Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4181,12 +4181,6 @@
     {
       "ticker": "BLDP",
       "name": "Ballard Power Systems, Inc. - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BLFS",
-      "name": "BioLife Solutions, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15073,18 +15067,6 @@
       "name": "iShares Lithium Miners and Producers ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ILLR",
-      "name": "Triller Group Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ILLRW",
-      "name": "Triller Group Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "ILLU",
@@ -27519,12 +27501,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SLP",
-      "name": "Simulations Plus, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SLQD",
       "name": "iShares 0-5 Year Investment Grade Corporate Bond ETF",
       "market": "NASDAQ",
@@ -28069,24 +28045,6 @@
       "name": "F/m Emerald Special Situations ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "SPKL",
-      "name": "Spark I Acquisition Corp. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SPKLU",
-      "name": "Spark I Acquisition Corp. - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SPKLW",
-      "name": "Spark I Acquisition Corp. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "SPOG",
@@ -32229,12 +32187,6 @@
       "isEtf": false
     },
     {
-      "ticker": "WBD",
-      "name": "Warner Bros. Discovery, Inc. - Series A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "WBTN",
       "name": "WEBTOON Entertainment Inc.",
       "market": "NASDAQ",
@@ -32585,6 +32537,12 @@
     {
       "ticker": "WOOF",
       "name": "Petco Health and Wellness Company, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "WORX",
+      "name": "SCWorx Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34293,6 +34251,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ACYB",
+      "name": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ACYN",
       "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
       "market": "NYSE",
@@ -35650,7 +35614,7 @@
     },
     {
       "ticker": "AOCT",
-      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026",
+      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028",
       "market": "NYSE",
       "isEtf": true
     },
@@ -42325,6 +42289,12 @@
       "name": "Camden Property Trust",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CPU",
+      "name": "Amplify Top 10 Semiconductors ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CPXR",
@@ -61953,12 +61923,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NMCO.R",
-      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NMG",
       "name": "Nouveau Monde Graphite Inc. Common Shares",
       "market": "NYSE",
@@ -62951,6 +62915,12 @@
     {
       "ticker": "OAKI",
       "name": "Oakmark International Large Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OAKL",
+      "name": "Oakmark U.S. Concentrated ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67713,6 +67683,12 @@
       "isEtf": true
     },
     {
+      "ticker": "RINK",
+      "name": "Russell Investments Multisector Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RIO",
       "name": "Rio Tinto Plc",
       "market": "NYSE",
@@ -70425,6 +70401,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SLVI",
+      "name": "NEOS Silver High Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SLVM",
       "name": "Sylvamo Corporation",
       "market": "NYSE",
@@ -70715,6 +70697,12 @@
     {
       "ticker": "SMTH",
       "name": "ALPS Smith Core Plus Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SMTJ",
+      "name": "Synera Funds Takumi+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71513,6 +71501,12 @@
     {
       "ticker": "SPXN",
       "name": "ProShares S&P 500 Ex-Financials ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SPXP",
+      "name": "Direxion U.S. 500 Plus ETF",
       "market": "NYSE",
       "isEtf": true
     },
