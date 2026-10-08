@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-07T23:14:42.297Z",
-  "count": 13251,
+  "fetchedAt": "2026-10-08T23:30:07.705Z",
+  "count": 13256,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -26595,8 +26595,26 @@
       "isEtf": false
     },
     {
+      "ticker": "SCAT",
+      "name": "Southern Cross Acquisition II Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCATR",
+      "name": "Southern Cross Acquisition II Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SCATU",
       "name": "Southern Cross Acquisition II Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCATW",
+      "name": "Southern Cross Acquisition II Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29077,18 +29095,6 @@
       "name": "21Shares Canton Network ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "TCBI",
-      "name": "Texas Capital Bancshares, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "TCBIO",
-      "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "TCBK",
@@ -72633,6 +72639,18 @@
       "isEtf": true
     },
     {
+      "ticker": "TCBI",
+      "name": "Texas Capital Bancshares, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TCBI$B",
+      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "TCBX",
       "name": "Third Coast Bancshares, Inc.",
       "market": "NYSE",
@@ -77607,6 +77625,12 @@
       "isEtf": true
     },
     {
+      "ticker": "WSLS",
+      "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WSM",
       "name": "Williams-Sonoma, Inc. Common Stock (DE)",
       "market": "NYSE",
@@ -77645,6 +77669,12 @@
     {
       "ticker": "WTAI",
       "name": "WisdomTree Artificial Intelligence and Innovation Fund",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "WTAL",
+      "name": "WisdomTree Global Alpha Fund",
       "market": "NYSE",
       "isEtf": true
     },

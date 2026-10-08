@@ -1,6 +1,6 @@
 {
-  "basDt": "20261006",
-  "fetchedAt": "2026-10-07T23:14:41.441Z",
+  "basDt": "20261007",
+  "fetchedAt": "2026-10-08T23:30:06.759Z",
   "count": 4562,
   "stocks": [
     {
@@ -11476,12 +11476,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "196490",
-      "name": "디에이테크놀로지",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "196700",
       "name": "웹스",
       "market": "KOSDAQ",
@@ -19110,6 +19104,12 @@
     {
       "ticker": "0242S0",
       "name": "파워 SK그룹",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0246X0",
+      "name": "SOL 글로벌DRAM반도체플러스",
       "market": "KOSPI",
       "kind": "etf"
     },
