@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-08T23:30:07.705Z",
-  "count": 13256,
+  "fetchedAt": "2026-10-09T22:47:56.478Z",
+  "count": 13260,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1195,6 +1195,12 @@
       "name": "Defiance Inference AI Chip ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "AIOK",
+      "name": "AI OKTO CORP.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "AIOS",
@@ -3557,6 +3563,12 @@
     {
       "ticker": "BCYC",
       "name": "Bicycle Therapeutics plc - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BDAI",
+      "name": "Biddance AI Systems, Inc. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8686,7 +8698,7 @@
     },
     {
       "ticker": "DPU",
-      "name": "Top KingWin Ltd -",
+      "name": "Nexpu Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13887,12 +13899,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HKIT",
-      "name": "Hitek Global Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HKPD",
       "name": "Cellyan Biotechnology Co., Ltd  -",
       "market": "NASDAQ",
@@ -18285,12 +18291,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MAMK",
-      "name": "MaxsMaking Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MAMO",
       "name": "Massimo Group",
       "market": "NASDAQ",
@@ -21293,18 +21293,6 @@
     {
       "ticker": "NVMI",
       "name": "Nova Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NVNI",
-      "name": "Nvni Group Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NVNIW",
-      "name": "Nvni Group Limited - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26169,6 +26157,12 @@
       "isEtf": true
     },
     {
+      "ticker": "RTSN",
+      "name": "Retension Pharmaceuticals, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "RTXG",
       "name": "Leverage Shares 2X Long RTX Daily ETF",
       "market": "NASDAQ",
@@ -30167,6 +30161,12 @@
     {
       "ticker": "TRVI",
       "name": "Trevi Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "TRXB",
+      "name": "TRex Bio, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -59626,7 +59626,7 @@
     },
     {
       "ticker": "MID",
-      "name": "American Century Mid Cap Growth Impact ETF",
+      "name": "American Century Mid Cap Growth Insights ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63515,6 +63515,12 @@
     {
       "ticker": "OPPG",
       "name": "WisdomTree GeoAlpha Opportunities Fund",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "OPTO",
+      "name": "Tuttle Capital Photonics Income Blast ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -76185,6 +76191,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VGTX",
+      "name": "XFUNDS Technology Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VGVT",
       "name": "Vanguard Government Securities Active ETF",
       "market": "NYSE",
@@ -78945,8 +78957,20 @@
       "isEtf": false
     },
     {
+      "ticker": "XXQQ",
+      "name": "Subversive Growth 100 Redacted ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XXRP",
       "name": "Teucrium 2x Long Daily XRP ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XXSP",
+      "name": "Subversive S&P 500 Redacted ETF",
       "market": "NYSE",
       "isEtf": true
     },
