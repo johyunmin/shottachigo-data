@@ -1,7 +1,7 @@
 {
-  "basDt": "20261007",
-  "fetchedAt": "2026-10-11T22:16:52.544Z",
-  "count": 4562,
+  "basDt": "20261012",
+  "fetchedAt": "2026-10-13T23:00:03.590Z",
+  "count": 4559,
   "stocks": [
     {
       "ticker": "900110",
@@ -1812,12 +1812,6 @@
     {
       "ticker": "005010",
       "name": "휴스틸",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "005030",
-      "name": "부산주공",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -8015,7 +8009,7 @@
     },
     {
       "ticker": "078130",
-      "name": "국일제지",
+      "name": "에스엠국일",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -10439,7 +10433,7 @@
     },
     {
       "ticker": "134580",
-      "name": "탑코미디어",
+      "name": "엔키AX",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -11795,7 +11789,7 @@
     },
     {
       "ticker": "210120",
-      "name": "캔버스엔",
+      "name": "빅텐츠",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16624,12 +16618,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "472230",
-      "name": "에스케이증권제11호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "472850",
       "name": "폰드그룹",
       "market": "KOSDAQ",
@@ -16638,12 +16626,6 @@
     {
       "ticker": "473000",
       "name": "에스케이증권제12호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "473050",
-      "name": "유안타제15호스팩",
       "market": "KOSDAQ",
       "kind": "stock"
     },

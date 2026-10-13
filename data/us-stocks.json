@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-11T22:16:53.472Z",
-  "count": 13260,
+  "fetchedAt": "2026-10-13T23:00:04.683Z",
+  "count": 13248,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3165,6 +3165,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AXNX",
+      "name": "Axonex AI Group Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AXON",
       "name": "Axon Enterprise, Inc.",
       "market": "NASDAQ",
@@ -3407,12 +3413,6 @@
     {
       "ticker": "BBLG",
       "name": "Bone Biologics Corp",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BBLGW",
-      "name": "Bone Biologics Corp - warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13059,12 +13059,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GREEL",
-      "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GRFS",
       "name": "Grifols, S.A. - American Depositary Shares",
       "market": "NASDAQ",
@@ -15815,6 +15809,12 @@
     {
       "ticker": "IRIX",
       "name": "IRIDEX Corporation",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "IRLA",
+      "name": "IRulya Therapeutics Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -19003,12 +19003,6 @@
       "name": "Global X Millennial Consumer ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "MIMI",
-      "name": "Mint Incorporation Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "MIND",
@@ -24663,12 +24657,6 @@
       "isEtf": false
     },
     {
-      "ticker": "QNCX",
-      "name": "Quince Therapeutics, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "QNDX",
       "name": "State Street SPDR Portfolio Nasdaq 100 ETF",
       "market": "NASDAQ",
@@ -25949,6 +25937,12 @@
     {
       "ticker": "RNTX",
       "name": "Rein Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "RNTZ",
+      "name": "Rantizo -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27335,12 +27329,6 @@
     {
       "ticker": "SKIN",
       "name": "SkinHealth Systems Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SKK",
-      "name": "SKK Holdings Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30699,12 +30687,6 @@
       "isEtf": false
     },
     {
-      "ticker": "UCYB",
-      "name": "ProShares Ultra Nasdaq Cybersecurity",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "UECG",
       "name": "Leverage Shares 2x Long UEC Daily ETF",
       "market": "NASDAQ",
@@ -32140,7 +32122,7 @@
     },
     {
       "ticker": "WAFU",
-      "name": "Wah Fu Education Group Limited -",
+      "name": "Wah Fu Education & Technology Group Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33118,19 +33100,13 @@
     },
     {
       "ticker": "XRPN",
-      "name": "Armada Acquisition Corp. II -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "XRPNU",
-      "name": "Armada Acquisition Corp. II - Units",
+      "name": "Evernorth Holdings Inc. -",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "XRPNW",
-      "name": "Armada Acquisition Corp. II - Warrant",
+      "name": "Evernorth Holdings Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34129,6 +34105,12 @@
       "name": "AECOM",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ACMG",
+      "name": "American Century Mid Cap Growth Insights ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ACMM",
@@ -35569,12 +35551,6 @@
       "name": "Arista Networks, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "ANEW",
-      "name": "ProShares MSCI Transformational Changes ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "ANF",
@@ -41367,12 +41343,6 @@
       "isEtf": true
     },
     {
-      "ticker": "CLIX",
-      "name": "ProShares Long Online/Short Stores ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "CLM",
       "name": "Cornerstone Strategic Investment Fund, Inc. Common Shares",
       "market": "NYSE",
@@ -42717,12 +42687,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CTEX",
-      "name": "ProShares S&P Kensho Cleantech ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "CTGO",
       "name": "Contango Silver & Gold Inc.",
       "market": "NYSE",
@@ -43175,12 +43139,6 @@
     {
       "ticker": "DARP",
       "name": "Grizzle Growth ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "DAT",
-      "name": "ProShares Big Data Refiners ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58767,12 +58725,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MAKX",
-      "name": "ProShares S&P Kensho Smart Factories ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "MAMB",
       "name": "Monarch Ambassador Income Index ETF",
       "market": "NYSE",
@@ -59623,12 +59575,6 @@
       "name": "The Magnum Ice Cream Company N.V.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "MID",
-      "name": "American Century Mid Cap Growth Insights ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "MIDE",
@@ -63323,12 +63269,6 @@
     {
       "ticker": "OMFS",
       "name": "Invesco Russell 2000 Dynamic Multifactor ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "OND",
-      "name": "ProShares On-Demand ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70305,6 +70245,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SKYD.V",
+      "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SKYH",
       "name": "Sky Harbour Group Corporation Class A",
       "market": "NYSE",
@@ -72189,12 +72135,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SUPL",
-      "name": "ProShares Supply Chain Logistics ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SUPV",
       "name": "Grupo Supervielle S.A. American Depositary Shares each Representing five",
       "market": "NYSE",
@@ -73319,12 +73259,6 @@
     {
       "ticker": "TINS",
       "name": "Templeton International Insights ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TINT",
-      "name": "ProShares Smart Materials ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -76063,12 +75997,6 @@
       "name": "Venu Holding Corporation",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "VERS",
-      "name": "ProShares Metaverse ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "VET",
