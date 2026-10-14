@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-13T23:00:04.683Z",
-  "count": 13248,
+  "fetchedAt": "2026-10-14T21:52:13.248Z",
+  "count": 13250,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -391,6 +391,12 @@
       "name": "Acadia Healthcare Company, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ACHP",
+      "name": "Global X Asia Semiconductor ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ACHV",
@@ -8307,6 +8313,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DFGV",
+      "name": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "DFGX",
       "name": "Dimensional International Core Fixed Income ETF",
       "market": "NASDAQ",
@@ -9619,12 +9631,6 @@
       "name": "Empery Digital Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "EMSC",
-      "name": "Sophus Capital Emerging Market Small Cap ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "EMXC",
@@ -11165,6 +11171,12 @@
     {
       "ticker": "FLNT",
       "name": "Fluent, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FLSC",
+      "name": "Frazier Life Sciences Acquisition Corp. II -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18933,6 +18945,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MGOL",
+      "name": "Leverage Shares MANGOS ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "MGPI",
       "name": "MGP Ingredients, Inc.",
       "market": "NASDAQ",
@@ -21399,6 +21417,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NXDR",
+      "name": "Nextdoor Holdings, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "NXGL",
       "name": "NexGel, Inc",
       "market": "NASDAQ",
@@ -23109,6 +23133,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PEPT",
+      "name": "REX Peptide ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "PERI",
       "name": "Perion Network Ltd -",
       "market": "NASDAQ",
@@ -24565,24 +24595,6 @@
       "name": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "QETA",
-      "name": "Quetta Acquisition Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "QETAR",
-      "name": "Quetta Acquisition Corporation - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "QETAU",
-      "name": "Quetta Acquisition Corporation - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "QEW",
@@ -26147,6 +26159,12 @@
     {
       "ticker": "RTH",
       "name": "VanEck Retail ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "RTHY",
+      "name": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -38589,12 +38607,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BKKT.W",
-      "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "BKLC",
       "name": "BNY Mellon US Large Cap Core Equity ETF",
       "market": "NYSE",
@@ -39439,6 +39451,12 @@
       "name": "Beacon Unified Catalyst ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "BSRT",
+      "name": "BSR Real Estate Investment Trust Units",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "BST",
@@ -40499,12 +40517,6 @@
     {
       "ticker": "CCM",
       "name": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCO",
-      "name": "Clear Channel Outdoor Holdings, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -53223,12 +53235,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IAE",
-      "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "IAF",
       "name": "abrdn Australia Equity Fund, Inc.",
       "market": "NYSE",
@@ -54067,12 +54073,6 @@
       "name": "iShares Cybersecurity and Tech ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "IHD",
-      "name": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "IHDG",
@@ -57568,7 +57568,7 @@
     },
     {
       "ticker": "LB",
-      "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
+      "name": "LandBridge Corporation Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -62697,12 +62697,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NXDR",
-      "name": "Nextdoor Holdings, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "NXDT",
       "name": "NexPoint Diversified Real Estate Trust",
       "market": "NYSE",
@@ -65579,12 +65573,6 @@
     {
       "ticker": "PRIF$K",
       "name": "Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "PRIF$L",
-      "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",
       "market": "NYSE",
       "isEtf": false
     },
@@ -70245,8 +70233,8 @@
       "isEtf": false
     },
     {
-      "ticker": "SKYD.V",
-      "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+      "ticker": "SKYD.W",
+      "name": "Skydance Corporation Warrants to Purchase Class B",
       "market": "NYSE",
       "isEtf": false
     },
@@ -78195,6 +78183,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLEM",
+      "name": "State Street S&P 500 Energy Market Sector SPDR ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLEX",
       "name": "Corgi U.S. Energy 2x Daily ETF",
       "market": "NYSE",
@@ -78255,6 +78249,12 @@
       "isEtf": true
     },
     {
+      "ticker": "XLKM",
+      "name": "State Street S&P 500 Technology Market Sector SPDR ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "XLKX",
       "name": "Corgi U.S. Technology 2x Daily ETF",
       "market": "NYSE",
@@ -78269,6 +78269,12 @@
     {
       "ticker": "XLPD",
       "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLPM",
+      "name": "State Street S&P 500 Consumer Staples Market Sector SPDR ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -78353,6 +78359,12 @@
     {
       "ticker": "XLYI",
       "name": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XLYM",
+      "name": "State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF",
       "market": "NYSE",
       "isEtf": true
     },

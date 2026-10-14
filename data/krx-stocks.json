@@ -1,7 +1,7 @@
 {
-  "basDt": "20261012",
-  "fetchedAt": "2026-10-13T23:00:03.590Z",
-  "count": 4559,
+  "basDt": "20261013",
+  "fetchedAt": "2026-10-14T21:52:12.570Z",
+  "count": 4563,
   "stocks": [
     {
       "ticker": "900110",
@@ -16606,12 +16606,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "469900",
-      "name": "하나31호스팩",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "471820",
       "name": "셀로맥스사이언스",
       "market": "KOSDAQ",
@@ -19078,6 +19072,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0241D0",
+      "name": "KODEX 미국AI에이전트액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0241R0",
       "name": "TIGER 현대차LG전자고정피지컬AI밸류체인",
       "market": "KOSPI",
@@ -19090,8 +19090,26 @@
       "kind": "etf"
     },
     {
+      "ticker": "0243M0",
+      "name": "DS AI반도체액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0246X0",
       "name": "SOL 글로벌DRAM반도체플러스",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0247S0",
+      "name": "KIWOOM 글로벌MLCC&AI기판TOP4+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0254W0",
+      "name": "ACE 29-11 회사채(AA-이상)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -26304,6 +26322,12 @@
     {
       "ticker": "700036",
       "name": "하나 인버스 2X 반도체 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "700037",
+      "name": "하나 미국S&P500 TR ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
