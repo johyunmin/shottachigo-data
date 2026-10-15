@@ -1,7 +1,7 @@
 {
-  "basDt": "20261013",
-  "fetchedAt": "2026-10-14T21:52:12.570Z",
-  "count": 4563,
+  "basDt": "20261014",
+  "fetchedAt": "2026-10-15T21:37:35.970Z",
+  "count": 4562,
   "stocks": [
     {
       "ticker": "900110",
@@ -14599,12 +14599,6 @@
       "ticker": "340930",
       "name": "성원에너텍",
       "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "341170",
-      "name": "퓨쳐메디신",
-      "market": "KONEX",
       "kind": "stock"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-14T21:52:13.248Z",
-  "count": 13250,
+  "fetchedAt": "2026-10-15T21:37:36.686Z",
+  "count": 13255,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1847,6 +1847,12 @@
     {
       "ticker": "AMRN",
       "name": "Amarin Corporation plc - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AMRO",
+      "name": "Amaero Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4355,6 +4361,12 @@
     {
       "ticker": "BMM",
       "name": "Blue Moon Metals Inc. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BMMX",
+      "name": "Black Mammoth Metals Corporation - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -14575,6 +14587,12 @@
       "name": "iShares Systematic Alternatives Active ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "IAM",
+      "name": "Iambic Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "IART",
@@ -36249,12 +36267,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ASGI.R",
-      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "ASGM",
       "name": "Virtus AlphaSimplex Global Macro ETF",
       "market": "NYSE",
@@ -36841,6 +36853,12 @@
       "name": "Avantor, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "AVUC",
+      "name": "Avantis U.S. Core Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "AVUS",
@@ -39889,12 +39907,6 @@
       "name": "Betterware de Mexico, S.A.P.I. de C.V.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "BWOW",
-      "name": "Bitwise Dogecoin ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "BWQG",
@@ -50001,6 +50013,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GANZ",
+      "name": "Tuttle Capital Thematic ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GAP",
       "name": "Gap, Inc. (The)",
       "market": "NYSE",
@@ -53134,7 +53152,7 @@
     },
     {
       "ticker": "HYGW",
-      "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF",
+      "name": "iShares HYG Premium Income+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55162,7 +55180,7 @@
     },
     {
       "ticker": "IVVW",
-      "name": "iShares S&P 500 BuyWrite ETF",
+      "name": "iShares IVV Premium Income+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55234,7 +55252,7 @@
     },
     {
       "ticker": "IWMW",
-      "name": "iShares Russell 2000 BuyWrite ETF",
+      "name": "iShares IWM Premium Income+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58300,7 +58318,7 @@
     },
     {
       "ticker": "LQDW",
-      "name": "iShares Investment Grade Corporate Bond BuyWrite Strategy ETF",
+      "name": "iShares LQD Premium Income+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70635,6 +70653,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SMRZ",
+      "name": "Global X Small Modular Reactor ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SMTG",
       "name": "Leverage Shares 2X Long SMTC Daily ETF",
       "market": "NYSE",
@@ -70811,12 +70835,6 @@
     {
       "ticker": "SNUS$H",
       "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "SNUS$I",
-      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
       "market": "NYSE",
       "isEtf": false
     },
@@ -73450,7 +73468,7 @@
     },
     {
       "ticker": "TLTW",
-      "name": "iShares 20+ Year Treasury Bond BuyWrite Strategy ETF",
+      "name": "iShares TLT Premium Income+ ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -76923,10 +76941,22 @@
       "isEtf": true
     },
     {
+      "ticker": "WBEM",
+      "name": "William Blair Emerging Markets Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WBI",
       "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "WBIE",
+      "name": "William Blair International Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "WBIF",
