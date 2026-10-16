@@ -1,6 +1,6 @@
 {
-  "basDt": "20261014",
-  "fetchedAt": "2026-10-15T21:37:35.970Z",
+  "basDt": "20261015",
+  "fetchedAt": "2026-10-16T21:31:04.070Z",
   "count": 4562,
   "stocks": [
     {
@@ -1824,12 +1824,6 @@
     {
       "ticker": "005090",
       "name": "SGC에너지",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "005110",
-      "name": "한창",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -11146,6 +11140,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "179880",
+      "name": "멜콘",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "179900",
       "name": "유티아이",
       "market": "KOSDAQ",
@@ -12762,7 +12762,7 @@
     {
       "ticker": "250030",
       "name": "진코스텍",
-      "market": "KONEX",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {

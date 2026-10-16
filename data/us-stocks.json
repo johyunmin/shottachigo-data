@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-15T21:37:36.686Z",
-  "count": 13255,
+  "fetchedAt": "2026-10-16T21:31:05.124Z",
+  "count": 13271,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7847,6 +7847,12 @@
     {
       "ticker": "CTXR",
       "name": "Citius Pharmaceuticals, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CTY",
+      "name": "City Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29175,6 +29181,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TCXB",
+      "name": "TCGX Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "TDAC",
       "name": "Translational Development Acquisition Corp. -",
       "market": "NASDAQ",
@@ -33771,6 +33783,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AAAB",
+      "name": "Corgi FTSE Aaa-A Intermediate Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AAAC",
       "name": "Columbia AAA CLO ETF",
       "market": "NYSE",
@@ -34425,12 +34443,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AELV",
-      "name": "Harbor AlphaEdge Large Cap Value ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "AEM",
       "name": "Agnico Eagle Mines Limited",
       "market": "NYSE",
@@ -34637,6 +34649,12 @@
     {
       "ticker": "AGG",
       "name": "iShares Core U.S. Aggregate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AGGB",
+      "name": "Corgi FTSE U.S. Aggregate Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -35593,6 +35611,12 @@
       "name": "Abercrombie & Fitch Company",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ANG",
+      "name": "Corgi FTSE Fallen Angels Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ANG$D",
@@ -37361,6 +37385,12 @@
     {
       "ticker": "BBAX",
       "name": "JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "BBBB",
+      "name": "Corgi FTSE BBB Rated Corporate Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49647,6 +49677,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FTN",
+      "name": "Corgi FTSE 5-10 Year IG Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FTNJ",
       "name": "Franklin New Jersey Municipal Income ETF",
       "market": "NYSE",
@@ -50123,6 +50159,12 @@
     {
       "ticker": "GCAL",
       "name": "Goldman Sachs Dynamic California Municipal Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "GCB",
+      "name": "Corgi FTSE Intermediate Government/Credit Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -52425,6 +52467,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HH",
+      "name": "Corgi FTSE High Yield Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "HHH",
       "name": "Howard Hughes Holdings Inc.",
       "market": "NYSE",
@@ -52657,6 +52705,12 @@
       "name": "Harley-Davidson, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "HOID",
+      "name": "Tuttle - Rareview Humanoid Robotics ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "HOLA",
@@ -53457,12 +53511,6 @@
       "isEtf": true
     },
     {
-      "ticker": "IBIC",
-      "name": "iShares iBonds Oct 2026 Term TIPS ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "IBID",
       "name": "iShares iBonds Oct 2027 Term TIPS ETF",
       "market": "NYSE",
@@ -53983,6 +54031,12 @@
       "name": "Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "IGB",
+      "name": "Corgi FTSE U.S. IG Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "IGBH",
@@ -57969,6 +58023,12 @@
       "isEtf": true
     },
     {
+      "ticker": "LIGB",
+      "name": "Corgi FTSE 10 Year IG Corporate Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LII",
       "name": "Lennox International, Inc.",
       "market": "NYSE",
@@ -58445,6 +58505,12 @@
     {
       "ticker": "LTAX",
       "name": "Nomura Tax-Free USA ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LTB",
+      "name": "Corgi FTSE 20 Year U.S. Treasury Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59905,6 +59971,12 @@
       "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MMF",
+      "name": "Corgi Money Market ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MMHI",
@@ -72195,6 +72267,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SVTN",
+      "name": "Corgi FTSE 7-10 Year U.S. Treasury Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SVV",
       "name": "Savers Value Village, Inc.",
       "market": "NYSE",
@@ -73653,6 +73731,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TNTW",
+      "name": "Corgi FTSE 10-20 Year U.S. Treasury Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TNUK",
       "name": "Tortoise Nuclear Renaissance ETF",
       "market": "NYSE",
@@ -74433,6 +74517,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TTTT",
+      "name": "Corgi FTSE U.S. TIPS Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TTXD",
       "name": "Direxion Daily Technology Top 5 Bear 2X ETF",
       "market": "NYSE",
@@ -74713,6 +74803,12 @@
       "name": "AgEagle Aerial Systems, Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "UB",
+      "name": "Corgi FTSE U.S. Treasury Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "UBER",
