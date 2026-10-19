@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-18T20:57:28.921Z",
-  "count": 13271,
+  "fetchedAt": "2026-10-19T22:33:09.550Z",
+  "count": 13269,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -6081,12 +6081,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CECO",
-      "name": "CECO Environmental Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CEFA",
       "name": "Global X S&P Catholic Values Developed ex-U.S. ETF",
       "market": "NASDAQ",
@@ -9382,7 +9376,7 @@
     },
     {
       "ticker": "EFTY",
-      "name": "Etoiles Capital Group Co., Ltd. -",
+      "name": "Etoiles Capital Group Co., Ltd.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13887,6 +13881,12 @@
       "isEtf": true
     },
     {
+      "ticker": "HINC",
+      "name": "Hartford High Yield ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HIND",
       "name": "Vyome Holdings, Inc.",
       "market": "NASDAQ",
@@ -14705,12 +14705,6 @@
     {
       "ticker": "IBKR",
       "name": "Interactive Brokers Group, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IBOC",
-      "name": "International Bancshares Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17313,6 +17307,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LCU",
+      "name": "Lion Copper Corp. - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LCUT",
       "name": "Lifetime Brands, Inc.",
       "market": "NASDAQ",
@@ -18007,12 +18007,6 @@
       "name": "ClearBridge Large Cap Growth Select ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "LRHC",
-      "name": "La Rosa Holdings Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "LRMR",
@@ -19217,12 +19211,6 @@
     {
       "ticker": "MMED",
       "name": "MiniMed Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MMEDV",
-      "name": "MiniMed Group, Inc. - Common Stock When Issued",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20662,7 +20650,7 @@
     },
     {
       "ticker": "NHP",
-      "name": "National Healthcare Properties, Inc. - Class A",
+      "name": "National Healthcare Properties, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24567,12 +24555,6 @@
       "isEtf": true
     },
     {
-      "ticker": "QCLR",
-      "name": "Global X NASDAQ 100 Collar 95-110 ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "QCLS",
       "name": "Q/C Technologies, Inc.",
       "market": "NASDAQ",
@@ -26853,12 +26835,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SEATW",
-      "name": "Vivid Seats Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SEDG",
       "name": "SolarEdge Technologies, Inc.",
       "market": "NASDAQ",
@@ -28259,6 +28235,12 @@
     {
       "ticker": "SRTA",
       "name": "Strata Critical Medical, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SRTM",
+      "name": "Stratum Holdings Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -34131,6 +34113,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ACIV",
+      "name": "Hartford Alpha Capture International Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ACKY",
       "name": "VistaShares Target 15 ACKtivist Distribution ETF",
       "market": "NYSE",
@@ -34259,12 +34247,6 @@
     {
       "ticker": "ACV",
       "name": "Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "ACVA",
-      "name": "ACV Auctions Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -34923,6 +34905,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AIED",
+      "name": "Defiance LLM Catalyst Momentum ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "AIEQ",
       "name": "Amplify AI Powered Equity ETF",
       "market": "NYSE",
@@ -35451,12 +35439,6 @@
       "isEtf": false
     },
     {
-      "ticker": "AMOM",
-      "name": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "AMP",
       "name": "Ameriprise Financial, Inc.",
       "market": "NYSE",
@@ -35524,7 +35506,7 @@
     },
     {
       "ticker": "AMTD",
-      "name": "AMTD IDEA Group American Depositary Shares, each representing six (6)",
+      "name": "AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -36491,12 +36473,6 @@
     {
       "ticker": "ATI",
       "name": "ATI Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "ATKR",
-      "name": "Atkore Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -39639,12 +39615,6 @@
       "isEtf": true
     },
     {
-      "ticker": "BTRN",
-      "name": "Global X Bitcoin Trend Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "BTT",
       "name": "BlackRock Municipal 2030 Target Term Trust",
       "market": "NYSE",
@@ -40673,6 +40643,12 @@
     {
       "ticker": "CE",
       "name": "Celanese Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "CECO",
+      "name": "CECO Environmental Corp.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43349,6 +43325,12 @@
     {
       "ticker": "DCI",
       "name": "Donaldson Company, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "DCM",
+      "name": "DeFi Capital Markets, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -53661,6 +53643,12 @@
       "isEtf": false
     },
     {
+      "ticker": "IBOC",
+      "name": "International Bancshares Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "IBP",
       "name": "Installed Building Products, Inc.",
       "market": "NYSE",
@@ -54911,12 +54899,6 @@
     {
       "ticker": "IRTR",
       "name": "iShares LifePath Retirement ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "IRVH",
-      "name": "Global X Interest Rate Volatility & Inflation Hedge ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69693,6 +69675,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SEQ",
+      "name": "Sequoia ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SER",
       "name": "Serina Therapeutics, Inc.",
       "market": "NYSE",
@@ -71651,6 +71639,12 @@
     {
       "ticker": "SQBA",
       "name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SQBR",
+      "name": "FT Vest U.S. Equity Quarterly 20 Barrier ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75705,12 +75699,6 @@
       "isEtf": true
     },
     {
-      "ticker": "UUU",
-      "name": "Universal Safety Products, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "UUUC",
       "name": "Corgi UUUU 2x Daily ETF",
       "market": "NYSE",
@@ -77427,6 +77415,12 @@
       "isEtf": false
     },
     {
+      "ticker": "WINC",
+      "name": "William Blair Emerging Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "WINN",
       "name": "Harbor Long-Term Growers ETF",
       "market": "NYSE",
@@ -78005,12 +77999,6 @@
     {
       "ticker": "XCHG",
       "name": "AB US Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "XCLR",
-      "name": "Global X S&P 500 Collar 95-110 ETF",
       "market": "NYSE",
       "isEtf": true
     },

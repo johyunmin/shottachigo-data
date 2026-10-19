@@ -1,6 +1,6 @@
 {
-  "basDt": "20261015",
-  "fetchedAt": "2026-10-18T20:57:27.975Z",
+  "basDt": "20261016",
+  "fetchedAt": "2026-10-19T22:33:08.681Z",
   "count": 4562,
   "stocks": [
     {
@@ -299,7 +299,7 @@
     },
     {
       "ticker": "000640",
-      "name": "동아쏘시오홀딩스",
+      "name": "동아제약",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -497,7 +497,7 @@
     },
     {
       "ticker": "001080",
-      "name": "만호제강",
+      "name": "MH머트리얼즈",
       "market": "KOSPI",
       "kind": "stock"
     },
