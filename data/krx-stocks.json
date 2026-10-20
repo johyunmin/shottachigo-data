@@ -1,7 +1,7 @@
 {
-  "basDt": "20261016",
-  "fetchedAt": "2026-10-19T22:33:08.681Z",
-  "count": 4562,
+  "basDt": "20261019",
+  "fetchedAt": "2026-10-20T21:47:15.108Z",
+  "count": 4561,
   "stocks": [
     {
       "ticker": "900110",
@@ -4642,12 +4642,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "028080",
-      "name": "휴맥스홀딩스",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "028100",
       "name": "동아지질",
       "market": "KOSPI",
@@ -8813,7 +8807,7 @@
     },
     {
       "ticker": "091340",
-      "name": "S&K폴리텍",
+      "name": "S&K글로벌",
       "market": "KOSDAQ",
       "kind": "stock"
     },

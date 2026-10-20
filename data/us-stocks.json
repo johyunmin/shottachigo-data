@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T22:33:09.550Z",
-  "count": 13269,
+  "fetchedAt": "2026-10-20T21:47:16.092Z",
+  "count": 13256,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1365,12 +1365,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ALBG",
-      "name": "Leverage Shares 2X Long ALB Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "ALCO",
       "name": "Alico, Inc.",
       "market": "NASDAQ",
@@ -2681,12 +2675,6 @@
     {
       "ticker": "ASTL",
       "name": "Algoma Steel Group Inc. - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ASTLW",
-      "name": "Algoma Steel Group Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -4273,12 +4261,6 @@
       "name": "BioLineRx Ltd. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "BLSG",
-      "name": "Leverage Shares 2X Long BLSH Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "BLSM",
@@ -7515,12 +7497,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CRMU",
-      "name": "Leverage Shares 2x Long CRML Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "CRNC",
       "name": "Cerence Inc.",
       "market": "NASDAQ",
@@ -10611,12 +10587,6 @@
       "isEtf": true
     },
     {
-      "ticker": "FCXG",
-      "name": "Leverage Shares 2x Long FCX Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "FDBC",
       "name": "Fidelity D & D Bancorp, Inc.",
       "market": "NASDAQ",
@@ -12351,12 +12321,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GEMG",
-      "name": "Leverage Shares 2X Long GEMI Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "GEMI",
       "name": "Gemini Space Station, Inc. - Class A",
       "market": "NASDAQ",
@@ -12691,12 +12655,6 @@
       "name": "Global Engine Group Holding Limited -",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "GLGG",
-      "name": "Leverage Shares 2X Long GLXY Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "GLIBA",
@@ -19755,6 +19713,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MTGG",
+      "name": "MayTech Global Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "MTLS",
       "name": "Materialise NV - American Depositary Shares",
       "market": "NASDAQ",
@@ -20431,12 +20395,6 @@
       "name": "Newegg Commerce, Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "NEMG",
-      "name": "Leverage Shares 2x Long NEM Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "NEO",
@@ -21199,12 +21157,6 @@
       "name": "Eagle Nuclear Energy Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "NUG",
-      "name": "Leverage Shares 2X Long NU Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "NUGY",
@@ -22107,12 +22059,6 @@
       "isEtf": false
     },
     {
-      "ticker": "OPEG",
-      "name": "Leverage Shares 2X Long OPEN Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "OPEN",
       "name": "Opendoor Technologies Inc",
       "market": "NASDAQ",
@@ -22865,12 +22811,6 @@
     {
       "ticker": "PBQQ",
       "name": "PGIM Laddered Nasdaq-100 Buffer 12 ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "PBRG",
-      "name": "Leverage Shares 2X Long PBR Daily ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -24151,12 +24091,6 @@
       "name": "Prospect Capital Corporation - Closed End Fund",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "PSET",
-      "name": "Principal Quality ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "PSHG",
@@ -26513,6 +26447,12 @@
     {
       "ticker": "SATLW",
       "name": "Satellogic Inc. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SATS",
+      "name": "Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -30717,12 +30657,6 @@
       "isEtf": false
     },
     {
-      "ticker": "UECG",
-      "name": "Leverage Shares 2x Long UEC Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "UEIC",
       "name": "Universal Electronics Inc.",
       "market": "NASDAQ",
@@ -31225,12 +31159,6 @@
       "name": "Valor Energy Incorporated",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "VALG",
-      "name": "Leverage Shares 2X Long VALE Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "VALN",
@@ -34895,6 +34823,12 @@
     {
       "ticker": "AIBF",
       "name": "iShares Future AI Beneficiaries ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AIBN",
+      "name": "Defiance AI Infrastructure Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -39997,12 +39931,6 @@
       "name": "Principal Real Estate Active Opportunities ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "BZH",
-      "name": "Beazer Homes USA, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "BZQ",
@@ -70918,7 +70846,7 @@
     },
     {
       "ticker": "SOAR",
-      "name": "Volato Group, Inc. Class A",
+      "name": "SOAR AI, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -79553,12 +79481,6 @@
     {
       "ticker": "ZROZ",
       "name": "PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ZSB",
-      "name": "USCF Sustainable Battery Metals Strategy Fund",
       "market": "NYSE",
       "isEtf": true
     },
