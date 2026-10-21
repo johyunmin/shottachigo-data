@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T21:47:16.092Z",
+  "fetchedAt": "2026-10-21T21:53:19.147Z",
   "count": 13256,
   "stocks": [
     {
@@ -1083,10 +1083,22 @@
       "isEtf": false
     },
     {
+      "ticker": "AHIC",
+      "name": "Allspring Short-Term High Income Fund ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "AHMA",
       "name": "Ambitions Enterprise Management Co. L.L.C -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "AHYM",
+      "name": "Allspring High Yield Municipal Bond Fund ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "AIA",
@@ -2677,6 +2689,12 @@
       "name": "Algoma Steel Group Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ASTM",
+      "name": "Allspring Strategic Municipal Bond Fund ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ASTS",
@@ -5143,12 +5161,6 @@
       "name": "Bitdeer Technologies Group -",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "BTF",
-      "name": "CoinShares Bitcoin and Ether ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "BTGD",
@@ -8443,12 +8455,6 @@
       "name": "1stdibs.com, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "DIME",
-      "name": "CoinShares Altcoins ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "DINE",
@@ -23710,7 +23716,7 @@
     },
     {
       "ticker": "POM",
-      "name": "POMDOCTOR LIMITED - American Depositary Shares",
+      "name": "POMDOCTOR LIMITED -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -29535,6 +29541,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TLCE",
+      "name": "Thrivent Large Cap Stock ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "TLF",
       "name": "Tandy Leather Factory, Inc.",
       "market": "NASDAQ",
@@ -30181,6 +30193,12 @@
       "name": "Taysha Gene Therapies, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "TSIE",
+      "name": "Thrivent Securitized Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "TSL",
@@ -34257,12 +34275,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ADDS",
-      "name": "Hedgeye Index Adds ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "ADIG",
       "name": "ADI Global Distribution Inc.",
       "market": "NYSE",
@@ -37517,12 +37529,6 @@
     {
       "ticker": "BCAT",
       "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "BCAT.R",
-      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -42095,12 +42101,6 @@
     {
       "ticker": "CPNS",
       "name": "Calamos Nasdaq-100 Structured Alt Protection ETF  September",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "CPNX",
-      "name": "Tradr 2X Long CPNG Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50967,6 +50967,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GMIE",
+      "name": "GMO International Equity Fund, ETF Class",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GMMA",
       "name": "GammaRoad Market Navigation ETF",
       "market": "NYSE",
@@ -52221,12 +52227,6 @@
       "isEtf": true
     },
     {
-      "ticker": "HELS",
-      "name": "Hedgeye 130/30 Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "HELX",
       "name": "Franklin Genomic Advancements ETF",
       "market": "NYSE",
@@ -52643,12 +52643,6 @@
     {
       "ticker": "HOMZ",
       "name": "Hoya Capital Housing ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "HONG",
-      "name": "Leverage Shares 2X Long HON Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54149,6 +54143,12 @@
     {
       "ticker": "IIPR$A",
       "name": "Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "IIPR$B",
+      "name": "Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
@@ -60435,6 +60435,18 @@
       "isEtf": false
     },
     {
+      "ticker": "MSGK.V",
+      "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "MSGR.V",
+      "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "MSGS",
       "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)",
       "market": "NYSE",
@@ -60887,12 +60899,6 @@
     {
       "ticker": "MUSE",
       "name": "TCW Multisector Credit Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MUSQ",
-      "name": "MUSQ Global Music Industry Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -62729,12 +62735,6 @@
     {
       "ticker": "NXPG",
       "name": "Leverage Shares 2X Long NXPI Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "NXPX",
-      "name": "Tradr 2X Long NXPI Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -65361,8 +65361,8 @@
       "isEtf": true
     },
     {
-      "ticker": "PONX",
-      "name": "Tradr 2X Long PONY Daily ETF",
+      "ticker": "POMG",
+      "name": "PRIMECAP Odyssey Discovery ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -67093,6 +67093,12 @@
       "name": "Rubrik, Inc. Class A",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "RBTX",
+      "name": "iShares Future Robotics and Related Technologies Active ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "RBUF",
@@ -69207,6 +69213,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SCIN",
+      "name": "Schwab International Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SCIO",
       "name": "First Trust Structured Credit Income Opportunities ETF",
       "market": "NYSE",
@@ -70681,12 +70693,6 @@
       "name": "Similarweb Ltd.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "SMZ",
-      "name": "Tradr 2X Short SMR Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "SN",
@@ -74225,12 +74231,6 @@
     {
       "ticker": "TSES",
       "name": "Truth Social American Energy Security ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TSEU",
-      "name": "Tradr 2X Long TSEM Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },

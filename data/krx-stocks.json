@@ -1,7 +1,7 @@
 {
-  "basDt": "20261019",
-  "fetchedAt": "2026-10-20T21:47:15.108Z",
-  "count": 4561,
+  "basDt": "20261020",
+  "fetchedAt": "2026-10-21T21:53:18.330Z",
+  "count": 4569,
   "stocks": [
     {
       "ticker": "900110",
@@ -3679,6 +3679,12 @@
       "ticker": "015890",
       "name": "태경산업",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0158S0",
+      "name": "엘리스",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -19024,6 +19030,12 @@
       "kind": "etf"
     },
     {
+      "ticker": "0236J0",
+      "name": "마이티 미국피지컬AI액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0238C0",
       "name": "IBK 한미대표기업TOP2+채권혼합50액티브",
       "market": "KOSPI",
@@ -19096,8 +19108,44 @@
       "kind": "etf"
     },
     {
+      "ticker": "0252V0",
+      "name": "ACE 미국CPU반도체TOP3+",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0254C0",
+      "name": "KODEX 27-12 금융채(AA-이상)액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0254H0",
+      "name": "RISE 반도체소부장액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0254S0",
+      "name": "KODEX 미국배당다우존스액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0254W0",
       "name": "ACE 29-11 회사채(AA-이상)액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0255E0",
+      "name": "TIGER 글로벌MLCC&기판",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0256C0",
+      "name": "1Q 엔비디아고정미국AI반도체",
       "market": "KOSPI",
       "kind": "etf"
     },
