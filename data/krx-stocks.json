@@ -1,7 +1,7 @@
 {
-  "basDt": "20261020",
-  "fetchedAt": "2026-10-21T21:53:18.330Z",
-  "count": 4569,
+  "basDt": "20261021",
+  "fetchedAt": "2026-10-22T21:50:23.510Z",
+  "count": 4572,
   "stocks": [
     {
       "ticker": "900110",
@@ -25006,6 +25006,18 @@
       "kind": "etn"
     },
     {
+      "ticker": "530149",
+      "name": "삼성 레버리지 나스닥 100 TR ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530150",
+      "name": "삼성 인버스 2X 나스닥 100 TR ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "530067",
       "name": "삼성 KRX 금현물 ETN",
       "market": "KOSPI",
@@ -26508,6 +26520,12 @@
     {
       "ticker": "760032",
       "name": "키움 모험자본창업투자 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "760033",
+      "name": "키움 통안채 6개월 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },

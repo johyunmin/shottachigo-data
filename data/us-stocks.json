@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T21:53:19.147Z",
-  "count": 13256,
+  "fetchedAt": "2026-10-22T21:50:24.490Z",
+  "count": 13260,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2765,24 +2765,6 @@
     {
       "ticker": "ATHR",
       "name": "Aether Holdings, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ATII",
-      "name": "Archimedes Tech SPAC Partners II Co. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ATIIU",
-      "name": "Archimedes Tech SPAC Partners II Co. - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ATIIW",
-      "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8175,6 +8157,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DAVI",
+      "name": "Davion Healthcare Plc -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "DAX",
       "name": "Global X DAX Germany ETF",
       "market": "NASDAQ",
@@ -9559,6 +9547,12 @@
       "name": "Elauwit Connection, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "EMAG",
+      "name": "Emerging Markets AI Mag 3 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "EMAT",
@@ -20135,6 +20129,18 @@
     {
       "ticker": "NAMSW",
       "name": "NewAmsterdam Pharma Company N.V. - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NANO",
+      "name": "Forge Nano Holdings Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NANOW",
+      "name": "Forge Nano Holdings Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -48297,6 +48303,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FIFT",
+      "name": "HCM Select 50 ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FIG",
       "name": "Figma, Inc. Class A",
       "market": "NYSE",
@@ -53633,6 +53645,12 @@
     {
       "ticker": "ICLO",
       "name": "Invesco AAA CLO Floating Rate Note ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ICOM",
+      "name": "Tema Commodity Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73193,6 +73211,12 @@
     {
       "ticker": "THRO",
       "name": "iShares U.S. Thematic Rotation Active ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "THRU",
+      "name": "Tema Commodity Infrastructure ETF",
       "market": "NYSE",
       "isEtf": true
     },
