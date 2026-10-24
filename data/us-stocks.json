@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T21:50:24.490Z",
-  "count": 13260,
+  "fetchedAt": "2026-10-24T21:03:39.216Z",
+  "count": 13262,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2231,6 +2231,12 @@
     {
       "ticker": "APWC",
       "name": "Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "APXC",
+      "name": "Apex Critical Metals Corp. - American Depositary Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18201,6 +18207,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LYCA",
+      "name": "Lycia Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LYEL",
       "name": "Lyell Immunopharma, Inc.",
       "market": "NASDAQ",
@@ -22725,6 +22737,18 @@
       "isEtf": false
     },
     {
+      "ticker": "PAXG",
+      "name": "Pine Tree Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "PAXGR",
+      "name": "Pine Tree Acquisition Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "PAXGU",
       "name": "Pine Tree Acquisition Corp. - Units",
       "market": "NASDAQ",
@@ -26355,12 +26379,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SABSW",
-      "name": "SAB Biotherapeutics, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SAFT",
       "name": "Safety Insurance Group, Inc.",
       "market": "NASDAQ",
@@ -26755,18 +26773,6 @@
       "name": "American Century Short Duration Strategic Income ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "SDST",
-      "name": "Stardust Power Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SDSTW",
-      "name": "Stardust Power Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "SDTY",
@@ -27589,6 +27595,12 @@
       "name": "Summit Therapeutics Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "SMNG",
+      "name": "xETFs Samsung Group ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "SMOM",
@@ -47061,12 +47073,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EVEX.W",
-      "name": "Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "EVF",
       "name": "Eaton Vance Senior Income Trust",
       "market": "NYSE",
@@ -55942,7 +55948,7 @@
     },
     {
       "ticker": "JKS",
-      "name": "JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)",
+      "name": "Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -58480,7 +58486,7 @@
     },
     {
       "ticker": "LU",
-      "name": "Lufax Holding Ltd American Depositary Shares, each representing two (2)",
+      "name": "Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares)",
       "market": "NYSE",
       "isEtf": false
     },
@@ -63693,6 +63699,12 @@
       "isEtf": true
     },
     {
+      "ticker": "OVQ",
+      "name": "Overlay Shares Nasdaq 100 Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "OVS",
       "name": "Overlay Shares Small Cap Equity ETF",
       "market": "NYSE",
@@ -64487,12 +64499,6 @@
     {
       "ticker": "PEO",
       "name": "Adams Natural Resources Fund, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "PERF",
-      "name": "Perfect Corp.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -66713,6 +66719,12 @@
     {
       "ticker": "QQBF",
       "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "QQDH",
+      "name": "Tuttle Capital Innovation 100 Income & Hedge ETF",
       "market": "NYSE",
       "isEtf": true
     },

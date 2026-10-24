@@ -1,7 +1,7 @@
 {
-  "basDt": "20261021",
-  "fetchedAt": "2026-10-22T21:50:23.510Z",
-  "count": 4572,
+  "basDt": "20261022",
+  "fetchedAt": "2026-10-24T21:03:38.410Z",
+  "count": 4571,
   "stocks": [
     {
       "ticker": "900110",
@@ -618,6 +618,12 @@
     {
       "ticker": "0013V0",
       "name": "삼진식품",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0013Y0",
+      "name": "엠에스바이오",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -24816,18 +24822,6 @@
     {
       "ticker": "530114",
       "name": "삼성 인버스 2X S&P500 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "530115",
-      "name": "삼성 레버리지 나스닥 100 TR ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "530116",
-      "name": "삼성 인버스 2X 나스닥 100 TR ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
