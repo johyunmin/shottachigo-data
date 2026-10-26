@@ -1,7 +1,7 @@
 {
-  "basDt": "20261022",
-  "fetchedAt": "2026-10-25T21:05:12.938Z",
-  "count": 4571,
+  "basDt": "20261023",
+  "fetchedAt": "2026-10-26T22:49:11.397Z",
+  "count": 4574,
   "stocks": [
     {
       "ticker": "900110",
@@ -738,6 +738,12 @@
     {
       "ticker": "0015G0",
       "name": "그린광학",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0015M0",
+      "name": "디티에스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -2473,6 +2479,12 @@
       "ticker": "007770",
       "name": "한일화학",
       "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0077H0",
+      "name": "모비콘텐츠테크",
+      "market": "KONEX",
       "kind": "stock"
     },
     {
@@ -16367,7 +16379,7 @@
     },
     {
       "ticker": "457600",
-      "name": "벡트",
+      "name": "벡트로보틱스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -24766,6 +24778,24 @@
       "kind": "etn"
     },
     {
+      "ticker": "520107",
+      "name": "미래에셋 구리 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520108",
+      "name": "미래에셋 레버리지 구리 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520109",
+      "name": "미래에셋 인버스 2X 구리 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "530092",
       "name": "삼성 인버스 코스피 200 선물 ETN",
       "market": "KOSPI",
@@ -25102,26 +25132,8 @@
       "kind": "etn"
     },
     {
-      "ticker": "550088",
-      "name": "N2 월간 레버리지 선진국 1등주 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550089",
-      "name": "N2 월간 레버리지 코스피 200 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "550091",
       "name": "N2 방위산업 Top5 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550092",
-      "name": "N2 월간 레버리지 방위산업 Top5 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -25140,18 +25152,6 @@
     {
       "ticker": "550096",
       "name": "N2 레버리지 국채30년 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550097",
-      "name": "N2 레버리지 코스닥150 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "550098",
-      "name": "N2 인버스 2X 코스닥150 선물 ETN",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -26250,6 +26250,24 @@
     {
       "ticker": "610112",
       "name": "메리츠 3X 레버리지 일본 국채 30년 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610113",
+      "name": "메리츠 솔랙티브 구리 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610114",
+      "name": "메리츠 솔랙티브 2X 구리 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610115",
+      "name": "메리츠 솔랙티브 -2X 구리 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

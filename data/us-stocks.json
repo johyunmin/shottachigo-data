@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-25T21:05:13.585Z",
-  "count": 13262,
+  "fetchedAt": "2026-10-26T22:49:11.987Z",
+  "count": 13261,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -845,6 +845,12 @@
     {
       "ticker": "AESPW",
       "name": "Aeon Acquisition I Corp. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AETR",
+      "name": "Aetherion Technologies Inc. - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -10521,6 +10527,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FCDH",
+      "name": "Forcendra Holding Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "FCEF",
       "name": "First Trust Income Opportunities ETF",
       "market": "NASDAQ",
@@ -12409,12 +12421,6 @@
       "name": "Guardforce AI Co., Limited -",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "GFGF",
-      "name": "Guru Favorite Stocks ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "GFLW",
@@ -25053,6 +25059,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RADD",
+      "name": "AB US Research Advanced ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "RADX",
       "name": "Radiopharm Theranostics Limited - American Depositary Shares",
       "market": "NASDAQ",
@@ -31941,12 +31953,6 @@
       "isEtf": false
     },
     {
-      "ticker": "VSME",
-      "name": "VS Media Holdings Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "VSMV",
       "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
       "market": "NASDAQ",
@@ -32525,12 +32531,6 @@
     {
       "ticker": "WORX",
       "name": "SCWorx Corp.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "WPRT",
-      "name": "Westport Fuel Systems Inc - Common Shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33987,12 +33987,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ACA",
-      "name": "Arcosa, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "ACCO",
       "name": "Acco Brands Corporation",
       "market": "NYSE",
@@ -34067,6 +34061,12 @@
     {
       "ticker": "ACII",
       "name": "Innovator Index Autocallable Income Strategy ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ACIN",
+      "name": "Hartford Alpha Capture International Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40227,6 +40227,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CAYN",
+      "name": "Calamos Least-Of Autocallable Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CB",
       "name": "Chubb Limited",
       "market": "NYSE",
@@ -40537,12 +40543,6 @@
       "name": "Coeur Mining, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "CDEI",
-      "name": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "CDLR",
@@ -45965,12 +45965,6 @@
     {
       "ticker": "ELMD",
       "name": "Electromed, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "ELME",
-      "name": "Elme Communities",
       "market": "NYSE",
       "isEtf": false
     },
@@ -51757,6 +51751,12 @@
       "name": "Goldman Sachs Ultra Short Municipal Income ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "GUNN",
+      "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "GUNR",
@@ -63891,12 +63891,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PAPL",
-      "name": "Pineapple Financial Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "PAPR",
       "name": "Innovator U.S. Equity Power Buffer ETF - April",
       "market": "NYSE",
@@ -66091,6 +66085,12 @@
       "name": "Pacer Trendpilot International ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "PTIV",
+      "name": "Pineapple Financial Inc.",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "PTL",
@@ -77179,12 +77179,6 @@
       "name": "Teucrium Wheat Fund ETV",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "WEAV",
-      "name": "Weave Communications, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "WEBL",
