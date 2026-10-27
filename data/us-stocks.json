@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-26T22:49:11.987Z",
-  "count": 13261,
+  "fetchedAt": "2026-10-27T22:29:27.844Z",
+  "count": 13254,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -16485,18 +16485,6 @@
       "isEtf": false
     },
     {
-      "ticker": "KBAB",
-      "name": "KraneShares 2x Long BABA Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "KBDU",
-      "name": "KraneShares 2x Long BIDU Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "KBON",
       "name": "Karbon Capital Partners Corp. -",
       "market": "NASDAQ",
@@ -16719,12 +16707,6 @@
       "isEtf": false
     },
     {
-      "ticker": "KJD",
-      "name": "KraneShares 2x Long JD Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "KLAC",
       "name": "KLA Corporation",
       "market": "NASDAQ",
@@ -16777,12 +16759,6 @@
       "name": "Kamada Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "KMLI",
-      "name": "KraneShares 2x Long MELI Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "KMRK",
@@ -16855,12 +16831,6 @@
       "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "KPDD",
-      "name": "KraneShares 2x Long PDD Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "KPLT",
@@ -20163,12 +20133,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NATH",
-      "name": "Nathan's Famous, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NATO",
       "name": "Themes Transatlantic Defense ETF",
       "market": "NASDAQ",
@@ -22684,13 +22648,13 @@
     },
     {
       "ticker": "PARA",
-      "name": "Banzai International, Inc. - Class A",
+      "name": "Parabolic Technologies, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "PARAW",
-      "name": "Banzai International, Inc. - Warrant",
+      "name": "Parabolic Technologies, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26693,6 +26657,12 @@
     {
       "ticker": "SCPQW",
       "name": "Social Commerce Partners Corporation - Warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCQCU",
+      "name": "SPACCircle Acquisition Corp. - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33419,6 +33389,12 @@
     {
       "ticker": "YSAU",
       "name": "Y'all Street Physical Gold ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "YSKH",
+      "name": "YieldMax SKHY Option Income Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -56625,12 +56601,6 @@
       "isEtf": false
     },
     {
-      "ticker": "KCAI",
-      "name": "KraneShares China Alpha Index ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "KCCA",
       "name": "KraneShares California Carbon Allowance Strategy ETF",
       "market": "NYSE",
@@ -56837,12 +56807,6 @@
     {
       "ticker": "KHPI",
       "name": "Kensington Hedged Premium Income ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "KHYB",
-      "name": "KraneShares Asia Pacific High Income USD Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -60459,20 +60423,14 @@
       "isEtf": false
     },
     {
-      "ticker": "MSGK.V",
-      "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
+      "ticker": "MSGK",
+      "name": "MSG Knickerbockers Corp. Class A",
       "market": "NYSE",
       "isEtf": false
     },
     {
-      "ticker": "MSGR.V",
-      "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "MSGS",
-      "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)",
+      "ticker": "MSGR",
+      "name": "MSG Rangers Corp. Class A",
       "market": "NYSE",
       "isEtf": false
     },
@@ -73821,12 +73779,6 @@
       "isEtf": false
     },
     {
-      "ticker": "TOT",
-      "name": "LionShares U.S. Equity Total Return ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "TOTL",
       "name": "State Street DoubleLine Total Return Tactical ETF",
       "market": "NYSE",
@@ -77027,6 +76979,12 @@
     {
       "ticker": "WBIY",
       "name": "WBI Power Factor High Dividend ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "WBMO",
+      "name": "VanEck Wealth Builder ETF",
       "market": "NYSE",
       "isEtf": true
     },
