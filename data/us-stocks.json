@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-27T22:29:27.844Z",
-  "count": 13254,
+  "fetchedAt": "2026-10-28T22:45:06.791Z",
+  "count": 13250,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -8973,12 +8973,6 @@
       "isEtf": true
     },
     {
-      "ticker": "DVAL",
-      "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "DVGR",
       "name": "DAC 3D Dividend Growth ETF",
       "market": "NASDAQ",
@@ -9587,12 +9581,6 @@
     {
       "ticker": "EMCB",
       "name": "WisdomTree Emerging Markets Corporate Bond Fund",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "EMEM",
-      "name": "Sophus Capital Emerging Market ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -10847,6 +10835,12 @@
     {
       "ticker": "FFR",
       "name": "FF EAI Robotics Ecosystem Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FFTT",
+      "name": "Masonglory Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -19599,12 +19593,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MSGY",
-      "name": "Masonglory Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MSLE",
       "name": "Satellos Bioscience Inc.",
       "market": "NASDAQ",
@@ -19751,12 +19739,6 @@
     {
       "ticker": "MULL",
       "name": "GraniteShares 2x Long MU Daily ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "MULT",
-      "name": "Franklin Multisector Income ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -30979,12 +30961,6 @@
       "name": "United Maritime Corporation",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "USFI",
-      "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "USGG",
