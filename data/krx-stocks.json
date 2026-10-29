@@ -1,7 +1,7 @@
 {
-  "basDt": "20261027",
-  "fetchedAt": "2026-10-28T22:45:06.117Z",
-  "count": 4568,
+  "basDt": "20261028",
+  "fetchedAt": "2026-10-29T22:54:04.425Z",
+  "count": 4567,
   "stocks": [
     {
       "ticker": "900110",
@@ -4908,12 +4908,6 @@
     {
       "ticker": "032680",
       "name": "소프트센",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "032685",
-      "name": "소프트센우",
       "market": "KOSDAQ",
       "kind": "stock"
     },

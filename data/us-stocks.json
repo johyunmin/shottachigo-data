@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T22:45:06.791Z",
-  "count": 13250,
+  "fetchedAt": "2026-10-29T22:54:05.102Z",
+  "count": 13256,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -647,12 +647,6 @@
     {
       "ticker": "ADI",
       "name": "Analog Devices, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ADIL",
-      "name": "Adial Pharmaceuticals, Inc",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -3231,6 +3225,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AZR",
+      "name": "Azora Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AZTA",
       "name": "Azenta, Inc.",
       "market": "NASDAQ",
@@ -3895,6 +3895,12 @@
       "name": "Baillie Gifford U.S. Equity Growth ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "BHAIU",
+      "name": "BHAV Acquisition Corp II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "BHAV",
@@ -10407,6 +10413,12 @@
       "isEtf": false
     },
     {
+      "ticker": "FBEQ",
+      "name": "Franklin US Equity Bitcoin Drip Index ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "FBGL",
       "name": "FBS Global Limited -",
       "market": "NASDAQ",
@@ -10939,6 +10951,12 @@
       "name": "First Interstate BancSystem, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "FIBT",
+      "name": "Franklin US Innovation Bitcoin DRIP Index ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "FICS",
@@ -12157,6 +12175,12 @@
       "name": "Grayscale Avalanche Staking ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "GBC",
+      "name": "Georgia Banking Company, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "GBDC",
@@ -16354,7 +16378,7 @@
     },
     {
       "ticker": "JSM",
-      "name": "Navient Corporation - 6% Senior Notes due December 15, 2043",
+      "name": "Navient LLC - 6% Senior Notes due December 15, 2043",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20134,7 +20158,7 @@
     },
     {
       "ticker": "NAVI",
-      "name": "Navient Corporation",
+      "name": "Navient Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -27412,7 +27436,7 @@
     },
     {
       "ticker": "SLMT",
-      "name": "Brera Holdings PLC -",
+      "name": "Solmate Infrastructure Public Limited Company -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -45879,6 +45903,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ELCF",
+      "name": "Eventide Large Cap Focus ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ELCV",
       "name": "Strategy Shares Eventide High Dividend ETF",
       "market": "NYSE",
@@ -46759,6 +46789,12 @@
       "name": "Ethan Allen Interiors Inc.",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ETDG",
+      "name": "Eventide Dividend Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ETFT",
