@@ -1,7 +1,7 @@
 {
-  "basDt": "20261028",
-  "fetchedAt": "2026-10-29T22:54:04.425Z",
-  "count": 4567,
+  "basDt": "20261029",
+  "fetchedAt": "2026-10-30T22:33:55.276Z",
+  "count": 4563,
   "stocks": [
     {
       "ticker": "900110",
@@ -1915,6 +1915,12 @@
       "ticker": "005389",
       "name": "현대차3우B",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0053F0",
+      "name": "티앤이코리아",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
@@ -20440,12 +20446,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "261920",
-      "name": "ACE MSCI필리핀(합성)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "265690",
       "name": "ACE 러시아MSCI(합성)",
       "market": "KOSPI",
@@ -20712,12 +20712,6 @@
     {
       "ticker": "279540",
       "name": "KODEX 최소변동성",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "280320",
-      "name": "ACE 미국IT인터넷(합성 H)",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -23182,12 +23176,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "465620",
-      "name": "ACE 미국빅테크TOP7 Plus인버스(합성)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "465660",
       "name": "TIGER 일본반도체FACTSET",
       "market": "KOSPI",
@@ -24474,18 +24462,6 @@
     {
       "ticker": "500051",
       "name": "신한 인버스 2X S&P500 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "500023",
-      "name": "신한 콩 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "500024",
-      "name": "신한 인버스 콩 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

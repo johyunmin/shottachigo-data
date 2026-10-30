@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-29T22:54:05.102Z",
-  "count": 13256,
+  "fetchedAt": "2026-10-30T22:33:55.856Z",
+  "count": 13249,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2631,6 +2631,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ASPE",
+      "name": "Aspen Neuroscience, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ASPI",
       "name": "ASP Isotopes Inc.",
       "market": "NASDAQ",
@@ -3443,6 +3449,12 @@
     {
       "ticker": "BBSI",
       "name": "Barrett Business Services, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BBTX",
+      "name": "Bambusa Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9111,24 +9123,6 @@
       "isEtf": true
     },
     {
-      "ticker": "DYNC",
-      "name": "Dynamix Corporation -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "DYNCU",
-      "name": "Dynamix Corporation - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "DYNCW",
-      "name": "Dynamix Corporation - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "DYOR",
       "name": "Insight Digital Partners II -",
       "market": "NASDAQ",
@@ -12251,12 +12245,6 @@
     {
       "ticker": "GCT",
       "name": "GigaCloud Technology Inc -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "GCTK",
-      "name": "GlucoTrack, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17739,12 +17727,6 @@
       "isEtf": true
     },
     {
-      "ticker": "LNAI",
-      "name": "Lunai Bioworks Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "LNKS",
       "name": "Linkers Industries Limited -",
       "market": "NASDAQ",
@@ -18059,12 +18041,6 @@
     {
       "ticker": "LTRX",
       "name": "Lantronix, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "LTRYW",
-      "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18773,6 +18749,12 @@
     {
       "ticker": "META",
       "name": "Meta Platforms, Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "METAM",
+      "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -20843,6 +20825,12 @@
     {
       "ticker": "NOMA",
       "name": "NOMADAR Corp. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NORD",
+      "name": "Nordicus Partners Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33267,24 +33255,6 @@
       "isEtf": false
     },
     {
-      "ticker": "YHNA",
-      "name": "YHN Acquisition I Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "YHNAR",
-      "name": "YHN Acquisition I Limited - Right",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "YHNAU",
-      "name": "YHN Acquisition I Limited - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "YI",
       "name": "111, Inc. - American Depositary Shares",
       "market": "NASDAQ",
@@ -41458,7 +41428,7 @@
     },
     {
       "ticker": "CMDT",
-      "name": "PIMCO Commodity Strategy Active Exchange-Traded Fund",
+      "name": "PIMCO Commodity and Bond Strategy Active Exchange-Traded Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -41962,7 +41932,7 @@
     },
     {
       "ticker": "CORP",
-      "name": "PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund",
+      "name": "PIMCO Investment Grade Corporate Bond Exchange-Traded Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45801,12 +45771,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EICA",
-      "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "EIDO",
       "name": "iShares MSCI Indonesia ETF",
       "market": "NYSE",
@@ -46138,7 +46102,7 @@
     },
     {
       "ticker": "EMNT",
-      "name": "PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund",
+      "name": "PIMCO Enhanced Short Maturity Active ESG and Bond Exchange-Traded Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50931,12 +50895,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GME.W",
-      "name": "GameStop Corporation Warrants to Purchase",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GMEC",
       "name": "Corgi GME 2x Daily ETF",
       "market": "NYSE",
@@ -53164,7 +53122,7 @@
     },
     {
       "ticker": "HYS",
-      "name": "PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund",
+      "name": "PIMCO 0-5 Year High Yield Corporate Bond Exchange-Traded Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58174,7 +58132,7 @@
     },
     {
       "ticker": "LONZ",
-      "name": "PIMCO Senior Loan Active Exchange-Traded Fund",
+      "name": "PIMCO Senior Loan and Short-Term Active ETF",
       "market": "NYSE",
       "isEtf": true
     },
