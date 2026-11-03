@@ -1,6 +1,6 @@
 {
-  "basDt": "20261030",
-  "fetchedAt": "2026-11-03T01:09:23.614Z",
+  "basDt": "20261102",
+  "fetchedAt": "2026-11-03T23:34:04.463Z",
   "count": 4565,
   "stocks": [
     {
@@ -14962,6 +14962,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "359410",
+      "name": "영광",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "360070",
       "name": "탑머티리얼",
       "market": "KOSDAQ",
@@ -16722,12 +16728,6 @@
     {
       "ticker": "475230",
       "name": "엔알비",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "475240",
-      "name": "하나32호스팩",
       "market": "KOSDAQ",
       "kind": "stock"
     },

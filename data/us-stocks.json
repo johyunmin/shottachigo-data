@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T01:09:24.463Z",
-  "count": 13242,
+  "fetchedAt": "2026-11-03T23:34:05.312Z",
+  "count": 13239,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2963,12 +2963,6 @@
     {
       "ticker": "AURE",
       "name": "Aurelion Inc.  -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AUROW",
-      "name": "Aurora Innovation, Inc.  - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13989,12 +13983,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HODO",
-      "name": "House of Doge Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HODU",
       "name": "Direxion Daily HOOD Bull 2X ETF",
       "market": "NASDAQ",
@@ -15337,12 +15325,6 @@
       "name": "Pacer ActiveAlpha India Quality ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "INDV",
-      "name": "Indivior Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "INDY",
@@ -19097,18 +19079,6 @@
     {
       "ticker": "MLCO",
       "name": "Melco Resorts & Entertainment Limited - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MLEC",
-      "name": "Moolec Science SA -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MLECW",
-      "name": "Moolec Science SA - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28528,7 +28498,7 @@
     },
     {
       "ticker": "SUPN",
-      "name": "Supernus Pharmaceuticals, Inc.",
+      "name": "Supernus, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28697,12 +28667,6 @@
     {
       "ticker": "SWIM",
       "name": "Latham Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SWKHL",
-      "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -46037,6 +46001,12 @@
     {
       "ticker": "EMHY",
       "name": "iShares J.P. Morgan EM High Yield Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "EMIL",
+      "name": "VanEck EM Focus Inflation Bond ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -73035,6 +73005,12 @@
       "isEtf": false
     },
     {
+      "ticker": "THCR",
+      "name": "THOR Conservative Risk Dynamic ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "THD",
       "name": "iShares MSCI Thailand ETF",
       "market": "NYSE",
@@ -76685,6 +76661,12 @@
     {
       "ticker": "VTV",
       "name": "Vanguard Morningstar Value ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VTVX",
+      "name": "XFUNDS Value Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
