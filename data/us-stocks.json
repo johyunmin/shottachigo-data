@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-01T22:15:06.809Z",
-  "count": 13249,
+  "fetchedAt": "2026-11-03T01:09:24.463Z",
+  "count": 13242,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3807,12 +3807,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BFRIW",
-      "name": "Biofrontera Inc. - Warrants",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BFST",
       "name": "Business First Bancshares, Inc.",
       "market": "NASDAQ",
@@ -5651,6 +5645,12 @@
     {
       "ticker": "CASH",
       "name": "Pathward Financial, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CASK",
+      "name": "Sempreon, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8473,12 +8473,6 @@
       "name": "1stdibs.com, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "DINE",
-      "name": "Simplify Tax Aware Diversified Income Strategy ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "DIOD",
@@ -17913,12 +17907,6 @@
       "isEtf": false
     },
     {
-      "ticker": "LQ",
-      "name": "Simplify Tax Aware Alternatives ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "LQDA",
       "name": "Liquidia Corporation",
       "market": "NASDAQ",
@@ -18913,12 +18901,6 @@
       "name": "Leverage Shares MANGOS ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "MGPI",
-      "name": "MGP Ingredients, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "MGRC",
@@ -20117,6 +20099,12 @@
     {
       "ticker": "NANOW",
       "name": "Forge Nano Holdings Inc. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "NARA",
+      "name": "Narragansett Bancorp, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24868,7 +24856,7 @@
     },
     {
       "ticker": "QTEC",
-      "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
+      "name": "First Trust NASDAQ-100- Technology Index Fund",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -34029,6 +34017,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ACJL",
+      "name": "Buffered Bulldog ETF by C.J. Lawrence, a division of Apollon",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ACKY",
       "name": "VistaShares Target 15 ACKtivist Distribution ETF",
       "market": "NYSE",
@@ -34793,6 +34787,12 @@
     {
       "ticker": "AIBD",
       "name": "Direxion Daily AI and Big Data Bear 2X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "AIBE",
+      "name": "FINQ CORE U.S. Large Cap AI-Managed Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -40371,12 +40371,6 @@
       "isEtf": true
     },
     {
-      "ticker": "CBZ",
-      "name": "CBIZ, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "CC",
       "name": "Chemours Company (The)",
       "market": "NYSE",
@@ -41638,7 +41632,7 @@
     },
     {
       "ticker": "CNRG",
-      "name": "State Street SPDR S&P Kensho Clean Power ETF",
+      "name": "State Street SPDR S&P Kensho Grid Innovation ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -45622,7 +45616,7 @@
     },
     {
       "ticker": "EFIV",
-      "name": "State Street SPDR S&P 500 ESG ETF",
+      "name": "State Street SPDR S&P 500 Scored and Screened ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -49462,7 +49456,7 @@
     },
     {
       "ticker": "FTEC",
-      "name": "Fidelity MSCI Information Technology Index ETF",
+      "name": "ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55144,7 +55138,7 @@
     },
     {
       "ticker": "IWD",
-      "name": "iShares Russell 1000 Value ETF",
+      "name": "iShares Russell 1000 Value Index Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55354,7 +55348,7 @@
     },
     {
       "ticker": "IYW",
-      "name": "iShares U.S. Technology ETF",
+      "name": "iShares Dow Jones U.S. Technology Sector Index Fund",
       "market": "NYSE",
       "isEtf": true
     },
@@ -57333,12 +57327,6 @@
       "isEtf": true
     },
     {
-      "ticker": "KVUE",
-      "name": "Kenvue Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "KVYO",
       "name": "Klaviyo, Inc. Series A",
       "market": "NYSE",
@@ -57809,12 +57797,6 @@
     {
       "ticker": "LGH",
       "name": "HCM Defender 500 Index ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "LGHT",
-      "name": "Langar Global HealthTech ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58511,18 +58493,6 @@
     {
       "ticker": "LXFR",
       "name": "Luxfer Holdings PLC",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LXP",
-      "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LXP$C",
-      "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
       "market": "NYSE",
       "isEtf": false
     },
@@ -61881,6 +61851,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NMZ.V",
+      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "NNI",
       "name": "Nelnet, Inc.",
       "market": "NYSE",
@@ -62703,12 +62679,6 @@
       "isEtf": true
     },
     {
-      "ticker": "NXTI",
-      "name": "Simplify Next Intangible Core Index ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "NXUS",
       "name": "Nuveen International Aggregate Bond ETF",
       "market": "NYSE",
@@ -63337,6 +63307,12 @@
       "name": "Obra Opportunistic Structured Products ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "OPAY",
+      "name": "OPay Limited American Depositary Shares, each representing ten",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "OPER",
@@ -64261,12 +64237,6 @@
       "name": "PIMCO California Municipal Income Fund",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "PCR",
-      "name": "Simplify VettaFi Private Credit Strategy ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "PCS",
@@ -66979,12 +66949,6 @@
       "name": "Leverage Shares 2X Long Memory Daily ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "RAMP",
-      "name": "LiveRamp Holdings, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "RAMZ",
@@ -70960,7 +70924,7 @@
     },
     {
       "ticker": "SPAB",
-      "name": "State Street SPDR Portfolio Aggregate Bond ETF",
+      "name": "State Street SPDR Portfolio Aggregate Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -70984,7 +70948,7 @@
     },
     {
       "ticker": "SPBO",
-      "name": "State Street SPDR Portfolio Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Corporate Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71188,13 +71152,13 @@
     },
     {
       "ticker": "SPHY",
-      "name": "State Street SPDR Portfolio High Yield Bond ETF",
+      "name": "State Street SPDR Portfolio High Yield Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "SPIB",
-      "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71206,7 +71170,7 @@
     },
     {
       "ticker": "SPIP",
-      "name": "State Street SPDR Portfolio TIPS ETF",
+      "name": "State Street SPDR Portfolio TIPS Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71218,7 +71182,7 @@
     },
     {
       "ticker": "SPLB",
-      "name": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Long Term Corporate Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71242,7 +71206,7 @@
     },
     {
       "ticker": "SPMB",
-      "name": "State Street SPDR Portfolio Mortgage Backed Bond ETF",
+      "name": "State Street SPDR Portfolio Mortgage Backed Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71302,7 +71266,7 @@
     },
     {
       "ticker": "SPSB",
-      "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Short Term Corporate Bond Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71320,7 +71284,7 @@
     },
     {
       "ticker": "SPTB",
-      "name": "State Street SPDR Portfolio Treasury ETF",
+      "name": "State Street SPDR Portfolio Treasury Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71332,13 +71296,13 @@
     },
     {
       "ticker": "SPTI",
-      "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "SPTL",
-      "name": "State Street SPDR Portfolio Long Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Long Term Treasury Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71350,13 +71314,13 @@
     },
     {
       "ticker": "SPTS",
-      "name": "State Street SPDR Portfolio Short Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Short Term Treasury Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "SPTU",
-      "name": "State Street SPDR Portfolio Ultra Short T-Bill ETF",
+      "name": "State Street SPDR Portfolio Ultra Short T-Bill Index ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72863,12 +72827,6 @@
     {
       "ticker": "TESC",
       "name": "Corgi TSLA 2x Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TESL",
-      "name": "Simplify Volt TSLA Revolution ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -76930,19 +76888,19 @@
     },
     {
       "ticker": "WBIF",
-      "name": "WBI BullBear Value 3000 ETF",
+      "name": "WBI Fundamental Factors Hedged ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "WBIG",
-      "name": "WBI BullBear Yield 3000 ETF",
+      "name": "WBI Income Generators Hedged ETF",
       "market": "NYSE",
       "isEtf": true
     },
     {
       "ticker": "WBIL",
-      "name": "WBI BullBear Quality 3000 ETF",
+      "name": "WBI Trend Leaders Hedged ETF",
       "market": "NYSE",
       "isEtf": true
     },
