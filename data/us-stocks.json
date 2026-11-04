@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T23:34:05.312Z",
-  "count": 13239,
+  "fetchedAt": "2026-11-04T23:51:50.560Z",
+  "count": 13238,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -12807,12 +12807,6 @@
       "isEtf": false
     },
     {
-      "ticker": "GNTA",
-      "name": "Genenta Science S.p.A. - American Depositary Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "GNTX",
       "name": "Gentex Corporation",
       "market": "NASDAQ",
@@ -15357,6 +15351,12 @@
       "isEtf": false
     },
     {
+      "ticker": "INK",
+      "name": "AB Equity Premium Income ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "INKT",
       "name": "MiNK Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -17110,7 +17110,7 @@
     },
     {
       "ticker": "LASE",
-      "name": "Laser Photonics Corporation",
+      "name": "LASE Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26307,6 +26307,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SAEN",
+      "name": "Genenta Science S.p.A. - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SAFT",
       "name": "Safety Insurance Group, Inc.",
       "market": "NASDAQ",
@@ -34455,12 +34461,6 @@
       "isEtf": true
     },
     {
-      "ticker": "AFRU",
-      "name": "T-REX 2X Long AFRM Daily Target ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "AFSM",
       "name": "First Trust Active Factor Small Cap ETF",
       "market": "NYSE",
@@ -36263,12 +36263,6 @@
     {
       "ticker": "ASTY",
       "name": "Defiance Daily Target 2X Long ASTS ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ASUP",
-      "name": "T-REX 2X Long ASTS Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50013,12 +50007,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GCDT",
-      "name": "Green Circle Decarbonize Technology Limited",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GCLO",
       "name": "Guggenheim Investment Grade CLO ETF",
       "market": "NYSE",
@@ -61821,8 +61809,8 @@
       "isEtf": false
     },
     {
-      "ticker": "NMZ.V",
-      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+      "ticker": "NMZ.R",
+      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
       "market": "NYSE",
       "isEtf": false
     },
@@ -65500,7 +65488,7 @@
     },
     {
       "ticker": "PRM",
-      "name": "Perimeter Solutions, SA",
+      "name": "Perimeter Group Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -67155,8 +67143,20 @@
       "isEtf": false
     },
     {
+      "ticker": "RECD",
+      "name": "Columbia RECS Laddered Deep Buffer ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "RECI",
       "name": "Columbia Research Enhanced Core Premium Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "RECM",
+      "name": "Columbia RECS Laddered Moderate Buffer ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -68835,12 +68835,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SBTU",
-      "name": "T-REX 2X Long SBET Daily Target ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SBXE",
       "name": "SilverBox Corp V",
       "market": "NYSE",
@@ -69959,6 +69953,12 @@
     {
       "ticker": "SIVR",
       "name": "abrdn Physical Silver Shares ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "SIX",
+      "name": "Global X Magnificent Six ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -72809,12 +72809,6 @@
     {
       "ticker": "TETH",
       "name": "21Shares Ethereum ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TEUP",
-      "name": "T-REX 2X Long TE Daily Target ETF",
       "market": "NYSE",
       "isEtf": true
     },
