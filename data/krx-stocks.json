@@ -1,6 +1,6 @@
 {
-  "basDt": "20261103",
-  "fetchedAt": "2026-11-04T23:51:49.578Z",
+  "basDt": "20261104",
+  "fetchedAt": "2026-11-05T23:45:57.960Z",
   "count": 4568,
   "stocks": [
     {
@@ -3088,12 +3088,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "011155",
-      "name": "CJ씨푸드1우",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
       "ticker": "011170",
       "name": "롯데케미칼",
       "market": "KOSPI",
@@ -4266,6 +4260,12 @@
     {
       "ticker": "022220",
       "name": "티케이지애강",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0222E0",
+      "name": "아이엠스팩1호",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -17140,6 +17140,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "495910",
+      "name": "이에스티",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "496070",
       "name": "신한제16호스팩",
       "market": "KOSDAQ",
@@ -17496,12 +17502,6 @@
     {
       "ticker": "0038A0",
       "name": "KODEX 미국휴머노이드로봇",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "0040S0",
-      "name": "HANARO 글로벌피지컬AI액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

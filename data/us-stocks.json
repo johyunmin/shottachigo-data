@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T23:51:50.560Z",
-  "count": 13238,
+  "fetchedAt": "2026-11-05T23:45:58.894Z",
+  "count": 13244,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -331,6 +331,12 @@
       "name": "ProFrac Holding Corp. - Class A",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ACEM",
+      "name": "American Century Emerging Markets Insights ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ACEP",
@@ -967,6 +973,18 @@
       "name": "KraneShares Public-Private AI & Technology ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "AGLT",
+      "name": "Agility Robotics, Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "AGLTW",
+      "name": "Agility Robotics, Inc. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "AGMB",
@@ -5945,24 +5963,6 @@
     {
       "ticker": "CCTG",
       "name": "CCSC Technology International Holdings Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCXI",
-      "name": "Churchill Capital Corp XI -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCXIU",
-      "name": "Churchill Capital Corp XI - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "CCXIW",
-      "name": "Churchill Capital Corp XI - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13917,6 +13917,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HLT",
+      "name": "Hilton Worldwide Holdings Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "HLTH",
       "name": "Tema Healthcare AI ETF",
       "market": "NASDAQ",
@@ -15349,6 +15355,12 @@
       "name": "INNIO N.V. -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "INJC",
+      "name": "Canary Staked INJ ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "INK",
@@ -33082,19 +33094,19 @@
     },
     {
       "ticker": "XTER",
-      "name": "Karman Line Acquisition Corp. -",
+      "name": "Xterax Corporation II -",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "XTERU",
-      "name": "Karman Line Acquisition Corp. - Units",
+      "name": "Xterax Corporation II - Units",
       "market": "NASDAQ",
       "isEtf": false
     },
     {
       "ticker": "XTERW",
-      "name": "Karman Line Acquisition Corp. - Warrants",
+      "name": "Xterax Corporation II - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -37359,6 +37371,12 @@
       "isEtf": true
     },
     {
+      "ticker": "BBLX",
+      "name": "BondBloxx Core Plus ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "BBMC",
       "name": "JPMorgan BetaBuilders U.S. Mid Cap Equity ETF",
       "market": "NYSE",
@@ -37913,6 +37931,12 @@
     {
       "ticker": "BFH$B",
       "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "BFH$C",
+      "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
       "market": "NYSE",
       "isEtf": false
     },
@@ -40444,7 +40468,7 @@
     },
     {
       "ticker": "CDLR",
-      "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
+      "name": "Cadeler plc",
       "market": "NYSE",
       "isEtf": false
     },
@@ -43749,6 +43773,12 @@
       "isEtf": true
     },
     {
+      "ticker": "DFIT",
+      "name": "Davidson Intermediate Taxable ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "DFIV",
       "name": "Dimensional International Value ETF",
       "market": "NYSE",
@@ -44243,6 +44273,12 @@
     {
       "ticker": "DLAG",
       "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - August",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DLAY",
+      "name": "Tuttle Capital AI Bottleneck ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -48855,6 +48891,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FMIG",
+      "name": "FMI Global Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "FMKT",
       "name": "The Free Markets ETF",
       "market": "NYSE",
@@ -52469,12 +52511,6 @@
     {
       "ticker": "HLSQ",
       "name": "Tessera Defense and Homeland Security Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "HLT",
-      "name": "Hilton Worldwide Holdings Inc.",
       "market": "NYSE",
       "isEtf": false
     },
