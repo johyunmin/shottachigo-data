@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-05T23:45:58.894Z",
-  "count": 13244,
+  "fetchedAt": "2026-11-06T23:24:07.014Z",
+  "count": 13239,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1397,24 +1397,6 @@
     {
       "ticker": "ALCO",
       "name": "Alico, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ALDF",
-      "name": "Aldel Financial II Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ALDFU",
-      "name": "Aldel Financial II Inc. - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "ALDFW",
-      "name": "Aldel Financial II Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -17283,8 +17265,20 @@
       "isEtf": false
     },
     {
+      "ticker": "LEDR",
+      "name": "Leader's Advantage Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LEDRU",
       "name": "Leader's Advantage Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LEDRW",
+      "name": "Leader's Advantage Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -70107,20 +70101,8 @@
       "isEtf": true
     },
     {
-      "ticker": "SKHA",
-      "name": "Tradr 2X Long SK hynix Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SKHL",
       "name": "Direxion Daily SK Hynix Bull 2X ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "SKHN",
-      "name": "Tradr 2X Short SK hynix Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75321,12 +75303,6 @@
       "isEtf": true
     },
     {
-      "ticker": "USE",
-      "name": "USCF Energy Commodity Strategy Absolute Return Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "USEP",
       "name": "Innovator U.S. Equity Ultra Buffer ETF - September",
       "market": "NYSE",
@@ -77587,12 +77563,6 @@
       "name": "W&T Offshore, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "WTIB",
-      "name": "USCF Oil Plus Bitcoin Strategy Fund",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "WTID",
