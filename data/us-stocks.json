@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-10T01:43:03.042Z",
-  "count": 13242,
+  "fetchedAt": "2026-11-10T23:37:51.780Z",
+  "count": 13244,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -403,12 +403,6 @@
       "name": "Global X Asia Semiconductor ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "ACHV",
-      "name": "Achieve Life Sciences, Inc.  - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "ACIC",
@@ -10251,12 +10245,6 @@
       "isEtf": false
     },
     {
-      "ticker": "EZRA",
-      "name": "Reliance Global Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "EZRO",
       "name": "AlphaDroid Defensive Sector Rotation ETF",
       "market": "NASDAQ",
@@ -12166,7 +12154,7 @@
     },
     {
       "ticker": "GCBC",
-      "name": "Greene County Bancorp, Inc.",
+      "name": "Greene Bancorp, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24885,6 +24873,12 @@
       "isEtf": false
     },
     {
+      "ticker": "QUIT",
+      "name": "Achieve Life Sciences, Inc.  - Common Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "QUMS",
       "name": "Quantumsphere Acquisition Corp. -",
       "market": "NASDAQ",
@@ -25273,12 +25267,6 @@
       "name": "Roadzen, Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "REAI",
-      "name": "Intelligent Real Estate ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "REAL",
@@ -26607,8 +26595,26 @@
       "isEtf": false
     },
     {
+      "ticker": "SCQC",
+      "name": "SPACCircle Acquisition Corp. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCQCR",
+      "name": "SPACCircle Acquisition Corp. - Rights",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "SCQCU",
       "name": "SPACCircle Acquisition Corp. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "SCQCW",
+      "name": "SPACCircle Acquisition Corp. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28643,12 +28649,6 @@
     {
       "ticker": "SWAG",
       "name": "Stran & Company, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SWAGW",
-      "name": "Stran & Company, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32837,6 +32837,12 @@
     {
       "ticker": "XGN",
       "name": "Exagen Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "XGPU",
+      "name": "Reliance Global Group, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -38023,6 +38029,12 @@
       "name": "BlackRock Energy and Resources Trust",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BGRD",
+      "name": "BNY Mellon Power Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BGS",
@@ -45939,6 +45951,12 @@
       "isEtf": false
     },
     {
+      "ticker": "EMDI",
+      "name": "Principal Finisterre Emerging Markets Diversified Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "EMDM",
       "name": "First Trust Bloomberg Emerging Market Democracies ETF",
       "market": "NYSE",
@@ -51905,12 +51923,6 @@
     {
       "ticker": "HAUG",
       "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "HAUS",
-      "name": "Residential REIT ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58353,6 +58365,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LTEQ",
+      "name": "Equity Partners ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LTH",
       "name": "Life Time Group Holdings, Inc.",
       "market": "NYSE",
@@ -64605,6 +64623,12 @@
       "isEtf": true
     },
     {
+      "ticker": "PGRW",
+      "name": "Principal Growth ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "PGX",
       "name": "Invesco Preferred ETF",
       "market": "NYSE",
@@ -65899,18 +65923,6 @@
       "name": "Palmer Square CLO Senior Debt ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "PSQH",
-      "name": "PSQ Holdings, Inc. Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "PSQH.W",
-      "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "PSQO",
