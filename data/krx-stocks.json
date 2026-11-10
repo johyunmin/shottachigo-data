@@ -1,7 +1,7 @@
 {
-  "basDt": "20261105",
-  "fetchedAt": "2026-11-08T22:20:10.673Z",
-  "count": 4568,
+  "basDt": "20261109",
+  "fetchedAt": "2026-11-10T01:43:02.409Z",
+  "count": 4574,
   "stocks": [
     {
       "ticker": "900110",
@@ -53,7 +53,7 @@
     },
     {
       "ticker": "000040",
-      "name": "KR모터스",
+      "name": "다이나맥",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -10787,7 +10787,7 @@
     },
     {
       "ticker": "148250",
-      "name": "알엔투테크놀로지",
+      "name": "스퀘어텍",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -25060,6 +25060,42 @@
       "kind": "etn"
     },
     {
+      "ticker": "530151",
+      "name": "삼성 금 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530152",
+      "name": "삼성 인버스 금 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530153",
+      "name": "삼성 은 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530154",
+      "name": "삼성 인버스 은 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530155",
+      "name": "삼성 구리 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530156",
+      "name": "삼성 인버스 구리 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "530067",
       "name": "삼성 KRX 금현물 ETN",
       "market": "KOSPI",
@@ -26177,19 +26213,19 @@
     },
     {
       "ticker": "610102",
-      "name": "메리츠 솔랙티브 금 선물 ETN(H)",
+      "name": "메리츠 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
     {
       "ticker": "610103",
-      "name": "메리츠 솔랙티브 레버리지 금 선물 ETN(H)",
+      "name": "메리츠 레버리지 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
     {
       "ticker": "610104",
-      "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
+      "name": "메리츠 인버스 2X 금 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
@@ -26219,19 +26255,19 @@
     },
     {
       "ticker": "610113",
-      "name": "메리츠 솔랙티브 구리 선물 ETN(H)",
+      "name": "메리츠 구리 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
     {
       "ticker": "610114",
-      "name": "메리츠 솔랙티브 2X 구리 선물 ETN(H)",
+      "name": "메리츠 레버리지 구리 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
     {
       "ticker": "610115",
-      "name": "메리츠 솔랙티브 -2X 구리 선물 ETN(H)",
+      "name": "메리츠 인버스 2X 구리 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

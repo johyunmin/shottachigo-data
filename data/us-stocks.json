@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T22:20:11.588Z",
-  "count": 13239,
+  "fetchedAt": "2026-11-10T01:43:03.042Z",
+  "count": 13242,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -5327,12 +5327,6 @@
     {
       "ticker": "BWIN",
       "name": "The Baldwin Insurance Group, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BWMN",
-      "name": "Bowman Consulting Group Ltd.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15363,12 +15357,6 @@
       "isEtf": false
     },
     {
-      "ticker": "INM",
-      "name": "InMed Pharmaceuticals Inc. - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "INMB",
       "name": "INmune Bio Inc.",
       "market": "NASDAQ",
@@ -18543,12 +18531,6 @@
       "isEtf": false
     },
     {
-      "ticker": "MCTA",
-      "name": "Charming Medical Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MDAI",
       "name": "Spectral AI, Inc. - Class A",
       "market": "NASDAQ",
@@ -19661,6 +19643,12 @@
     {
       "ticker": "MTLS",
       "name": "Materialise NV - American Depositary Shares",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "MTRI",
+      "name": "Mentari Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -25929,12 +25917,6 @@
       "isEtf": false
     },
     {
-      "ticker": "ROKU",
-      "name": "Roku, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "ROMA",
       "name": "Roma Green Finance Limited -",
       "market": "NASDAQ",
@@ -30733,12 +30715,6 @@
       "name": "Ulta Beauty, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "ULTI",
-      "name": "REX IncomeMax Option Strategy ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "ULVM",
@@ -35875,12 +35851,6 @@
       "name": "Global X MSCI Argentina ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "ARI",
-      "name": "Apollo Commercial Real Estate Finance, Inc",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "ARIA",
@@ -52965,10 +52935,28 @@
       "isEtf": false
     },
     {
+      "ticker": "HYAC",
+      "name": "Haymaker Acquisition Corp V",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "HYAC.U",
       "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "HYAC.W",
+      "name": "Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "HYB",
+      "name": "Lazard US High Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "HYBB",
@@ -53015,6 +53003,12 @@
     {
       "ticker": "HYFI",
       "name": "AB High Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "HYFY",
+      "name": "Lazard Hybrid Financial Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -58515,6 +58509,18 @@
       "isEtf": false
     },
     {
+      "ticker": "LYR",
+      "name": "Lyrical U.S. Value Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "LYRI",
+      "name": "Lyrical International Value Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "LYTE",
       "name": "Roundhill Photonics & Optics ETF",
       "market": "NYSE",
@@ -59221,6 +59227,12 @@
       "name": "Mizuho Financial Group, Inc. Sponosred ADR (Japan)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MFIX",
+      "name": "Nomura Strategic Income ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MFM",
@@ -70395,6 +70407,12 @@
       "isEtf": true
     },
     {
+      "ticker": "SMDC",
+      "name": "Nomura Small and Mid Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SMDD",
       "name": "UltraPro Short MidCap400",
       "market": "NYSE",
@@ -72507,18 +72525,6 @@
       "isEtf": true
     },
     {
-      "ticker": "TCBI",
-      "name": "Texas Capital Bancshares, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "TCBI$B",
-      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "TCBX",
       "name": "Third Coast Bancshares, Inc.",
       "market": "NYSE",
@@ -73331,12 +73337,6 @@
     {
       "ticker": "TLCI",
       "name": "Touchstone International Equity ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TLDR",
-      "name": "The Laddered T-Bill ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -74461,6 +74461,18 @@
       "name": "21Shares FTSE Crypto 10 ex-BTC Index ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "TXCP",
+      "name": "Texas Capital Bancshares, Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TXCP$B",
+      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "TXNM",
@@ -77855,6 +77867,12 @@
     {
       "ticker": "XDIV",
       "name": "Roundhill S&P 500 No Dividend Target ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "XDLR",
+      "name": "Lazard Non-Dollar Active Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
