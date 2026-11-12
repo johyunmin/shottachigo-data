@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-12T00:55:26.324Z",
-  "count": 13245,
+  "fetchedAt": "2026-11-12T23:45:16.646Z",
+  "count": 13247,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7475,6 +7475,12 @@
     {
       "ticker": "CRMLW",
       "name": "Critical Metals Corp. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CRMN",
+      "name": "Skyline Builders Group Holding Limited -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -16431,12 +16437,6 @@
       "isEtf": true
     },
     {
-      "ticker": "KAZR",
-      "name": "Skyline Builders Group Holding Limited -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "KBON",
       "name": "Karbon Capital Partners Corp. -",
       "market": "NASDAQ",
@@ -21377,12 +21377,6 @@
     {
       "ticker": "NXTT",
       "name": "Next Technology Holding Inc. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "NXXT",
-      "name": "NextNRG, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -50721,6 +50715,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GLLD",
+      "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GLNK",
       "name": "Grayscale Chainlink Trust ETF",
       "market": "NYSE",
@@ -56547,6 +56547,12 @@
       "isEtf": false
     },
     {
+      "ticker": "KBTY",
+      "name": "Guinness Atkinson K-Beauty ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "KBUF",
       "name": "KraneShares 90% KWEB Defined Outcome January 2027 ETF",
       "market": "NYSE",
@@ -57007,12 +57013,6 @@
       "name": "Simplify Kayne Anderson Energy and Infrastructure Credit ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "KNRX",
-      "name": "KNOREX LTD.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "KNSL",
@@ -58633,6 +58633,12 @@
       "name": "Magnera Corporation",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "MAGP",
+      "name": "Roundhill Magnificent Seven Plus ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "MAGS",
@@ -61703,6 +61709,12 @@
     {
       "ticker": "NJNK",
       "name": "Columbia U.S. High Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "NJPN",
+      "name": "Nomura Japan Equity ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -69807,12 +69819,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SHNY",
-      "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SHO",
       "name": "Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares",
       "market": "NYSE",
@@ -75929,6 +75935,12 @@
     {
       "ticker": "VEM",
       "name": "Virtus Emerging Markets Dividend ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VEMB",
+      "name": "Vanguard Emerging Markets Bond Active ETF",
       "market": "NYSE",
       "isEtf": true
     },

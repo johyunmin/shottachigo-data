@@ -1,7 +1,7 @@
 {
-  "basDt": "20261110",
-  "fetchedAt": "2026-11-12T00:55:25.598Z",
-  "count": 4579,
+  "basDt": "20261111",
+  "fetchedAt": "2026-11-12T23:45:15.975Z",
+  "count": 4580,
   "stocks": [
     {
       "ticker": "900110",
@@ -3643,6 +3643,12 @@
       "ticker": "015360",
       "name": "INVENI",
       "market": "KOSPI",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0153R0",
+      "name": "바로팜",
+      "market": "KOSDAQ",
       "kind": "stock"
     },
     {
