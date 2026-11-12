@@ -1,7 +1,7 @@
 {
-  "basDt": "20261109",
-  "fetchedAt": "2026-11-10T23:37:50.547Z",
-  "count": 4574,
+  "basDt": "20261110",
+  "fetchedAt": "2026-11-12T00:55:25.598Z",
+  "count": 4579,
   "stocks": [
     {
       "ticker": "900110",
@@ -1074,18 +1074,6 @@
     {
       "ticker": "002780",
       "name": "진흥기업",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "002785",
-      "name": "진흥기업우B",
-      "market": "KOSPI",
-      "kind": "stock"
-    },
-    {
-      "ticker": "002787",
-      "name": "진흥기업2우B",
       "market": "KOSPI",
       "kind": "stock"
     },
@@ -3732,6 +3720,12 @@
     {
       "ticker": "016250",
       "name": "SGC E&C",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
+      "ticker": "0162D0",
+      "name": "동원파츠",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -19216,14 +19210,50 @@
       "kind": "etf"
     },
     {
+      "ticker": "0256E0",
+      "name": "HANARO 삼성전기고정AI핵심기판",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0258B0",
       "name": "1Q 미국AI테크플랫폼TOP10",
       "market": "KOSPI",
       "kind": "etf"
     },
     {
+      "ticker": "0258N0",
+      "name": "MIDAS 중기채권(AA-이상)액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
       "ticker": "0259R0",
       "name": "ACE 글로벌메모리반도체TOP3채권혼합액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0260F0",
+      "name": "IBK 현대차로보틱스채권혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0261H0",
+      "name": "KODEX 미국나스닥100미국채혼합50",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0262B0",
+      "name": "TIGER 200커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0262Y0",
+      "name": "SOL 200커버드콜액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

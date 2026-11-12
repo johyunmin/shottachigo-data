@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-10T23:37:51.780Z",
-  "count": 13244,
+  "fetchedAt": "2026-11-12T00:55:26.324Z",
+  "count": 13245,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -16793,12 +16793,6 @@
     {
       "ticker": "KPRX",
       "name": "Kiora Pharmaceuticals, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KPTI",
-      "name": "Karyopharm Therapeutics Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -36261,12 +36255,6 @@
       "isEtf": true
     },
     {
-      "ticker": "ATCH",
-      "name": "AtlasClear Holdings, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "ATCL",
       "name": "REX Autocallable Income ETF",
       "market": "NYSE",
@@ -52485,12 +52473,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HLSQ",
-      "name": "Tessera Defense and Homeland Security Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "HMAY",
       "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series",
       "market": "NYSE",
@@ -53429,6 +53411,12 @@
     {
       "ticker": "IBLC",
       "name": "iShares Blockchain and Tech ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IBLY",
+      "name": "FT Vest Equity Target Income Plus 0-3 Month Treasury ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -54647,6 +54635,30 @@
     {
       "ticker": "IQDY",
       "name": "Northern Trust International Quality Dividend Dynamic ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IQEE",
+      "name": "Invesco Emerging Markets Enhanced ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IQEI",
+      "name": "Invesco International Developed Enhanced ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IQEL",
+      "name": "Invesco U.S. Large Cap Enhanced ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "IQES",
+      "name": "Invesco U.S. Small Cap Enhanced ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -59117,12 +59129,6 @@
     {
       "ticker": "MEMX",
       "name": "Matthews Emerging Markets ex China Active ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "MEMY",
-      "name": "Tuttle Capital Meme Stock Income Blast ETF",
       "market": "NYSE",
       "isEtf": true
     },
