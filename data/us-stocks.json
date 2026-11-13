@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-12T23:45:16.646Z",
-  "count": 13247,
+  "fetchedAt": "2026-11-13T23:46:07.838Z",
+  "count": 13248,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -6675,12 +6675,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CLGN",
-      "name": "CollPlant Biotechnologies Ltd. -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "CLIK",
       "name": "Click Holdings Limited -",
       "market": "NASDAQ",
@@ -10569,18 +10563,6 @@
       "isEtf": true
     },
     {
-      "ticker": "FDFF",
-      "name": "Fidelity Disruptive Finance ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "FDIF",
-      "name": "Fidelity Disruptors ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "FDIG",
       "name": "Fidelity Crypto Industry and Digital Payments ETF",
       "market": "NASDAQ",
@@ -11221,18 +11203,6 @@
       "name": "First Mid Bancshares, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "FMED",
-      "name": "Fidelity Disruptive Medicine ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "FMET",
-      "name": "Fidelity Metaverse ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "FMFC",
@@ -17787,8 +17757,20 @@
       "isEtf": false
     },
     {
+      "ticker": "LOVI",
+      "name": "Live Oak Acquisition Corp. VI -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "LOVIU",
       "name": "Live Oak Acquisition Corp. VI - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "LOVIW",
+      "name": "Live Oak Acquisition Corp. VI - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21772,7 +21754,7 @@
     },
     {
       "ticker": "OLMA",
-      "name": "Olema Pharmaceuticals, Inc.",
+      "name": "Olema Oncology, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -21995,6 +21977,12 @@
     {
       "ticker": "OPENZ",
       "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "OPHI",
+      "name": "CollPlant Biotechnologies Ltd. -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -24151,12 +24139,6 @@
       "name": "GraniteShares 2x Long PLTR Daily ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "PTLE",
-      "name": "PTL LTD -",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "PTLO",
@@ -32200,7 +32182,7 @@
     },
     {
       "ticker": "WFRD",
-      "name": "Weatherford International plc -",
+      "name": "Weatherford International Corp",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -32639,6 +32621,12 @@
     {
       "ticker": "WW",
       "name": "WW International, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "WWB",
+      "name": "Windward Bio Group AG - Common shares",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33581,6 +33569,12 @@
     {
       "ticker": "ZYME",
       "name": "Zymeworks Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ZYN",
+      "name": "PTL LTD -",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -39739,6 +39733,12 @@
       "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "BWLB",
+      "name": "Brandywine Large Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "BWLP",
@@ -49155,12 +49155,6 @@
       "isEtf": false
     },
     {
-      "ticker": "FPRO",
-      "name": "Fidelity Real Estate Investment ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "FPS",
       "name": "Forgent Power Solutions, Inc. Class A",
       "market": "NYSE",
@@ -58065,6 +58059,12 @@
       "isEtf": false
     },
     {
+      "ticker": "LOB$B",
+      "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "LOCL",
       "name": "Local Bounti Corporation",
       "market": "NYSE",
@@ -59035,6 +59035,12 @@
       "name": "Monarch Dividend Plus Index ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "MDRN",
+      "name": "Modern Mining Technology Corp. Common Shares",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "MDST",
@@ -75369,12 +75375,6 @@
       "isEtf": true
     },
     {
-      "ticker": "USG",
-      "name": "USCF Gold Strategy Plus Income Fund",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "USGX",
       "name": "Corgi U.S. Growth 2x Daily ETF",
       "market": "NYSE",
@@ -76775,6 +76775,12 @@
     {
       "ticker": "VVV",
       "name": "Valvoline Inc.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "VVVV",
+      "name": "vVARDIS Holding AG",
       "market": "NYSE",
       "isEtf": false
     },

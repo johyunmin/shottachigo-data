@@ -1,7 +1,7 @@
 {
-  "basDt": "20261111",
-  "fetchedAt": "2026-11-12T23:45:15.975Z",
-  "count": 4580,
+  "basDt": "20261112",
+  "fetchedAt": "2026-11-13T23:46:07.142Z",
+  "count": 4586,
   "stocks": [
     {
       "ticker": "900110",
@@ -17122,6 +17122,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "493410",
+      "name": "넥스아이",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "493790",
       "name": "유안타제17호스팩",
       "market": "KOSDAQ",
@@ -24862,6 +24868,24 @@
       "kind": "etn"
     },
     {
+      "ticker": "520110",
+      "name": "미래에셋 옥수수 선물 ETN",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520111",
+      "name": "미래에셋 레버리지 옥수수 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "520112",
+      "name": "미래에셋 인버스 2X 옥수수 선물 ETN B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
       "ticker": "530092",
       "name": "삼성 인버스 코스피 200 선물 ETN",
       "market": "KOSPI",
@@ -25074,6 +25098,18 @@
     {
       "ticker": "530145",
       "name": "삼성 레버리지 천연가스 선물 ETN D",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530146",
+      "name": "삼성 중국 희토류 기업 TOP5 TR ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "530147",
+      "name": "삼성 중국 게임 TOP3 TR ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
