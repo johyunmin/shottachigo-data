@@ -1,7 +1,7 @@
 {
-  "basDt": "20261112",
-  "fetchedAt": "2026-11-15T23:03:03.784Z",
-  "count": 4586,
+  "basDt": "20261116",
+  "fetchedAt": "2026-11-17T01:56:42.907Z",
+  "count": 4583,
   "stocks": [
     {
       "ticker": "900110",
@@ -14656,6 +14656,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "345290",
+      "name": "영광와이케이엠씨",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "346010",
       "name": "타이드",
       "market": "KONEX",
@@ -20278,12 +20284,6 @@
       "kind": "etf"
     },
     {
-      "ticker": "244660",
-      "name": "KODEX 퀄리티Plus",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
       "ticker": "244670",
       "name": "KODEX 밸류Plus",
       "market": "KOSPI",
@@ -21204,12 +21204,6 @@
     {
       "ticker": "319640",
       "name": "TIGER 골드선물(H)",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "321410",
-      "name": "KODEX 멀티에셋하이인컴(H)",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -25318,12 +25312,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "570074",
-      "name": "한투 유럽탄소배출권선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "570081",
       "name": "한투 레버리지코스닥150선물 ETN",
       "market": "KOSPI",
@@ -25938,12 +25926,6 @@
     {
       "ticker": "610025",
       "name": "메리츠 인버스 2X 미국채10년 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610030",
-      "name": "메리츠 S&P 유럽탄소배출권 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },

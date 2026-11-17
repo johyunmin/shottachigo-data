@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-15T23:03:04.362Z",
-  "count": 13248,
+  "fetchedAt": "2026-11-17T01:56:43.674Z",
+  "count": 13245,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -3681,12 +3681,6 @@
       "isEtf": false
     },
     {
-      "ticker": "BEATW",
-      "name": "Heartbeam, Inc. - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "BEDY",
       "name": "BNY Mellon Enhanced Dividend and Income ETF",
       "market": "NASDAQ",
@@ -4767,8 +4761,20 @@
       "isEtf": true
     },
     {
+      "ticker": "BRRK",
+      "name": "Bluerock Acquisition Corp. II -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BRRKU",
       "name": "Bluerock Acquisition Corp. II - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "BRRKW",
+      "name": "Bluerock Acquisition Corp. II - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -5117,12 +5123,6 @@
     {
       "ticker": "BTBD",
       "name": "BT Brands, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BTBDW",
-      "name": "BT Brands, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13605,6 +13605,12 @@
       "isEtf": false
     },
     {
+      "ticker": "HCOP",
+      "name": "Hartford Hybrid and Credit Opportunities ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "HCOW",
       "name": "Amplify COWS Covered Call ETF",
       "market": "NASDAQ",
@@ -21225,12 +21231,6 @@
       "isEtf": false
     },
     {
-      "ticker": "NWE",
-      "name": "NorthWestern Energy Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "NWFL",
       "name": "Norwood Financial Corp.",
       "market": "NASDAQ",
@@ -23315,12 +23315,6 @@
     {
       "ticker": "PLBY",
       "name": "Playboy, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "PLCE",
-      "name": "Children's Place, Inc. (The)",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -28307,12 +28301,6 @@
     {
       "ticker": "STLN",
       "name": "Starling Oncology, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "STLNW",
-      "name": "Starling Oncology, Inc. - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -38443,12 +38431,6 @@
       "name": "BNY Mellon Global Infrastructure Income ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "BKH",
-      "name": "Black Hills Corporation",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "BKHY",
@@ -53127,6 +53109,12 @@
       "isEtf": true
     },
     {
+      "ticker": "HZN",
+      "name": "Bright Horizon Energy Corporation",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "HZO",
       "name": "MarineMax, Inc.  (FL)",
       "market": "NYSE",
@@ -54961,12 +54949,6 @@
       "name": "Amplify BlueStar Israel Technology ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "ITGR",
-      "name": "Integer Holdings Corporation",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "ITM",
@@ -57285,12 +57267,6 @@
       "isEtf": true
     },
     {
-      "ticker": "KTF",
-      "name": "DWS Municipal Income Trust",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "KTH",
       "name": "Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock",
       "market": "NYSE",
@@ -58481,12 +58457,6 @@
     {
       "ticker": "LVWR",
       "name": "LiveWire Group, Inc.",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "LVWR.W",
-      "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
       "market": "NYSE",
       "isEtf": false
     },
@@ -65337,8 +65307,20 @@
       "isEtf": false
     },
     {
+      "ticker": "PORT",
+      "name": "Southport Acquisition Corp. II",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "PORT.U",
       "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "PORT.W",
+      "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "market": "NYSE",
       "isEtf": false
     },
