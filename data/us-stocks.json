@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-17T01:56:43.674Z",
-  "count": 13245,
+  "fetchedAt": "2026-11-18T01:09:13.977Z",
+  "count": 13251,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7941,6 +7941,18 @@
       "isEtf": false
     },
     {
+      "ticker": "CWPD",
+      "name": "CWP Premium Dividend ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "CWPG",
+      "name": "CWP Premium Growth ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "CWST",
       "name": "Casella Waste Systems, Inc. - Class A",
       "market": "NASDAQ",
@@ -8137,6 +8149,12 @@
       "name": "DoorDash, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "DAU",
+      "name": "GraniteShares Autocallable AMD ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "DAVE",
@@ -8691,6 +8709,12 @@
       "isEtf": false
     },
     {
+      "ticker": "DRAC",
+      "name": "GraniteShares Autocallable DRAM ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "DRDB",
       "name": "Roman DBDR Acquisition Corp. II -",
       "market": "NASDAQ",
@@ -8953,12 +8977,6 @@
       "name": "DAC 3D Dividend Growth ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "DVLT",
-      "name": "Datavault AI Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "DVLU",
@@ -12683,6 +12701,12 @@
     {
       "ticker": "GLXY",
       "name": "Galaxy Digital Inc. - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "GM",
+      "name": "General Motors Company",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18591,6 +18615,12 @@
       "isEtf": false
     },
     {
+      "ticker": "MEA",
+      "name": "GraniteShares Autocallable META ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "MEDP",
       "name": "Medpace Holdings, Inc.",
       "market": "NASDAQ",
@@ -20943,6 +20973,12 @@
       "isEtf": false
     },
     {
+      "ticker": "NTCR",
+      "name": "Nuveen Technology & Infrastructure Credit ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "NTCT",
       "name": "NetScout Systems, Inc.",
       "market": "NASDAQ",
@@ -22791,6 +22827,12 @@
       "isEtf": false
     },
     {
+      "ticker": "PCHX",
+      "name": "State Street SPDR Nasdaq MyPaycheck ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "PCLA",
       "name": "PicoCELA Inc. - American Depositary Shares",
       "market": "NASDAQ",
@@ -23255,6 +23297,12 @@
     {
       "ticker": "PIO",
       "name": "Invesco Global Water ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "PIVT",
+      "name": "VanEck Pivotal Trends ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -25613,12 +25661,6 @@
     {
       "ticker": "RKLX",
       "name": "Defiance Daily Target 2X Long RKLB ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
-      "ticker": "RKLZ",
-      "name": "Defiance Daily Target 2x Short RKLB ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -31167,12 +31209,6 @@
       "isEtf": true
     },
     {
-      "ticker": "VBNK",
-      "name": "VersaBank - Common Shares",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "VC",
       "name": "Visteon Corporation",
       "market": "NASDAQ",
@@ -31733,6 +31769,12 @@
     {
       "ticker": "VRRM",
       "name": "Verra Mobility Corporation - Class A",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "VRSA",
+      "name": "Versa Bancorp",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -33889,12 +33931,6 @@
       "name": "American Century Large Cap Growth ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "ACH",
-      "name": "Accendra Health, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "ACHR",
@@ -36191,12 +36227,6 @@
     {
       "ticker": "ASTG",
       "name": "Leverage Shares 2X Long ASTS Daily ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "ASTN",
-      "name": "Defiance Daily Target 2X Short ASTS ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50805,12 +50835,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GM",
-      "name": "General Motors Company",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "GMAC",
       "name": "Simplify Brookwood Global Macro ETF",
       "market": "NYSE",
@@ -59992,7 +60016,7 @@
     },
     {
       "ticker": "MOD",
-      "name": "Modine Manufacturing Company",
+      "name": "Modexus Solutions, Inc.",
       "market": "NYSE",
       "isEtf": false
     },
@@ -69957,6 +69981,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SIMI",
+      "name": "American Beacon SiM High Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SIMS",
       "name": "State Street SPDR S&P Kensho Intelligent Structures ETF",
       "market": "NYSE",
@@ -71923,12 +71953,6 @@
       "name": "Strawberry Fields REIT, Inc.",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "STSM",
-      "name": "Defiance Daily Target 2X Short TSM ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "STT",
@@ -74501,6 +74525,12 @@
     {
       "ticker": "TXO",
       "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "TXR",
+      "name": "Torex Resources Inc. Common Shares",
       "market": "NYSE",
       "isEtf": false
     },
@@ -79265,6 +79295,12 @@
     {
       "ticker": "ZCSH",
       "name": "The Zcash ETF Shares",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ZDAY",
+      "name": "Bitwise AI Cyber Defense ETF",
       "market": "NYSE",
       "isEtf": true
     },
