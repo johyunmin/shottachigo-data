@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T01:09:13.977Z",
-  "count": 13251,
+  "fetchedAt": "2026-11-19T00:38:32.466Z",
+  "count": 13259,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -5857,6 +5857,12 @@
       "name": "CCH Holdings Ltd -",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "CCHP",
+      "name": "Global X China Semiconductor ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "CCII",
@@ -13329,6 +13335,12 @@
       "isEtf": false
     },
     {
+      "ticker": "GUER",
+      "name": "Guerrilla RF, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "GURE",
       "name": "Gulf Resources, Inc.",
       "market": "NASDAQ",
@@ -15707,6 +15719,12 @@
     {
       "ticker": "IQQ",
       "name": "iShares Nasdaq 100 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "IQQI",
+      "name": "IncomeQ Nasdaq-100 Premium Income ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -22851,12 +22869,6 @@
       "isEtf": true
     },
     {
-      "ticker": "PCRX",
-      "name": "Pacira BioSciences, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PCSA",
       "name": "Processa Pharmaceuticals, Inc.",
       "market": "NASDAQ",
@@ -26673,6 +26685,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SDC",
+      "name": "KICK Space Data Center & Infrastructure Index ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "SDG",
       "name": "iShares MSCI Global Sustainable Development Goals ETF",
       "market": "NASDAQ",
@@ -27005,18 +27023,6 @@
     {
       "ticker": "SHEN",
       "name": "Shenandoah Telecommunications Co",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SHFS",
-      "name": "SHF Holdings, Inc. - Class A",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SHFSW",
-      "name": "SHF Holdings, Inc. - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -35601,6 +35607,12 @@
       "isEtf": true
     },
     {
+      "ticker": "APFS",
+      "name": "Artisan Focus Fund: ETF Class Shares",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "APG",
       "name": "APi Group Corporation",
       "market": "NYSE",
@@ -35669,6 +35681,12 @@
     {
       "ticker": "APMU",
       "name": "ActivePassive Intermediate Municipal Bond ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "APNX",
+      "name": "Artisan Select Equity Fund: ETF Class Shares",
       "market": "NYSE",
       "isEtf": true
     },
@@ -50895,6 +50913,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GMIX",
+      "name": "iShares Macro AlphaBeta Active ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GMMA",
       "name": "GammaRoad Market Navigation ETF",
       "market": "NYSE",
@@ -53503,12 +53527,6 @@
       "name": "State Street SPDR Bloomberg International Corporate Bond ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "IBO",
-      "name": "Impact BioMedical, Inc.",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "IBOC",
@@ -69819,6 +69837,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SHLA",
+      "name": "Global X Asia Defense Tech ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "SHLD",
       "name": "Global X Defense Tech ETF",
       "market": "NYSE",
@@ -73983,6 +74007,12 @@
       "isEtf": true
     },
     {
+      "ticker": "TRLL",
+      "name": "Direxion Trillions ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TRLV",
       "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
       "market": "NYSE",
@@ -74603,12 +74633,6 @@
     {
       "ticker": "TYO",
       "name": "Direxion Daily 10-Yr Treasury Bear 3x Shrs",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "TYYY",
-      "name": "xETFs TSLA Daily Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -75963,6 +75987,12 @@
       "isEtf": true
     },
     {
+      "ticker": "VEN",
+      "name": "Teucrium Venezuela Future Opportunities ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "VENU",
       "name": "Venu Holding Corporation",
       "market": "NYSE",
@@ -76775,6 +76805,12 @@
     {
       "ticker": "VV",
       "name": "Vanguard Morningstar Large-Cap ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "VVPL",
+      "name": "Vulcan Value Partners ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -77755,12 +77791,6 @@
       "name": "WidePoint Corporation",
       "market": "NYSE",
       "isEtf": false
-    },
-    {
-      "ticker": "WZRD",
-      "name": "Opportunistic Trader ETF",
-      "market": "NYSE",
-      "isEtf": true
     },
     {
       "ticker": "XA",
@@ -78987,6 +79017,12 @@
       "isEtf": true
     },
     {
+      "ticker": "YASX",
+      "name": "Yorkville America Space Index ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "YBIT",
       "name": "YieldMax Bitcoin Option Income Strategy ETF",
       "market": "NYSE",
@@ -79147,6 +79183,12 @@
       "name": "Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "YO",
+      "name": "Amplify S&P 500 Buffered Autocallable Yield Opportunity ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "YOLO",
@@ -79435,6 +79477,12 @@
       "name": "Innovator Equity Defined Protection ETF - 1 Yr November",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "ZOAR",
+      "name": "Zoar Limited",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "ZOCT",

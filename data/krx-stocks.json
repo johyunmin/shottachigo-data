@@ -1,7 +1,7 @@
 {
-  "basDt": "20261116",
-  "fetchedAt": "2026-11-18T01:09:12.822Z",
-  "count": 4583,
+  "basDt": "20261117",
+  "fetchedAt": "2026-11-19T00:38:31.762Z",
+  "count": 4588,
   "stocks": [
     {
       "ticker": "900110",
@@ -9244,12 +9244,6 @@
       "kind": "stock"
     },
     {
-      "ticker": "097780",
-      "name": "에코볼트",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
       "ticker": "097800",
       "name": "윈팩",
       "market": "KOSDAQ",
@@ -11723,7 +11717,7 @@
     },
     {
       "ticker": "206400",
-      "name": "베노티앤알",
+      "name": "아인스팩씨엔에스",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -17116,6 +17110,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "493260",
+      "name": "옵토닉스",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "493280",
       "name": "아이엠바이오로직스",
       "market": "KOSDAQ",
@@ -19272,6 +19272,18 @@
     {
       "ticker": "0262Y0",
       "name": "SOL 200커버드콜액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0269M0",
+      "name": "RISE 27-11 회사채(AA-이상)액티브",
+      "market": "KOSPI",
+      "kind": "etf"
+    },
+    {
+      "ticker": "0269N0",
+      "name": "RISE 미국초대형주TOP10",
       "market": "KOSPI",
       "kind": "etf"
     },
@@ -26322,6 +26334,24 @@
     {
       "ticker": "610115",
       "name": "메리츠 인버스 2X 구리 선물 ETN(H)",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610116",
+      "name": "메리츠 대표농산물 선물 ETN(H) B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610117",
+      "name": "메리츠 레버리지 대표농산물 선물 ETN(H) B",
+      "market": "KOSPI",
+      "kind": "etn"
+    },
+    {
+      "ticker": "610118",
+      "name": "메리츠 인버스2X 대표농산물 선물 ETN(H) B",
       "market": "KOSPI",
       "kind": "etn"
     },
