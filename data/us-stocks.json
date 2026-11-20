@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T00:38:32.466Z",
-  "count": 13259,
+  "fetchedAt": "2026-11-20T00:46:39.127Z",
+  "count": 13264,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -2033,6 +2033,12 @@
     {
       "ticker": "ANPA",
       "name": "Rich Sparkle Holdings Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "ANT",
+      "name": "Anthropic, PBC - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9729,6 +9735,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ENVXW",
+      "name": "Enovix Corporation - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "ENZL",
       "name": "iShares MSCI New Zealand ETF",
       "market": "NASDAQ",
@@ -10585,6 +10597,24 @@
       "name": "Fidelity Disruptive Communications ETF",
       "market": "NASDAQ",
       "isEtf": true
+    },
+    {
+      "ticker": "FDGX",
+      "name": "First Digital Acquisition Corp Ltd. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FDGXU",
+      "name": "First Digital Acquisition Corp Ltd. - Units",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "FDGXW",
+      "name": "First Digital Acquisition Corp Ltd. - Warrants",
+      "market": "NASDAQ",
+      "isEtf": false
     },
     {
       "ticker": "FDIG",
@@ -16781,24 +16811,6 @@
     {
       "ticker": "KOSS",
       "name": "Koss Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KOYN",
-      "name": "CSLM Digital Asset Acquisition Corp III -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KOYNU",
-      "name": "CSLM Digital Asset Acquisition Corp III - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "KOYNW",
-      "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26559,12 +26571,6 @@
       "isEtf": false
     },
     {
-      "ticker": "SCKT",
-      "name": "Socket Mobile, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "SCLX",
       "name": "Scilex Holding Company",
       "market": "NASDAQ",
@@ -28249,12 +28255,6 @@
       "name": "CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "SSTI",
-      "name": "SoundThinking, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "SSYS",
@@ -40659,6 +40659,12 @@
       "isEtf": false
     },
     {
+      "ticker": "CGBI",
+      "name": "Capital Group Multi-Asset Income Builder ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "CGBL",
       "name": "Capital Group Core Balanced ETF",
       "market": "NYSE",
@@ -40751,6 +40757,12 @@
     {
       "ticker": "CGIE",
       "name": "Capital Group International Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "CGMI",
+      "name": "Capital Group Multi-Asset Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -48855,6 +48867,12 @@
       "isEtf": true
     },
     {
+      "ticker": "FMBM",
+      "name": "F&M Bank Corp.",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "FMC",
       "name": "FMC Corporation",
       "market": "NYSE",
@@ -50919,12 +50937,6 @@
       "isEtf": true
     },
     {
-      "ticker": "GMMA",
-      "name": "GammaRoad Market Navigation ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "GMMF",
       "name": "iShares Government Money Market ETF",
       "market": "NYSE",
@@ -51291,6 +51303,12 @@
       "isEtf": true
     },
     {
+      "ticker": "GQGG",
+      "name": "GQG Global Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "GQGU",
       "name": "GQG US Equity ETF",
       "market": "NYSE",
@@ -51473,6 +51491,12 @@
     {
       "ticker": "GSC",
       "name": "Goldman Sachs Small Cap Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "GSCZ",
+      "name": "Goldman Sachs Securitized Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -55461,6 +55485,12 @@
       "isEtf": true
     },
     {
+      "ticker": "JALL",
+      "name": "JPMorgan All Country Research Enhanced Equity ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "JAN",
       "name": "Janus Living, Inc. Class A-1",
       "market": "NYSE",
@@ -58513,12 +58543,6 @@
       "name": "Tradr 2X Long LWLG Daily ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "LXFR",
-      "name": "Luxfer Holdings PLC",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "LXU",
@@ -72969,6 +72993,12 @@
       "isEtf": false
     },
     {
+      "ticker": "TFIX",
+      "name": "T. Rowe Price Capital Appreciation Fixed Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "TFJL",
       "name": "Innovator 20  Year Treasury Bond 5 Floor ETF - July",
       "market": "NYSE",
@@ -74752,7 +74782,7 @@
     },
     {
       "ticker": "UBT",
-      "name": "ProShares Ultra 20+ Year Treasury",
+      "name": "ProShares Ultra 20 Year Treasury",
       "market": "NYSE",
       "isEtf": true
     },

@@ -1,6 +1,6 @@
 {
-  "basDt": "20261117",
-  "fetchedAt": "2026-11-19T00:38:31.762Z",
+  "basDt": "20261118",
+  "fetchedAt": "2026-11-20T00:46:37.796Z",
   "count": 4588,
   "stocks": [
     {
@@ -11591,7 +11591,7 @@
     },
     {
       "ticker": "200350",
-      "name": "아티스트스튜디오",
+      "name": "스튜디오쏠쏠",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -16654,6 +16654,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "471800",
+      "name": "에이엘로봇",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "471820",
       "name": "셀로맥스사이언스",
       "market": "KOSDAQ",
@@ -16704,12 +16710,6 @@
     {
       "ticker": "474650",
       "name": "링크솔루션",
-      "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "474660",
-      "name": "신한제12호스팩",
       "market": "KOSDAQ",
       "kind": "stock"
     },
