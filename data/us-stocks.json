@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-20T00:46:39.127Z",
-  "count": 13264,
+  "fetchedAt": "2026-11-21T00:05:53.752Z",
+  "count": 13262,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -155,6 +155,12 @@
     {
       "ticker": "AAUB",
       "name": "Alpha Architect US Equity 4 ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "AAUD",
+      "name": "Alpha Architect US Equity 5 ETF",
       "market": "NASDAQ",
       "isEtf": true
     },
@@ -1823,12 +1829,6 @@
     {
       "ticker": "AMPG",
       "name": "Amplitech Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "AMPGZ",
-      "name": "Amplitech Group, Inc. - Series B Right",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -8081,6 +8081,12 @@
     {
       "ticker": "CZWI",
       "name": "Citizens Community Bancorp, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CZZL",
+      "name": "Cizzle Brands Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -15867,6 +15873,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ISMH",
+      "name": "xETFs International Semiconductor ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ISNR",
       "name": "Snow Rothschild Acquisition Corp. -",
       "market": "NASDAQ",
@@ -18701,12 +18713,6 @@
     {
       "ticker": "MEOH",
       "name": "Methanex Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MERC",
-      "name": "Mercer International Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -22025,24 +22031,6 @@
     {
       "ticker": "OPEN",
       "name": "Opendoor Technologies Inc",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "OPENL",
-      "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "OPENW",
-      "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "OPENZ",
-      "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -56098,7 +56086,7 @@
     },
     {
       "ticker": "JOET",
-      "name": "Virtus Terranova U.S. Quality Momentum ETF",
+      "name": "Virtus NYSE Terranova U.S. Quality Momentum ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -63385,12 +63373,6 @@
       "name": "Obra Opportunistic Structured Products ETF",
       "market": "NYSE",
       "isEtf": true
-    },
-    {
-      "ticker": "OPAY",
-      "name": "OPay Limited American Depositary Shares, each representing ten",
-      "market": "NYSE",
-      "isEtf": false
     },
     {
       "ticker": "OPER",
@@ -70953,6 +70935,12 @@
       "isEtf": false
     },
     {
+      "ticker": "SONN",
+      "name": "Southern Company (The) 2026 Series A Corporate Units",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
       "ticker": "SONY",
       "name": "Sony Group Corporation American Depositary Shares",
       "market": "NYSE",
@@ -75609,12 +75597,6 @@
       "isEtf": true
     },
     {
-      "ticker": "UTZ",
-      "name": "Utz Brands Inc Class A",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
       "ticker": "UUP",
       "name": "Invesco DB USD Index Bullish Fund ETF",
       "market": "NYSE",
@@ -79175,6 +79157,12 @@
     {
       "ticker": "YLD",
       "name": "Principal Active High Yield ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "YLDS",
+      "name": "Harbor Arena Structured Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
