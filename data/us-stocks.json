@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-22T23:43:38.840Z",
-  "count": 13262,
+  "fetchedAt": "2026-11-24T04:01:09.557Z",
+  "count": 13277,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -1203,6 +1203,12 @@
       "isEtf": false
     },
     {
+      "ticker": "AIL",
+      "name": "GraniteShares 2x Long Anthropic Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "AIMD",
       "name": "Ainos, Inc.",
       "market": "NASDAQ",
@@ -2037,6 +2043,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ANS",
+      "name": "GraniteShares 2x Short Anthropic Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ANT",
       "name": "Anthropic, PBC - Class A",
       "market": "NASDAQ",
@@ -2049,10 +2061,46 @@
       "isEtf": false
     },
     {
+      "ticker": "ANTC",
+      "name": "Defiance 2X ANT Long Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTD",
+      "name": "Direxion Daily Anthropic Bear 2X ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTO",
+      "name": "Direxion Daily Anthropic Bull 2X ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTQ",
+      "name": "Defiance 2X ANT Short Daily ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTU",
+      "name": "ProShares Ultra Anthropic",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ANTX",
       "name": "AN2 Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "ANTY",
+      "name": "ProShares UltraShort Anthropic",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "ANV",
@@ -3135,6 +3183,12 @@
       "isEtf": true
     },
     {
+      "ticker": "AVZO",
+      "name": "Avenzo Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "AWRE",
       "name": "Aware, Inc.",
       "market": "NASDAQ",
@@ -4135,24 +4189,6 @@
       "name": "Global X Blockchain ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "BKHA",
-      "name": "Black Hawk Acquisition Corporation -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BKHAR",
-      "name": "Black Hawk Acquisition Corporation - Rights",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "BKHAU",
-      "name": "Black Hawk Acquisition Corporation - Units",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "BKMI",
@@ -6803,6 +6839,12 @@
     {
       "ticker": "CLWT",
       "name": "Euro Tech Holdings Company Limited -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "CLYD",
+      "name": "Clywedog Therapeutics Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -9669,6 +9711,12 @@
       "isEtf": true
     },
     {
+      "ticker": "ENHV",
+      "name": "iShares Enhanced Large Cap Value Active ETF",
+      "market": "NASDAQ",
+      "isEtf": true
+    },
+    {
       "ticker": "ENLT",
       "name": "Enlight Renewable Energy Ltd. -",
       "market": "NASDAQ",
@@ -10121,6 +10169,18 @@
     {
       "ticker": "EVRG",
       "name": "Evergy, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "EVRL",
+      "name": "Everli Global Holdings -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "EVRLW",
+      "name": "Everli Global Holdings - Warrant",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -18225,24 +18285,6 @@
       "isEtf": true
     },
     {
-      "ticker": "MACI",
-      "name": "Melar Acquisition Corp. I -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MACIU",
-      "name": "Melar Acquisition Corp. I - Unit",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "MACIW",
-      "name": "Melar Acquisition Corp. I - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "MAGH",
       "name": "Magnitude International Ltd -",
       "market": "NASDAQ",
@@ -25677,12 +25719,6 @@
       "isEtf": true
     },
     {
-      "ticker": "RKNG",
-      "name": "Defiance Retail Kings ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "RKTO",
       "name": "Rocket One Inc.",
       "market": "NASDAQ",
@@ -25697,12 +25733,6 @@
     {
       "ticker": "RLMD",
       "name": "Relmada Therapeutics, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "RLYB",
-      "name": "Rallybio Corporation",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31335,6 +31365,12 @@
       "isEtf": false
     },
     {
+      "ticker": "VESI",
+      "name": "Vesicor Therapeutics Holdings, Inc. -",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "VFF",
       "name": "Village Farms International, Inc. - Common Shares",
       "market": "NASDAQ",
@@ -35097,6 +35133,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ALLZ",
+      "name": "Zacks All-Cap Core ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ALRG",
       "name": "Allspring LT Large Core ETF",
       "market": "NYSE",
@@ -35439,6 +35481,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ANDD",
+      "name": "Leverage Shares 2X Short Anthropic Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ANDG",
       "name": "Andersen Group Inc. Class A",
       "market": "NYSE",
@@ -35481,8 +35529,32 @@
       "isEtf": false
     },
     {
+      "ticker": "ANSS",
+      "name": "Leverage Shares 1X Short Anthropic Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTT",
+      "name": "Tradr 2X Long Anthropic Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ANTW",
       "name": "Anthropic AI Lab Ecosystem ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANTZ",
+      "name": "Tradr 2X Short Anthropic Daily ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ANUU",
+      "name": "Leverage Shares 2X Long Anthropic Daily ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -36319,6 +36391,12 @@
       "name": "Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "ATHX",
+      "name": "2x Anthropic ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "ATI",
@@ -38266,25 +38344,19 @@
     },
     {
       "ticker": "BIP",
-      "name": "Brookfield Infrastructure Partners LP Limited Partnership Units",
+      "name": "Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares",
       "market": "NYSE",
       "isEtf": false
     },
     {
-      "ticker": "BIP$A",
+      "ticker": "BIPF$A",
       "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
       "market": "NYSE",
       "isEtf": false
     },
     {
-      "ticker": "BIP$B",
+      "ticker": "BIPF$B",
       "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
-      "market": "NYSE",
-      "isEtf": false
-    },
-    {
-      "ticker": "BIPC",
-      "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
       "market": "NYSE",
       "isEtf": false
     },
@@ -41155,6 +41227,12 @@
       "name": "Colgate-Palmolive Company",
       "market": "NYSE",
       "isEtf": false
+    },
+    {
+      "ticker": "CLAU",
+      "name": "T-REX 2X Long Anthropic Daily Target ETF",
+      "market": "NYSE",
+      "isEtf": true
     },
     {
       "ticker": "CLB",
@@ -44123,6 +44201,12 @@
     {
       "ticker": "DIV",
       "name": "Global X Super Dividend ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "DIVA",
+      "name": "AB Equity Income ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -71685,12 +71769,6 @@
       "isEtf": true
     },
     {
-      "ticker": "SROI",
-      "name": "Calamos Antetokounmpo Global Sustainable Equities ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "SRS",
       "name": "ProShares UltraShort Real Estate",
       "market": "NYSE",
@@ -79317,6 +79395,12 @@
       "isEtf": false
     },
     {
+      "ticker": "ZCAP",
+      "name": "Zacks Small-Cap Core ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "ZCBA",
       "name": "Global X Zero Coupon Bond 2030 ETF",
       "market": "NYSE",
@@ -79385,6 +79469,12 @@
     {
       "ticker": "ZECP",
       "name": "Zacks Earnings Consistent Portfolio ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "ZECX",
+      "name": "2x ZCSH ETF",
       "market": "NYSE",
       "isEtf": true
     },

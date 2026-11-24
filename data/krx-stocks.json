@@ -1,6 +1,6 @@
 {
-  "basDt": "20261119",
-  "fetchedAt": "2026-11-22T23:43:37.826Z",
+  "basDt": "20261123",
+  "fetchedAt": "2026-11-24T04:01:08.970Z",
   "count": 4588,
   "stocks": [
     {
@@ -13264,6 +13264,12 @@
       "kind": "stock"
     },
     {
+      "ticker": "271160",
+      "name": "하나에어로",
+      "market": "KOSDAQ",
+      "kind": "stock"
+    },
+    {
       "ticker": "271560",
       "name": "오리온",
       "market": "KOSPI",
@@ -15829,12 +15835,6 @@
       "ticker": "417200",
       "name": "LS머트리얼즈",
       "market": "KOSDAQ",
-      "kind": "stock"
-    },
-    {
-      "ticker": "417310",
-      "name": "코람코더원리츠",
-      "market": "KOSPI",
       "kind": "stock"
     },
     {
