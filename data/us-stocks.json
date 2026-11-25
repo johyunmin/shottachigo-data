@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-24T04:01:09.557Z",
-  "count": 13277,
+  "fetchedAt": "2026-11-25T02:42:57.746Z",
+  "count": 13274,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -7299,12 +7299,6 @@
       "isEtf": false
     },
     {
-      "ticker": "CPHY",
-      "name": "F/m Compoundr High Yield Bond ETF",
-      "market": "NASDAQ",
-      "isEtf": true
-    },
-    {
       "ticker": "CPIX",
       "name": "Cumberland Pharmaceuticals Inc.",
       "market": "NASDAQ",
@@ -9217,12 +9211,6 @@
       "name": "Global X E-commerce ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "EBMT",
-      "name": "Eagle Bancorp Montana, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "EBON",
@@ -15663,24 +15651,6 @@
       "isEtf": false
     },
     {
-      "ticker": "IPFX",
-      "name": "Inflection Point Acquisition Corp. VI -",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPFXU",
-      "name": "Inflection Point Acquisition Corp. VI - Units",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "IPFXW",
-      "name": "Inflection Point Acquisition Corp. VI - Warrant",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "IPGP",
       "name": "IPG Photonics Corporation",
       "market": "NASDAQ",
@@ -21561,6 +21531,12 @@
       "isEtf": false
     },
     {
+      "ticker": "OBMT",
+      "name": "Opportunity Bancorp, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "OBT",
       "name": "Orange County Bancorp, Inc.",
       "market": "NASDAQ",
@@ -25159,12 +25135,6 @@
       "name": "Red Cat Holdings, Inc.",
       "market": "NASDAQ",
       "isEtf": false
-    },
-    {
-      "ticker": "RCAX",
-      "name": "Defiance Daily Target 2x Long RCAT ETF",
-      "market": "NASDAQ",
-      "isEtf": true
     },
     {
       "ticker": "RCBC",
@@ -41943,12 +41913,6 @@
       "isEtf": true
     },
     {
-      "ticker": "COPZ",
-      "name": "Defiance Daily Target 2X Long Copper Miners ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
       "ticker": "COR",
       "name": "Cencora, Inc.",
       "market": "NYSE",
@@ -55149,6 +55113,12 @@
       "isEtf": true
     },
     {
+      "ticker": "IVEA",
+      "name": "Dan IVES Wedbush AI Autocallable Income ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
       "ticker": "IVEP",
       "name": "Dan IVES Wedbush AI Power & Infrastructure ETF",
       "market": "NYSE",
@@ -56753,12 +56723,6 @@
     {
       "ticker": "KDVD",
       "name": "Keeley Dividend ETF",
-      "market": "NYSE",
-      "isEtf": true
-    },
-    {
-      "ticker": "KEEX",
-      "name": "Defiance Daily Target 2x Long KEEL ETF",
       "market": "NYSE",
       "isEtf": true
     },
@@ -66853,6 +66817,18 @@
       "name": "Invesco Galaxy Solana ETF",
       "market": "NYSE",
       "isEtf": true
+    },
+    {
+      "ticker": "QSPC",
+      "name": "Quantum Space, Inc. Class A-1",
+      "market": "NYSE",
+      "isEtf": false
+    },
+    {
+      "ticker": "QSPC.W",
+      "name": "Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share",
+      "market": "NYSE",
+      "isEtf": false
     },
     {
       "ticker": "QSPT",
@@ -79103,6 +79079,12 @@
     {
       "ticker": "YANG",
       "name": "Direxion Daily FTSE China Bear 3X ETF",
+      "market": "NYSE",
+      "isEtf": true
+    },
+    {
+      "ticker": "YANT",
+      "name": "YieldMax ANT Option Income Strategy ETF",
       "market": "NYSE",
       "isEtf": true
     },
