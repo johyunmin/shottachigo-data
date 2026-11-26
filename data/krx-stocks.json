@@ -1,7 +1,7 @@
 {
-  "basDt": "20261124",
-  "fetchedAt": "2026-11-25T02:42:57.107Z",
-  "count": 4591,
+  "basDt": "20261125",
+  "fetchedAt": "2026-11-26T01:53:53.589Z",
+  "count": 4590,
   "stocks": [
     {
       "ticker": "900110",
@@ -18132,12 +18132,6 @@
     {
       "ticker": "0120J0",
       "name": "BNK 카카오그룹포커스",
-      "market": "KOSPI",
-      "kind": "etf"
-    },
-    {
-      "ticker": "0122W0",
-      "name": "RISE 26-11 회사채(AA-이상)액티브",
       "market": "KOSPI",
       "kind": "etf"
     },

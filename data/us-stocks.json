@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T02:42:57.746Z",
+  "fetchedAt": "2026-11-26T01:53:54.305Z",
   "count": 13274,
   "stocks": [
     {
@@ -3825,6 +3825,12 @@
       "isEtf": false
     },
     {
+      "ticker": "BFLR",
+      "name": "BlueFlare, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "BFLX",
       "name": "iShares Flexible Equity Active ETF",
       "market": "NASDAQ",
@@ -7297,6 +7303,12 @@
       "name": "Canterbury Park Holding Corporation",
       "market": "NASDAQ",
       "isEtf": false
+    },
+    {
+      "ticker": "CPHY",
+      "name": "F/m Compoundr High Yield Bond ETF",
+      "market": "NASDAQ",
+      "isEtf": true
     },
     {
       "ticker": "CPIX",
@@ -11359,12 +11371,6 @@
       "name": "Fidelity Systematic Municipal Bond Index ETF",
       "market": "NASDAQ",
       "isEtf": true
-    },
-    {
-      "ticker": "FNGR",
-      "name": "FingerMotion, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
     },
     {
       "ticker": "FNK",
@@ -22647,12 +22653,6 @@
       "isEtf": false
     },
     {
-      "ticker": "PASG",
-      "name": "Passage Bio, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "PASW",
       "name": "Ping An Biomedical Co., Ltd. -",
       "market": "NASDAQ",
@@ -25779,6 +25779,12 @@
       "isEtf": false
     },
     {
+      "ticker": "RMTX",
+      "name": "Remix Therapeutics, Inc.",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
       "ticker": "RNA",
       "name": "Atrium Therapeutics, Inc.",
       "market": "NASDAQ",
@@ -26309,12 +26315,6 @@
     {
       "ticker": "SAFT",
       "name": "Safety Insurance Group, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "SAFX",
-      "name": "XCF Global, Inc. - Class A",
       "market": "NASDAQ",
       "isEtf": false
     },
