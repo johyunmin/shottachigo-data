@@ -1,7 +1,7 @@
 {
-  "basDt": "20261125",
-  "fetchedAt": "2026-11-26T01:53:53.589Z",
-  "count": 4590,
+  "basDt": "20261126",
+  "fetchedAt": "2026-11-27T01:51:56.099Z",
+  "count": 4581,
   "stocks": [
     {
       "ticker": "900110",
@@ -12233,7 +12233,7 @@
     },
     {
       "ticker": "223310",
-      "name": "사토시홀딩스",
+      "name": "한국첨단솔루션",
       "market": "KOSDAQ",
       "kind": "stock"
     },
@@ -24610,18 +24610,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "520046",
-      "name": "미래에셋 레버리지 옥수수 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "520047",
-      "name": "미래에셋 인버스 2X 옥수수 선물 ETN",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "520054",
       "name": "미래에셋 레버리지 코스피200 선물 ETN",
       "market": "KOSPI",
@@ -25954,24 +25942,6 @@
       "kind": "etn"
     },
     {
-      "ticker": "610034",
-      "name": "메리츠 대표 농산물 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610035",
-      "name": "메리츠 레버리지 대표 농산물 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "610036",
-      "name": "메리츠 인버스 2X 대표 농산물 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
       "ticker": "610037",
       "name": "메리츠 미국채30년 ETN(H)",
       "market": "KOSPI",
@@ -26364,30 +26334,6 @@
     {
       "ticker": "610118",
       "name": "메리츠 인버스2X 대표농산물 선물 ETN(H) B",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "700011",
-      "name": "하나 레버리지 옥수수 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "700012",
-      "name": "하나 인버스 2X 옥수수 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "700013",
-      "name": "하나 레버리지 콩 선물 ETN(H)",
-      "market": "KOSPI",
-      "kind": "etn"
-    },
-    {
-      "ticker": "700014",
-      "name": "하나 인버스 2X 콩 선물 ETN(H)",
       "market": "KOSPI",
       "kind": "etn"
     },
