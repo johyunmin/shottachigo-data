@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-27T01:51:56.711Z",
-  "count": 13274,
+  "fetchedAt": "2026-11-28T01:33:45.475Z",
+  "count": 13273,
   "stocks": [
     {
       "ticker": "AAAP",
@@ -13096,7 +13096,7 @@
     },
     {
       "ticker": "GRDX",
-      "name": "GridAI Technologies Corp.",
+      "name": "GridAI Power Corp.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -13749,12 +13749,6 @@
       "isEtf": false
     },
     {
-      "ticker": "HCTI",
-      "name": "Healthcare Triangle, Inc.",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
       "ticker": "HCWB",
       "name": "HCW Biologics Inc.",
       "market": "NASDAQ",
@@ -14315,6 +14309,12 @@
     {
       "ticker": "HTO",
       "name": "H2O America",
+      "market": "NASDAQ",
+      "isEtf": false
+    },
+    {
+      "ticker": "HTOEU",
+      "name": "H2O America  - Equity Units",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -26956,7 +26956,7 @@
     },
     {
       "ticker": "SGLY",
-      "name": "Singularity Future Technology Ltd.",
+      "name": "Compower Ltd.",
       "market": "NASDAQ",
       "isEtf": false
     },
@@ -31949,12 +31949,6 @@
     {
       "ticker": "VUZI",
       "name": "Vuzix Corporation",
-      "market": "NASDAQ",
-      "isEtf": false
-    },
-    {
-      "ticker": "VVOS",
-      "name": "Vivos Therapeutics, Inc.",
       "market": "NASDAQ",
       "isEtf": false
     },
